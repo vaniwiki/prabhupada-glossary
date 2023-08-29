@@ -1,16 +1,13 @@
-~~bc:Glossary~~
-~~Title:Glossary~~
-
-{{description>A glossary, also known as a vocabulary or clavis, is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms. Traditionally, a glossary appears at the end of a book and includes terms within that book that are either newly introduced, uncommon, or specialized.}}
+---json
+{
+    "name":"Glossary",
+    "canonical":"glossary",
+    "title":"This is the quick reference glossary.",
+    "description":"A glossary, also known as a vocabulary or clavis, is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms. Traditionally, a glossary appears at the end of a book and includes terms within that book that are either newly introduced, uncommon, or specialized."
+}
+---
 
 ====== Glossary ======
-
-<blockquote>
-A glossary, also known as a vocabulary or clavis, is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms. Traditionally, a glossary appears at the end of a book and includes terms within that book that are either newly introduced, uncommon, or specialized.
-<cite>[[wp>Glossary|Wikipedia]]</cite>
-</blockquote>
-
-<div lo>
 
 ===== A =====
 
@@ -2668,6 +2665,3 @@ A glossary, also known as a vocabulary or clavis, is an alphabetical list of ter
 ===== Z =====
 
 [[glossary/z#Zamindār|Zamindār]]
-
-
-</div>
