@@ -1,6 +1,8 @@
 ---json
+{
     "name":"Glossary A",
     "description":"A.C. Bhaktivedanta Swami Prabhupāda, Abduction, Absolute, Ābhāsa, Abhaya, Abhidheya, Abhimanyu, Abhiṣeka, Absolute Truth, Acala, Ācamana, Ācārya, Acchha, Acintya-bhedābheda-tattva, Acintya-śakti, Acintya, Acit, Acyutāyus, Acyuta, Adbhuta-rasa, Ādeśa-kārī, Adhama paḍuyās, Adhama, Adharma, Adhīra, Ādhibhautika-kleśa, Adhibhautika, Adhibhūtam, Adhidaivatam, Adhidaivic powers, Ādhidaivika-kleśa, Adhidaivika, Adhikārī, Adhiratha, Adhirūḍha, Adhiyajña, Adhokṣaja, Ādhyātmika, Adhyātma-cetasā, Adhyātmika, ..."
+}
 ---
 
 ====== Glossary A ======
