@@ -1,2673 +1,2667 @@
-~~bc:Glossary~~
-~~Title:Glossary~~
-
-{{description>A glossary, also known as a vocabulary or clavis, is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms. Traditionally, a glossary appears at the end of a book and includes terms within that book that are either newly introduced, uncommon, or specialized.}}
+---json
+{
+    "name":"Glossary",
+    "canonical":"glossary",
+    "title":"This is the quick reference glossary.",
+    "description":"A glossary, also known as a vocabulary or clavis, is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms. Traditionally, a glossary appears at the end of a book and includes terms within that book that are either newly introduced, uncommon, or specialized."
+}
+---
 
 ====== Glossary ======
 
-<blockquote>
-A glossary, also known as a vocabulary or clavis, is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms. Traditionally, a glossary appears at the end of a book and includes terms within that book that are either newly introduced, uncommon, or specialized.
-<cite>[[wp>Glossary|Wikipedia]]</cite>
-</blockquote>
-
-<div lo>
-
 ===== A =====
 
-[[glossary/a#A.C. Bhaktivedanta Swami Prabhupāda]] ·
-[[glossary/a#Abduction]] ·
-[[glossary/a#Absolute]] ·
-[[glossary/a#Ābhāsa]] ·
-[[glossary/a#Abhaya]] ·
-[[glossary/a#Abhidheya]] ·
-[[glossary/a#Abhimanyu]] ·
-[[glossary/a#Abhiṣeka]] ·
-[[glossary/a#Absolute Truth]] ·
-[[glossary/a#Acala]] ·
-[[glossary/a#Ācamana]] ·
-[[glossary/a#Ācārya]] ·
-[[glossary/a#Acchha]] ·
-[[glossary/a#Acintya-bhedābheda-tattva]] ·
-[[glossary/a#Acintya-śakti]] ·
-[[glossary/a#Acintya]] ·
-[[glossary/a#Acit]] ·
-[[glossary/a#Acyutāyus]] ·
-[[glossary/a#Acyuta]] ·
-[[glossary/a#Adbhuta-rasa]] ·
-[[glossary/a#Ādeśa-kārī]] ·
-[[glossary/a#Adhama paḍuyās]] ·
-[[glossary/a#Adhama]] ·
-[[glossary/a#Adharma]] ·
-[[glossary/a#Adhīra]] ·
-[[glossary/a#Ādhibhautika-kleśa]] ·
-[[glossary/a#Adhibhautika]] ·
-[[glossary/a#Adhibhūtam]] ·
-[[glossary/a#Adhidaivatam]] ·
-[[glossary/a#Adhidaivic powers]] ·
-[[glossary/a#Ādhidaivika-kleśa]] ·
-[[glossary/a#Adhidaivika]] ·
-[[glossary/a#Adhikārī]] ·
-[[glossary/a#Adhiratha]] ·
-[[glossary/a#Adhirūḍha]] ·
-[[glossary/a#Adhiyajña]] ·
-[[glossary/a#Adhokṣaja]] ·
-[[glossary/a#Ādhyātmika]] ·
-[[glossary/a#Adhyātma-cetasā]] ·
-[[glossary/a#Adhyātmika]] ·
-[[glossary/a#Ādi-līlā]] ·
-[[glossary/a#Ādi-puruṣa]] ·
-[[glossary/a#Aditi]] ·
-[[glossary/a#Ādityas]] ·
-[[glossary/a#Advaita Prabhu]] ·
-[[glossary/a#Advaita-siddhānta]] ·
-[[glossary/a#Advaita-vāda]] ·
-[[glossary/a#Advaita-vādīs]] ·
-[[glossary/a#Advaitācārya]] ·
-[[glossary/a#Advaitin]] ·
-[[glossary/a#Advaita]] ·
-[[glossary/a#Āgamas]] ·
-[[glossary/a#Agastya]] ·
-[[glossary/a#Agastya Muni]] ·
-[[glossary/a#Aghana]] ·
-[[glossary/a#Āgneyāstra]] ·
-[[glossary/a#Agnihotra-yajña]] ·
-[[glossary/a#Agnistoma]] ·
-[[glossary/a#Agni]] ·
-[[glossary/a#Agrahāyaṇa]] ·
-[[glossary/a#Ahaitukī]] ·
-[[glossary/a#Ahaitukī-kṛpā]] ·
-[[glossary/a#Ahaṁ brahmāsmi]] ·
-[[glossary/a#Ahaṁ māmeti]] ·
-[[glossary/a#Ahaṅgraha-upāsanā]] ·
-[[glossary/a#Ahaṅkāra]] ·
-[[glossary/a#Āhlāda]] ·
-[[glossary/a#Ahiṁsā]] ·
-[[glossary/a#Aiśvarya-jñāna-yukta]] ·
-[[glossary/a#Aiśvarya-līlā]] ·
-[[glossary/a#Aja]] ·
-[[glossary/a#Ājagara-vṛtti]] ·
-[[glossary/a#Ajāmila]] ·
-[[glossary/a#Ajam]] ·
-[[glossary/a#Ajita]] ·
-[[glossary/a#Ajñāta-sukṛti]] ·
-[[glossary/a#Ajña]] ·
-[[glossary/a#Akāma-bhakta]] ·
-[[glossary/a#Akarma (naiskarma)]] ·
-[[glossary/a#Ākāśa]] ·
-[[glossary/a#Akhila-rasāmṛta-mūrti]] ·
-[[glossary/a#Akiñcana-gocara]] ·
-[[glossary/a#Akiñcana]] ·
-[[glossary/a#Akrūra]] ·
-[[glossary/a#Akṣauhiṇī]] ·
-[[glossary/a#Ākūti]] ·
-[[glossary/a#Alakāpurī]] ·
-[[glossary/a#Alambuṣa]] ·
-[[glossary/a#Ālasya]] ·
-[[glossary/a#Alāyudha]] ·
-[[glossary/a#Alolupa]] ·
-[[glossary/a#Alu]] ·
-[[glossary/a#Alwars]] ·
-[[glossary/a#Āmalakī]] ·
-[[glossary/a#Āmānī]] ·
-[[glossary/a#Amarakośa]] ·
-[[glossary/a#Amarāvatī]] ·
-[[glossary/a#Amarṣa]] ·
-[[glossary/a#Amātya]] ·
-[[glossary/a#Amāvasyā]] ·
-[[glossary/a#Ambālikā]] ·
-[[glossary/a#Ambarīṣa Mahārāja]] ·
-[[glossary/a#Ambā]] ·
-[[glossary/a#Ambikā]] ·
-[[glossary/a#Amṛtatva]] ·
-[[glossary/a#Amṛta]] ·
-[[glossary/a#Aṁśāveśa]] ·
-[[glossary/a#Aṁśa]] ·
-[[glossary/a#Āmukha]] ·
-[[glossary/a#Angrezi]] ·
-[[glossary/a#Atma-hanah]] ·
-[[glossary/a#Anādi]] ·
-[[glossary/a#Analysis]] ·
-[[glossary/a#Anamra]] ·
-[[glossary/a#Ānandamaya]] ·
-[[glossary/a#Ānanda]] ·
-[[glossary/a#Ananta-caturdaśī]] ·
-[[glossary/a#Ananta-Śeṣa]] ·
-[[glossary/a#Anantavijaya]] ·
-[[glossary/a#Ananta]] ·
-[[glossary/a#Anapekṣa]] ·
-[[glossary/a#Anaranya]] ·
-[[glossary/a#Anartha-nivṛtti]] ·
-[[glossary/a#Anavasara]] ·
-[[glossary/a#Āṇdal]] ·
-[[glossary/a#Aṅga Mahārāja]] ·
-[[glossary/a#Aṅga-rāga]] ·
-[[glossary/a#Aṅgirā Ṛṣi]] ·
-[[glossary/a#Anilāyāma]] ·
-[[glossary/a#Aṇimā-siddhi]] ·
-[[glossary/a#Aniruddha]] ·
-[[glossary/a#Anna-prāśana]] ·
-[[glossary/a#Annamaya]] ·
-[[glossary/a#Annapurna]] ·
-[[glossary/a#Anna]] ·
-[[glossary/a#Antaraṅga-sevā]] ·
-[[glossary/a#Antardhāna]] ·
-[[glossary/a#Antarikṣa]] ·
-[[glossary/a#Antaryāmī]] ·
-[[glossary/a#Anthropomorphism]] ·
-[[glossary/a#Antya-līlā]] ·
-[[glossary/a#Antyajas]] ·
-[[glossary/a#Aṇu-atma]] ·
-[[glossary/a#Anubhāva]] ·
-[[glossary/a#Anukara]] ·
-[[glossary/a#Anumāna]] ·
-[[glossary/a#Anurāga]] ·
-[[glossary/a#Anurasa]] ·
-[[glossary/a#Anusara]] ·
-[[glossary/a#Anusūyā]] ·
-[[glossary/a#Anuvinda]] ·
-[[glossary/a#Apāna-vāyu]] ·
-[[glossary/a#Aparā prakṛti]] ·
-[[glossary/a#Apara-vidyā]] ·
-[[glossary/a#Aparādha]] ·
-[[glossary/a#Aparājita]] ·
-[[glossary/a#Aparasa]] ·
-[[glossary/a#Aparokṣa]] ·
-[[glossary/a#Apasmāra]] ·
-[[glossary/a#Apauruṣeya]] ·
-[[glossary/a#Apavarga]] ·
-[[glossary/a#Apavitra-anna]] ·
-[[glossary/a#Aprakaṭa-līlā]] ·
-[[glossary/a#Aprākṛta]] ·
-[[glossary/a#Aprameya]] ·
-[[glossary/a#Apratihatā]] ·
-[[glossary/a#Apsarā]] ·
-[[glossary/a#Ārati]] ·
-[[glossary/a#Aravindakṣa]] ·
-[[glossary/a#Arcā-mūrti]] ·
-[[glossary/a#Arcā-vigraha]] ·
-[[glossary/a#Arcana]] ·
-[[glossary/a#Arcana naturae (Lat.)]] ·
-[[glossary/a#Arci]] ·
-[[glossary/a#Arbuda-arbuda]] ·
-[[glossary/a#Ardha-bāhya]] ·
-[[glossary/a#Arghya]] ·
-[[glossary/a#Ari]] ·
-[[glossary/a#Ariṣṭāsura]] ·
-[[glossary/a#Aristotle]] ·
-[[glossary/a#Arjama]] ·
-[[glossary/a#Ārjava]] ·
-[[glossary/a#Arjuna]] ·
-[[glossary/a#Artha]] ·
-[[glossary/a#Aruṇa gems]] ·
-[[glossary/a#Aryamā]] ·
-[[glossary/a#Aryan]] ·
-[[glossary/a#Asamanya]] ·
-[[glossary/a#Asaṁskṛta]] ·
-[[glossary/a#Asāṅga]] ·
-[[glossary/a#Āsana]] ·
-[[glossary/a#Asat-saṅga]] ·
-[[glossary/a#Asat]] ·
-[[glossary/a#Ashoka]] ·
-[[glossary/a#Asita]] ·
-[[glossary/a#Aśoka]] ·
-[[glossary/a#Āśrama]] ·
-[[glossary/a#Āśraya-vigraha]] ·
-[[glossary/a#Āśraya]] ·
-[[glossary/a#Aṣtavakra]] ·
-[[glossary/a#Aṣṭa-siddhis]] ·
-[[glossary/a#Aṣṭāṅga-yoga]] ·
-[[glossary/a#Aṣṭakā]] ·
-[[glossary/a#Aṣṭānga-yoga]] ·
-[[glossary/a#Aṣṭāvakra]] ·
-[[glossary/a#Asuraṁ bhavam āśrita]] ·
-[[glossary/a#Asura]] ·
-[[glossary/a#Āśutoṣa]] ·
-[[glossary/a#Asūyā]] ·
-[[glossary/a#Aśvamedha-yajña]] ·
-[[glossary/a#Aṣvatthāmā]] ·
-[[glossary/a#Āśvina]] ·
-[[glossary/a#Aśvinī deities]] ·
-[[glossary/a#Aśvinīkumāras]] ·
-[[glossary/a#Atattva-jña]] ·
-[[glossary/a#Atharva Veda]] ·
-[[glossary/a#Atheism]] ·
-[[glossary/a#Authoritarianism]] ·
-[[glossary/a#Atibāri-sampradāya]] ·
-[[glossary/a#Ātma-nivedana]] ·
-[[glossary/a#Ātma-samarpaṇa]] ·
-[[glossary/a#Ātma-tattva]] ·
-[[glossary/a#Ātmārāma]] ·
-[[glossary/a#Ātmā]] ·
-[[glossary/a#Atri Ṛṣi]] ·
-[[glossary/a#Augrya]] ·
-[[glossary/a#Autsukya]] ·
-[[glossary/a#Avadhūta]] ·
-[[glossary/a#Avadhūta]] ·
-[[glossary/a#Avahitthā]] ·
-[[glossary/a#Avaiṣṇava]] ·
-[[glossary/a#Āvaraṇātmikā]] ·
-[[glossary/a#Avara]] ·
-[[glossary/a#Avaroha-panthā]] ·
-[[glossary/a#Avatāra]] ·
-[[glossary/a#Āvega]] ·
-[[glossary/a#Āveśa-avatāra]] ·
-[[glossary/a#Āveśa]] ·
-[[glossary/a#Avidhi-pūrvaka]] ·
-[[glossary/a#Avidyā-śakti]] ·
-[[glossary/a#Avidyā]] ·
-[[glossary/a#Avyakta]] ·
-[[glossary/a#Ayer, A.J.]] ·
-[[glossary/a#Ayodya]] ·
-[[glossary/a#Ayoga]] ·
-[[glossary/a#Ayukta]] ·
-[[glossary/a#Āyurveda]]
+[[glossary/a#A.C. Bhaktivedanta Swami Prabhupāda|A.C. Bhaktivedanta Swami Prabhupāda]] ·
+[[glossary/a#Abduction|Abduction]] ·
+[[glossary/a#Absolute|Absolute]] ·
+[[glossary/a#Ābhāsa|Ābhāsa]] ·
+[[glossary/a#Abhaya|Abhaya]] ·
+[[glossary/a#Abhidheya|Abhidheya]] ·
+[[glossary/a#Abhimanyu|Abhimanyu]] ·
+[[glossary/a#Abhiṣeka|Abhiṣeka]] ·
+[[glossary/a#Absolute Truth|Absolute Truth]] ·
+[[glossary/a#Acala|Acala]] ·
+[[glossary/a#Ācamana|Ācamana]] ·
+[[glossary/a#Ācārya|Ācārya]] ·
+[[glossary/a#Acchha|Acchha]] ·
+[[glossary/a#Acintya-bhedābheda-tattva|Acintya-bhedābheda-tattva]] ·
+[[glossary/a#Acintya-śakti|Acintya-śakti]] ·
+[[glossary/a#Acintya|Acintya]] ·
+[[glossary/a#Acit|Acit]] ·
+[[glossary/a#Acyutāyus|Acyutāyus]] ·
+[[glossary/a#Acyuta|Acyuta]] ·
+[[glossary/a#Adbhuta-rasa|Adbhuta-rasa]] ·
+[[glossary/a#Ādeśa-kārī|Ādeśa-kārī]] ·
+[[glossary/a#Adhama paḍuyās|Adhama paḍuyās]] ·
+[[glossary/a#Adhama|Adhama]] ·
+[[glossary/a#Adharma|Adharma]] ·
+[[glossary/a#Adhīra|Adhīra]] ·
+[[glossary/a#Ādhibhautika-kleśa|Ādhibhautika-kleśa]] ·
+[[glossary/a#Adhibhautika|Adhibhautika]] ·
+[[glossary/a#Adhibhūtam|Adhibhūtam]] ·
+[[glossary/a#Adhidaivatam|Adhidaivatam]] ·
+[[glossary/a#Adhidaivic powers|Adhidaivic powers]] ·
+[[glossary/a#Ādhidaivika-kleśa|Ādhidaivika-kleśa]] ·
+[[glossary/a#Adhidaivika|Adhidaivika]] ·
+[[glossary/a#Adhikārī|Adhikārī]] ·
+[[glossary/a#Adhiratha|Adhiratha]] ·
+[[glossary/a#Adhirūḍha|Adhirūḍha]] ·
+[[glossary/a#Adhiyajña|Adhiyajña]] ·
+[[glossary/a#Adhokṣaja|Adhokṣaja]] ·
+[[glossary/a#Ādhyātmika|Ādhyātmika]] ·
+[[glossary/a#Adhyātma-cetasā|Adhyātma-cetasā]] ·
+[[glossary/a#Adhyātmika|Adhyātmika]] ·
+[[glossary/a#Ādi-līlā|Ādi-līlā]] ·
+[[glossary/a#Ādi-puruṣa|Ādi-puruṣa]] ·
+[[glossary/a#Aditi|Aditi]] ·
+[[glossary/a#Ādityas|Ādityas]] ·
+[[glossary/a#Advaita Prabhu|Advaita Prabhu]] ·
+[[glossary/a#Advaita-siddhānta|Advaita-siddhānta]] ·
+[[glossary/a#Advaita-vāda|Advaita-vāda]] ·
+[[glossary/a#Advaita-vādīs|Advaita-vādīs]] ·
+[[glossary/a#Advaitācārya|Advaitācārya]] ·
+[[glossary/a#Advaitin|Advaitin]] ·
+[[glossary/a#Advaita|Advaita]] ·
+[[glossary/a#Āgamas|Āgamas]] ·
+[[glossary/a#Agastya|Agastya]] ·
+[[glossary/a#Agastya Muni|Agastya Muni]] ·
+[[glossary/a#Aghana|Aghana]] ·
+[[glossary/a#Āgneyāstra|Āgneyāstra]] ·
+[[glossary/a#Agnihotra-yajña|Agnihotra-yajña]] ·
+[[glossary/a#Agnistoma|Agnistoma]] ·
+[[glossary/a#Agni|Agni]] ·
+[[glossary/a#Agrahāyaṇa|Agrahāyaṇa]] ·
+[[glossary/a#Ahaitukī|Ahaitukī]] ·
+[[glossary/a#Ahaitukī-kṛpā|Ahaitukī-kṛpā]] ·
+[[glossary/a#Ahaṁ brahmāsmi|Ahaṁ brahmāsmi]] ·
+[[glossary/a#Ahaṁ māmeti|Ahaṁ māmeti]] ·
+[[glossary/a#Ahaṅgraha-upāsanā|Ahaṅgraha-upāsanā]] ·
+[[glossary/a#Ahaṅkāra|Ahaṅkāra]] ·
+[[glossary/a#Āhlāda|Āhlāda]] ·
+[[glossary/a#Ahiṁsā|Ahiṁsā]] ·
+[[glossary/a#Aiśvarya-jñāna-yukta|Aiśvarya-jñāna-yukta]] ·
+[[glossary/a#Aiśvarya-līlā|Aiśvarya-līlā]] ·
+[[glossary/a#Aja|Aja]] ·
+[[glossary/a#Ājagara-vṛtti|Ājagara-vṛtti]] ·
+[[glossary/a#Ajāmila|Ajāmila]] ·
+[[glossary/a#Ajam|Ajam]] ·
+[[glossary/a#Ajita|Ajita]] ·
+[[glossary/a#Ajñāta-sukṛti|Ajñāta-sukṛti]] ·
+[[glossary/a#Ajña|Ajña]] ·
+[[glossary/a#Akāma-bhakta|Akāma-bhakta]] ·
+[[glossary/a#Akarma (naiskarma)|Akarma (naiskarma)]] ·
+[[glossary/a#Ākāśa|Ākāśa]] ·
+[[glossary/a#Akhila-rasāmṛta-mūrti|Akhila-rasāmṛta-mūrti]] ·
+[[glossary/a#Akiñcana-gocara|Akiñcana-gocara]] ·
+[[glossary/a#Akiñcana|Akiñcana]] ·
+[[glossary/a#Akrūra|Akrūra]] ·
+[[glossary/a#Akṣauhiṇī|Akṣauhiṇī]] ·
+[[glossary/a#Ākūti|Ākūti]] ·
+[[glossary/a#Alakāpurī|Alakāpurī]] ·
+[[glossary/a#Alambuṣa|Alambuṣa]] ·
+[[glossary/a#Ālasya|Ālasya]] ·
+[[glossary/a#Alāyudha|Alāyudha]] ·
+[[glossary/a#Alolupa|Alolupa]] ·
+[[glossary/a#Alu|Alu]] ·
+[[glossary/a#Alwars|Alwars]] ·
+[[glossary/a#Āmalakī|Āmalakī]] ·
+[[glossary/a#Āmānī|Āmānī]] ·
+[[glossary/a#Amarakośa|Amarakośa]] ·
+[[glossary/a#Amarāvatī|Amarāvatī]] ·
+[[glossary/a#Amarṣa|Amarṣa]] ·
+[[glossary/a#Amātya|Amātya]] ·
+[[glossary/a#Amāvasyā|Amāvasyā]] ·
+[[glossary/a#Ambālikā|Ambālikā]] ·
+[[glossary/a#Ambarīṣa Mahārāja|Ambarīṣa Mahārāja]] ·
+[[glossary/a#Ambā|Ambā]] ·
+[[glossary/a#Ambikā|Ambikā]] ·
+[[glossary/a#Amṛtatva|Amṛtatva]] ·
+[[glossary/a#Amṛta|Amṛta]] ·
+[[glossary/a#Aṁśāveśa|Aṁśāveśa]] ·
+[[glossary/a#Aṁśa|Aṁśa]] ·
+[[glossary/a#Āmukha|Āmukha]] ·
+[[glossary/a#Angrezi|Angrezi]] ·
+[[glossary/a#Atma-hanah|Atma-hanah]] ·
+[[glossary/a#Anādi|Anādi]] ·
+[[glossary/a#Analysis|Analysis]] ·
+[[glossary/a#Anamra|Anamra]] ·
+[[glossary/a#Ānandamaya|Ānandamaya]] ·
+[[glossary/a#Ānanda|Ānanda]] ·
+[[glossary/a#Ananta-caturdaśī|Ananta-caturdaśī]] ·
+[[glossary/a#Ananta-Śeṣa|Ananta-Śeṣa]] ·
+[[glossary/a#Anantavijaya|Anantavijaya]] ·
+[[glossary/a#Ananta|Ananta]] ·
+[[glossary/a#Anapekṣa|Anapekṣa]] ·
+[[glossary/a#Anaranya|Anaranya]] ·
+[[glossary/a#Anartha-nivṛtti|Anartha-nivṛtti]] ·
+[[glossary/a#Anavasara|Anavasara]] ·
+[[glossary/a#Āṇdal|Āṇdal]] ·
+[[glossary/a#Aṅga Mahārāja|Aṅga Mahārāja]] ·
+[[glossary/a#Aṅga-rāga|Aṅga-rāga]] ·
+[[glossary/a#Aṅgirā Ṛṣi|Aṅgirā Ṛṣi]] ·
+[[glossary/a#Anilāyāma|Anilāyāma]] ·
+[[glossary/a#Aṇimā-siddhi|Aṇimā-siddhi]] ·
+[[glossary/a#Aniruddha|Aniruddha]] ·
+[[glossary/a#Anna-prāśana|Anna-prāśana]] ·
+[[glossary/a#Annamaya|Annamaya]] ·
+[[glossary/a#Annapurna|Annapurna]] ·
+[[glossary/a#Anna|Anna]] ·
+[[glossary/a#Antaraṅga-sevā|Antaraṅga-sevā]] ·
+[[glossary/a#Antardhāna|Antardhāna]] ·
+[[glossary/a#Antarikṣa|Antarikṣa]] ·
+[[glossary/a#Antaryāmī|Antaryāmī]] ·
+[[glossary/a#Anthropomorphism|Anthropomorphism]] ·
+[[glossary/a#Antya-līlā|Antya-līlā]] ·
+[[glossary/a#Antyajas|Antyajas]] ·
+[[glossary/a#Aṇu-atma|Aṇu-atma]] ·
+[[glossary/a#Anubhāva|Anubhāva]] ·
+[[glossary/a#Anukara|Anukara]] ·
+[[glossary/a#Anumāna|Anumāna]] ·
+[[glossary/a#Anurāga|Anurāga]] ·
+[[glossary/a#Anurasa|Anurasa]] ·
+[[glossary/a#Anusara|Anusara]] ·
+[[glossary/a#Anusūyā|Anusūyā]] ·
+[[glossary/a#Anuvinda|Anuvinda]] ·
+[[glossary/a#Apāna-vāyu|Apāna-vāyu]] ·
+[[glossary/a#Aparā prakṛti|Aparā prakṛti]] ·
+[[glossary/a#Apara-vidyā|Apara-vidyā]] ·
+[[glossary/a#Aparādha|Aparādha]] ·
+[[glossary/a#Aparājita|Aparājita]] ·
+[[glossary/a#Aparasa|Aparasa]] ·
+[[glossary/a#Aparokṣa|Aparokṣa]] ·
+[[glossary/a#Apasmāra|Apasmāra]] ·
+[[glossary/a#Apauruṣeya|Apauruṣeya]] ·
+[[glossary/a#Apavarga|Apavarga]] ·
+[[glossary/a#Apavitra-anna|Apavitra-anna]] ·
+[[glossary/a#Aprakaṭa-līlā|Aprakaṭa-līlā]] ·
+[[glossary/a#Aprākṛta|Aprākṛta]] ·
+[[glossary/a#Aprameya|Aprameya]] ·
+[[glossary/a#Apratihatā|Apratihatā]] ·
+[[glossary/a#Apsarā|Apsarā]] ·
+[[glossary/a#Ārati|Ārati]] ·
+[[glossary/a#Aravindakṣa|Aravindakṣa]] ·
+[[glossary/a#Arcā-mūrti|Arcā-mūrti]] ·
+[[glossary/a#Arcā-vigraha|Arcā-vigraha]] ·
+[[glossary/a#Arcana|Arcana]] ·
+[[glossary/a#Arcana naturae (Lat.)|Arcana naturae (Lat.)]] ·
+[[glossary/a#Arci|Arci]] ·
+[[glossary/a#Arbuda-arbuda|Arbuda-arbuda]] ·
+[[glossary/a#Ardha-bāhya|Ardha-bāhya]] ·
+[[glossary/a#Arghya|Arghya]] ·
+[[glossary/a#Ari|Ari]] ·
+[[glossary/a#Ariṣṭāsura|Ariṣṭāsura]] ·
+[[glossary/a#Aristotle|Aristotle]] ·
+[[glossary/a#Arjama|Arjama]] ·
+[[glossary/a#Ārjava|Ārjava]] ·
+[[glossary/a#Arjuna|Arjuna]] ·
+[[glossary/a#Artha|Artha]] ·
+[[glossary/a#Aruṇa gems|Aruṇa gems]] ·
+[[glossary/a#Aryamā|Aryamā]] ·
+[[glossary/a#Aryan|Aryan]] ·
+[[glossary/a#Asamanya|Asamanya]] ·
+[[glossary/a#Asaṁskṛta|Asaṁskṛta]] ·
+[[glossary/a#Asāṅga|Asāṅga]] ·
+[[glossary/a#Āsana|Āsana]] ·
+[[glossary/a#Asat-saṅga|Asat-saṅga]] ·
+[[glossary/a#Asat|Asat]] ·
+[[glossary/a#Ashoka|Ashoka]] ·
+[[glossary/a#Asita|Asita]] ·
+[[glossary/a#Aśoka|Aśoka]] ·
+[[glossary/a#Āśrama|Āśrama]] ·
+[[glossary/a#Āśraya-vigraha|Āśraya-vigraha]] ·
+[[glossary/a#Āśraya|Āśraya]] ·
+[[glossary/a#Aṣtavakra|Aṣtavakra]] ·
+[[glossary/a#Aṣṭa-siddhis|Aṣṭa-siddhis]] ·
+[[glossary/a#Aṣṭāṅga-yoga|Aṣṭāṅga-yoga]] ·
+[[glossary/a#Aṣṭakā|Aṣṭakā]] ·
+[[glossary/a#Aṣṭānga-yoga|Aṣṭānga-yoga]] ·
+[[glossary/a#Aṣṭāvakra|Aṣṭāvakra]] ·
+[[glossary/a#Asuraṁ bhavam āśrita|Asuraṁ bhavam āśrita]] ·
+[[glossary/a#Asura|Asura]] ·
+[[glossary/a#Āśutoṣa|Āśutoṣa]] ·
+[[glossary/a#Asūyā|Asūyā]] ·
+[[glossary/a#Aśvamedha-yajña|Aśvamedha-yajña]] ·
+[[glossary/a#Aṣvatthāmā|Aṣvatthāmā]] ·
+[[glossary/a#Āśvina|Āśvina]] ·
+[[glossary/a#Aśvinī deities|Aśvinī deities]] ·
+[[glossary/a#Aśvinīkumāras|Aśvinīkumāras]] ·
+[[glossary/a#Atattva-jña|Atattva-jña]] ·
+[[glossary/a#Atharva Veda|Atharva Veda]] ·
+[[glossary/a#Atheism|Atheism]] ·
+[[glossary/a#Authoritarianism|Authoritarianism]] ·
+[[glossary/a#Atibāri-sampradāya|Atibāri-sampradāya]] ·
+[[glossary/a#Ātma-nivedana|Ātma-nivedana]] ·
+[[glossary/a#Ātma-samarpaṇa|Ātma-samarpaṇa]] ·
+[[glossary/a#Ātma-tattva|Ātma-tattva]] ·
+[[glossary/a#Ātmārāma|Ātmārāma]] ·
+[[glossary/a#Ātmā|Ātmā]] ·
+[[glossary/a#Atri Ṛṣi|Atri Ṛṣi]] ·
+[[glossary/a#Augrya|Augrya]] ·
+[[glossary/a#Autsukya|Autsukya]] ·
+[[glossary/a#Avadhūta|Avadhūta]] ·
+[[glossary/a#Avadhūta|Avadhūta]] ·
+[[glossary/a#Avahitthā|Avahitthā]] ·
+[[glossary/a#Avaiṣṇava|Avaiṣṇava]] ·
+[[glossary/a#Āvaraṇātmikā|Āvaraṇātmikā]] ·
+[[glossary/a#Avara|Avara]] ·
+[[glossary/a#Avaroha-panthā|Avaroha-panthā]] ·
+[[glossary/a#Avatāra|Avatāra]] ·
+[[glossary/a#Āvega|Āvega]] ·
+[[glossary/a#Āveśa-avatāra|Āveśa-avatāra]] ·
+[[glossary/a#Āveśa|Āveśa]] ·
+[[glossary/a#Avidhi-pūrvaka|Avidhi-pūrvaka]] ·
+[[glossary/a#Avidyā-śakti|Avidyā-śakti]] ·
+[[glossary/a#Avidyā|Avidyā]] ·
+[[glossary/a#Avyakta|Avyakta]] ·
+[[glossary/a#Ayer, A.J.|Ayer, A.J.]] ·
+[[glossary/a#Ayodya|Ayodya]] ·
+[[glossary/a#Ayoga|Ayoga]] ·
+[[glossary/a#Ayukta|Ayukta]] ·
+[[glossary/a#Āyurveda|Āyurveda]]
 
 
 
 ===== B =====
 
-[[glossary/b#Bābājī]] ·
-[[glossary/b#Baba]] ·
-[[glossary/b#Bāṇāsura]] ·
-[[glossary/b#Babhruvāhana]] ·
-[[glossary/b#Babhru]] ·
-[[glossary/b#Badarikāśrama]] ·
-[[glossary/b#Baddha-jña]] ·
-[[glossary/b#Bagh]] ·
-[[glossary/b#Bāhadbala]] ·
-[[glossary/b#Bāhadratha]] ·
-[[glossary/b#Bahirmukha-jana]] ·
-[[glossary/b#Bahūdaka]] ·
-[[glossary/b#Bāhuka]] ·
-[[glossary/b#Bakāsura]] ·
-[[glossary/b#Baksheesh]] ·
-[[glossary/b#Bakula]] ·
-[[glossary/b#Bāla-gopāla]] ·
-[[glossary/b#Baladeva Vidyābhūṣaṇa]] ·
-[[glossary/b#Balagaṇḍi festival]] ·
-[[glossary/b#Balarāma (Baladeva)]] ·
-[[glossary/b#Bālhīka]] ·
-[[glossary/b#Bali Māhāraja]] ·
-[[glossary/b#Bāliśa]] ·
-[[glossary/b#Ballal Sen]] ·
-[[glossary/b#Bandhu-ha]] ·
-[[glossary/b#Bandi]] ·
-[[glossary/b#Banyan tree]] ·
-[[glossary/b#Barbaras]] ·
-[[glossary/b#Barhiṣat]] ·
-[[glossary/b#Barhiṣmān]] ·
-[[glossary/b#Battle of Kurukṣetra]] ·
-[[glossary/b#Bāula community]] ·
-[[glossary/b#Bel-phala]] ·
-[[glossary/b#Benares]] ·
-[[glossary/b#Bhadrakali]] ·
-[[glossary/b#Bhadra]] ·
-[[glossary/b#Bhagadatta]] ·
-[[glossary/b#Bhagavad-bhakti]] ·
-[[glossary/b#Bhagavad-gītā]] ·
-[[glossary/b#Bhagavān]] ·
-[[glossary/b#Bhāgavata jīvana]] ·
-[[glossary/b#Bhāgavata Purāṇa]] ·
-[[glossary/b#Bhāgavata-dharma]] ·
-[[glossary/b#Bhāgavata-saptāha]] ·
-[[glossary/b#Bhāgavata-vidhi]] ·
-[[glossary/b#Bhāgavata-vidyā]] ·
-[[glossary/b#Bhāgavatam system]] ·
-[[glossary/b#Bhāgavatas]] ·
-[[glossary/b#Bhāgavata]] ·
-[[glossary/b#Bhagīratha]] ·
-[[glossary/b#Bhāgyavān]] ·
-[[glossary/b#Bhāgya]] ·
-[[glossary/b#Bhairava]] ·
-[[glossary/b#Bhajana-kutira]] ·
-[[glossary/b#Bhajanānandī]] ·
-[[glossary/b#Bhajana]] ·
-[[glossary/b#Bhakta-avatāra]] ·
-[[glossary/b#Bhakta-prāya]] ·
-[[glossary/b#Bhakta]] ·
-[[glossary/b#Bhakti-śakti]] ·
-[[glossary/b#Bhakti-śāstras]] ·
-[[glossary/b#Bhakti-kalpataru]] ·
-[[glossary/b#Bhakti-latā-bīja]] ·
-[[glossary/b#Bhakti-latā]] ·
-[[glossary/b#Bhakti-mārga]] ·
-[[glossary/b#Bhakti-rasācārya]] ·
-[[glossary/b#Bhakti-rasāmṛta-sindhu]] ·
-[[glossary/b#Bhakti-rasa]] ·
-[[glossary/b#Bhakti-sandarbha]] ·
-[[glossary/b#Bhakti-siddhānta-viruddha]] ·
-[[glossary/b#Bhakti-yoga]] ·
-[[glossary/b#Bhaktidevi]] ·
-[[glossary/b#Bhaktisiddhānta Sarasvatī Ṭhākura]] ·
-[[glossary/b#Bhaktivedanta Swami Prabhupāda]] ·
-[[glossary/b#Bhaktivedāntas]] ·
-[[glossary/b#Bhaktivinoda Ṭhākura]] ·
-[[glossary/b#Bhakti]] ·
-[[glossary/b#Bhakty-unmukhī sukṛti]] ·
-[[glossary/b#Bhānumān]] ·
-[[glossary/b#Bhānusena]] ·
-[[glossary/b#Bharadvāja]] ·
-[[glossary/b#Bharata Mahārāja]] ·
-[[glossary/b#Bhārata-varṣa]] ·
-[[glossary/b#Bharata]] ·
-[[glossary/b#Bhāratī]] ·
-[[glossary/b#Bhauma-ijya-dhīḥ]] ·
-[[glossary/b#Bhāva-bhakti]] ·
-[[glossary/b#Bhava-roga]] ·
-[[glossary/b#Bhava-sāgara]] ·
-[[glossary/b#Bhāva]] ·
-[[glossary/b#Bhaviṣya Purāṇa]] ·
-[[glossary/b#Bhaviṣya-uttara Purāṇa]] ·
-[[glossary/b#Bhāvuka]] ·
-[[glossary/b#Bhayānaka-rasa]] ·
-[[glossary/b#Bhaya]] ·
-[[glossary/b#Bhīma]] ·
-[[glossary/b#Bhinna-rūpa-sandhi]] ·
-[[glossary/b#Bhīṣmadeva]] ·
-[[glossary/b#Bhīṣmaka]] ·
-[[glossary/b#Bhoga-mandira]] ·
-[[glossary/b#Bhoga]] ·
-[[glossary/b#Bhogī]] ·
-[[glossary/b#Bhogonmukhī]] ·
-[[glossary/b#Bohr, Niels]] ·
-[[glossary/b#Bhrama]] ·
-[[glossary/b#Bhṛgu]] ·
-[[glossary/b#Bhṛtya]] ·
-[[glossary/b#Bhū]] ·
-[[glossary/b#Bhū-dhāraṇa-śakti]] ·
-[[glossary/b#Bhudevī]] ·
-[[glossary/b#Bhukti]] ·
-[[glossary/b#Bhūmi]] ·
-[[glossary/b#Bhūriśrava]] ·
-[[glossary/b#Bhūr]] ·
-[[glossary/b#Bhūti]] ·
-[[glossary/b#Bhuvaneśvara]] ·
-[[glossary/b#Bhuvar]] ·
-[[glossary/b#Bībhatsa-rasa]] ·
-[[glossary/b#Bihar]] ·
-[[glossary/b#Bila-svarga]] ·
-[[glossary/b#Bilvamaṅgala Ṭhākura]] ·
-[[glossary/b#Birnagar]] ·
-[[glossary/b#Bloop]] ·
-[[glossary/b#Bo (Bodhi) tree]] ·
-[[glossary/b#Brahma śāpa]] ·
-[[glossary/b#Brahma-bandhu]] ·
-[[glossary/b#Brahma-bhūta]] ·
-[[glossary/b#Brahma-jñāna]] ·
-[[glossary/b#Brahma-jñānī]] ·
-[[glossary/b#Brahma-jijñāsā]] ·
-[[glossary/b#Brāhma-muhūrta]] ·
-[[glossary/b#Brahma-rākṣasa]] ·
-[[glossary/b#Brahma-randhra]] ·
-[[glossary/b#Brahma-saṁhitā]] ·
-[[glossary/b#Brahma-satra]] ·
-[[glossary/b#Brahma-saukhya]] ·
-[[glossary/b#Brahma-sūtra]] ·
-[[glossary/b#Brahma-tejas]] ·
-[[glossary/b#Brahma-upāsaka]] ·
-[[glossary/b#Brahma-vaivarta Purāṇa]] ·
-[[glossary/b#Brahma-vidyā]] ·
-[[glossary/b#Brahma-yajña]] ·
-[[glossary/b#Brahmacārī]] ·
-[[glossary/b#Brahmacarya]] ·
-[[glossary/b#Brāhmaṇa thread]] ·
-[[glossary/b#Brāhmaṇa]] ·
-[[glossary/b#Brāhmaṇī]] ·
-[[glossary/b#Brahmāṇḍa Purāṇa]] ·
-[[glossary/b#Brahmāṇḍa-bhramaṇa]] ·
-[[glossary/b#Brahmāṇḍa]] ·
-[[glossary/b#Brahmaṇya-deva]] ·
-[[glossary/b#Brahmajyoti]] ·
-[[glossary/b#Brahmaloka]] ·
-[[glossary/b#Brahmānanda]] ·
-[[glossary/b#Brahman]] ·
-[[glossary/b#Brahmarṣi]] ·
-[[glossary/b#Brahmāstra]] ·
-[[glossary/b#Brahmavādīs]] ·
-[[glossary/b#Brahmā]] ·
-[[glossary/b#Brajmandal (Vraja-mandala)]] ·
-[[glossary/b#Brajbhasah]] ·
-[[glossary/b#Bran]] ·
-[[glossary/b#Bṛghu]] ·
-[[glossary/b#Bṛhan-nāradīya Purāṇa]] ·
-[[glossary/b#Bṛhaspati]] ·
-[[glossary/b#Brijbāsi]] ·
-[[glossary/b#Bubhukṣus]] ·
-[[glossary/b#Buddha]] ·
-[[glossary/b#Buddhi]] ·
-[[glossary/b#Buddhism]] ·
-[[glossary/b#Buddhi-yoga]]
+[[glossary/b#Bābājī|Bābājī]] ·
+[[glossary/b#Baba|Baba]] ·
+[[glossary/b#Bāṇāsura|Bāṇāsura]] ·
+[[glossary/b#Babhruvāhana|Babhruvāhana]] ·
+[[glossary/b#Babhru|Babhru]] ·
+[[glossary/b#Badarikāśrama|Badarikāśrama]] ·
+[[glossary/b#Baddha-jña|Baddha-jña]] ·
+[[glossary/b#Bagh|Bagh]] ·
+[[glossary/b#Bāhadbala|Bāhadbala]] ·
+[[glossary/b#Bāhadratha|Bāhadratha]] ·
+[[glossary/b#Bahirmukha-jana|Bahirmukha-jana]] ·
+[[glossary/b#Bahūdaka|Bahūdaka]] ·
+[[glossary/b#Bāhuka|Bāhuka]] ·
+[[glossary/b#Bakāsura|Bakāsura]] ·
+[[glossary/b#Baksheesh|Baksheesh]] ·
+[[glossary/b#Bakula|Bakula]] ·
+[[glossary/b#Bāla-gopāla|Bāla-gopāla]] ·
+[[glossary/b#Baladeva Vidyābhūṣaṇa|Baladeva Vidyābhūṣaṇa]] ·
+[[glossary/b#Balagaṇḍi festival|Balagaṇḍi festival]] ·
+[[glossary/b#Balarāma (Baladeva)|Balarāma (Baladeva)]] ·
+[[glossary/b#Bālhīka|Bālhīka]] ·
+[[glossary/b#Bali Māhāraja|Bali Māhāraja]] ·
+[[glossary/b#Bāliśa|Bāliśa]] ·
+[[glossary/b#Ballal Sen|Ballal Sen]] ·
+[[glossary/b#Bandhu-ha|Bandhu-ha]] ·
+[[glossary/b#Bandi|Bandi]] ·
+[[glossary/b#Banyan tree|Banyan tree]] ·
+[[glossary/b#Barbaras|Barbaras]] ·
+[[glossary/b#Barhiṣat|Barhiṣat]] ·
+[[glossary/b#Barhiṣmān|Barhiṣmān]] ·
+[[glossary/b#Battle of Kurukṣetra|Battle of Kurukṣetra]] ·
+[[glossary/b#Bāula community|Bāula community]] ·
+[[glossary/b#Bel-phala|Bel-phala]] ·
+[[glossary/b#Benares|Benares]] ·
+[[glossary/b#Bhadrakali|Bhadrakali]] ·
+[[glossary/b#Bhadra|Bhadra]] ·
+[[glossary/b#Bhagadatta|Bhagadatta]] ·
+[[glossary/b#Bhagavad-bhakti|Bhagavad-bhakti]] ·
+[[glossary/b#Bhagavad-gītā|Bhagavad-gītā]] ·
+[[glossary/b#Bhagavān|Bhagavān]] ·
+[[glossary/b#Bhāgavata jīvana|Bhāgavata jīvana]] ·
+[[glossary/b#Bhāgavata Purāṇa|Bhāgavata Purāṇa]] ·
+[[glossary/b#Bhāgavata-dharma|Bhāgavata-dharma]] ·
+[[glossary/b#Bhāgavata-saptāha|Bhāgavata-saptāha]] ·
+[[glossary/b#Bhāgavata-vidhi|Bhāgavata-vidhi]] ·
+[[glossary/b#Bhāgavata-vidyā|Bhāgavata-vidyā]] ·
+[[glossary/b#Bhāgavatam system|Bhāgavatam system]] ·
+[[glossary/b#Bhāgavatas|Bhāgavatas]] ·
+[[glossary/b#Bhāgavata|Bhāgavata]] ·
+[[glossary/b#Bhagīratha|Bhagīratha]] ·
+[[glossary/b#Bhāgyavān|Bhāgyavān]] ·
+[[glossary/b#Bhāgya|Bhāgya]] ·
+[[glossary/b#Bhairava|Bhairava]] ·
+[[glossary/b#Bhajana-kutira|Bhajana-kutira]] ·
+[[glossary/b#Bhajanānandī|Bhajanānandī]] ·
+[[glossary/b#Bhajana|Bhajana]] ·
+[[glossary/b#Bhakta-avatāra|Bhakta-avatāra]] ·
+[[glossary/b#Bhakta-prāya|Bhakta-prāya]] ·
+[[glossary/b#Bhakta|Bhakta]] ·
+[[glossary/b#Bhakti-śakti|Bhakti-śakti]] ·
+[[glossary/b#Bhakti-śāstras|Bhakti-śāstras]] ·
+[[glossary/b#Bhakti-kalpataru|Bhakti-kalpataru]] ·
+[[glossary/b#Bhakti-latā-bīja|Bhakti-latā-bīja]] ·
+[[glossary/b#Bhakti-latā|Bhakti-latā]] ·
+[[glossary/b#Bhakti-mārga|Bhakti-mārga]] ·
+[[glossary/b#Bhakti-rasācārya|Bhakti-rasācārya]] ·
+[[glossary/b#Bhakti-rasāmṛta-sindhu|Bhakti-rasāmṛta-sindhu]] ·
+[[glossary/b#Bhakti-rasa|Bhakti-rasa]] ·
+[[glossary/b#Bhakti-sandarbha|Bhakti-sandarbha]] ·
+[[glossary/b#Bhakti-siddhānta-viruddha|Bhakti-siddhānta-viruddha]] ·
+[[glossary/b#Bhakti-yoga|Bhakti-yoga]] ·
+[[glossary/b#Bhaktidevi|Bhaktidevi]] ·
+[[glossary/b#Bhaktisiddhānta Sarasvatī Ṭhākura|Bhaktisiddhānta Sarasvatī Ṭhākura]] ·
+[[glossary/b#Bhaktivedanta Swami Prabhupāda|Bhaktivedanta Swami Prabhupāda]] ·
+[[glossary/b#Bhaktivedāntas|Bhaktivedāntas]] ·
+[[glossary/b#Bhaktivinoda Ṭhākura|Bhaktivinoda Ṭhākura]] ·
+[[glossary/b#Bhakti|Bhakti]] ·
+[[glossary/b#Bhakty-unmukhī sukṛti|Bhakty-unmukhī sukṛti]] ·
+[[glossary/b#Bhānumān|Bhānumān]] ·
+[[glossary/b#Bhānusena|Bhānusena]] ·
+[[glossary/b#Bharadvāja|Bharadvāja]] ·
+[[glossary/b#Bharata Mahārāja|Bharata Mahārāja]] ·
+[[glossary/b#Bhārata-varṣa|Bhārata-varṣa]] ·
+[[glossary/b#Bharata|Bharata]] ·
+[[glossary/b#Bhāratī|Bhāratī]] ·
+[[glossary/b#Bhauma-ijya-dhīḥ|Bhauma-ijya-dhīḥ]] ·
+[[glossary/b#Bhāva-bhakti|Bhāva-bhakti]] ·
+[[glossary/b#Bhava-roga|Bhava-roga]] ·
+[[glossary/b#Bhava-sāgara|Bhava-sāgara]] ·
+[[glossary/b#Bhāva|Bhāva]] ·
+[[glossary/b#Bhaviṣya Purāṇa|Bhaviṣya Purāṇa]] ·
+[[glossary/b#Bhaviṣya-uttara Purāṇa|Bhaviṣya-uttara Purāṇa]] ·
+[[glossary/b#Bhāvuka|Bhāvuka]] ·
+[[glossary/b#Bhayānaka-rasa|Bhayānaka-rasa]] ·
+[[glossary/b#Bhaya|Bhaya]] ·
+[[glossary/b#Bhīma|Bhīma]] ·
+[[glossary/b#Bhinna-rūpa-sandhi|Bhinna-rūpa-sandhi]] ·
+[[glossary/b#Bhīṣmadeva|Bhīṣmadeva]] ·
+[[glossary/b#Bhīṣmaka|Bhīṣmaka]] ·
+[[glossary/b#Bhoga-mandira|Bhoga-mandira]] ·
+[[glossary/b#Bhoga|Bhoga]] ·
+[[glossary/b#Bhogī|Bhogī]] ·
+[[glossary/b#Bhogonmukhī|Bhogonmukhī]] ·
+[[glossary/b#Bohr, Niels|Bohr, Niels]] ·
+[[glossary/b#Bhrama|Bhrama]] ·
+[[glossary/b#Bhṛgu|Bhṛgu]] ·
+[[glossary/b#Bhṛtya|Bhṛtya]] ·
+[[glossary/b#Bhū|Bhū]] ·
+[[glossary/b#Bhū-dhāraṇa-śakti|Bhū-dhāraṇa-śakti]] ·
+[[glossary/b#Bhudevī|Bhudevī]] ·
+[[glossary/b#Bhukti|Bhukti]] ·
+[[glossary/b#Bhūmi|Bhūmi]] ·
+[[glossary/b#Bhūriśrava|Bhūriśrava]] ·
+[[glossary/b#Bhūr|Bhūr]] ·
+[[glossary/b#Bhūti|Bhūti]] ·
+[[glossary/b#Bhuvaneśvara|Bhuvaneśvara]] ·
+[[glossary/b#Bhuvar|Bhuvar]] ·
+[[glossary/b#Bībhatsa-rasa|Bībhatsa-rasa]] ·
+[[glossary/b#Bihar|Bihar]] ·
+[[glossary/b#Bila-svarga|Bila-svarga]] ·
+[[glossary/b#Bilvamaṅgala Ṭhākura|Bilvamaṅgala Ṭhākura]] ·
+[[glossary/b#Birnagar|Birnagar]] ·
+[[glossary/b#Bloop|Bloop]] ·
+[[glossary/b#Bo (Bodhi) tree|Bo (Bodhi) tree]] ·
+[[glossary/b#Brahma śāpa|Brahma śāpa]] ·
+[[glossary/b#Brahma-bandhu|Brahma-bandhu]] ·
+[[glossary/b#Brahma-bhūta|Brahma-bhūta]] ·
+[[glossary/b#Brahma-jñāna|Brahma-jñāna]] ·
+[[glossary/b#Brahma-jñānī|Brahma-jñānī]] ·
+[[glossary/b#Brahma-jijñāsā|Brahma-jijñāsā]] ·
+[[glossary/b#Brāhma-muhūrta|Brāhma-muhūrta]] ·
+[[glossary/b#Brahma-rākṣasa|Brahma-rākṣasa]] ·
+[[glossary/b#Brahma-randhra|Brahma-randhra]] ·
+[[glossary/b#Brahma-saṁhitā|Brahma-saṁhitā]] ·
+[[glossary/b#Brahma-satra|Brahma-satra]] ·
+[[glossary/b#Brahma-saukhya|Brahma-saukhya]] ·
+[[glossary/b#Brahma-sūtra|Brahma-sūtra]] ·
+[[glossary/b#Brahma-tejas|Brahma-tejas]] ·
+[[glossary/b#Brahma-upāsaka|Brahma-upāsaka]] ·
+[[glossary/b#Brahma-vaivarta Purāṇa|Brahma-vaivarta Purāṇa]] ·
+[[glossary/b#Brahma-vidyā|Brahma-vidyā]] ·
+[[glossary/b#Brahma-yajña|Brahma-yajña]] ·
+[[glossary/b#Brahmacārī|Brahmacārī]] ·
+[[glossary/b#Brahmacarya|Brahmacarya]] ·
+[[glossary/b#Brāhmaṇa thread|Brāhmaṇa thread]] ·
+[[glossary/b#Brāhmaṇa|Brāhmaṇa]] ·
+[[glossary/b#Brāhmaṇī|Brāhmaṇī]] ·
+[[glossary/b#Brahmāṇḍa Purāṇa|Brahmāṇḍa Purāṇa]] ·
+[[glossary/b#Brahmāṇḍa-bhramaṇa|Brahmāṇḍa-bhramaṇa]] ·
+[[glossary/b#Brahmāṇḍa|Brahmāṇḍa]] ·
+[[glossary/b#Brahmaṇya-deva|Brahmaṇya-deva]] ·
+[[glossary/b#Brahmajyoti|Brahmajyoti]] ·
+[[glossary/b#Brahmaloka|Brahmaloka]] ·
+[[glossary/b#Brahmānanda|Brahmānanda]] ·
+[[glossary/b#Brahman|Brahman]] ·
+[[glossary/b#Brahmarṣi|Brahmarṣi]] ·
+[[glossary/b#Brahmāstra|Brahmāstra]] ·
+[[glossary/b#Brahmavādīs|Brahmavādīs]] ·
+[[glossary/b#Brahmā|Brahmā]] ·
+[[glossary/b#Brajmandal (Vraja-mandala)|Brajmandal (Vraja-mandala)]] ·
+[[glossary/b#Brajbhasah|Brajbhasah]] ·
+[[glossary/b#Bran|Bran]] ·
+[[glossary/b#Bṛghu|Bṛghu]] ·
+[[glossary/b#Bṛhan-nāradīya Purāṇa|Bṛhan-nāradīya Purāṇa]] ·
+[[glossary/b#Bṛhaspati|Bṛhaspati]] ·
+[[glossary/b#Brijbāsi|Brijbāsi]] ·
+[[glossary/b#Bubhukṣus|Bubhukṣus]] ·
+[[glossary/b#Buddha|Buddha]] ·
+[[glossary/b#Buddhi|Buddhi]] ·
+[[glossary/b#Buddhism|Buddhism]] ·
+[[glossary/b#Buddhi-yoga|Buddhi-yoga]]
 
 
 
 ===== C =====
 
-[[glossary/c#Caitanya Mahāprabhu]] ·
-[[glossary/c#Caitanya-caritāmṛta]] ·
-[[glossary/c#Caitanya]] ·
-[[glossary/c#Caitya-guru]] ·
-[[glossary/c#Cakita]] ·
-[[glossary/c#Cakora]] ·
-[[glossary/c#Cakra (Sudarśana)]] ·
-[[glossary/c#Cakravākī]] ·
-[[glossary/c#Cakravyūha]] ·
-[[glossary/c#Cakra]] ·
-[[glossary/c#Cāmara]] ·
-[[glossary/c#Camasa Ṛṣi]] ·
-[[glossary/c#Campaka-puṣpa]] ·
-[[glossary/c#Camphor]] ·
-[[glossary/c#Cāṇakya Paṇḍita]] ·
-[[glossary/c#Caṇḍakauśika]] ·
-[[glossary/c#Caṇḍāla]] ·
-[[glossary/c#Candana-yātrā]] ·
-[[glossary/c#Candana]] ·
-[[glossary/c#Candraśekhara Ācārya]] ·
-[[glossary/c#Candragupta]] ·
-[[glossary/c#Candraloka]] ·
-[[glossary/c#Candra]] ·
-[[glossary/c#Cāpalya]] ·
-[[glossary/c#Capātī]] ·
-[[glossary/c#Cāraṇaloka]] ·
-[[glossary/c#Caraṇāmṛta]] ·
-[[glossary/c#Carlyle, Thomas (1795-1881)]] ·
-[[glossary/c#Cārvāka Muni]] ·
-[[glossary/c#Cārvāka]] ·
-[[glossary/c#Catur-hotra]] ·
-[[glossary/c#Cātur-varṇyam]] ·
-[[glossary/c#Catur-vyūha]] ·
-[[glossary/c#Caturdaśī]] ·
-[[glossary/c#Cāturmāsya]] ·
-[[glossary/c#Catuḥ-ślokī]] ·
-[[glossary/c#Catuḥsana]] ·
-[[glossary/c#Causa (Lat.)]] ·
-[[glossary/c#Causal Ocean]] ·
-[[glossary/c#Cedirāja]] ·
-[[glossary/c#Cekitāna]] ·
-[[glossary/c#Cetana]] ·
-[[glossary/c#Chadar]] ·
-[[glossary/c#Chaitya]] ·
-[[glossary/c#Chakra]] ·
-[[glossary/c#Chalo, Chalo]] ·
-[[glossary/c#Chamara]] ·
-[[glossary/c#Chandas]] ·
-[[glossary/c#Chāndogya Upaniṣad]] ·
-[[glossary/c#Chandra]] ·
-[[glossary/c#Channāvatāra]] ·
-[[glossary/c#Channa]] ·
-[[glossary/c#Channing, William Ellery (1780-1842)]] ·
-[[glossary/c#Chappals]] ·
-[[glossary/c#Chaukidar (chowkidar)]] ·
-[[glossary/c#Chauvinism]] ·
-[[glossary/c#Choti (coti)]] ·
-[[glossary/c#Choko]] ·
-[[glossary/c#Cholas]] ·
-[[glossary/c#Choli]] ·
-[[glossary/c#Chonki]] ·
-[[glossary/c#Chos]] ·
-[[glossary/c#Choultry]] ·
-[[glossary/c#Christ]] ·
-[[glossary/c#Cid-vilāsa]] ·
-[[glossary/c#Cintāmaṇi]] ·
-[[glossary/c#Cintā]] ·
-[[glossary/c#Cira-loka-pālas]] ·
-[[glossary/c#Circulus vitiosus (Lat.)]] ·
-[[glossary/c#Cit]] ·
-[[glossary/c#Cit-śakti]] ·
-[[glossary/c#Cit-kaṇās]] ·
-[[glossary/c#Citrabāhu]] ·
-[[glossary/c#Citrabāna]] ·
-[[glossary/c#Citracāpa]] ·
-[[glossary/c#Citragupta]] ·
-[[glossary/c#Citrāṅgada]] ·
-[[glossary/c#Citrāṅgadā]] ·
-[[glossary/c#Citrāṅga]] ·
-[[glossary/c#Citraka]] ·
-[[glossary/c#Citraketu]] ·
-[[glossary/c#Citrasena]] ·
-[[glossary/c#Citrasena]] ·
-[[glossary/c#Citravarma]] ·
-[[glossary/c#Cogito ergo sum (Lat.)]] ·
-[[glossary/c#Consciousness]] ·
-[[glossary/c#Contradiction]] ·
-[[glossary/c#Cratylus]] ·
-[[glossary/c#Crore]] ·
-[[glossary/c#Cyavana]]
+[[glossary/c#Caitanya Mahāprabhu|Caitanya Mahāprabhu]] ·
+[[glossary/c#Caitanya-caritāmṛta|Caitanya-caritāmṛta]] ·
+[[glossary/c#Caitanya|Caitanya]] ·
+[[glossary/c#Caitya-guru|Caitya-guru]] ·
+[[glossary/c#Cakita|Cakita]] ·
+[[glossary/c#Cakora|Cakora]] ·
+[[glossary/c#Cakra (Sudarśana)|Cakra (Sudarśana)]] ·
+[[glossary/c#Cakravākī|Cakravākī]] ·
+[[glossary/c#Cakravyūha|Cakravyūha]] ·
+[[glossary/c#Cakra|Cakra]] ·
+[[glossary/c#Cāmara|Cāmara]] ·
+[[glossary/c#Camasa Ṛṣi|Camasa Ṛṣi]] ·
+[[glossary/c#Campaka-puṣpa|Campaka-puṣpa]] ·
+[[glossary/c#Camphor|Camphor]] ·
+[[glossary/c#Cāṇakya Paṇḍita|Cāṇakya Paṇḍita]] ·
+[[glossary/c#Caṇḍakauśika|Caṇḍakauśika]] ·
+[[glossary/c#Caṇḍāla|Caṇḍāla]] ·
+[[glossary/c#Candana-yātrā|Candana-yātrā]] ·
+[[glossary/c#Candana|Candana]] ·
+[[glossary/c#Candraśekhara Ācārya|Candraśekhara Ācārya]] ·
+[[glossary/c#Candragupta|Candragupta]] ·
+[[glossary/c#Candraloka|Candraloka]] ·
+[[glossary/c#Candra|Candra]] ·
+[[glossary/c#Cāpalya|Cāpalya]] ·
+[[glossary/c#Capātī|Capātī]] ·
+[[glossary/c#Cāraṇaloka|Cāraṇaloka]] ·
+[[glossary/c#Caraṇāmṛta|Caraṇāmṛta]] ·
+[[glossary/c#Carlyle, Thomas (1795-1881)|Carlyle, Thomas (1795-1881)]] ·
+[[glossary/c#Cārvāka Muni|Cārvāka Muni]] ·
+[[glossary/c#Cārvāka|Cārvāka]] ·
+[[glossary/c#Catur-hotra|Catur-hotra]] ·
+[[glossary/c#Cātur-varṇyam|Cātur-varṇyam]] ·
+[[glossary/c#Catur-vyūha|Catur-vyūha]] ·
+[[glossary/c#Caturdaśī|Caturdaśī]] ·
+[[glossary/c#Cāturmāsya|Cāturmāsya]] ·
+[[glossary/c#Catuḥ-ślokī|Catuḥ-ślokī]] ·
+[[glossary/c#Catuḥsana|Catuḥsana]] ·
+[[glossary/c#Causa (Lat.)|Causa (Lat.)]] ·
+[[glossary/c#Causal Ocean|Causal Ocean]] ·
+[[glossary/c#Cedirāja|Cedirāja]] ·
+[[glossary/c#Cekitāna|Cekitāna]] ·
+[[glossary/c#Cetana|Cetana]] ·
+[[glossary/c#Chadar|Chadar]] ·
+[[glossary/c#Chaitya|Chaitya]] ·
+[[glossary/c#Chakra|Chakra]] ·
+[[glossary/c#Chalo, Chalo|Chalo, Chalo]] ·
+[[glossary/c#Chamara|Chamara]] ·
+[[glossary/c#Chandas|Chandas]] ·
+[[glossary/c#Chāndogya Upaniṣad|Chāndogya Upaniṣad]] ·
+[[glossary/c#Chandra|Chandra]] ·
+[[glossary/c#Channāvatāra|Channāvatāra]] ·
+[[glossary/c#Channa|Channa]] ·
+[[glossary/c#Channing, William Ellery (1780-1842)|Channing, William Ellery (1780-1842)]] ·
+[[glossary/c#Chappals|Chappals]] ·
+[[glossary/c#Chaukidar (chowkidar)|Chaukidar (chowkidar)]] ·
+[[glossary/c#Chauvinism|Chauvinism]] ·
+[[glossary/c#Choti (coti)|Choti (coti)]] ·
+[[glossary/c#Choko|Choko]] ·
+[[glossary/c#Cholas|Cholas]] ·
+[[glossary/c#Choli|Choli]] ·
+[[glossary/c#Chonki|Chonki]] ·
+[[glossary/c#Chos|Chos]] ·
+[[glossary/c#Choultry|Choultry]] ·
+[[glossary/c#Christ|Christ]] ·
+[[glossary/c#Cid-vilāsa|Cid-vilāsa]] ·
+[[glossary/c#Cintāmaṇi|Cintāmaṇi]] ·
+[[glossary/c#Cintā|Cintā]] ·
+[[glossary/c#Cira-loka-pālas|Cira-loka-pālas]] ·
+[[glossary/c#Circulus vitiosus (Lat.)|Circulus vitiosus (Lat.)]] ·
+[[glossary/c#Cit|Cit]] ·
+[[glossary/c#Cit-śakti|Cit-śakti]] ·
+[[glossary/c#Cit-kaṇās|Cit-kaṇās]] ·
+[[glossary/c#Citrabāhu|Citrabāhu]] ·
+[[glossary/c#Citrabāna|Citrabāna]] ·
+[[glossary/c#Citracāpa|Citracāpa]] ·
+[[glossary/c#Citragupta|Citragupta]] ·
+[[glossary/c#Citrāṅgada|Citrāṅgada]] ·
+[[glossary/c#Citrāṅgadā|Citrāṅgadā]] ·
+[[glossary/c#Citrāṅga|Citrāṅga]] ·
+[[glossary/c#Citraka|Citraka]] ·
+[[glossary/c#Citraketu|Citraketu]] ·
+[[glossary/c#Citrasena|Citrasena]] ·
+[[glossary/c#Citrasena|Citrasena]] ·
+[[glossary/c#Citravarma|Citravarma]] ·
+[[glossary/c#Cogito ergo sum (Lat.)|Cogito ergo sum (Lat.)]] ·
+[[glossary/c#Consciousness|Consciousness]] ·
+[[glossary/c#Contradiction|Contradiction]] ·
+[[glossary/c#Cratylus|Cratylus]] ·
+[[glossary/c#Crore|Crore]] ·
+[[glossary/c#Cyavana|Cyavana]]
 
 
 
 ===== D =====
 
-[[glossary/d#Dacoit]] ·
-[[glossary/d#Daihika]] ·
-[[glossary/d#Dainya]] ·
-[[glossary/d#Daityas]] ·
-[[glossary/d#Daiva-varṇāśrama]] ·
-[[glossary/d#Daivī māyā]] ·
-[[glossary/d#Daivī prakṛti]] ·
-[[glossary/d#Dākṣāyaṇī]] ·
-[[glossary/d#Dākṣāyaṇī]] ·
-[[glossary/d#Dakṣa]] ·
-[[glossary/d#Dakṣiṇā]] ·
-[[glossary/d#Dakṣiṇā]] ·
-[[glossary/d#Dālbhya Muni]] ·
-[[glossary/d#Damayantī]] ·
-[[glossary/d#Dama]] ·
-[[glossary/d#Dāmodara]] ·
-[[glossary/d#Dānavas]] ·
-[[glossary/d#Dāna]] ·
-[[glossary/d#Daṇḍa-bhaṅga-līlā]] ·
-[[glossary/d#Daṇḍavats]] ·
-[[glossary/d#Daṇḍa]] ·
-[[glossary/d#Dārī sannyāsī]] ·
-[[glossary/d#Daridra-nārāyaṇa]] ·
-[[glossary/d#Darśana]] ·
-[[glossary/d#Darwin, Charles]] ·
-[[glossary/d#Dāruka]] ·
-[[glossary/d#Darwaza]] ·
-[[glossary/d#Dāsa]] ·
-[[glossary/d#Daśa-vidhā-saṁskāra]] ·
-[[glossary/d#Daśamī]] ·
-[[glossary/d#Daśaratha]] ·
-[[glossary/d#Daśārha]] ·
-[[glossary/d#Daśāvatāra-stotra]] ·
-[[glossary/d#Dasendriya]] ·
-[[glossary/d#Dāsya-rasa]] ·
-[[glossary/d#Dāsya-rati]] ·
-[[glossary/d#Dāsya]] ·
-[[glossary/d#Dasyu-dharma]] ·
-[[glossary/d#Dattātreya]] ·
-[[glossary/d#Dāvānala]] ·
-[[glossary/d#Davies, Paul]] ·
-[[glossary/d#Dayitā-patis]] ·
-[[glossary/d#Dayitās]] ·
-[[glossary/d#Deduction]] ·
-[[glossary/d#Deism]] ·
-[[glossary/d#Deity of the Lord]] ·
-[[glossary/d#Deity]] ·
-[[glossary/d#Demigods]] ·
-[[glossary/d#Demons]] ·
-[[glossary/d#De omnibus est dubitandum (Lat.)]] ·
-[[glossary/d#Descartes, Ren]] ·
-[[glossary/d#Deul]] ·
-[[glossary/d#Deva]] ·
-[[glossary/d#Devakī-nandana]] ·
-[[glossary/d#Deva-dāsīs]] ·
-[[glossary/d#Deva-gaṇa]] ·
-[[glossary/d#Devaśayanī]] ·
-[[glossary/d#Devadatta]] ·
-[[glossary/d#Devahūti]] ·
-[[glossary/d#Devaki]] ·
-[[glossary/d#Devala]] ·
-[[glossary/d#Devāpi]] ·
-[[glossary/d#Devarṣi]] ·
-[[glossary/d#Deva]] ·
-[[glossary/d#Devī-dhāma]] ·
-[[glossary/d#Devotional service]] ·
-[[glossary/d#Devotthānī]] ·
-[[glossary/d#Dhāma]] ·
-[[glossary/d#Dhanañjaya]] ·
-[[glossary/d#Dhanur Veda]] ·
-[[glossary/d#Dhanvantari]] ·
-[[glossary/d#Dharā-maṇḍala]] ·
-[[glossary/d#Dhāraṇā]] ·
-[[glossary/d#Dharma-śāstras]] ·
-[[glossary/d#Dharma-dhvajī]] ·
-[[glossary/d#Dharma-kalaṅka]] ·
-[[glossary/d#Dharmaśālā]] ·
-[[glossary/d#Dharmakṣetra]] ·
-[[glossary/d#Dharmānvekṣamāṇah]] ·
-[[glossary/d#Dharmaputra]] ·
-[[glossary/d#Dharmarāja]] ·
-[[glossary/d#Dharmaḥ kaitavaḥ]] ·
-[[glossary/d#Dharma]] ·
-[[glossary/d#Dharmī]] ·
-[[glossary/d#Dhṛṣṭaketu]] ·
-[[glossary/d#Dhaumya]] ·
-[[glossary/d#Dhenukāsura]] ·
-[[glossary/d#Dhīra]] ·
-[[glossary/d#Dhobi]] ·
-[[glossary/d#Dhoti]] ·
-[[glossary/d#Dhṛṣṭadyumna]] ·
-[[glossary/d#Dhṛtarāṣṭra]] ·
-[[glossary/d#Dhṛti]] ·
-[[glossary/d#Dhruva Mahārāja]] ·
-[[glossary/d#Dhruvaloka]] ·
-[[glossary/d#Dhūmāyitā]] ·
-[[glossary/d#Dhūpa-ārati]] ·
-[[glossary/d#Dhvajastambha]] ·
-[[glossary/d#Dhyāna]] ·
-[[glossary/d#Dīkṣā-guru]] ·
-[[glossary/d#Dīkṣā]] ·
-[[glossary/d#Dilīpa]] ·
-[[glossary/d#Dinoia]] ·
-[[glossary/d#Dīpta]] ·
-[[glossary/d#Discernment]] ·
-[[glossary/d#Diti]] ·
-[[glossary/d#Divya Desam temples]] ·
-[[glossary/d#Divyonmāda]] ·
-[[glossary/d#Diwan-i-am]] ·
-[[glossary/d#Diwan-i-khas]] ·
-[[glossary/d#Dola-yātrā]] ·
-[[glossary/d#Dosas]] ·
-[[glossary/d#Dosa]] ·
-[[glossary/d#Draupadī]] ·
-[[glossary/d#Dravida]] ·
-[[glossary/d#Draviḍa-rāja]] ·
-[[glossary/d#Dravya]] ·
-[[glossary/d#Dṛḍha-vrata]] ·
-[[glossary/d#Droṇācārya]] ·
-[[glossary/d#Drupada]] ·
-[[glossary/d#Dhrupad]] ·
-[[glossary/d#Dualism]] ·
-[[glossary/d#Duḥśala]] ·
-[[glossary/d#Duḥśalā]] ·
-[[glossary/d#Duḥśāsana]] ·
-[[glossary/d#Duḥsaṅga]] ·
-[[glossary/d#Durādhāra]] ·
-[[glossary/d#Durbar]] ·
-[[glossary/d#Durdharṣaṇa]] ·
-[[glossary/d#Durgā-śakti]] ·
-[[glossary/d#Durgā-maṇḍapa]] ·
-[[glossary/d#Durgā]] ·
-[[glossary/d#Durjaya]] ·
-[[glossary/d#Durmarṣaṇa]] ·
-[[glossary/d#Durmukha]] ·
-[[glossary/d#Durvāsā Muni]] ·
-[[glossary/d#Durvigāha]] ·
-[[glossary/d#Durvimocana]] ·
-[[glossary/d#Durviṣaha]] ·
-[[glossary/d#Durvirocana]] ·
-[[glossary/d#Duryodhana]] ·
-[[glossary/d#Duṣkarṇa]] ·
-[[glossary/d#Duṣkṛtam]] ·
-[[glossary/d#Duṣkṛtī]] ·
-[[glossary/d#Duṣparājaya]] ·
-[[glossary/d#Duṣpradharṣaṇa]] ·
-[[glossary/d#Duṣṭa-damana-śakti]] ·
-[[glossary/d#Dvādaśī]] ·
-[[glossary/d#Dvaipāyana]] ·
-[[glossary/d#Dvaita]] ·
-[[glossary/d#Dvaitādvaita-vāda]] ·
-[[glossary/d#Dvaitavana]] ·
-[[glossary/d#Dvāpara-yuga]] ·
-[[glossary/d#Dvāra]] ·
-[[glossary/d#Dvārakādhīśa]] ·
-[[glossary/d#Dvārakā]] ·
-[[glossary/d#Dvi-parārdha]] ·
-[[glossary/d#Dvija-bandhus]] ·
-[[glossary/d#Dvija-bandhu]] ·
-[[glossary/d#Dvija]] ·
-[[glossary/d#Dvīpa]] ·
-[[glossary/d#Dvivida gorilla]] ·
-[[glossary/d#Dwarapala]] ·
-[[glossary/d#Dxa (Gr.)]]
+[[glossary/d#Dacoit|Dacoit]] ·
+[[glossary/d#Daihika|Daihika]] ·
+[[glossary/d#Dainya|Dainya]] ·
+[[glossary/d#Daityas|Daityas]] ·
+[[glossary/d#Daiva-varṇāśrama|Daiva-varṇāśrama]] ·
+[[glossary/d#Daivī māyā|Daivī māyā]] ·
+[[glossary/d#Daivī prakṛti|Daivī prakṛti]] ·
+[[glossary/d#Dākṣāyaṇī|Dākṣāyaṇī]] ·
+[[glossary/d#Dākṣāyaṇī|Dākṣāyaṇī]] ·
+[[glossary/d#Dakṣa|Dakṣa]] ·
+[[glossary/d#Dakṣiṇā|Dakṣiṇā]] ·
+[[glossary/d#Dakṣiṇā|Dakṣiṇā]] ·
+[[glossary/d#Dālbhya Muni|Dālbhya Muni]] ·
+[[glossary/d#Damayantī|Damayantī]] ·
+[[glossary/d#Dama|Dama]] ·
+[[glossary/d#Dāmodara|Dāmodara]] ·
+[[glossary/d#Dānavas|Dānavas]] ·
+[[glossary/d#Dāna|Dāna]] ·
+[[glossary/d#Daṇḍa-bhaṅga-līlā|Daṇḍa-bhaṅga-līlā]] ·
+[[glossary/d#Daṇḍavats|Daṇḍavats]] ·
+[[glossary/d#Daṇḍa|Daṇḍa]] ·
+[[glossary/d#Dārī sannyāsī|Dārī sannyāsī]] ·
+[[glossary/d#Daridra-nārāyaṇa|Daridra-nārāyaṇa]] ·
+[[glossary/d#Darśana|Darśana]] ·
+[[glossary/d#Darwin, Charles|Darwin, Charles]] ·
+[[glossary/d#Dāruka|Dāruka]] ·
+[[glossary/d#Darwaza|Darwaza]] ·
+[[glossary/d#Dāsa|Dāsa]] ·
+[[glossary/d#Daśa-vidhā-saṁskāra|Daśa-vidhā-saṁskāra]] ·
+[[glossary/d#Daśamī|Daśamī]] ·
+[[glossary/d#Daśaratha|Daśaratha]] ·
+[[glossary/d#Daśārha|Daśārha]] ·
+[[glossary/d#Daśāvatāra-stotra|Daśāvatāra-stotra]] ·
+[[glossary/d#Dasendriya|Dasendriya]] ·
+[[glossary/d#Dāsya-rasa|Dāsya-rasa]] ·
+[[glossary/d#Dāsya-rati|Dāsya-rati]] ·
+[[glossary/d#Dāsya|Dāsya]] ·
+[[glossary/d#Dasyu-dharma|Dasyu-dharma]] ·
+[[glossary/d#Dattātreya|Dattātreya]] ·
+[[glossary/d#Dāvānala|Dāvānala]] ·
+[[glossary/d#Davies, Paul|Davies, Paul]] ·
+[[glossary/d#Dayitā-patis|Dayitā-patis]] ·
+[[glossary/d#Dayitās|Dayitās]] ·
+[[glossary/d#Deduction|Deduction]] ·
+[[glossary/d#Deism|Deism]] ·
+[[glossary/d#Deity of the Lord|Deity of the Lord]] ·
+[[glossary/d#Deity|Deity]] ·
+[[glossary/d#Demigods|Demigods]] ·
+[[glossary/d#Demons|Demons]] ·
+[[glossary/d#De omnibus est dubitandum (Lat.)|De omnibus est dubitandum (Lat.)]] ·
+[[glossary/d#Descartes, Ren|Descartes, Ren]] ·
+[[glossary/d#Deul|Deul]] ·
+[[glossary/d#Deva|Deva]] ·
+[[glossary/d#Devakī-nandana|Devakī-nandana]] ·
+[[glossary/d#Deva-dāsīs|Deva-dāsīs]] ·
+[[glossary/d#Deva-gaṇa|Deva-gaṇa]] ·
+[[glossary/d#Devaśayanī|Devaśayanī]] ·
+[[glossary/d#Devadatta|Devadatta]] ·
+[[glossary/d#Devahūti|Devahūti]] ·
+[[glossary/d#Devaki|Devaki]] ·
+[[glossary/d#Devala|Devala]] ·
+[[glossary/d#Devāpi|Devāpi]] ·
+[[glossary/d#Devarṣi|Devarṣi]] ·
+[[glossary/d#Deva|Deva]] ·
+[[glossary/d#Devī-dhāma|Devī-dhāma]] ·
+[[glossary/d#Devotional service|Devotional service]] ·
+[[glossary/d#Devotthānī|Devotthānī]] ·
+[[glossary/d#Dhāma|Dhāma]] ·
+[[glossary/d#Dhanañjaya|Dhanañjaya]] ·
+[[glossary/d#Dhanur Veda|Dhanur Veda]] ·
+[[glossary/d#Dhanvantari|Dhanvantari]] ·
+[[glossary/d#Dharā-maṇḍala|Dharā-maṇḍala]] ·
+[[glossary/d#Dhāraṇā|Dhāraṇā]] ·
+[[glossary/d#Dharma-śāstras|Dharma-śāstras]] ·
+[[glossary/d#Dharma-dhvajī|Dharma-dhvajī]] ·
+[[glossary/d#Dharma-kalaṅka|Dharma-kalaṅka]] ·
+[[glossary/d#Dharmaśālā|Dharmaśālā]] ·
+[[glossary/d#Dharmakṣetra|Dharmakṣetra]] ·
+[[glossary/d#Dharmānvekṣamāṇah|Dharmānvekṣamāṇah]] ·
+[[glossary/d#Dharmaputra|Dharmaputra]] ·
+[[glossary/d#Dharmarāja|Dharmarāja]] ·
+[[glossary/d#Dharmaḥ kaitavaḥ|Dharmaḥ kaitavaḥ]] ·
+[[glossary/d#Dharma|Dharma]] ·
+[[glossary/d#Dharmī|Dharmī]] ·
+[[glossary/d#Dhṛṣṭaketu|Dhṛṣṭaketu]] ·
+[[glossary/d#Dhaumya|Dhaumya]] ·
+[[glossary/d#Dhenukāsura|Dhenukāsura]] ·
+[[glossary/d#Dhīra|Dhīra]] ·
+[[glossary/d#Dhobi|Dhobi]] ·
+[[glossary/d#Dhoti|Dhoti]] ·
+[[glossary/d#Dhṛṣṭadyumna|Dhṛṣṭadyumna]] ·
+[[glossary/d#Dhṛtarāṣṭra|Dhṛtarāṣṭra]] ·
+[[glossary/d#Dhṛti|Dhṛti]] ·
+[[glossary/d#Dhruva Mahārāja|Dhruva Mahārāja]] ·
+[[glossary/d#Dhruvaloka|Dhruvaloka]] ·
+[[glossary/d#Dhūmāyitā|Dhūmāyitā]] ·
+[[glossary/d#Dhūpa-ārati|Dhūpa-ārati]] ·
+[[glossary/d#Dhvajastambha|Dhvajastambha]] ·
+[[glossary/d#Dhyāna|Dhyāna]] ·
+[[glossary/d#Dīkṣā-guru|Dīkṣā-guru]] ·
+[[glossary/d#Dīkṣā|Dīkṣā]] ·
+[[glossary/d#Dilīpa|Dilīpa]] ·
+[[glossary/d#Dinoia|Dinoia]] ·
+[[glossary/d#Dīpta|Dīpta]] ·
+[[glossary/d#Discernment|Discernment]] ·
+[[glossary/d#Diti|Diti]] ·
+[[glossary/d#Divya Desam temples|Divya Desam temples]] ·
+[[glossary/d#Divyonmāda|Divyonmāda]] ·
+[[glossary/d#Diwan-i-am|Diwan-i-am]] ·
+[[glossary/d#Diwan-i-khas|Diwan-i-khas]] ·
+[[glossary/d#Dola-yātrā|Dola-yātrā]] ·
+[[glossary/d#Dosas|Dosas]] ·
+[[glossary/d#Dosa|Dosa]] ·
+[[glossary/d#Draupadī|Draupadī]] ·
+[[glossary/d#Dravida|Dravida]] ·
+[[glossary/d#Draviḍa-rāja|Draviḍa-rāja]] ·
+[[glossary/d#Dravya|Dravya]] ·
+[[glossary/d#Dṛḍha-vrata|Dṛḍha-vrata]] ·
+[[glossary/d#Droṇācārya|Droṇācārya]] ·
+[[glossary/d#Drupada|Drupada]] ·
+[[glossary/d#Dhrupad|Dhrupad]] ·
+[[glossary/d#Dualism|Dualism]] ·
+[[glossary/d#Duḥśala|Duḥśala]] ·
+[[glossary/d#Duḥśalā|Duḥśalā]] ·
+[[glossary/d#Duḥśāsana|Duḥśāsana]] ·
+[[glossary/d#Duḥsaṅga|Duḥsaṅga]] ·
+[[glossary/d#Durādhāra|Durādhāra]] ·
+[[glossary/d#Durbar|Durbar]] ·
+[[glossary/d#Durdharṣaṇa|Durdharṣaṇa]] ·
+[[glossary/d#Durgā-śakti|Durgā-śakti]] ·
+[[glossary/d#Durgā-maṇḍapa|Durgā-maṇḍapa]] ·
+[[glossary/d#Durgā|Durgā]] ·
+[[glossary/d#Durjaya|Durjaya]] ·
+[[glossary/d#Durmarṣaṇa|Durmarṣaṇa]] ·
+[[glossary/d#Durmukha|Durmukha]] ·
+[[glossary/d#Durvāsā Muni|Durvāsā Muni]] ·
+[[glossary/d#Durvigāha|Durvigāha]] ·
+[[glossary/d#Durvimocana|Durvimocana]] ·
+[[glossary/d#Durviṣaha|Durviṣaha]] ·
+[[glossary/d#Durvirocana|Durvirocana]] ·
+[[glossary/d#Duryodhana|Duryodhana]] ·
+[[glossary/d#Duṣkarṇa|Duṣkarṇa]] ·
+[[glossary/d#Duṣkṛtam|Duṣkṛtam]] ·
+[[glossary/d#Duṣkṛtī|Duṣkṛtī]] ·
+[[glossary/d#Duṣparājaya|Duṣparājaya]] ·
+[[glossary/d#Duṣpradharṣaṇa|Duṣpradharṣaṇa]] ·
+[[glossary/d#Duṣṭa-damana-śakti|Duṣṭa-damana-śakti]] ·
+[[glossary/d#Dvādaśī|Dvādaśī]] ·
+[[glossary/d#Dvaipāyana|Dvaipāyana]] ·
+[[glossary/d#Dvaita|Dvaita]] ·
+[[glossary/d#Dvaitādvaita-vāda|Dvaitādvaita-vāda]] ·
+[[glossary/d#Dvaitavana|Dvaitavana]] ·
+[[glossary/d#Dvāpara-yuga|Dvāpara-yuga]] ·
+[[glossary/d#Dvāra|Dvāra]] ·
+[[glossary/d#Dvārakādhīśa|Dvārakādhīśa]] ·
+[[glossary/d#Dvārakā|Dvārakā]] ·
+[[glossary/d#Dvi-parārdha|Dvi-parārdha]] ·
+[[glossary/d#Dvija-bandhus|Dvija-bandhus]] ·
+[[glossary/d#Dvija-bandhu|Dvija-bandhu]] ·
+[[glossary/d#Dvija|Dvija]] ·
+[[glossary/d#Dvīpa|Dvīpa]] ·
+[[glossary/d#Dvivida gorilla|Dvivida gorilla]] ·
+[[glossary/d#Dwarapala|Dwarapala]] ·
+[[glossary/d#Dxa (Gr.)|Dxa (Gr.)]]
 
 
 
 ===== E =====
 
-[[glossary/e#Ecstasy]] ·
-[[glossary/e#Eddington, Arthur Stanley]] ·
-[[glossary/e#Egalitarianism]] ·
-[[glossary/e#Einstein, Albert]] ·
-[[glossary/e#Elements]] ·
-[[glossary/e#Ekacakra]] ·
-[[glossary/e#Ekādaśī]] ·
-[[glossary/e#Ekadaṇḍa]] ·
-[[glossary/e#Ekalavya]] ·
-[[glossary/e#Emerson, Ralph Waldo (1803-1882)]] ·
-[[glossary/e#Epistemology]] ·
-[[glossary/e#Ethics]] ·
-[[glossary/e#Evādat]] ·
-[[glossary/e#Evolution]] ·
-[[glossary/e#Existentialism]] ·
-[[glossary/e#Experientia (Lat.)]] ·
-[[glossary/e#Experimentum (Lat.)]]
+[[glossary/e#Ecstasy|Ecstasy]] ·
+[[glossary/e#Eddington, Arthur Stanley|Eddington, Arthur Stanley]] ·
+[[glossary/e#Egalitarianism|Egalitarianism]] ·
+[[glossary/e#Einstein, Albert|Einstein, Albert]] ·
+[[glossary/e#Elements|Elements]] ·
+[[glossary/e#Ekacakra|Ekacakra]] ·
+[[glossary/e#Ekādaśī|Ekādaśī]] ·
+[[glossary/e#Ekadaṇḍa|Ekadaṇḍa]] ·
+[[glossary/e#Ekalavya|Ekalavya]] ·
+[[glossary/e#Emerson, Ralph Waldo (1803-1882)|Emerson, Ralph Waldo (1803-1882)]] ·
+[[glossary/e#Epistemology|Epistemology]] ·
+[[glossary/e#Ethics|Ethics]] ·
+[[glossary/e#Evādat|Evādat]] ·
+[[glossary/e#Evolution|Evolution]] ·
+[[glossary/e#Existentialism|Existentialism]] ·
+[[glossary/e#Experientia (Lat.)|Experientia (Lat.)]] ·
+[[glossary/e#Experimentum (Lat.)|Experimentum (Lat.)]]
 
 
 
 ===== F =====
 
-[[glossary/f#Fallacy]] ·
-[[glossary/f#False ego]] ·
-[[glossary/f#Feminism]] ·
-[[glossary/f#Feyerabend, Paul Karl]] ·
-[[glossary/f#Four Vaiṣṇava Sampradāyas and Siddhāntas]]
+[[glossary/f#Fallacy|Fallacy]] ·
+[[glossary/f#False ego|False ego]] ·
+[[glossary/f#Feminism|Feminism]] ·
+[[glossary/f#Feyerabend, Paul Karl|Feyerabend, Paul Karl]] ·
+[[glossary/f#Four Vaiṣṇava Sampradāyas and Siddhāntas|Four Vaiṣṇava Sampradāyas and Siddhāntas]]
 
 
 
 ===== G =====
 
-[[glossary/g#Gadādhara-prāṇanātha]] ·
-[[glossary/g#Gadādhara]] ·
-[[glossary/g#Gadāira Gaurāṅga]] ·
-[[glossary/g#Gada]] ·
-[[glossary/g#Gadā]] ·
-[[glossary/g#Gajendra]] ·
-[[glossary/g#Gamcha]] ·
-[[glossary/g#Gāṇḍīva]] ·
-[[glossary/g#Gandhamādana]] ·
-[[glossary/g#Gāndhāra]] ·
-[[glossary/g#Gāndhārī]] ·
-[[glossary/g#Gandharvas]] ·
-[[glossary/g#Gaṇeśa]] ·
-[[glossary/g#Gaṅgā]] ·
-[[glossary/g#Gauda-desa]] ·
-[[glossary/g#Gāñjā]] ·
-[[glossary/g#Garbha-gṛha]] ·
-[[glossary/g#Garbhādhāna-saṁskāra]] ·
-[[glossary/g#Garbhodaka Ocean]] ·
-[[glossary/g#Garbhodakaśāyī Viṣṇu]] ·
-[[glossary/g#Garga Muni]] ·
-[[glossary/g#Garh]] ·
-[[glossary/g#Gari]] ·
-[[glossary/g#Garuda]] ·
-[[glossary/g#Garuḍa Purāṇa]] ·
-[[glossary/g#Garva]] ·
-[[glossary/g#Gauḍa-deśa]] ·
-[[glossary/g#Gauḍa-maṇḍala-bhūmi]] ·
-[[glossary/g#Gauḍas]] ·
-[[glossary/g#Gauḍīya Maṭha]] ·
-[[glossary/g#Gauḍīya Vaiṣṇava sampradāya]] ·
-[[glossary/g#Gauḍiya Vaiṣṇava]] ·
-[[glossary/g#Gaudiya Vaisnava Sampradaya]] ·
-[[glossary/g#Gaura-Hari]] ·
-[[glossary/g#Gaura mantra]] ·
-[[glossary/g#Gaura Pūrṇimā]] ·
-[[glossary/g#Gaura-gopāla mantra]] ·
-[[glossary/g#Gauracandra]] ·
-[[glossary/g#Gaurāṅga-nāgarīs]] ·
-[[glossary/g#Gaurakṛṣṇa]] ·
-[[glossary/g#Gaurakiśora dāsa Bābājī]] ·
-[[glossary/g#Gaurasundara]] ·
-[[glossary/g#Gaurava-dāsya]] ·
-[[glossary/g#Gaurava-sakhya]] ·
-[[glossary/g#Gaura]] ·
-[[glossary/g#Gautama Muni]] ·
-[[glossary/g#Gāyatrī]] ·
-[[glossary/g#Gayā]] ·
-[[glossary/g#Ghana]] ·
-[[glossary/g#Ghara-bhāta]] ·
-[[glossary/g#Ghaṭa-paṭiyā]] ·
-[[glossary/g#Ghaṭotkaca]] ·
-[[glossary/g#Ghat]] ·
-[[glossary/g#Ghee]] ·
-[[glossary/g#Ghṛta]] ·
-[[glossary/g#Giriśa]] ·
-[[glossary/g#Giridhārī (Govardhana)-silā]] ·
-[[glossary/g#Girivraja]] ·
-[[glossary/g#Giri]] ·
-[[glossary/g#Glāni]] ·
-[[glossary/g#Godāsa]] ·
-[[glossary/g#Godhead]] ·
-[[glossary/g#Godown]] ·
-[[glossary/g#Goldsmith, Oliver (1730-1774)]] ·
-[[glossary/g#Goloka Vṛndāvana (Kṛṣṇaloka)]] ·
-[[glossary/g#Good and evil]] ·
-[[glossary/g#Goodness]] ·
-[[glossary/g#Goonda (guṇḍa)]] ·
-[[glossary/g#Gopāla Bhaṭṭa Gosvāmī]] ·
-[[glossary/g#Gopāla]] ·
-[[glossary/g#Gopī-candana]] ·
-[[glossary/g#Gopīśvara]] ·
-[[glossary/g#Gopīs]] ·
-[[glossary/g#Gopijana-vallabha]] ·
-[[glossary/g#Gopuram (gopura)]] ·
-[[glossary/g#Gosāñi]] ·
-[[glossary/g#Goṣṭhy-ānandī]] ·
-[[glossary/g#Gosvāmī-viddhi]] ·
-[[glossary/g#Gosvāmī]] ·
-[[glossary/g#Govardhana-śilā]] ·
-[[glossary/g#Govardhana-dhārī]] ·
-[[glossary/g#Govardhana]] ·
-[[glossary/g#Govinda dāsa Ṭhākura]] ·
-[[glossary/g#Govinda]] ·
-[[glossary/g#Grāmya-karma]] ·
-[[glossary/g#Grāmya-kathā]] ·
-[[glossary/g#Grāmya-kavi]] ·
-[[glossary/g#Granthika]] ·
-[[glossary/g#Gṛha-vrata]] ·
-[[glossary/g#Gṛham andhakūpam]] ·
-[[glossary/g#Gṛhamedhi]] ·
-[[glossary/g#Gṛha]] ·
-[[glossary/g#Gṛhastha]] ·
-[[glossary/g#Gross body]] ·
-[[glossary/g#Gujarat]] ·
-[[glossary/g#Guṇa-avatāras]] ·
-[[glossary/g#Guṇa]] ·
-[[glossary/g#Guṇa-māyā]] ·
-[[glossary/g#Guṇas]] ·
-[[glossary/g#Guṇātīta]] ·
-[[glossary/g#Guṇḍicā-mārjana]] ·
-[[glossary/g#Gurdwara]] ·
-[[glossary/g#Guru-avajñā]] ·
-[[glossary/g#Guru-dakṣiṇā]] ·
-[[glossary/g#Guru-kṛpā]] ·
-[[glossary/g#Guru-kula]] ·
-[[glossary/g#Guru-pūjā]] ·
-[[glossary/g#Guru]] ·
-[[glossary/g#Guru-bhai]]
+[[glossary/g#Gadādhara-prāṇanātha|Gadādhara-prāṇanātha]] ·
+[[glossary/g#Gadādhara|Gadādhara]] ·
+[[glossary/g#Gadāira Gaurāṅga|Gadāira Gaurāṅga]] ·
+[[glossary/g#Gada|Gada]] ·
+[[glossary/g#Gadā|Gadā]] ·
+[[glossary/g#Gajendra|Gajendra]] ·
+[[glossary/g#Gamcha|Gamcha]] ·
+[[glossary/g#Gāṇḍīva|Gāṇḍīva]] ·
+[[glossary/g#Gandhamādana|Gandhamādana]] ·
+[[glossary/g#Gāndhāra|Gāndhāra]] ·
+[[glossary/g#Gāndhārī|Gāndhārī]] ·
+[[glossary/g#Gandharvas|Gandharvas]] ·
+[[glossary/g#Gaṇeśa|Gaṇeśa]] ·
+[[glossary/g#Gaṅgā|Gaṅgā]] ·
+[[glossary/g#Gauda-desa|Gauda-desa]] ·
+[[glossary/g#Gāñjā|Gāñjā]] ·
+[[glossary/g#Garbha-gṛha|Garbha-gṛha]] ·
+[[glossary/g#Garbhādhāna-saṁskāra|Garbhādhāna-saṁskāra]] ·
+[[glossary/g#Garbhodaka Ocean|Garbhodaka Ocean]] ·
+[[glossary/g#Garbhodakaśāyī Viṣṇu|Garbhodakaśāyī Viṣṇu]] ·
+[[glossary/g#Garga Muni|Garga Muni]] ·
+[[glossary/g#Garh|Garh]] ·
+[[glossary/g#Gari|Gari]] ·
+[[glossary/g#Garuda|Garuda]] ·
+[[glossary/g#Garuḍa Purāṇa|Garuḍa Purāṇa]] ·
+[[glossary/g#Garva|Garva]] ·
+[[glossary/g#Gauḍa-deśa|Gauḍa-deśa]] ·
+[[glossary/g#Gauḍa-maṇḍala-bhūmi|Gauḍa-maṇḍala-bhūmi]] ·
+[[glossary/g#Gauḍas|Gauḍas]] ·
+[[glossary/g#Gauḍīya Maṭha|Gauḍīya Maṭha]] ·
+[[glossary/g#Gauḍīya Vaiṣṇava sampradāya|Gauḍīya Vaiṣṇava sampradāya]] ·
+[[glossary/g#Gauḍiya Vaiṣṇava|Gauḍiya Vaiṣṇava]] ·
+[[glossary/g#Gaudiya Vaisnava Sampradaya|Gaudiya Vaisnava Sampradaya]] ·
+[[glossary/g#Gaura-Hari|Gaura-Hari]] ·
+[[glossary/g#Gaura mantra|Gaura mantra]] ·
+[[glossary/g#Gaura Pūrṇimā|Gaura Pūrṇimā]] ·
+[[glossary/g#Gaura-gopāla mantra|Gaura-gopāla mantra]] ·
+[[glossary/g#Gauracandra|Gauracandra]] ·
+[[glossary/g#Gaurāṅga-nāgarīs|Gaurāṅga-nāgarīs]] ·
+[[glossary/g#Gaurakṛṣṇa|Gaurakṛṣṇa]] ·
+[[glossary/g#Gaurakiśora dāsa Bābājī|Gaurakiśora dāsa Bābājī]] ·
+[[glossary/g#Gaurasundara|Gaurasundara]] ·
+[[glossary/g#Gaurava-dāsya|Gaurava-dāsya]] ·
+[[glossary/g#Gaurava-sakhya|Gaurava-sakhya]] ·
+[[glossary/g#Gaura|Gaura]] ·
+[[glossary/g#Gautama Muni|Gautama Muni]] ·
+[[glossary/g#Gāyatrī|Gāyatrī]] ·
+[[glossary/g#Gayā|Gayā]] ·
+[[glossary/g#Ghana|Ghana]] ·
+[[glossary/g#Ghara-bhāta|Ghara-bhāta]] ·
+[[glossary/g#Ghaṭa-paṭiyā|Ghaṭa-paṭiyā]] ·
+[[glossary/g#Ghaṭotkaca|Ghaṭotkaca]] ·
+[[glossary/g#Ghat|Ghat]] ·
+[[glossary/g#Ghee|Ghee]] ·
+[[glossary/g#Ghṛta|Ghṛta]] ·
+[[glossary/g#Giriśa|Giriśa]] ·
+[[glossary/g#Giridhārī (Govardhana)-silā|Giridhārī (Govardhana)-silā]] ·
+[[glossary/g#Girivraja|Girivraja]] ·
+[[glossary/g#Giri|Giri]] ·
+[[glossary/g#Glāni|Glāni]] ·
+[[glossary/g#Godāsa|Godāsa]] ·
+[[glossary/g#Godhead|Godhead]] ·
+[[glossary/g#Godown|Godown]] ·
+[[glossary/g#Goldsmith, Oliver (1730-1774)|Goldsmith, Oliver (1730-1774)]] ·
+[[glossary/g#Goloka Vṛndāvana (Kṛṣṇaloka)|Goloka Vṛndāvana (Kṛṣṇaloka)]] ·
+[[glossary/g#Good and evil|Good and evil]] ·
+[[glossary/g#Goodness|Goodness]] ·
+[[glossary/g#Goonda (guṇḍa)|Goonda (guṇḍa)]] ·
+[[glossary/g#Gopāla Bhaṭṭa Gosvāmī|Gopāla Bhaṭṭa Gosvāmī]] ·
+[[glossary/g#Gopāla|Gopāla]] ·
+[[glossary/g#Gopī-candana|Gopī-candana]] ·
+[[glossary/g#Gopīśvara|Gopīśvara]] ·
+[[glossary/g#Gopīs|Gopīs]] ·
+[[glossary/g#Gopijana-vallabha|Gopijana-vallabha]] ·
+[[glossary/g#Gopuram (gopura)|Gopuram (gopura)]] ·
+[[glossary/g#Gosāñi|Gosāñi]] ·
+[[glossary/g#Goṣṭhy-ānandī|Goṣṭhy-ānandī]] ·
+[[glossary/g#Gosvāmī-viddhi|Gosvāmī-viddhi]] ·
+[[glossary/g#Gosvāmī|Gosvāmī]] ·
+[[glossary/g#Govardhana-śilā|Govardhana-śilā]] ·
+[[glossary/g#Govardhana-dhārī|Govardhana-dhārī]] ·
+[[glossary/g#Govardhana|Govardhana]] ·
+[[glossary/g#Govinda dāsa Ṭhākura|Govinda dāsa Ṭhākura]] ·
+[[glossary/g#Govinda|Govinda]] ·
+[[glossary/g#Grāmya-karma|Grāmya-karma]] ·
+[[glossary/g#Grāmya-kathā|Grāmya-kathā]] ·
+[[glossary/g#Grāmya-kavi|Grāmya-kavi]] ·
+[[glossary/g#Granthika|Granthika]] ·
+[[glossary/g#Gṛha-vrata|Gṛha-vrata]] ·
+[[glossary/g#Gṛham andhakūpam|Gṛham andhakūpam]] ·
+[[glossary/g#Gṛhamedhi|Gṛhamedhi]] ·
+[[glossary/g#Gṛha|Gṛha]] ·
+[[glossary/g#Gṛhastha|Gṛhastha]] ·
+[[glossary/g#Gross body|Gross body]] ·
+[[glossary/g#Gujarat|Gujarat]] ·
+[[glossary/g#Guṇa-avatāras|Guṇa-avatāras]] ·
+[[glossary/g#Guṇa|Guṇa]] ·
+[[glossary/g#Guṇa-māyā|Guṇa-māyā]] ·
+[[glossary/g#Guṇas|Guṇas]] ·
+[[glossary/g#Guṇātīta|Guṇātīta]] ·
+[[glossary/g#Guṇḍicā-mārjana|Guṇḍicā-mārjana]] ·
+[[glossary/g#Gurdwara|Gurdwara]] ·
+[[glossary/g#Guru-avajñā|Guru-avajñā]] ·
+[[glossary/g#Guru-dakṣiṇā|Guru-dakṣiṇā]] ·
+[[glossary/g#Guru-kṛpā|Guru-kṛpā]] ·
+[[glossary/g#Guru-kula|Guru-kula]] ·
+[[glossary/g#Guru-pūjā|Guru-pūjā]] ·
+[[glossary/g#Guru|Guru]] ·
+[[glossary/g#Guru-bhai|Guru-bhai]]
 
 
 
 ===== H =====
 
-[[glossary/h#Hādīka]] ·
-[[glossary/h#Haihayas]] ·
-[[glossary/h#Hamlyn, David W.]] ·
-[[glossary/h#Hanumān]] ·
-[[glossary/h#Hara]] ·
-[[glossary/h#Harā]] ·
-[[glossary/h#Hare Kṛṣṇa mantra]] ·
-[[glossary/h#Hari-bhakti-vilāsa]] ·
-[[glossary/h#Hari-cakra]] ·
-[[glossary/h#Hari-kathā]] ·
-[[glossary/h#Hari-kīrtana]] ·
-[[glossary/h#Hari-nāma-saṅkīrtana]] ·
-[[glossary/h#Hari-vaṁśa]] ·
-[[glossary/h#Haribol]] ·
-[[glossary/h#Hariścandra]] ·
-[[glossary/h#Haridāsa Ṭhākura]] ·
-[[glossary/h#Haridvāra (Hardwar)]] ·
-[[glossary/h#Harināma-yajña]] ·
-[[glossary/h#Hari]] ·
-[[glossary/h#Harṣa]] ·
-[[glossary/h#Haryakṣa]] ·
-[[glossary/h#Hastināpura]] ·
-[[glossary/h#Hāsya-rasa]] ·
-[[glossary/h#Haṭha-yoga]] ·
-[[glossary/h#Hathi]] ·
-[[glossary/h#Hawking, Stephen]] ·
-[[glossary/h#Hayaśīrṣā]] ·
-[[glossary/h#Hayagriva]] ·
-[[glossary/h#Heavenly planets]] ·
-[[glossary/h#Hell]] ·
-[[glossary/h#Henotheism]] ·
-[[glossary/h#Herā-pañcamī festival]] ·
-[[glossary/h#Hiḍimba]] ·
-[[glossary/h#Hiḍimbī]] ·
-[[glossary/h#Himavān]] ·
-[[glossary/h#Hindu]] ·
-[[glossary/h#Hinduism]] ·
-[[glossary/h#Hing]] ·
-[[glossary/h#Hiraṇmaya-mahat-tattva]] ·
-[[glossary/h#Hiraṇyadhanus]] ·
-[[glossary/h#Hiraṇyakaśipu]] ·
-[[glossary/h#Hiraṇyākṣa]] ·
-[[glossary/h#Hiraṇyavarman]] ·
-[[glossary/h#Hlādinī śakti]] ·
-[[glossary/h#Holī]] ·
-[[glossary/h#Hotravāhana]] ·
-[[glossary/h#Hoysala]] ·
-[[glossary/h#Hṛṣīkeśa]] ·
-[[glossary/h#Hṛta-jñāna]] ·
-[[glossary/h#Humanism]] ·
-[[glossary/h#Hume, David]] ·
-[[glossary/h#Hypothetico-deduction]]
+[[glossary/h#Hādīka|Hādīka]] ·
+[[glossary/h#Haihayas|Haihayas]] ·
+[[glossary/h#Hamlyn, David W.|Hamlyn, David W.]] ·
+[[glossary/h#Hanumān|Hanumān]] ·
+[[glossary/h#Hara|Hara]] ·
+[[glossary/h#Harā|Harā]] ·
+[[glossary/h#Hare Kṛṣṇa mantra|Hare Kṛṣṇa mantra]] ·
+[[glossary/h#Hari-bhakti-vilāsa|Hari-bhakti-vilāsa]] ·
+[[glossary/h#Hari-cakra|Hari-cakra]] ·
+[[glossary/h#Hari-kathā|Hari-kathā]] ·
+[[glossary/h#Hari-kīrtana|Hari-kīrtana]] ·
+[[glossary/h#Hari-nāma-saṅkīrtana|Hari-nāma-saṅkīrtana]] ·
+[[glossary/h#Hari-vaṁśa|Hari-vaṁśa]] ·
+[[glossary/h#Haribol|Haribol]] ·
+[[glossary/h#Hariścandra|Hariścandra]] ·
+[[glossary/h#Haridāsa Ṭhākura|Haridāsa Ṭhākura]] ·
+[[glossary/h#Haridvāra (Hardwar)|Haridvāra (Hardwar)]] ·
+[[glossary/h#Harināma-yajña|Harināma-yajña]] ·
+[[glossary/h#Hari|Hari]] ·
+[[glossary/h#Harṣa|Harṣa]] ·
+[[glossary/h#Haryakṣa|Haryakṣa]] ·
+[[glossary/h#Hastināpura|Hastināpura]] ·
+[[glossary/h#Hāsya-rasa|Hāsya-rasa]] ·
+[[glossary/h#Haṭha-yoga|Haṭha-yoga]] ·
+[[glossary/h#Hathi|Hathi]] ·
+[[glossary/h#Hawking, Stephen|Hawking, Stephen]] ·
+[[glossary/h#Hayaśīrṣā|Hayaśīrṣā]] ·
+[[glossary/h#Hayagriva|Hayagriva]] ·
+[[glossary/h#Heavenly planets|Heavenly planets]] ·
+[[glossary/h#Hell|Hell]] ·
+[[glossary/h#Henotheism|Henotheism]] ·
+[[glossary/h#Herā-pañcamī festival|Herā-pañcamī festival]] ·
+[[glossary/h#Hiḍimba|Hiḍimba]] ·
+[[glossary/h#Hiḍimbī|Hiḍimbī]] ·
+[[glossary/h#Himavān|Himavān]] ·
+[[glossary/h#Hindu|Hindu]] ·
+[[glossary/h#Hinduism|Hinduism]] ·
+[[glossary/h#Hing|Hing]] ·
+[[glossary/h#Hiraṇmaya-mahat-tattva|Hiraṇmaya-mahat-tattva]] ·
+[[glossary/h#Hiraṇyadhanus|Hiraṇyadhanus]] ·
+[[glossary/h#Hiraṇyakaśipu|Hiraṇyakaśipu]] ·
+[[glossary/h#Hiraṇyākṣa|Hiraṇyākṣa]] ·
+[[glossary/h#Hiraṇyavarman|Hiraṇyavarman]] ·
+[[glossary/h#Hlādinī śakti|Hlādinī śakti]] ·
+[[glossary/h#Holī|Holī]] ·
+[[glossary/h#Hotravāhana|Hotravāhana]] ·
+[[glossary/h#Hoysala|Hoysala]] ·
+[[glossary/h#Hṛṣīkeśa|Hṛṣīkeśa]] ·
+[[glossary/h#Hṛta-jñāna|Hṛta-jñāna]] ·
+[[glossary/h#Humanism|Humanism]] ·
+[[glossary/h#Hume, David|Hume, David]] ·
+[[glossary/h#Hypothetico-deduction|Hypothetico-deduction]]
 
 
 
 ===== I =====
 
-[[glossary/i#Idea]] ·
-[[glossary/i#Idealism]] ·
-[[glossary/i#Ideology]] ·
-[[glossary/i#Idhmavāhat]] ·
-[[glossary/i#Ignorance]] ·
-[[glossary/i#Ikṣvāku]] ·
-[[glossary/i#Ikṣvāku]] ·
-[[glossary/i#Ilāvṛta-varṣa]] ·
-[[glossary/i#Impersonal monism]] ·
-[[glossary/i#Indra-nīla]] ·
-[[glossary/i#Indraloka]] ·
-[[glossary/i#Indraprastha]] ·
-[[glossary/i#Indra]] ·
-[[glossary/i#Indriya-saṁyama]] ·
-[[glossary/i#Induction]] ·
-[[glossary/i#Infinite]] ·
-[[glossary/i#Intellect, intelligence]] ·
-[[glossary/i#Ipse dixit]] ·
-[[glossary/i#Irāvān]] ·
-[[glossary/ī#Īśa]] ·
-[[glossary/ī#Īśa-tattva]] ·
-[[glossary/ī#Īśānukathā]] ·
-[[glossary/i#ISKCON]] ·
-[[glossary/ī#Īśopaniṣad]] ·
-[[glossary/i#Iṣṭā]] ·
-[[glossary/ī#Īśvara]] ·
-[[glossary/i#Itihāsa]]
+[[glossary/i#Idea|Idea]] ·
+[[glossary/i#Idealism|Idealism]] ·
+[[glossary/i#Ideology|Ideology]] ·
+[[glossary/i#Idhmavāhat|Idhmavāhat]] ·
+[[glossary/i#Ignorance|Ignorance]] ·
+[[glossary/i#Ikṣvāku|Ikṣvāku]] ·
+[[glossary/i#Ikṣvāku|Ikṣvāku]] ·
+[[glossary/i#Ilāvṛta-varṣa|Ilāvṛta-varṣa]] ·
+[[glossary/i#Impersonal monism|Impersonal monism]] ·
+[[glossary/i#Indra-nīla|Indra-nīla]] ·
+[[glossary/i#Indraloka|Indraloka]] ·
+[[glossary/i#Indraprastha|Indraprastha]] ·
+[[glossary/i#Indra|Indra]] ·
+[[glossary/i#Indriya-saṁyama|Indriya-saṁyama]] ·
+[[glossary/i#Induction|Induction]] ·
+[[glossary/i#Infinite|Infinite]] ·
+[[glossary/i#Intellect, intelligence|Intellect, intelligence]] ·
+[[glossary/i#Ipse dixit|Ipse dixit]] ·
+[[glossary/i#Irāvān|Irāvān]] ·
+[[glossary/ī#Īśa|Īśa]] ·
+[[glossary/ī#Īśa-tattva|Īśa-tattva]] ·
+[[glossary/ī#Īśānukathā|Īśānukathā]] ·
+[[glossary/i#ISKCON|ISKCON]] ·
+[[glossary/ī#Īśopaniṣad|Īśopaniṣad]] ·
+[[glossary/i#Iṣṭā|Iṣṭā]] ·
+[[glossary/ī#Īśvara|Īśvara]] ·
+[[glossary/i#Itihāsa|Itihāsa]]
 
 
 
 ===== J =====
 
-[[glossary/j#Jaḍa Bharata]] ·
-[[glossary/j#Jāḍya]] ·
-[[glossary/j#Jagad-īśa]] ·
-[[glossary/j#Jagad-guru]] ·
-[[glossary/j#Jagad-rūpa (Virāṭ-rūpa, Viśva-rūpa)]] ·
-[[glossary/j#Jagāi and Mādhāi]] ·
-[[glossary/j#Jagamohana]] ·
-[[glossary/j#Jagannātha Purī]] ·
-[[glossary/j#Jagannātha]] ·
-[[glossary/j#Jagannatha Misra]] ·
-[[glossary/j#Jāgara]] ·
-[[glossary/j#Jagat]] ·
-[[glossary/j#Jajmani]] ·
-[[glossary/j#Jana-nivāsa]] ·
-[[glossary/j#Jaiminī]] ·
-[[glossary/j#Jains]] ·
-[[glossary/j#Jāmbavatī]] ·
-[[glossary/j#Janaka Mahārāja]] ·
-[[glossary/j#Janaloka]] ·
-[[glossary/j#Janamejaya]] ·
-[[glossary/j#Janārdana]] ·
-[[glossary/j#Janas]] ·
-[[glossary/j#Jaṅgama-nārāyaṇa]] ·
-[[glossary/j#Janmāṣṭamī]] ·
-[[glossary/j#Japa]] ·
-[[glossary/j#Jarāsandha]] ·
-[[glossary/j#Jarā]] ·
-[[glossary/j#Jaṭāsura]] ·
-[[glossary/j#Jaṭāyu]] ·
-[[glossary/j#Jāta-karma]] ·
-[[glossary/j#Jaya and Vijaya]] ·
-[[glossary/j#Jayadeva Gosvāmī]] ·
-[[glossary/j#Jayadratha]] ·
-[[glossary/j#Jāyanteyas]] ·
-[[glossary/j#Jayatsena]] ·
-[[glossary/j#Jaya]] ·
-[[glossary/j#Jāyā]] ·
-[[glossary/j#Jaya]] ·
-[[glossary/j#Jhulana yatra]] ·
-[[glossary/j#Ji]] ·
-[[glossary/j#Jīmūta]] ·
-[[glossary/j#Jīrṇa-sarpa]] ·
-[[glossary/j#Jitendriya]] ·
-[[glossary/j#Jīva (jīvātmā)]] ·
-[[glossary/j#Jīva Gosvāmī]] ·
-[[glossary/j#Jīva Jago]] ·
-[[glossary/j#Jīva-bhūta]] ·
-[[glossary/j#Jīva-hiṁsā]] ·
-[[glossary/j#Jīva-māyā]] ·
-[[glossary/j#Jīva-tattva]] ·
-[[glossary/j#Jīvan-mukta]] ·
-[[glossary/j#Jñāna-śakti]] ·
-[[glossary/j#Jñāna-kāṇḍa]] ·
-[[glossary/j#Jñāna-mārga]] ·
-[[glossary/j#Jñāna-yoga]] ·
-[[glossary/j#Jñāna]] ·
-[[glossary/j#Jñānī]] ·
-[[glossary/j#Jnānagamya]] ·
-[[glossary/j#Jñāna-kāṇḍa]] ·
-[[glossary/j#Jñānendriya]] ·
-[[glossary/j#Jvalitā]] ·
-[[glossary/j#Jyotir-linga]] ·
-[[glossary/j#Jyotiḥ-śāstra]]
+[[glossary/j#Jaḍa Bharata|Jaḍa Bharata]] ·
+[[glossary/j#Jāḍya|Jāḍya]] ·
+[[glossary/j#Jagad-īśa|Jagad-īśa]] ·
+[[glossary/j#Jagad-guru|Jagad-guru]] ·
+[[glossary/j#Jagad-rūpa (Virāṭ-rūpa, Viśva-rūpa)|Jagad-rūpa (Virāṭ-rūpa, Viśva-rūpa)]] ·
+[[glossary/j#Jagāi and Mādhāi|Jagāi and Mādhāi]] ·
+[[glossary/j#Jagamohana|Jagamohana]] ·
+[[glossary/j#Jagannātha Purī|Jagannātha Purī]] ·
+[[glossary/j#Jagannātha|Jagannātha]] ·
+[[glossary/j#Jagannatha Misra|Jagannatha Misra]] ·
+[[glossary/j#Jāgara|Jāgara]] ·
+[[glossary/j#Jagat|Jagat]] ·
+[[glossary/j#Jajmani|Jajmani]] ·
+[[glossary/j#Jana-nivāsa|Jana-nivāsa]] ·
+[[glossary/j#Jaiminī|Jaiminī]] ·
+[[glossary/j#Jains|Jains]] ·
+[[glossary/j#Jāmbavatī|Jāmbavatī]] ·
+[[glossary/j#Janaka Mahārāja|Janaka Mahārāja]] ·
+[[glossary/j#Janaloka|Janaloka]] ·
+[[glossary/j#Janamejaya|Janamejaya]] ·
+[[glossary/j#Janārdana|Janārdana]] ·
+[[glossary/j#Janas|Janas]] ·
+[[glossary/j#Jaṅgama-nārāyaṇa|Jaṅgama-nārāyaṇa]] ·
+[[glossary/j#Janmāṣṭamī|Janmāṣṭamī]] ·
+[[glossary/j#Japa|Japa]] ·
+[[glossary/j#Jarāsandha|Jarāsandha]] ·
+[[glossary/j#Jarā|Jarā]] ·
+[[glossary/j#Jaṭāsura|Jaṭāsura]] ·
+[[glossary/j#Jaṭāyu|Jaṭāyu]] ·
+[[glossary/j#Jāta-karma|Jāta-karma]] ·
+[[glossary/j#Jaya and Vijaya|Jaya and Vijaya]] ·
+[[glossary/j#Jayadeva Gosvāmī|Jayadeva Gosvāmī]] ·
+[[glossary/j#Jayadratha|Jayadratha]] ·
+[[glossary/j#Jāyanteyas|Jāyanteyas]] ·
+[[glossary/j#Jayatsena|Jayatsena]] ·
+[[glossary/j#Jaya|Jaya]] ·
+[[glossary/j#Jāyā|Jāyā]] ·
+[[glossary/j#Jaya|Jaya]] ·
+[[glossary/j#Jhulana yatra|Jhulana yatra]] ·
+[[glossary/j#Ji|Ji]] ·
+[[glossary/j#Jīmūta|Jīmūta]] ·
+[[glossary/j#Jīrṇa-sarpa|Jīrṇa-sarpa]] ·
+[[glossary/j#Jitendriya|Jitendriya]] ·
+[[glossary/j#Jīva (jīvātmā)|Jīva (jīvātmā)]] ·
+[[glossary/j#Jīva Gosvāmī|Jīva Gosvāmī]] ·
+[[glossary/j#Jīva Jago|Jīva Jago]] ·
+[[glossary/j#Jīva-bhūta|Jīva-bhūta]] ·
+[[glossary/j#Jīva-hiṁsā|Jīva-hiṁsā]] ·
+[[glossary/j#Jīva-māyā|Jīva-māyā]] ·
+[[glossary/j#Jīva-tattva|Jīva-tattva]] ·
+[[glossary/j#Jīvan-mukta|Jīvan-mukta]] ·
+[[glossary/j#Jñāna-śakti|Jñāna-śakti]] ·
+[[glossary/j#Jñāna-kāṇḍa|Jñāna-kāṇḍa]] ·
+[[glossary/j#Jñāna-mārga|Jñāna-mārga]] ·
+[[glossary/j#Jñāna-yoga|Jñāna-yoga]] ·
+[[glossary/j#Jñāna|Jñāna]] ·
+[[glossary/j#Jñānī|Jñānī]] ·
+[[glossary/j#Jnānagamya|Jnānagamya]] ·
+[[glossary/j#Jñāna-kāṇḍa|Jñāna-kāṇḍa]] ·
+[[glossary/j#Jñānendriya|Jñānendriya]] ·
+[[glossary/j#Jvalitā|Jvalitā]] ·
+[[glossary/j#Jyotir-linga|Jyotir-linga]] ·
+[[glossary/j#Jyotiḥ-śāstra|Jyotiḥ-śāstra]]
 
 
 
 ===== K =====
 
-[[glossary/k#Kabandha]] ·
-[[glossary/k#Kacchapī-vīṇā]] ·
-[[glossary/k#Kaḍāra]] ·
-[[glossary/k#Kadru]] ·
-[[glossary/k#Kailasa]] ·
-[[glossary/k#Kaiśora]] ·
-[[glossary/k#Kaitava-dharma]] ·
-[[glossary/k#Kaivalyam]] ·
-[[glossary/k#Kaivalya]] ·
-[[glossary/k#Kajjala]] ·
-[[glossary/k#Katha]] ·
-[[glossary/k#Kāka]] ·
-[[glossary/k#Kālakanyā]] ·
-[[glossary/k#Kala namak]] ·
-[[glossary/k#Kāla-sarpa]] ·
-[[glossary/k#Kalā]] ·
-[[glossary/k#Kala]] ·
-[[glossary/k#Kālī]] ·
-[[glossary/k#Kali-yuga]] ·
-[[glossary/k#Kaliṅga]] ·
-[[glossary/k#Kāliya]] ·
-[[glossary/k#Kali]] ·
-[[glossary/k#Kalki]] ·
-[[glossary/k#Kalmaṣa]] ·
-[[glossary/k#Kalpa-avatāras]] ·
-[[glossary/k#Kalpa-vṛkṣa]] ·
-[[glossary/k#Kalpa]] ·
-[[glossary/k#Kāma-dhenus]] ·
-[[glossary/k#Kāma-gāyatrī]] ·
-[[glossary/k#Kāma-lekha]] ·
-[[glossary/k#Kāmadhenu]] ·
-[[glossary/k#Kamaṇḍalu]] ·
-[[glossary/k#Kāma]] ·
-[[glossary/k#Kāma]] ·
-[[glossary/k#Kāmbhoja]] ·
-[[glossary/k#Kāmpilya]] ·
-[[glossary/k#Kaṁsa]] ·
-[[glossary/k#Kaṇāda]] ·
-[[glossary/k#Kāṇaphāṭā-yogīs]] ·
-[[glossary/k#Kāṇḍas]] ·
-[[glossary/k#Kaṇika]] ·
-[[glossary/k#Kaniṣṭha-adhikārī]] ·
-[[glossary/k#Kaṅka]] ·
-[[glossary/k#Kant, Immanuel]] ·
-[[glossary/k#Kanyākumārī]] ·
-[[glossary/k#Kapha]] ·
-[[glossary/k#Kapila]] ·
-[[glossary/k#Kāraṇa Ocean]] ·
-[[glossary/k#Karaṇāpāṭava]] ·
-[[glossary/k#Kāraṇodakaśāyī Viṣṇu]] ·
-[[glossary/k#Karaṅga]] ·
-[[glossary/k#Karatālas]] ·
-[[glossary/k#Kardama Muni]] ·
-[[glossary/k#Karhai]] ·
-[[glossary/k#Karma-bandhana]] ·
-[[glossary/k#Karma-bandha]] ·
-[[glossary/k#Karma-kāṇḍa]] ·
-[[glossary/k#Karma-kāṇḍīya]] ·
-[[glossary/k#Karma-mīmāṁsā]] ·
-[[glossary/k#Karma-niṣṭhas]] ·
-[[glossary/k#Karma-tyāga]] ·
-[[glossary/k#Karma-vīra]] ·
-[[glossary/k#Karma-yoga]] ·
-[[glossary/k#Karmātmaka]] ·
-[[glossary/k#Karma]] ·
-[[glossary/k#Karmendriya]] ·
-[[glossary/k#Karmendriyas]] ·
-[[glossary/k#Karmīs]] ·
-[[glossary/k#Karmī]] ·
-[[glossary/k#Karṇa]] ·
-[[glossary/k#Kārṣṇas]] ·
-[[glossary/k#Kathenotheism]] ·
-[[glossary/k#Kārttika]] ·
-[[glossary/k#Kārttikeya]] ·
-[[glossary/k#Karuṇa-rasa]] ·
-[[glossary/k#Kāśamdi]] ·
-[[glossary/k#Kāśī]] ·
-[[glossary/k#Kaśyapa]] ·
-[[glossary/k#Kaṭha Upaniṣad]] ·
-[[glossary/k#Kathakali]] ·
-[[glossary/k#Kātyāyanī]] ·
-[[glossary/k#Kauḍis]] ·
-[[glossary/k#Kaunteya]] ·
-[[glossary/k#Kaupīna]] ·
-[[glossary/k#Kauravas]] ·
-[[glossary/k#Kaustubha gem]] ·
-[[glossary/k#Kavacī]] ·
-[[glossary/k#Kavi-karṇapūra Gosvāmī]] ·
-[[glossary/k#Kāyastha caste]] ·
-[[glossary/k#Kekaya]] ·
-[[glossary/k#Keśa-avatāras]] ·
-[[glossary/k#Kesava Kasmir]] ·
-[[glossary/k#Keśava]] ·
-[[glossary/k#Kesava Gaudiya Matha]] ·
-[[glossary/k#Kevalādvaita-vādīs]] ·
-[[glossary/k#Kevala]] ·
-[[glossary/k#Keśī]] ·
-[[glossary/k#Khāḍi]] ·
-[[glossary/k#Khājā]] ·
-[[glossary/k#Khāṇḍavaprastha]] ·
-[[glossary/k#Khaṇḍa]] ·
-[[glossary/k#Khasādayaḥ]] ·
-[[glossary/k#Khaṭvāṅga]] ·
-[[glossary/k#Khetari]] ·
-[[glossary/k#Kīcaka]] ·
-[[glossary/k#Kikaṭa]] ·
-[[glossary/k#Kindama]] ·
-[[glossary/k#Kinnaras]] ·
-[[glossary/k#Kirāta]] ·
-[[glossary/k#Kirīṭī]] ·
-[[glossary/k#Kirmīra]] ·
-[[glossary/k#Kīrtana]] ·
-[[glossary/k#Kiśora-gopāla]] ·
-[[glossary/k#Kitava]] ·
-[[glossary/k#Kleśa-ghnī]] ·
-[[glossary/k#Kosala]] ·
-[[glossary/k#Koṭī]] ·
-[[glossary/k#Kovil]] ·
-[[glossary/k#Kratu]] ·
-[[glossary/k#Krishnanagar]] ·
-[[glossary/k#Kriyā-hīna]] ·
-[[glossary/k#Kriyā-vidhāna]] ·
-[[glossary/k#Krodha]] ·
-[[glossary/k#Kṛpā-siddha]] ·
-[[glossary/k#Kṛpā-siddhi]] ·
-[[glossary/k#Kṛpācārya]] ·
-[[glossary/k#Kṛpaṇa]] ·
-[[glossary/k#Krpā-siddihi]] ·
-[[glossary/k#Kṛpī]] ·
-[[glossary/k#Kṛṣṇa]] ·
-[[glossary/k#Kṛṣṇa Dvaipāyana]] ·
-[[glossary/k#Kṛṣṇa-ākarṣiṇī]] ·
-[[glossary/k#Kṛṣṇa-bahirmukha]] ·
-[[glossary/k#Kṛṣṇa-bhakta]] ·
-[[glossary/k#Kṛṣṇa-bhakti]] ·
-[[glossary/k#Kṛṣṇa-dāsa]] ·
-[[glossary/k#Kṛṣṇa-karma]] ·
-[[glossary/k#Kṛṣṇa-kathā]] ·
-[[glossary/k#Kṛṣṇa-kīrtana]] ·
-[[glossary/k#Kṛṣṇa-līlā]] ·
-[[glossary/k#Kṛṣṇa-pāriṣada]] ·
-[[glossary/k#Kṛṣṇa-prasādam]] ·
-[[glossary/k#Kṛṣṇa-prema-dhana]] ·
-[[glossary/k#Kṛṣṇa-viraha]] ·
-[[glossary/k#Kṛṣṇadāsa Kavirāja Gosvāmi]] ·
-[[glossary/k#Krṣnaloka]] ·
-[[glossary/k#Kṛṣṇā]] ·
-[[glossary/k#Kṛṣṇāliṅgita-vigraha]] ·
-[[glossary/k#Kṛṣṇe matir astu]] ·
-[[glossary/k#Kṛta-yuga]] ·
-[[glossary/k#Kṛtavarmā]] ·
-[[glossary/k#Kṣattā]] ·
-[[glossary/k#Kṣara]] ·
-[[glossary/k#Kṣatradeva]] ·
-[[glossary/k#Kṣatradharman]] ·
-[[glossary/k#Kṣatrañjaya]] ·
-[[glossary/k#Kṣatravarman]] ·
-[[glossary/k#Kṣatriya]] ·
-[[glossary/k#Kṣepaṇa]] ·
-[[glossary/k#Kṣetra-sannyāsa]] ·
-[[glossary/k#Kṣetrajña]] ·
-[[glossary/k#Kṣetra]] ·
-[[glossary/k#Kṣīrodakaśāyī Viṣṇu]] ·
-[[glossary/k#Kṣīracorā]] ·
-[[glossary/k#Kṣudhā-tṛṣṇā]] ·
-[[glossary/k#Ku-viṣaya]] ·
-[[glossary/k#Kuśa]] ·
-[[glossary/k#Kulaśekhara]] ·
-[[glossary/k#Kulācala]] ·
-[[glossary/k#Kumāras]] ·
-[[glossary/k#Kumbha-melā]] ·
-[[glossary/k#Kumbhaka-yoga]] ·
-[[glossary/k#Kumbha]] ·
-[[glossary/k#Kumera]] ·
-[[glossary/k#Kuṇḍadhāra]] ·
-[[glossary/k#Kuṇḍaja]] ·
-[[glossary/k#Kuṇḍalī]] ·
-[[glossary/k#Kuṇḍa]] ·
-[[glossary/k#Kuṇḍodara]] ·
-[[glossary/k#Kuṅkuma]] ·
-[[glossary/k#Kuntī]] ·
-[[glossary/k#Kuntibhoja]] ·
-[[glossary/k#Kurara]] ·
-[[glossary/k#Kūrma Purāṇa]] ·
-[[glossary/k#Kūrma]] ·
-[[glossary/k#Kurta]] ·
-[[glossary/k#Kurukṣetra]] ·
-[[glossary/k#Kurus]] ·
-[[glossary/k#Kuru]] ·
-[[glossary/k#Kutārkikas]] ·
-[[glossary/k#Kuṭīcaka]] ·
-[[glossary/k#Kuṭi-nāṭi]] ·
-[[glossary/k#Kuṭṭamita]] ·
-[[glossary/k#Kuṭumbinī]] ·
-[[glossary/k#Kuvera]]
+[[glossary/k#Kabandha|Kabandha]] ·
+[[glossary/k#Kacchapī-vīṇā|Kacchapī-vīṇā]] ·
+[[glossary/k#Kaḍāra|Kaḍāra]] ·
+[[glossary/k#Kadru|Kadru]] ·
+[[glossary/k#Kailasa|Kailasa]] ·
+[[glossary/k#Kaiśora|Kaiśora]] ·
+[[glossary/k#Kaitava-dharma|Kaitava-dharma]] ·
+[[glossary/k#Kaivalyam|Kaivalyam]] ·
+[[glossary/k#Kaivalya|Kaivalya]] ·
+[[glossary/k#Kajjala|Kajjala]] ·
+[[glossary/k#Katha|Katha]] ·
+[[glossary/k#Kāka|Kāka]] ·
+[[glossary/k#Kālakanyā|Kālakanyā]] ·
+[[glossary/k#Kala namak|Kala namak]] ·
+[[glossary/k#Kāla-sarpa|Kāla-sarpa]] ·
+[[glossary/k#Kalā|Kalā]] ·
+[[glossary/k#Kala|Kala]] ·
+[[glossary/k#Kālī|Kālī]] ·
+[[glossary/k#Kali-yuga|Kali-yuga]] ·
+[[glossary/k#Kaliṅga|Kaliṅga]] ·
+[[glossary/k#Kāliya|Kāliya]] ·
+[[glossary/k#Kali|Kali]] ·
+[[glossary/k#Kalki|Kalki]] ·
+[[glossary/k#Kalmaṣa|Kalmaṣa]] ·
+[[glossary/k#Kalpa-avatāras|Kalpa-avatāras]] ·
+[[glossary/k#Kalpa-vṛkṣa|Kalpa-vṛkṣa]] ·
+[[glossary/k#Kalpa|Kalpa]] ·
+[[glossary/k#Kāma-dhenus|Kāma-dhenus]] ·
+[[glossary/k#Kāma-gāyatrī|Kāma-gāyatrī]] ·
+[[glossary/k#Kāma-lekha|Kāma-lekha]] ·
+[[glossary/k#Kāmadhenu|Kāmadhenu]] ·
+[[glossary/k#Kamaṇḍalu|Kamaṇḍalu]] ·
+[[glossary/k#Kāma|Kāma]] ·
+[[glossary/k#Kāma|Kāma]] ·
+[[glossary/k#Kāmbhoja|Kāmbhoja]] ·
+[[glossary/k#Kāmpilya|Kāmpilya]] ·
+[[glossary/k#Kaṁsa|Kaṁsa]] ·
+[[glossary/k#Kaṇāda|Kaṇāda]] ·
+[[glossary/k#Kāṇaphāṭā-yogīs|Kāṇaphāṭā-yogīs]] ·
+[[glossary/k#Kāṇḍas|Kāṇḍas]] ·
+[[glossary/k#Kaṇika|Kaṇika]] ·
+[[glossary/k#Kaniṣṭha-adhikārī|Kaniṣṭha-adhikārī]] ·
+[[glossary/k#Kaṅka|Kaṅka]] ·
+[[glossary/k#Kant, Immanuel|Kant, Immanuel]] ·
+[[glossary/k#Kanyākumārī|Kanyākumārī]] ·
+[[glossary/k#Kapha|Kapha]] ·
+[[glossary/k#Kapila|Kapila]] ·
+[[glossary/k#Kāraṇa Ocean|Kāraṇa Ocean]] ·
+[[glossary/k#Karaṇāpāṭava|Karaṇāpāṭava]] ·
+[[glossary/k#Kāraṇodakaśāyī Viṣṇu|Kāraṇodakaśāyī Viṣṇu]] ·
+[[glossary/k#Karaṅga|Karaṅga]] ·
+[[glossary/k#Karatālas|Karatālas]] ·
+[[glossary/k#Kardama Muni|Kardama Muni]] ·
+[[glossary/k#Karhai|Karhai]] ·
+[[glossary/k#Karma-bandhana|Karma-bandhana]] ·
+[[glossary/k#Karma-bandha|Karma-bandha]] ·
+[[glossary/k#Karma-kāṇḍa|Karma-kāṇḍa]] ·
+[[glossary/k#Karma-kāṇḍīya|Karma-kāṇḍīya]] ·
+[[glossary/k#Karma-mīmāṁsā|Karma-mīmāṁsā]] ·
+[[glossary/k#Karma-niṣṭhas|Karma-niṣṭhas]] ·
+[[glossary/k#Karma-tyāga|Karma-tyāga]] ·
+[[glossary/k#Karma-vīra|Karma-vīra]] ·
+[[glossary/k#Karma-yoga|Karma-yoga]] ·
+[[glossary/k#Karmātmaka|Karmātmaka]] ·
+[[glossary/k#Karma|Karma]] ·
+[[glossary/k#Karmendriya|Karmendriya]] ·
+[[glossary/k#Karmendriyas|Karmendriyas]] ·
+[[glossary/k#Karmīs|Karmīs]] ·
+[[glossary/k#Karmī|Karmī]] ·
+[[glossary/k#Karṇa|Karṇa]] ·
+[[glossary/k#Kārṣṇas|Kārṣṇas]] ·
+[[glossary/k#Kathenotheism|Kathenotheism]] ·
+[[glossary/k#Kārttika|Kārttika]] ·
+[[glossary/k#Kārttikeya|Kārttikeya]] ·
+[[glossary/k#Karuṇa-rasa|Karuṇa-rasa]] ·
+[[glossary/k#Kāśamdi|Kāśamdi]] ·
+[[glossary/k#Kāśī|Kāśī]] ·
+[[glossary/k#Kaśyapa|Kaśyapa]] ·
+[[glossary/k#Kaṭha Upaniṣad|Kaṭha Upaniṣad]] ·
+[[glossary/k#Kathakali|Kathakali]] ·
+[[glossary/k#Kātyāyanī|Kātyāyanī]] ·
+[[glossary/k#Kauḍis|Kauḍis]] ·
+[[glossary/k#Kaunteya|Kaunteya]] ·
+[[glossary/k#Kaupīna|Kaupīna]] ·
+[[glossary/k#Kauravas|Kauravas]] ·
+[[glossary/k#Kaustubha gem|Kaustubha gem]] ·
+[[glossary/k#Kavacī|Kavacī]] ·
+[[glossary/k#Kavi-karṇapūra Gosvāmī|Kavi-karṇapūra Gosvāmī]] ·
+[[glossary/k#Kāyastha caste|Kāyastha caste]] ·
+[[glossary/k#Kekaya|Kekaya]] ·
+[[glossary/k#Keśa-avatāras|Keśa-avatāras]] ·
+[[glossary/k#Kesava Kasmir|Kesava Kasmir]] ·
+[[glossary/k#Keśava|Keśava]] ·
+[[glossary/k#Kesava Gaudiya Matha|Kesava Gaudiya Matha]] ·
+[[glossary/k#Kevalādvaita-vādīs|Kevalādvaita-vādīs]] ·
+[[glossary/k#Kevala|Kevala]] ·
+[[glossary/k#Keśī|Keśī]] ·
+[[glossary/k#Khāḍi|Khāḍi]] ·
+[[glossary/k#Khājā|Khājā]] ·
+[[glossary/k#Khāṇḍavaprastha|Khāṇḍavaprastha]] ·
+[[glossary/k#Khaṇḍa|Khaṇḍa]] ·
+[[glossary/k#Khasādayaḥ|Khasādayaḥ]] ·
+[[glossary/k#Khaṭvāṅga|Khaṭvāṅga]] ·
+[[glossary/k#Khetari|Khetari]] ·
+[[glossary/k#Kīcaka|Kīcaka]] ·
+[[glossary/k#Kikaṭa|Kikaṭa]] ·
+[[glossary/k#Kindama|Kindama]] ·
+[[glossary/k#Kinnaras|Kinnaras]] ·
+[[glossary/k#Kirāta|Kirāta]] ·
+[[glossary/k#Kirīṭī|Kirīṭī]] ·
+[[glossary/k#Kirmīra|Kirmīra]] ·
+[[glossary/k#Kīrtana|Kīrtana]] ·
+[[glossary/k#Kiśora-gopāla|Kiśora-gopāla]] ·
+[[glossary/k#Kitava|Kitava]] ·
+[[glossary/k#Kleśa-ghnī|Kleśa-ghnī]] ·
+[[glossary/k#Kosala|Kosala]] ·
+[[glossary/k#Koṭī|Koṭī]] ·
+[[glossary/k#Kovil|Kovil]] ·
+[[glossary/k#Kratu|Kratu]] ·
+[[glossary/k#Krishnanagar|Krishnanagar]] ·
+[[glossary/k#Kriyā-hīna|Kriyā-hīna]] ·
+[[glossary/k#Kriyā-vidhāna|Kriyā-vidhāna]] ·
+[[glossary/k#Krodha|Krodha]] ·
+[[glossary/k#Kṛpā-siddha|Kṛpā-siddha]] ·
+[[glossary/k#Kṛpā-siddhi|Kṛpā-siddhi]] ·
+[[glossary/k#Kṛpācārya|Kṛpācārya]] ·
+[[glossary/k#Kṛpaṇa|Kṛpaṇa]] ·
+[[glossary/k#Krpā-siddihi|Krpā-siddihi]] ·
+[[glossary/k#Kṛpī|Kṛpī]] ·
+[[glossary/k#Kṛṣṇa|Kṛṣṇa]] ·
+[[glossary/k#Kṛṣṇa Dvaipāyana|Kṛṣṇa Dvaipāyana]] ·
+[[glossary/k#Kṛṣṇa-ākarṣiṇī|Kṛṣṇa-ākarṣiṇī]] ·
+[[glossary/k#Kṛṣṇa-bahirmukha|Kṛṣṇa-bahirmukha]] ·
+[[glossary/k#Kṛṣṇa-bhakta|Kṛṣṇa-bhakta]] ·
+[[glossary/k#Kṛṣṇa-bhakti|Kṛṣṇa-bhakti]] ·
+[[glossary/k#Kṛṣṇa-dāsa|Kṛṣṇa-dāsa]] ·
+[[glossary/k#Kṛṣṇa-karma|Kṛṣṇa-karma]] ·
+[[glossary/k#Kṛṣṇa-kathā|Kṛṣṇa-kathā]] ·
+[[glossary/k#Kṛṣṇa-kīrtana|Kṛṣṇa-kīrtana]] ·
+[[glossary/k#Kṛṣṇa-līlā|Kṛṣṇa-līlā]] ·
+[[glossary/k#Kṛṣṇa-pāriṣada|Kṛṣṇa-pāriṣada]] ·
+[[glossary/k#Kṛṣṇa-prasādam|Kṛṣṇa-prasādam]] ·
+[[glossary/k#Kṛṣṇa-prema-dhana|Kṛṣṇa-prema-dhana]] ·
+[[glossary/k#Kṛṣṇa-viraha|Kṛṣṇa-viraha]] ·
+[[glossary/k#Kṛṣṇadāsa Kavirāja Gosvāmi|Kṛṣṇadāsa Kavirāja Gosvāmi]] ·
+[[glossary/k#Krṣnaloka|Krṣnaloka]] ·
+[[glossary/k#Kṛṣṇā|Kṛṣṇā]] ·
+[[glossary/k#Kṛṣṇāliṅgita-vigraha|Kṛṣṇāliṅgita-vigraha]] ·
+[[glossary/k#Kṛṣṇe matir astu|Kṛṣṇe matir astu]] ·
+[[glossary/k#Kṛta-yuga|Kṛta-yuga]] ·
+[[glossary/k#Kṛtavarmā|Kṛtavarmā]] ·
+[[glossary/k#Kṣattā|Kṣattā]] ·
+[[glossary/k#Kṣara|Kṣara]] ·
+[[glossary/k#Kṣatradeva|Kṣatradeva]] ·
+[[glossary/k#Kṣatradharman|Kṣatradharman]] ·
+[[glossary/k#Kṣatrañjaya|Kṣatrañjaya]] ·
+[[glossary/k#Kṣatravarman|Kṣatravarman]] ·
+[[glossary/k#Kṣatriya|Kṣatriya]] ·
+[[glossary/k#Kṣepaṇa|Kṣepaṇa]] ·
+[[glossary/k#Kṣetra-sannyāsa|Kṣetra-sannyāsa]] ·
+[[glossary/k#Kṣetrajña|Kṣetrajña]] ·
+[[glossary/k#Kṣetra|Kṣetra]] ·
+[[glossary/k#Kṣīrodakaśāyī Viṣṇu|Kṣīrodakaśāyī Viṣṇu]] ·
+[[glossary/k#Kṣīracorā|Kṣīracorā]] ·
+[[glossary/k#Kṣudhā-tṛṣṇā|Kṣudhā-tṛṣṇā]] ·
+[[glossary/k#Ku-viṣaya|Ku-viṣaya]] ·
+[[glossary/k#Kuśa|Kuśa]] ·
+[[glossary/k#Kulaśekhara|Kulaśekhara]] ·
+[[glossary/k#Kulācala|Kulācala]] ·
+[[glossary/k#Kumāras|Kumāras]] ·
+[[glossary/k#Kumbha-melā|Kumbha-melā]] ·
+[[glossary/k#Kumbhaka-yoga|Kumbhaka-yoga]] ·
+[[glossary/k#Kumbha|Kumbha]] ·
+[[glossary/k#Kumera|Kumera]] ·
+[[glossary/k#Kuṇḍadhāra|Kuṇḍadhāra]] ·
+[[glossary/k#Kuṇḍaja|Kuṇḍaja]] ·
+[[glossary/k#Kuṇḍalī|Kuṇḍalī]] ·
+[[glossary/k#Kuṇḍa|Kuṇḍa]] ·
+[[glossary/k#Kuṇḍodara|Kuṇḍodara]] ·
+[[glossary/k#Kuṅkuma|Kuṅkuma]] ·
+[[glossary/k#Kuntī|Kuntī]] ·
+[[glossary/k#Kuntibhoja|Kuntibhoja]] ·
+[[glossary/k#Kurara|Kurara]] ·
+[[glossary/k#Kūrma Purāṇa|Kūrma Purāṇa]] ·
+[[glossary/k#Kūrma|Kūrma]] ·
+[[glossary/k#Kurta|Kurta]] ·
+[[glossary/k#Kurukṣetra|Kurukṣetra]] ·
+[[glossary/k#Kurus|Kurus]] ·
+[[glossary/k#Kuru|Kuru]] ·
+[[glossary/k#Kutārkikas|Kutārkikas]] ·
+[[glossary/k#Kuṭīcaka|Kuṭīcaka]] ·
+[[glossary/k#Kuṭi-nāṭi|Kuṭi-nāṭi]] ·
+[[glossary/k#Kuṭṭamita|Kuṭṭamita]] ·
+[[glossary/k#Kuṭumbinī|Kuṭumbinī]] ·
+[[glossary/k#Kuvera|Kuvera]]
 
 
 
 ===== L =====
 
-[[glossary/l#Laghima-siddhi]] ·
-[[glossary/l#Laghu-bhāgavatāmṛta]] ·
-[[glossary/l#Lakh]] ·
-[[glossary/l#Lakṣmaṇa]] ·
-[[glossary/l#Lakṣmaṇa]] ·
-[[glossary/l#Lakṣmī-Nārāyaṇa]] ·
-[[glossary/l#Lakṣmī-vijayotsava festival]] ·
-[[glossary/l#Lakṣmī]] ·
-[[glossary/l#Laksman Sen]] ·
-[[glossary/l#Laṅkā]] ·
-[[glossary/l#Laos (Galangal)]] ·
-[[glossary/l#Lāphrā-vyañjana]] ·
-[[glossary/l#Lassi]] ·
-[[glossary/l#Laukika]] ·
-[[glossary/l#Lgos]] ·
-[[glossary/l#Liberation]] ·
-[[glossary/l#Life after death]] ·
-[[glossary/l#Līlā-avatāras]] ·
-[[glossary/l#Līlā-śakti]] ·
-[[glossary/l#Līlā]] ·
-[[glossary/l#Liṅgam]] ·
-[[glossary/l#Liṅga-śarīra]] ·
-[[glossary/l#Liṅga]] ·
-[[glossary/l#Lobha]] ·
-[[glossary/l#Locana dāsa Ṭhākura]] ·
-[[glossary/l#Logic]] ·
-[[glossary/l#Logical positivism]] ·
-[[glossary/l#Loka-pāla]] ·
-[[glossary/l#Loka-pratāraka]] ·
-[[glossary/l#Lokāyatikas]] ·
-[[glossary/l#Loka]] ·
-[[glossary/l#Lomaśa]] ·
-[[glossary/l#Lorry]]
+[[glossary/l#Laghima-siddhi|Laghima-siddhi]] ·
+[[glossary/l#Laghu-bhāgavatāmṛta|Laghu-bhāgavatāmṛta]] ·
+[[glossary/l#Lakh|Lakh]] ·
+[[glossary/l#Lakṣmaṇa|Lakṣmaṇa]] ·
+[[glossary/l#Lakṣmaṇa|Lakṣmaṇa]] ·
+[[glossary/l#Lakṣmī-Nārāyaṇa|Lakṣmī-Nārāyaṇa]] ·
+[[glossary/l#Lakṣmī-vijayotsava festival|Lakṣmī-vijayotsava festival]] ·
+[[glossary/l#Lakṣmī|Lakṣmī]] ·
+[[glossary/l#Laksman Sen|Laksman Sen]] ·
+[[glossary/l#Laṅkā|Laṅkā]] ·
+[[glossary/l#Laos (Galangal)|Laos (Galangal)]] ·
+[[glossary/l#Lāphrā-vyañjana|Lāphrā-vyañjana]] ·
+[[glossary/l#Lassi|Lassi]] ·
+[[glossary/l#Laukika|Laukika]] ·
+[[glossary/l#Lgos|Lgos]] ·
+[[glossary/l#Liberation|Liberation]] ·
+[[glossary/l#Life after death|Life after death]] ·
+[[glossary/l#Līlā-avatāras|Līlā-avatāras]] ·
+[[glossary/l#Līlā-śakti|Līlā-śakti]] ·
+[[glossary/l#Līlā|Līlā]] ·
+[[glossary/l#Liṅgam|Liṅgam]] ·
+[[glossary/l#Liṅga-śarīra|Liṅga-śarīra]] ·
+[[glossary/l#Liṅga|Liṅga]] ·
+[[glossary/l#Lobha|Lobha]] ·
+[[glossary/l#Locana dāsa Ṭhākura|Locana dāsa Ṭhākura]] ·
+[[glossary/l#Logic|Logic]] ·
+[[glossary/l#Logical positivism|Logical positivism]] ·
+[[glossary/l#Loka-pāla|Loka-pāla]] ·
+[[glossary/l#Loka-pratāraka|Loka-pratāraka]] ·
+[[glossary/l#Lokāyatikas|Lokāyatikas]] ·
+[[glossary/l#Loka|Loka]] ·
+[[glossary/l#Lomaśa|Lomaśa]] ·
+[[glossary/l#Lorry|Lorry]]
 
 
 
 ===== M =====
 
-[[glossary/m#Mad elephant offense]] ·
-[[glossary/m#Madana-mohana-mohinī]] ·
-[[glossary/m#Madana-mohana]] ·
-[[glossary/m#Mādana]] ·
-[[glossary/m#Madana]] ·
-[[glossary/m#Mada]] ·
-[[glossary/m#Mādhāi]] ·
-[[glossary/m#Mādhava]] ·
-[[glossary/m#Mādhukarī]] ·
-[[glossary/m#Madhupati]] ·
-[[glossary/m#Madhura-rasa]] ·
-[[glossary/m#Mādhurya-bhaktas]] ·
-[[glossary/m#Mādhurya-līlā]] ·
-[[glossary/m#Mādhurya-rasa]] ·
-[[glossary/m#Mādhurya-rati]] ·
-[[glossary/m#Madhusūdana]] ·
-[[glossary/m#Madhvācārya]] ·
-[[glossary/m#Madhva]] ·
-[[glossary/m#Madhya-līlā]] ·
-[[glossary/m#Madhyama-adhikārī]] ·
-[[glossary/m#Madirā]] ·
-[[glossary/m#Madirekṣaṇā]] ·
-[[glossary/m#Mādrī]] ·
-[[glossary/m#Magadha]] ·
-[[glossary/m#Māgha-melā]] ·
-[[glossary/m#Mahā-bhāgavata]] ·
-[[glossary/m#Mahā-bhāva]] ·
-[[glossary/m#Mahābhārata]] ·
-[[glossary/m#Mahā-bhūtas]] ·
-[[glossary/m#Mahā-dvādaśī]] ·
-[[glossary/m#Mahā-lakṣmī]] ·
-[[glossary/m#Mahā-mahā-prasādam]] ·
-[[glossary/m#Mala]] ·
-[[glossary/m#Mahā-mantra]] ·
-[[glossary/m#Mahā-māyā]] ·
-[[glossary/m#Mahā-paṇḍita]] ·
-[[glossary/m#Mahā-prasādam]] ·
-[[glossary/m#Mahat]] ·
-[[glossary/m#Mahat-tattva]] ·
-[[glossary/m#Mahapuri]] ·
-[[glossary/m#Mahā-pūrṇa]] ·
-[[glossary/m#Mahā-puruṣa]] ·
-[[glossary/m#Mahā-ratha]] ·
-[[glossary/m#Mahā-snāna]] ·
-[[glossary/m#Mahā-vadānyāvatāra]] ·
-[[glossary/m#Mahā-vākya]] ·
-[[glossary/m#Maha-Viṣṇu]] ·
-[[glossary/m#Mahābhārata-tatparya-nīrṇaya]] ·
-[[glossary/m#Mahābhārata]] ·
-[[glossary/m#Mahābhuta]] ·
-[[glossary/m#Mahādeva]] ·
-[[glossary/m#Mahājana]] ·
-[[glossary/m#Mahākāśa]] ·
-[[glossary/m#Mahal]] ·
-[[glossary/m#Mahāprabhu]] ·
-[[glossary/m#Mahārāṇī]] ·
-[[glossary/m#Mahārāja]] ·
-[[glossary/m#Mahāraurava]] ·
-[[glossary/m#Maharloka]] ·
-[[glossary/m#Mahātmā]] ·
-[[glossary/m#Maheśvara]] ·
-[[glossary/m#Mahendra]] ·
-[[glossary/m#Mahiṣa]] ·
-[[glossary/m#Mahodara]] ·
-[[glossary/m#Maidan]] ·
-[[glossary/m#Maināka]] ·
-[[glossary/m#Maitreya Muni]] ·
-[[glossary/m#Makara-dhvaja]] ·
-[[glossary/m#Mālā]] ·
-[[glossary/m#Malayadhvaja]] ·
-[[glossary/m#Malina-aṅgatā]] ·
-[[glossary/m#Mallikā]] ·
-[[glossary/m#Mālyavān]] ·
-[[glossary/m#Mamatā]] ·
-[[glossary/m#Mānasa-gaṅgā]] ·
-[[glossary/m#Mānasarovara]] ·
-[[glossary/m#Mānā]] ·
-[[glossary/m#Māna]] ·
-[[glossary/m#Mandapam (mandapa)]] ·
-[[glossary/m#Mandarācala]] ·
-[[glossary/m#Mandir]] ·
-[[glossary/m#Maṅgala-arati]] ·
-[[glossary/m#Maṇimān]] ·
-[[glossary/m#Maṇimā]] ·
-[[glossary/m#Manīṣā]] ·
-[[glossary/m#Mañjarī]] ·
-[[glossary/m#Manjughoṣā]] ·
-[[glossary/m#Manomaya]] ·
-[[glossary/m#Mantra]] ·
-[[glossary/m#Manu-saṁhitā]] ·
-[[glossary/m#Manuṣya-gaṇa]] ·
-[[glossary/m#Manu]] ·
-[[glossary/m#Manvantara-avatāras]] ·
-[[glossary/m#Manvantara]] ·
-[[glossary/m#Marakata-maṇi]] ·
-[[glossary/m#Maratha]] ·
-[[glossary/m#Mārga]] ·
-[[glossary/m#Marīci]] ·
-[[glossary/m#Māriṣā]] ·
-[[glossary/m#Mārkaṇḍeya Ṛṣi]] ·
-[[glossary/m#Mārkaṇḍeya Purāṇa]] ·
-[[glossary/m#Markaṭa-vairāgya]] ·
-[[glossary/m#Martya-loka]] ·
-[[glossary/m#Martya]] ·
-[[glossary/m#Marudloka]] ·
-[[glossary/m#Maruts]] ·
-[[glossary/m#Marxism]] ·
-[[glossary/m#Maryādā-laṅghana]] ·
-[[glossary/m#Masjīd]] ·
-[[glossary/m#Mātā Śacī]] ·
-[[glossary/m#Mātali]] ·
-[[glossary/m#Mata]] ·
-[[glossary/m#Materialism]] ·
-[[glossary/m#Maṭha]] ·
-[[glossary/m#Mathurā]] ·
-[[glossary/m#Matiar]] ·
-[[glossary/m#Mati]] ·
-[[glossary/m#Mātsarya]] ·
-[[glossary/m#Matsya]] ·
-[[glossary/m#Maugdhya]] ·
-[[glossary/m#Mauṣala-līlā]] ·
-[[glossary/m#Maya Dānava]] ·
-[[glossary/m#Māyā-śakti]] ·
-[[glossary/m#Māyā-sukha]] ·
-[[glossary/m#Moha]] ·
-[[glossary/m#Māyā-vaśa]] ·
-[[glossary/m#Māyādhīśa]] ·
-[[glossary/m#Māyāvāda]] ·
-[[glossary/m#Mayāvādī]] ·
-[[glossary/m#Māyāvāda philosophy]] ·
-[[glossary/m#Māyā]] ·
-[[glossary/m#Mechanomorphism]] ·
-[[glossary/m#Mela]] ·
-[[glossary/m#Menakā]] ·
-[[glossary/m#Meru]] ·
-[[glossary/m#Metaphysics]] ·
-[[glossary/m#Method]] ·
-[[glossary/m#Mezze]] ·
-[[glossary/m#Mīmāṁsakas]] ·
-[[glossary/m#Mīmāṁsā]] ·
-[[glossary/m#Mind]] ·
-[[glossary/m#Mind/body problem]] ·
-[[glossary/m#Mirabai]] ·
-[[glossary/m#Miśra-sattva]] ·
-[[glossary/m#Mithila]] ·
-[[glossary/m#Mitra]] ·
-[[glossary/m#Mleccha]] ·
-[[glossary/m#Mlecchas]] ·
-[[glossary/m#Modes of nature]] ·
-[[glossary/m#Moghul]] ·
-[[glossary/m#Mohana]] ·
-[[glossary/m#Moha]] ·
-[[glossary/m#Mohinī]] ·
-[[glossary/m#Monism]] ·
-[[glossary/m#Mokṣa-kāmī]] ·
-[[glossary/m#Mokṣākāṅkṣī]] ·
-[[glossary/m#Mokṣa]] ·
-[[glossary/m#Mokṣonmukhī]] ·
-[[glossary/m#Monolith]] ·
-[[glossary/m#Monotheism]] ·
-[[glossary/m#Monsoon]] ·
-[[glossary/m#Moṭṭāyita]] ·
-[[glossary/m#Mṛdaṅga]] ·
-[[glossary/m#Mṛttikā]] ·
-[[glossary/m#Mṛtyu]] ·
-[[glossary/m#Mūḍha]] ·
-[[glossary/m#Muhammed]] ·
-[[glossary/m#Muhūrta]] ·
-[[glossary/m#Mukta-puruṣa]] ·
-[[glossary/m#Mukti-devī]] ·
-[[glossary/m#Mukti-pāda]] ·
-[[glossary/m#Mukti]] ·
-[[glossary/m#Mukunda]] ·
-[[glossary/m#Mūla-mantra]] ·
-[[glossary/m#Mukunda-datta]] ·
-[[glossary/m#Mukut]] ·
-[[glossary/m#Mumukṣu]] ·
-[[glossary/m#Muni-putra]] ·
-[[glossary/m#Muni]] ·
-[[glossary/m#Muraripu (Muradviṣa)]] ·
-[[glossary/m#Murāri]] ·
-[[glossary/m#Mūrti]] ·
-[[glossary/m#Mysticism]] ·
-[[glossary/m#Mystic yoga]]
+[[glossary/m#Mad elephant offense|Mad elephant offense]] ·
+[[glossary/m#Madana-mohana-mohinī|Madana-mohana-mohinī]] ·
+[[glossary/m#Madana-mohana|Madana-mohana]] ·
+[[glossary/m#Mādana|Mādana]] ·
+[[glossary/m#Madana|Madana]] ·
+[[glossary/m#Mada|Mada]] ·
+[[glossary/m#Mādhāi|Mādhāi]] ·
+[[glossary/m#Mādhava|Mādhava]] ·
+[[glossary/m#Mādhukarī|Mādhukarī]] ·
+[[glossary/m#Madhupati|Madhupati]] ·
+[[glossary/m#Madhura-rasa|Madhura-rasa]] ·
+[[glossary/m#Mādhurya-bhaktas|Mādhurya-bhaktas]] ·
+[[glossary/m#Mādhurya-līlā|Mādhurya-līlā]] ·
+[[glossary/m#Mādhurya-rasa|Mādhurya-rasa]] ·
+[[glossary/m#Mādhurya-rati|Mādhurya-rati]] ·
+[[glossary/m#Madhusūdana|Madhusūdana]] ·
+[[glossary/m#Madhvācārya|Madhvācārya]] ·
+[[glossary/m#Madhva|Madhva]] ·
+[[glossary/m#Madhya-līlā|Madhya-līlā]] ·
+[[glossary/m#Madhyama-adhikārī|Madhyama-adhikārī]] ·
+[[glossary/m#Madirā|Madirā]] ·
+[[glossary/m#Madirekṣaṇā|Madirekṣaṇā]] ·
+[[glossary/m#Mādrī|Mādrī]] ·
+[[glossary/m#Magadha|Magadha]] ·
+[[glossary/m#Māgha-melā|Māgha-melā]] ·
+[[glossary/m#Mahā-bhāgavata|Mahā-bhāgavata]] ·
+[[glossary/m#Mahā-bhāva|Mahā-bhāva]] ·
+[[glossary/m#Mahābhārata|Mahābhārata]] ·
+[[glossary/m#Mahā-bhūtas|Mahā-bhūtas]] ·
+[[glossary/m#Mahā-dvādaśī|Mahā-dvādaśī]] ·
+[[glossary/m#Mahā-lakṣmī|Mahā-lakṣmī]] ·
+[[glossary/m#Mahā-mahā-prasādam|Mahā-mahā-prasādam]] ·
+[[glossary/m#Mala|Mala]] ·
+[[glossary/m#Mahā-mantra|Mahā-mantra]] ·
+[[glossary/m#Mahā-māyā|Mahā-māyā]] ·
+[[glossary/m#Mahā-paṇḍita|Mahā-paṇḍita]] ·
+[[glossary/m#Mahā-prasādam|Mahā-prasādam]] ·
+[[glossary/m#Mahat|Mahat]] ·
+[[glossary/m#Mahat-tattva|Mahat-tattva]] ·
+[[glossary/m#Mahapuri|Mahapuri]] ·
+[[glossary/m#Mahā-pūrṇa|Mahā-pūrṇa]] ·
+[[glossary/m#Mahā-puruṣa|Mahā-puruṣa]] ·
+[[glossary/m#Mahā-ratha|Mahā-ratha]] ·
+[[glossary/m#Mahā-snāna|Mahā-snāna]] ·
+[[glossary/m#Mahā-vadānyāvatāra|Mahā-vadānyāvatāra]] ·
+[[glossary/m#Mahā-vākya|Mahā-vākya]] ·
+[[glossary/m#Maha-Viṣṇu|Maha-Viṣṇu]] ·
+[[glossary/m#Mahābhārata-tatparya-nīrṇaya|Mahābhārata-tatparya-nīrṇaya]] ·
+[[glossary/m#Mahābhārata|Mahābhārata]] ·
+[[glossary/m#Mahābhuta|Mahābhuta]] ·
+[[glossary/m#Mahādeva|Mahādeva]] ·
+[[glossary/m#Mahājana|Mahājana]] ·
+[[glossary/m#Mahākāśa|Mahākāśa]] ·
+[[glossary/m#Mahal|Mahal]] ·
+[[glossary/m#Mahāprabhu|Mahāprabhu]] ·
+[[glossary/m#Mahārāṇī|Mahārāṇī]] ·
+[[glossary/m#Mahārāja|Mahārāja]] ·
+[[glossary/m#Mahāraurava|Mahāraurava]] ·
+[[glossary/m#Maharloka|Maharloka]] ·
+[[glossary/m#Mahātmā|Mahātmā]] ·
+[[glossary/m#Maheśvara|Maheśvara]] ·
+[[glossary/m#Mahendra|Mahendra]] ·
+[[glossary/m#Mahiṣa|Mahiṣa]] ·
+[[glossary/m#Mahodara|Mahodara]] ·
+[[glossary/m#Maidan|Maidan]] ·
+[[glossary/m#Maināka|Maināka]] ·
+[[glossary/m#Maitreya Muni|Maitreya Muni]] ·
+[[glossary/m#Makara-dhvaja|Makara-dhvaja]] ·
+[[glossary/m#Mālā|Mālā]] ·
+[[glossary/m#Malayadhvaja|Malayadhvaja]] ·
+[[glossary/m#Malina-aṅgatā|Malina-aṅgatā]] ·
+[[glossary/m#Mallikā|Mallikā]] ·
+[[glossary/m#Mālyavān|Mālyavān]] ·
+[[glossary/m#Mamatā|Mamatā]] ·
+[[glossary/m#Mānasa-gaṅgā|Mānasa-gaṅgā]] ·
+[[glossary/m#Mānasarovara|Mānasarovara]] ·
+[[glossary/m#Mānā|Mānā]] ·
+[[glossary/m#Māna|Māna]] ·
+[[glossary/m#Mandapam (mandapa)|Mandapam (mandapa)]] ·
+[[glossary/m#Mandarācala|Mandarācala]] ·
+[[glossary/m#Mandir|Mandir]] ·
+[[glossary/m#Maṅgala-arati|Maṅgala-arati]] ·
+[[glossary/m#Maṇimān|Maṇimān]] ·
+[[glossary/m#Maṇimā|Maṇimā]] ·
+[[glossary/m#Manīṣā|Manīṣā]] ·
+[[glossary/m#Mañjarī|Mañjarī]] ·
+[[glossary/m#Manjughoṣā|Manjughoṣā]] ·
+[[glossary/m#Manomaya|Manomaya]] ·
+[[glossary/m#Mantra|Mantra]] ·
+[[glossary/m#Manu-saṁhitā|Manu-saṁhitā]] ·
+[[glossary/m#Manuṣya-gaṇa|Manuṣya-gaṇa]] ·
+[[glossary/m#Manu|Manu]] ·
+[[glossary/m#Manvantara-avatāras|Manvantara-avatāras]] ·
+[[glossary/m#Manvantara|Manvantara]] ·
+[[glossary/m#Marakata-maṇi|Marakata-maṇi]] ·
+[[glossary/m#Maratha|Maratha]] ·
+[[glossary/m#Mārga|Mārga]] ·
+[[glossary/m#Marīci|Marīci]] ·
+[[glossary/m#Māriṣā|Māriṣā]] ·
+[[glossary/m#Mārkaṇḍeya Ṛṣi|Mārkaṇḍeya Ṛṣi]] ·
+[[glossary/m#Mārkaṇḍeya Purāṇa|Mārkaṇḍeya Purāṇa]] ·
+[[glossary/m#Markaṭa-vairāgya|Markaṭa-vairāgya]] ·
+[[glossary/m#Martya-loka|Martya-loka]] ·
+[[glossary/m#Martya|Martya]] ·
+[[glossary/m#Marudloka|Marudloka]] ·
+[[glossary/m#Maruts|Maruts]] ·
+[[glossary/m#Marxism|Marxism]] ·
+[[glossary/m#Maryādā-laṅghana|Maryādā-laṅghana]] ·
+[[glossary/m#Masjīd|Masjīd]] ·
+[[glossary/m#Mātā Śacī|Mātā Śacī]] ·
+[[glossary/m#Mātali|Mātali]] ·
+[[glossary/m#Mata|Mata]] ·
+[[glossary/m#Materialism|Materialism]] ·
+[[glossary/m#Maṭha|Maṭha]] ·
+[[glossary/m#Mathurā|Mathurā]] ·
+[[glossary/m#Matiar|Matiar]] ·
+[[glossary/m#Mati|Mati]] ·
+[[glossary/m#Mātsarya|Mātsarya]] ·
+[[glossary/m#Matsya|Matsya]] ·
+[[glossary/m#Maugdhya|Maugdhya]] ·
+[[glossary/m#Mauṣala-līlā|Mauṣala-līlā]] ·
+[[glossary/m#Maya Dānava|Maya Dānava]] ·
+[[glossary/m#Māyā-śakti|Māyā-śakti]] ·
+[[glossary/m#Māyā-sukha|Māyā-sukha]] ·
+[[glossary/m#Moha|Moha]] ·
+[[glossary/m#Māyā-vaśa|Māyā-vaśa]] ·
+[[glossary/m#Māyādhīśa|Māyādhīśa]] ·
+[[glossary/m#Māyāvāda|Māyāvāda]] ·
+[[glossary/m#Mayāvādī|Mayāvādī]] ·
+[[glossary/m#Māyāvāda philosophy|Māyāvāda philosophy]] ·
+[[glossary/m#Māyā|Māyā]] ·
+[[glossary/m#Mechanomorphism|Mechanomorphism]] ·
+[[glossary/m#Mela|Mela]] ·
+[[glossary/m#Menakā|Menakā]] ·
+[[glossary/m#Meru|Meru]] ·
+[[glossary/m#Metaphysics|Metaphysics]] ·
+[[glossary/m#Method|Method]] ·
+[[glossary/m#Mezze|Mezze]] ·
+[[glossary/m#Mīmāṁsakas|Mīmāṁsakas]] ·
+[[glossary/m#Mīmāṁsā|Mīmāṁsā]] ·
+[[glossary/m#Mind|Mind]] ·
+[[glossary/m#Mind/body problem|Mind/body problem]] ·
+[[glossary/m#Mirabai|Mirabai]] ·
+[[glossary/m#Miśra-sattva|Miśra-sattva]] ·
+[[glossary/m#Mithila|Mithila]] ·
+[[glossary/m#Mitra|Mitra]] ·
+[[glossary/m#Mleccha|Mleccha]] ·
+[[glossary/m#Mlecchas|Mlecchas]] ·
+[[glossary/m#Modes of nature|Modes of nature]] ·
+[[glossary/m#Moghul|Moghul]] ·
+[[glossary/m#Mohana|Mohana]] ·
+[[glossary/m#Moha|Moha]] ·
+[[glossary/m#Mohinī|Mohinī]] ·
+[[glossary/m#Monism|Monism]] ·
+[[glossary/m#Mokṣa-kāmī|Mokṣa-kāmī]] ·
+[[glossary/m#Mokṣākāṅkṣī|Mokṣākāṅkṣī]] ·
+[[glossary/m#Mokṣa|Mokṣa]] ·
+[[glossary/m#Mokṣonmukhī|Mokṣonmukhī]] ·
+[[glossary/m#Monolith|Monolith]] ·
+[[glossary/m#Monotheism|Monotheism]] ·
+[[glossary/m#Monsoon|Monsoon]] ·
+[[glossary/m#Moṭṭāyita|Moṭṭāyita]] ·
+[[glossary/m#Mṛdaṅga|Mṛdaṅga]] ·
+[[glossary/m#Mṛttikā|Mṛttikā]] ·
+[[glossary/m#Mṛtyu|Mṛtyu]] ·
+[[glossary/m#Mūḍha|Mūḍha]] ·
+[[glossary/m#Muhammed|Muhammed]] ·
+[[glossary/m#Muhūrta|Muhūrta]] ·
+[[glossary/m#Mukta-puruṣa|Mukta-puruṣa]] ·
+[[glossary/m#Mukti-devī|Mukti-devī]] ·
+[[glossary/m#Mukti-pāda|Mukti-pāda]] ·
+[[glossary/m#Mukti|Mukti]] ·
+[[glossary/m#Mukunda|Mukunda]] ·
+[[glossary/m#Mūla-mantra|Mūla-mantra]] ·
+[[glossary/m#Mukunda-datta|Mukunda-datta]] ·
+[[glossary/m#Mukut|Mukut]] ·
+[[glossary/m#Mumukṣu|Mumukṣu]] ·
+[[glossary/m#Muni-putra|Muni-putra]] ·
+[[glossary/m#Muni|Muni]] ·
+[[glossary/m#Muraripu (Muradviṣa)|Muraripu (Muradviṣa)]] ·
+[[glossary/m#Murāri|Murāri]] ·
+[[glossary/m#Mūrti|Mūrti]] ·
+[[glossary/m#Mysticism|Mysticism]] ·
+[[glossary/m#Mystic yoga|Mystic yoga]]
 
 
 
 ===== N =====
 
-[[glossary/n#Nābhi]] ·
-[[glossary/n#Nadīyā-nāgarī]] ·
-[[glossary/n#Nadi]] ·
-[[glossary/n#Nāgapatnī]] ·
-[[glossary/n#Nagara]] ·
-[[glossary/n#Nāgas]] ·
-[[glossary/n#Nāga]] ·
-[[glossary/n#Naimiṣāraṇya]] ·
-[[glossary/n#Naishada]] ·
-[[glossary/n#Naiṣkarma]] ·
-[[glossary/n#Naiṣṭhika-brahmacārī]] ·
-[[glossary/n#Nakṣatra]] ·
-[[glossary/n#Nakula]] ·
-[[glossary/n#Nakula]] ·
-[[glossary/n#Nāma-aparādha]] ·
-[[glossary/n#Nāma-saṅkīrtana]] ·
-[[glossary/n#Nāmābhāsa]] ·
-[[glossary/n#Nāmācārya]] ·
-[[glossary/n#Namaste]] ·
-[[glossary/n#Nāmmālvāra]] ·
-[[glossary/n#Namo nārāyaṇāya]] ·
-[[glossary/n#Nan]] ·
-[[glossary/n#Nanda Mahārāja]] ·
-[[glossary/n#Nanda-mahotsava]] ·
-[[glossary/n#Nanda-nandana]] ·
-[[glossary/n#Nandana-kānana]] ·
-[[glossary/n#Nandavana]] ·
-[[glossary/n#Nanda]] ·
-[[glossary/n#Nāndī-śloka]] ·
-[[glossary/n#Nandi]] ·
-[[glossary/n#Nara-deva]] ·
-[[glossary/n#Nara-Nārāyaṇa Ṛṣi]] ·
-[[glossary/n#Nārada Muni]] ·
-[[glossary/n#Nārada Pañcarātra]] ·
-[[glossary/n#Narādhama]] ·
-[[glossary/n#Narakāsura]] ·
-[[glossary/n#Narakeśvara]] ·
-[[glossary/n#Nārakī]] ·
-[[glossary/n#Narakuṇḍa]] ·
-[[glossary/n#Narasiṁha, Lord]] ·
-[[glossary/n#Nārāyaṇa-parāyaṇa]] ·
-[[glossary/n#Nārāyaṇa-para]] ·
-[[glossary/n#Nārāyaṇa]] ·
-[[glossary/n#Nara]] ·
-[[glossary/n#Narottama dāsa Ṭhākura]] ·
-[[glossary/n#Naṣṭa-buddhi]] ·
-[[glossary/n#Naṣṭa-prajña]] ·
-[[glossary/n#Natarāja]] ·
-[[glossary/n#Natural theology]] ·
-[[glossary/n#Nava-yauvana day]] ·
-[[glossary/n#Nava-yauvana]] ·
-[[glossary/n#Navadvīpa]] ·
-[[glossary/n#Navagraha]] ·
-[[glossary/n#Navamī]] ·
-[[glossary/n#Nawab]] ·
-[[glossary/n#Nawab Hussein Shah]] ·
-[[glossary/n#Nesis (Gr.)]] ·
-[[glossary/n#Neti neti]] ·
-[[glossary/n#Netrotsava festival]] ·
-[[glossary/n#Newman, John Henry (1801-1890)]] ·
-[[glossary/n#New Philosophy]] ·
-[[glossary/n#Newton, Sir Isaac]] ·
-[[glossary/n#Nidrā]] ·
-[[glossary/n#Nigarbha-yogī]] ·
-[[glossary/n#Nija-dharma]] ·
-[[glossary/n#Nīlā]] ·
-[[glossary/n#Nilambar Cakravartī]] ·
-[[glossary/n#Nilambara Cakravartī]] ·
-[[glossary/n#Nimi]] ·
-[[glossary/n#Nimai]] ·
-[[glossary/n#Nindakas]] ·
-[[glossary/n#Nirantara]] ·
-[[glossary/n#Nirgrantha-muni]] ·
-[[glossary/n#Nirguṇa-brahma]] ·
-[[glossary/n#Nirguṇa]] ·
-[[glossary/n#Nirjala]] ·
-[[glossary/n#Nirmama]] ·
-[[glossary/n#Nirodha]] ·
-[[glossary/n#Nirvāṇa]] ·
-[[glossary/n#Nirveda]] ·
-[[glossary/n#Nirviśeṣa-vādīs]] ·
-[[glossary/n#Niścaya]] ·
-[[glossary/n#Niṣiddhācāra]] ·
-[[glossary/n#Niṣkāma]] ·
-[[glossary/n#Niṣkiñcana]] ·
-[[glossary/n#Nistraiguṇya]] ·
-[[glossary/n#Nitya-baddha]] ·
-[[glossary/n#Nitya-līlā]] ·
-[[glossary/n#Nitya-muktas]] ·
-[[glossary/n#Nitya-mukta]] ·
-[[glossary/n#Nitya-siddha]] ·
-[[glossary/n#Nityānanda Prabhu]] ·
-[[glossary/n#Nivātakavacas]] ·
-[[glossary/n#Nivṛtti-mārga]] ·
-[[glossary/n#Niyamāgraha]] ·
-[[glossary/n#Niyama]] ·
-[[glossary/n#Nṛ-yajña]] ·
-[[glossary/n#Nṛga]] ·
-[[glossary/n#Nrita-mandapa]] ·
-[[glossary/n#Nṛsiṁha Purāṇa]] ·
-[[glossary/n#Nṛsiṁha-caturdaśī festival]] ·
-[[glossary/n#Nṛsiṁha-deva]] ·
-[[glossary/n#Numinous]] ·
-[[glossary/n#Nyāya]] ·
-[[glossary/n#Nyāyu-śāstra]]
+[[glossary/n#Nābhi|Nābhi]] ·
+[[glossary/n#Nadīyā-nāgarī|Nadīyā-nāgarī]] ·
+[[glossary/n#Nadi|Nadi]] ·
+[[glossary/n#Nāgapatnī|Nāgapatnī]] ·
+[[glossary/n#Nagara|Nagara]] ·
+[[glossary/n#Nāgas|Nāgas]] ·
+[[glossary/n#Nāga|Nāga]] ·
+[[glossary/n#Naimiṣāraṇya|Naimiṣāraṇya]] ·
+[[glossary/n#Naishada|Naishada]] ·
+[[glossary/n#Naiṣkarma|Naiṣkarma]] ·
+[[glossary/n#Naiṣṭhika-brahmacārī|Naiṣṭhika-brahmacārī]] ·
+[[glossary/n#Nakṣatra|Nakṣatra]] ·
+[[glossary/n#Nakula|Nakula]] ·
+[[glossary/n#Nakula|Nakula]] ·
+[[glossary/n#Nāma-aparādha|Nāma-aparādha]] ·
+[[glossary/n#Nāma-saṅkīrtana|Nāma-saṅkīrtana]] ·
+[[glossary/n#Nāmābhāsa|Nāmābhāsa]] ·
+[[glossary/n#Nāmācārya|Nāmācārya]] ·
+[[glossary/n#Namaste|Namaste]] ·
+[[glossary/n#Nāmmālvāra|Nāmmālvāra]] ·
+[[glossary/n#Namo nārāyaṇāya|Namo nārāyaṇāya]] ·
+[[glossary/n#Nan|Nan]] ·
+[[glossary/n#Nanda Mahārāja|Nanda Mahārāja]] ·
+[[glossary/n#Nanda-mahotsava|Nanda-mahotsava]] ·
+[[glossary/n#Nanda-nandana|Nanda-nandana]] ·
+[[glossary/n#Nandana-kānana|Nandana-kānana]] ·
+[[glossary/n#Nandavana|Nandavana]] ·
+[[glossary/n#Nanda|Nanda]] ·
+[[glossary/n#Nāndī-śloka|Nāndī-śloka]] ·
+[[glossary/n#Nandi|Nandi]] ·
+[[glossary/n#Nara-deva|Nara-deva]] ·
+[[glossary/n#Nara-Nārāyaṇa Ṛṣi|Nara-Nārāyaṇa Ṛṣi]] ·
+[[glossary/n#Nārada Muni|Nārada Muni]] ·
+[[glossary/n#Nārada Pañcarātra|Nārada Pañcarātra]] ·
+[[glossary/n#Narādhama|Narādhama]] ·
+[[glossary/n#Narakāsura|Narakāsura]] ·
+[[glossary/n#Narakeśvara|Narakeśvara]] ·
+[[glossary/n#Nārakī|Nārakī]] ·
+[[glossary/n#Narakuṇḍa|Narakuṇḍa]] ·
+[[glossary/n#Narasiṁha, Lord|Narasiṁha, Lord]] ·
+[[glossary/n#Nārāyaṇa-parāyaṇa|Nārāyaṇa-parāyaṇa]] ·
+[[glossary/n#Nārāyaṇa-para|Nārāyaṇa-para]] ·
+[[glossary/n#Nārāyaṇa|Nārāyaṇa]] ·
+[[glossary/n#Nara|Nara]] ·
+[[glossary/n#Narottama dāsa Ṭhākura|Narottama dāsa Ṭhākura]] ·
+[[glossary/n#Naṣṭa-buddhi|Naṣṭa-buddhi]] ·
+[[glossary/n#Naṣṭa-prajña|Naṣṭa-prajña]] ·
+[[glossary/n#Natarāja|Natarāja]] ·
+[[glossary/n#Natural theology|Natural theology]] ·
+[[glossary/n#Nava-yauvana day|Nava-yauvana day]] ·
+[[glossary/n#Nava-yauvana|Nava-yauvana]] ·
+[[glossary/n#Navadvīpa|Navadvīpa]] ·
+[[glossary/n#Navagraha|Navagraha]] ·
+[[glossary/n#Navamī|Navamī]] ·
+[[glossary/n#Nawab|Nawab]] ·
+[[glossary/n#Nawab Hussein Shah|Nawab Hussein Shah]] ·
+[[glossary/n#Nesis (Gr.)|Nesis (Gr.)]] ·
+[[glossary/n#Neti neti|Neti neti]] ·
+[[glossary/n#Netrotsava festival|Netrotsava festival]] ·
+[[glossary/n#Newman, John Henry (1801-1890)|Newman, John Henry (1801-1890)]] ·
+[[glossary/n#New Philosophy|New Philosophy]] ·
+[[glossary/n#Newton, Sir Isaac|Newton, Sir Isaac]] ·
+[[glossary/n#Nidrā|Nidrā]] ·
+[[glossary/n#Nigarbha-yogī|Nigarbha-yogī]] ·
+[[glossary/n#Nija-dharma|Nija-dharma]] ·
+[[glossary/n#Nīlā|Nīlā]] ·
+[[glossary/n#Nilambar Cakravartī|Nilambar Cakravartī]] ·
+[[glossary/n#Nilambara Cakravartī|Nilambara Cakravartī]] ·
+[[glossary/n#Nimi|Nimi]] ·
+[[glossary/n#Nimai|Nimai]] ·
+[[glossary/n#Nindakas|Nindakas]] ·
+[[glossary/n#Nirantara|Nirantara]] ·
+[[glossary/n#Nirgrantha-muni|Nirgrantha-muni]] ·
+[[glossary/n#Nirguṇa-brahma|Nirguṇa-brahma]] ·
+[[glossary/n#Nirguṇa|Nirguṇa]] ·
+[[glossary/n#Nirjala|Nirjala]] ·
+[[glossary/n#Nirmama|Nirmama]] ·
+[[glossary/n#Nirodha|Nirodha]] ·
+[[glossary/n#Nirvāṇa|Nirvāṇa]] ·
+[[glossary/n#Nirveda|Nirveda]] ·
+[[glossary/n#Nirviśeṣa-vādīs|Nirviśeṣa-vādīs]] ·
+[[glossary/n#Niścaya|Niścaya]] ·
+[[glossary/n#Niṣiddhācāra|Niṣiddhācāra]] ·
+[[glossary/n#Niṣkāma|Niṣkāma]] ·
+[[glossary/n#Niṣkiñcana|Niṣkiñcana]] ·
+[[glossary/n#Nistraiguṇya|Nistraiguṇya]] ·
+[[glossary/n#Nitya-baddha|Nitya-baddha]] ·
+[[glossary/n#Nitya-līlā|Nitya-līlā]] ·
+[[glossary/n#Nitya-muktas|Nitya-muktas]] ·
+[[glossary/n#Nitya-mukta|Nitya-mukta]] ·
+[[glossary/n#Nitya-siddha|Nitya-siddha]] ·
+[[glossary/n#Nityānanda Prabhu|Nityānanda Prabhu]] ·
+[[glossary/n#Nivātakavacas|Nivātakavacas]] ·
+[[glossary/n#Nivṛtti-mārga|Nivṛtti-mārga]] ·
+[[glossary/n#Niyamāgraha|Niyamāgraha]] ·
+[[glossary/n#Niyama|Niyama]] ·
+[[glossary/n#Nṛ-yajña|Nṛ-yajña]] ·
+[[glossary/n#Nṛga|Nṛga]] ·
+[[glossary/n#Nrita-mandapa|Nrita-mandapa]] ·
+[[glossary/n#Nṛsiṁha Purāṇa|Nṛsiṁha Purāṇa]] ·
+[[glossary/n#Nṛsiṁha-caturdaśī festival|Nṛsiṁha-caturdaśī festival]] ·
+[[glossary/n#Nṛsiṁha-deva|Nṛsiṁha-deva]] ·
+[[glossary/n#Numinous|Numinous]] ·
+[[glossary/n#Nyāya|Nyāya]] ·
+[[glossary/n#Nyāyu-śāstra|Nyāyu-śāstra]]
 
 
 
 ===== O =====
 
-[[glossary/o#Objective reality]] ·
-[[glossary/o#Occult, Occult quality]] ·
-[[glossary/o#Oḍana-ṣaṣṭhī]] ·
-[[glossary/o#Om tat sat]] ·
-[[glossary/o#Ontology]] ·
-[[glossary/o#Oṁkāra]]
+[[glossary/o#Objective reality|Objective reality]] ·
+[[glossary/o#Occult, Occult quality|Occult, Occult quality]] ·
+[[glossary/o#Oḍana-ṣaṣṭhī|Oḍana-ṣaṣṭhī]] ·
+[[glossary/o#Om tat sat|Om tat sat]] ·
+[[glossary/o#Ontology|Ontology]] ·
+[[glossary/o#Oṁkāra|Oṁkāra]]
 
 
 
 ===== P =====
 
-[[glossary/p#Paani]] ·
-[[glossary/p#Pāda-sevana]] ·
-[[glossary/p#Padayātrā]] ·
-[[glossary/p#Paḍichā]] ·
-[[glossary/p#Padma Purāṇa]] ·
-[[glossary/p#Padmanābha]] ·
-[[glossary/p#Padma]] ·
-[[glossary/p#Pādya]] ·
-[[glossary/p#Paise]] ·
-[[glossary/p#Pakka]] ·
-[[glossary/p#Pālana-śakti]] ·
-[[glossary/p#Palanquin]] ·
-[[glossary/p#Pālas]] ·
-[[glossary/p#Pallavas]] ·
-[[glossary/p#Pañca-gavya]] ·
-[[glossary/p#Pañca-mahābhūta]] ·
-[[glossary/p#Pañca-mahāyajña]] ·
-[[glossary/p#Pañca-tattva]] ·
-[[glossary/p#Pāñcajanya]] ·
-[[glossary/p#Pāñcāla]] ·
-[[glossary/p#Pañcāla]] ·
-[[glossary/p#Pañcāmṛta]] ·
-[[glossary/p#Pañcarātra-vidhi]] ·
-[[glossary/p#Pañcarātra]] ·
-[[glossary/p#Pañcarātrika-vidhi]] ·
-[[glossary/p#Pañcarātrika]] ·
-[[glossary/p#Pañcopāsanā]] ·
-[[glossary/p#Panch masala]] ·
-[[glossary/p#Panch puran]] ·
-[[glossary/p#Pāṇḍavas]] ·
-[[glossary/p#Pāṇḍā]] ·
-[[glossary/p#Paṇḍita-maṇi]] ·
-[[glossary/p#Pāṇḍitaka]] ·
-[[glossary/p#Paṇḍita]] ·
-[[glossary/p#Paṇḍita]] ·
-[[glossary/p#Pāṇḍu-vijaya]] ·
-[[glossary/p#Pāṇḍu]] ·
-[[glossary/p#Pāṇḍyas]] ·
-[[glossary/p#Panentheism]] ·
-[[glossary/p#Pāṅji-ṭikā]] ·
-[[glossary/p#Panpsychism]] ·
-[[glossary/p#Pāpahāriṇī]] ·
-[[glossary/p#Pāpānkuṣā]] ·
-[[glossary/p#Paradox]] ·
-[[glossary/p#Parā-prakṛti]] ·
-[[glossary/p#Para-upakāra]] ·
-[[glossary/p#Para-vidyā]] ·
-[[glossary/p#Para-brahman]] ·
-[[glossary/p#Paraśurāma]] ·
-[[glossary/p#Parakīya-rasa]] ·
-[[glossary/p#Parakīya]] ·
-[[glossary/p#Param Brahman]] ·
-[[glossary/p#Param dhāma]] ·
-[[glossary/p#Parama-puruṣārtha]] ·
-[[glossary/p#Parama-vidvān]] ·
-[[glossary/p#Paramaṁ padam]] ·
-[[glossary/p#Paraṁ satyam]] ·
-[[glossary/p#Paramahaṁsa Bābājī]] ·
-[[glossary/p#Paramahaṁsa-ṭhākura]] ·
-[[glossary/p#Paramahaṁsa]] ·
-[[glossary/p#Paramātmā]] ·
-[[glossary/p#Parameśvara]] ·
-[[glossary/p#Paramparā]] ·
-[[glossary/p#Parantapa]] ·
-[[glossary/p#Parārdha]] ·
-[[glossary/p#Parasara Muni]] ·
-[[glossary/p#Paravyoma]] ·
-[[glossary/p#Para]] ·
-[[glossary/p#Para-vidyā]] ·
-[[glossary/p#Paricchada]] ·
-[[glossary/p#Parikrama]] ·
-[[glossary/p#Parīkṣit]] ·
-[[glossary/p#Pariṇāma-vāda]] ·
-[[glossary/p#Pārijāta]] ·
-[[glossary/p#Pāriṣats]] ·
-[[glossary/p#Parivrājakācārya]] ·
-[[glossary/p#Parokṣa]] ·
-[[glossary/p#Pārtha-sārathi]] ·
-[[glossary/p#Pārvata Muni]] ·
-[[glossary/p#Pārvatī]] ·
-[[glossary/p#Pāṣaṇḍa]] ·
-[[glossary/p#Pāṣaṇḍī]] ·
-[[glossary/p#Pāsa]] ·
-[[glossary/p#Pāṣcālī]] ·
-[[glossary/p#Passion]] ·
-[[glossary/p#Pāśupatāstra]] ·
-[[glossary/p#Patañjali]] ·
-[[glossary/p#Pātālaloka]] ·
-[[glossary/p#Paṭhana]] ·
-[[glossary/p#Patita-pāvana]] ·
-[[glossary/p#Pati]] ·
-[[glossary/p#Pātra]] ·
-[[glossary/p#Paugaṇḍa]] ·
-[[glossary/p#Pauṇḍraka]] ·
-[[glossary/p#Paura-jana]] ·
-[[glossary/p#Pautra]] ·
-[[glossary/p#Pauṇḍram]] ·
-[[glossary/p#Pavitram]] ·
-[[glossary/p#Personalism]] ·
-[[glossary/p#Phala-śrutis]] ·
-[[glossary/p#Phalguna]] ·
-[[glossary/p#Phalgu]] ·
-[[glossary/p#Phenomenalism]] ·
-[[glossary/p#Phenomenology]] ·
-[[glossary/p#Philosophy]] ·
-[[glossary/p#Phul gobhi]] ·
-[[glossary/p#Pika]] ·
-[[glossary/p#Piṇḍa]] ·
-[[glossary/p#Piśāca]] ·
-[[glossary/p#Pitās]] ·
-[[glossary/p#Pitha]] ·
-[[glossary/p#Pitṛ-yajña]] ·
-[[glossary/p#Pitṛloka]] ·
-[[glossary/p#Pitta]] ·
-[[glossary/p#Plato]] ·
-[[glossary/p#Plotinus]] ·
-[[glossary/p#Polenta]] ·
-[[glossary/p#Polytheism]] ·
-[[glossary/p#Popper, Karl]] ·
-[[glossary/p#Poṣaṇa]] ·
-[[glossary/p#Positivism]] ·
-[[glossary/p#Prabhāsa]] ·
-[[glossary/p#Prabhu-datta-deśa]] ·
-[[glossary/p#Prabhupāda, Śrīla]] ·
-[[glossary/p#Prabhupāda]] ·
-[[glossary/p#Prabhu]] ·
-[[glossary/p#Prabodhānanda Sarasvatī]] ·
-[[glossary/p#Prabodha]] ·
-[[glossary/p#Prācīnabarhi]] ·
-[[glossary/p#Pracetās]] ·
-[[glossary/p#Pradesh]] ·
-[[glossary/p#Pradhāna]] ·
-[[glossary/p#Pradyumna]] ·
-[[glossary/p#Prāgjyotiṣapura]] ·
-[[glossary/p#Pragmatism]] ·
-[[glossary/p#Prahararāja]] ·
-[[glossary/p#Prahara]] ·
-[[glossary/p#Prahlāda Maharāja]] ·
-[[glossary/p#Prajalpa]] ·
-[[glossary/p#Prajvāra]] ·
-[[glossary/p#Prajāpatis]] ·
-[[glossary/p#Prajās]] ·
-[[glossary/p#Prakāśa-vigrahas]] ·
-[[glossary/p#Prākāmya]] ·
-[[glossary/p#Prakaṭa-līlā]] ·
-[[glossary/p#Prakara]] ·
-[[glossary/p#Prākṛta-bhaktas]] ·
-[[glossary/p#Prākṛta-sahajiyās]] ·
-[[glossary/p#Prākṛta]] ·
-[[glossary/p#Prakṛti]] ·
-[[glossary/p#Prakṣepātmikā-śakti]] ·
-[[glossary/p#Pralāpa]] ·
-[[glossary/p#Pramāṇa]] ·
-[[glossary/p#Pramāda]] ·
-[[glossary/p#Pramadā]] ·
-[[glossary/p#Pramatta]] ·
-[[glossary/p#Pramlocā]] ·
-[[glossary/p#Prāṇa-maya]] ·
-[[glossary/p#Praṇava]] ·
-[[glossary/p#Prāṇāyāma]] ·
-[[glossary/p#Praṇaya]] ·
-[[glossary/p#Prāṇa]] ·
-[[glossary/p#Pranava oṁkara]] ·
-[[glossary/p#Prāpta-brahma-laya]] ·
-[[glossary/p#Prāpta-svarūpas]] ·
-[[glossary/p#Prāpti-siddhi]] ·
-[[glossary/p#Prāpti]] ·
-[[glossary/p#Prarocanā]] ·
-[[glossary/p#Praśānta]] ·
-[[glossary/p#Prasāda, or prasādam]] ·
-[[glossary/p#Prasādī]] ·
-[[glossary/p#Prasannātmā]] ·
-[[glossary/p#Prasūti]] ·
-[[glossary/p#Pratīpa]] ·
-[[glossary/p#Pratibimba-vāda]] ·
-[[glossary/p#Pratigraha]] ·
-[[glossary/p#Pratikriyā]] ·
-[[glossary/p#Pratiṣṭhāśā]] ·
-[[glossary/p#Prativindhya]] ·
-[[glossary/p#Pratyag-ātmā]] ·
-[[glossary/p#Pratyakṣa]] ·
-[[glossary/p#Pratyāhāra]] ·
-[[glossary/p#Pravartaka]] ·
-[[glossary/p#Pravāsa]] ·
-[[glossary/p#Pravṛtti-mārga]] ·
-[[glossary/p#Prāyaścitta]] ·
-[[glossary/p#Prayāga]] ·
-[[glossary/p#Prayojana]] ·
-[[glossary/p#Preyas]] ·
-[[glossary/p#Prema]] ·
-[[glossary/p#Prema-bhakti]] ·
-[[glossary/p#Prema-saṅkīrtana]] ·
-[[glossary/p#Prema-vaicittya]] ·
-[[glossary/p#Prema-vataḥ]] ·
-[[glossary/p#Prema]] ·
-[[glossary/p#Pretsila Hill]] ·
-[[glossary/p#Priyatama]] ·
-[[glossary/p#Priyavrata]] ·
-[[glossary/p#Problem of evil]] ·
-[[glossary/p#Proṣita-bhaṛtkā]] ·
-[[glossary/p#Pṛṣata]] ·
-[[glossary/p#Pṛśni]] ·
-[[glossary/p#Pṛthā]] ·
-[[glossary/p#Pṛthu Mahārāja]] ·
-[[glossary/p#Pūjārī]] ·
-[[glossary/p#Pūjā]] ·
-[[glossary/p#Pulastya (Pulaha)]] ·
-[[glossary/p#Puṁścalī]] ·
-[[glossary/p#Puṇḍarīkākṣa]] ·
-[[glossary/p#Puṇya-śloka]] ·
-[[glossary/p#Puṇya]] ·
-[[glossary/p#Puraścaraṇa]] ·
-[[glossary/p#Puraścaryā]] ·
-[[glossary/p#Purāṇa]] ·
-[[glossary/p#Purāṇas]] ·
-[[glossary/p#Puraka]] ·
-[[glossary/p#Puram]] ·
-[[glossary/p#Pura-pālaka]] ·
-[[glossary/p#Pūrṇam]] ·
-[[glossary/p#Pūrṇa]] ·
-[[glossary/p#Purnima]] ·
-[[glossary/p#Purocana]] ·
-[[glossary/p#Pūrtam]] ·
-[[glossary/p#Puruṣa-adhama]] ·
-[[glossary/p#Puruṣa-avatāras]] ·
-[[glossary/p#Puruṣa-sūkta]] ·
-[[glossary/p#Puruṣārtha]] ·
-[[glossary/p#Puruṣa]] ·
-[[glossary/p#Puruṣottama]] ·
-[[glossary/p#Purūravā]] ·
-[[glossary/p#Pūru]] ·
-[[glossary/p#Pūrva-rāga]] ·
-[[glossary/p#Pūrva-vidhi]] ·
-[[glossary/p#Purvāṣādhā]] ·
-[[glossary/p#Puṣkara]] ·
-[[glossary/p#Puṣpa-añjali]] ·
-[[glossary/p#Puṣpadanta]] ·
-[[glossary/p#Pūtanā]] ·
-[[glossary/p#Putra]]
+[[glossary/p#Paani|Paani]] ·
+[[glossary/p#Pāda-sevana|Pāda-sevana]] ·
+[[glossary/p#Padayātrā|Padayātrā]] ·
+[[glossary/p#Paḍichā|Paḍichā]] ·
+[[glossary/p#Padma Purāṇa|Padma Purāṇa]] ·
+[[glossary/p#Padmanābha|Padmanābha]] ·
+[[glossary/p#Padma|Padma]] ·
+[[glossary/p#Pādya|Pādya]] ·
+[[glossary/p#Paise|Paise]] ·
+[[glossary/p#Pakka|Pakka]] ·
+[[glossary/p#Pālana-śakti|Pālana-śakti]] ·
+[[glossary/p#Palanquin|Palanquin]] ·
+[[glossary/p#Pālas|Pālas]] ·
+[[glossary/p#Pallavas|Pallavas]] ·
+[[glossary/p#Pañca-gavya|Pañca-gavya]] ·
+[[glossary/p#Pañca-mahābhūta|Pañca-mahābhūta]] ·
+[[glossary/p#Pañca-mahāyajña|Pañca-mahāyajña]] ·
+[[glossary/p#Pañca-tattva|Pañca-tattva]] ·
+[[glossary/p#Pāñcajanya|Pāñcajanya]] ·
+[[glossary/p#Pāñcāla|Pāñcāla]] ·
+[[glossary/p#Pañcāla|Pañcāla]] ·
+[[glossary/p#Pañcāmṛta|Pañcāmṛta]] ·
+[[glossary/p#Pañcarātra-vidhi|Pañcarātra-vidhi]] ·
+[[glossary/p#Pañcarātra|Pañcarātra]] ·
+[[glossary/p#Pañcarātrika-vidhi|Pañcarātrika-vidhi]] ·
+[[glossary/p#Pañcarātrika|Pañcarātrika]] ·
+[[glossary/p#Pañcopāsanā|Pañcopāsanā]] ·
+[[glossary/p#Panch masala|Panch masala]] ·
+[[glossary/p#Panch puran|Panch puran]] ·
+[[glossary/p#Pāṇḍavas|Pāṇḍavas]] ·
+[[glossary/p#Pāṇḍā|Pāṇḍā]] ·
+[[glossary/p#Paṇḍita-maṇi|Paṇḍita-maṇi]] ·
+[[glossary/p#Pāṇḍitaka|Pāṇḍitaka]] ·
+[[glossary/p#Paṇḍita|Paṇḍita]] ·
+[[glossary/p#Paṇḍita|Paṇḍita]] ·
+[[glossary/p#Pāṇḍu-vijaya|Pāṇḍu-vijaya]] ·
+[[glossary/p#Pāṇḍu|Pāṇḍu]] ·
+[[glossary/p#Pāṇḍyas|Pāṇḍyas]] ·
+[[glossary/p#Panentheism|Panentheism]] ·
+[[glossary/p#Pāṅji-ṭikā|Pāṅji-ṭikā]] ·
+[[glossary/p#Panpsychism|Panpsychism]] ·
+[[glossary/p#Pāpahāriṇī|Pāpahāriṇī]] ·
+[[glossary/p#Pāpānkuṣā|Pāpānkuṣā]] ·
+[[glossary/p#Paradox|Paradox]] ·
+[[glossary/p#Parā-prakṛti|Parā-prakṛti]] ·
+[[glossary/p#Para-upakāra|Para-upakāra]] ·
+[[glossary/p#Para-vidyā|Para-vidyā]] ·
+[[glossary/p#Para-brahman|Para-brahman]] ·
+[[glossary/p#Paraśurāma|Paraśurāma]] ·
+[[glossary/p#Parakīya-rasa|Parakīya-rasa]] ·
+[[glossary/p#Parakīya|Parakīya]] ·
+[[glossary/p#Param Brahman|Param Brahman]] ·
+[[glossary/p#Param dhāma|Param dhāma]] ·
+[[glossary/p#Parama-puruṣārtha|Parama-puruṣārtha]] ·
+[[glossary/p#Parama-vidvān|Parama-vidvān]] ·
+[[glossary/p#Paramaṁ padam|Paramaṁ padam]] ·
+[[glossary/p#Paraṁ satyam|Paraṁ satyam]] ·
+[[glossary/p#Paramahaṁsa Bābājī|Paramahaṁsa Bābājī]] ·
+[[glossary/p#Paramahaṁsa-ṭhākura|Paramahaṁsa-ṭhākura]] ·
+[[glossary/p#Paramahaṁsa|Paramahaṁsa]] ·
+[[glossary/p#Paramātmā|Paramātmā]] ·
+[[glossary/p#Parameśvara|Parameśvara]] ·
+[[glossary/p#Paramparā|Paramparā]] ·
+[[glossary/p#Parantapa|Parantapa]] ·
+[[glossary/p#Parārdha|Parārdha]] ·
+[[glossary/p#Parasara Muni|Parasara Muni]] ·
+[[glossary/p#Paravyoma|Paravyoma]] ·
+[[glossary/p#Para|Para]] ·
+[[glossary/p#Para-vidyā|Para-vidyā]] ·
+[[glossary/p#Paricchada|Paricchada]] ·
+[[glossary/p#Parikrama|Parikrama]] ·
+[[glossary/p#Parīkṣit|Parīkṣit]] ·
+[[glossary/p#Pariṇāma-vāda|Pariṇāma-vāda]] ·
+[[glossary/p#Pārijāta|Pārijāta]] ·
+[[glossary/p#Pāriṣats|Pāriṣats]] ·
+[[glossary/p#Parivrājakācārya|Parivrājakācārya]] ·
+[[glossary/p#Parokṣa|Parokṣa]] ·
+[[glossary/p#Pārtha-sārathi|Pārtha-sārathi]] ·
+[[glossary/p#Pārvata Muni|Pārvata Muni]] ·
+[[glossary/p#Pārvatī|Pārvatī]] ·
+[[glossary/p#Pāṣaṇḍa|Pāṣaṇḍa]] ·
+[[glossary/p#Pāṣaṇḍī|Pāṣaṇḍī]] ·
+[[glossary/p#Pāsa|Pāsa]] ·
+[[glossary/p#Pāṣcālī|Pāṣcālī]] ·
+[[glossary/p#Passion|Passion]] ·
+[[glossary/p#Pāśupatāstra|Pāśupatāstra]] ·
+[[glossary/p#Patañjali|Patañjali]] ·
+[[glossary/p#Pātālaloka|Pātālaloka]] ·
+[[glossary/p#Paṭhana|Paṭhana]] ·
+[[glossary/p#Patita-pāvana|Patita-pāvana]] ·
+[[glossary/p#Pati|Pati]] ·
+[[glossary/p#Pātra|Pātra]] ·
+[[glossary/p#Paugaṇḍa|Paugaṇḍa]] ·
+[[glossary/p#Pauṇḍraka|Pauṇḍraka]] ·
+[[glossary/p#Paura-jana|Paura-jana]] ·
+[[glossary/p#Pautra|Pautra]] ·
+[[glossary/p#Pauṇḍram|Pauṇḍram]] ·
+[[glossary/p#Pavitram|Pavitram]] ·
+[[glossary/p#Personalism|Personalism]] ·
+[[glossary/p#Phala-śrutis|Phala-śrutis]] ·
+[[glossary/p#Phalguna|Phalguna]] ·
+[[glossary/p#Phalgu|Phalgu]] ·
+[[glossary/p#Phenomenalism|Phenomenalism]] ·
+[[glossary/p#Phenomenology|Phenomenology]] ·
+[[glossary/p#Philosophy|Philosophy]] ·
+[[glossary/p#Phul gobhi|Phul gobhi]] ·
+[[glossary/p#Pika|Pika]] ·
+[[glossary/p#Piṇḍa|Piṇḍa]] ·
+[[glossary/p#Piśāca|Piśāca]] ·
+[[glossary/p#Pitās|Pitās]] ·
+[[glossary/p#Pitha|Pitha]] ·
+[[glossary/p#Pitṛ-yajña|Pitṛ-yajña]] ·
+[[glossary/p#Pitṛloka|Pitṛloka]] ·
+[[glossary/p#Pitta|Pitta]] ·
+[[glossary/p#Plato|Plato]] ·
+[[glossary/p#Plotinus|Plotinus]] ·
+[[glossary/p#Polenta|Polenta]] ·
+[[glossary/p#Polytheism|Polytheism]] ·
+[[glossary/p#Popper, Karl|Popper, Karl]] ·
+[[glossary/p#Poṣaṇa|Poṣaṇa]] ·
+[[glossary/p#Positivism|Positivism]] ·
+[[glossary/p#Prabhāsa|Prabhāsa]] ·
+[[glossary/p#Prabhu-datta-deśa|Prabhu-datta-deśa]] ·
+[[glossary/p#Prabhupāda, Śrīla|Prabhupāda, Śrīla]] ·
+[[glossary/p#Prabhupāda|Prabhupāda]] ·
+[[glossary/p#Prabhu|Prabhu]] ·
+[[glossary/p#Prabodhānanda Sarasvatī|Prabodhānanda Sarasvatī]] ·
+[[glossary/p#Prabodha|Prabodha]] ·
+[[glossary/p#Prācīnabarhi|Prācīnabarhi]] ·
+[[glossary/p#Pracetās|Pracetās]] ·
+[[glossary/p#Pradesh|Pradesh]] ·
+[[glossary/p#Pradhāna|Pradhāna]] ·
+[[glossary/p#Pradyumna|Pradyumna]] ·
+[[glossary/p#Prāgjyotiṣapura|Prāgjyotiṣapura]] ·
+[[glossary/p#Pragmatism|Pragmatism]] ·
+[[glossary/p#Prahararāja|Prahararāja]] ·
+[[glossary/p#Prahara|Prahara]] ·
+[[glossary/p#Prahlāda Maharāja|Prahlāda Maharāja]] ·
+[[glossary/p#Prajalpa|Prajalpa]] ·
+[[glossary/p#Prajvāra|Prajvāra]] ·
+[[glossary/p#Prajāpatis|Prajāpatis]] ·
+[[glossary/p#Prajās|Prajās]] ·
+[[glossary/p#Prakāśa-vigrahas|Prakāśa-vigrahas]] ·
+[[glossary/p#Prākāmya|Prākāmya]] ·
+[[glossary/p#Prakaṭa-līlā|Prakaṭa-līlā]] ·
+[[glossary/p#Prakara|Prakara]] ·
+[[glossary/p#Prākṛta-bhaktas|Prākṛta-bhaktas]] ·
+[[glossary/p#Prākṛta-sahajiyās|Prākṛta-sahajiyās]] ·
+[[glossary/p#Prākṛta|Prākṛta]] ·
+[[glossary/p#Prakṛti|Prakṛti]] ·
+[[glossary/p#Prakṣepātmikā-śakti|Prakṣepātmikā-śakti]] ·
+[[glossary/p#Pralāpa|Pralāpa]] ·
+[[glossary/p#Pramāṇa|Pramāṇa]] ·
+[[glossary/p#Pramāda|Pramāda]] ·
+[[glossary/p#Pramadā|Pramadā]] ·
+[[glossary/p#Pramatta|Pramatta]] ·
+[[glossary/p#Pramlocā|Pramlocā]] ·
+[[glossary/p#Prāṇa-maya|Prāṇa-maya]] ·
+[[glossary/p#Praṇava|Praṇava]] ·
+[[glossary/p#Prāṇāyāma|Prāṇāyāma]] ·
+[[glossary/p#Praṇaya|Praṇaya]] ·
+[[glossary/p#Prāṇa|Prāṇa]] ·
+[[glossary/p#Pranava oṁkara|Pranava oṁkara]] ·
+[[glossary/p#Prāpta-brahma-laya|Prāpta-brahma-laya]] ·
+[[glossary/p#Prāpta-svarūpas|Prāpta-svarūpas]] ·
+[[glossary/p#Prāpti-siddhi|Prāpti-siddhi]] ·
+[[glossary/p#Prāpti|Prāpti]] ·
+[[glossary/p#Prarocanā|Prarocanā]] ·
+[[glossary/p#Praśānta|Praśānta]] ·
+[[glossary/p#Prasāda, or prasādam|Prasāda, or prasādam]] ·
+[[glossary/p#Prasādī|Prasādī]] ·
+[[glossary/p#Prasannātmā|Prasannātmā]] ·
+[[glossary/p#Prasūti|Prasūti]] ·
+[[glossary/p#Pratīpa|Pratīpa]] ·
+[[glossary/p#Pratibimba-vāda|Pratibimba-vāda]] ·
+[[glossary/p#Pratigraha|Pratigraha]] ·
+[[glossary/p#Pratikriyā|Pratikriyā]] ·
+[[glossary/p#Pratiṣṭhāśā|Pratiṣṭhāśā]] ·
+[[glossary/p#Prativindhya|Prativindhya]] ·
+[[glossary/p#Pratyag-ātmā|Pratyag-ātmā]] ·
+[[glossary/p#Pratyakṣa|Pratyakṣa]] ·
+[[glossary/p#Pratyāhāra|Pratyāhāra]] ·
+[[glossary/p#Pravartaka|Pravartaka]] ·
+[[glossary/p#Pravāsa|Pravāsa]] ·
+[[glossary/p#Pravṛtti-mārga|Pravṛtti-mārga]] ·
+[[glossary/p#Prāyaścitta|Prāyaścitta]] ·
+[[glossary/p#Prayāga|Prayāga]] ·
+[[glossary/p#Prayojana|Prayojana]] ·
+[[glossary/p#Preyas|Preyas]] ·
+[[glossary/p#Prema|Prema]] ·
+[[glossary/p#Prema-bhakti|Prema-bhakti]] ·
+[[glossary/p#Prema-saṅkīrtana|Prema-saṅkīrtana]] ·
+[[glossary/p#Prema-vaicittya|Prema-vaicittya]] ·
+[[glossary/p#Prema-vataḥ|Prema-vataḥ]] ·
+[[glossary/p#Prema|Prema]] ·
+[[glossary/p#Pretsila Hill|Pretsila Hill]] ·
+[[glossary/p#Priyatama|Priyatama]] ·
+[[glossary/p#Priyavrata|Priyavrata]] ·
+[[glossary/p#Problem of evil|Problem of evil]] ·
+[[glossary/p#Proṣita-bhaṛtkā|Proṣita-bhaṛtkā]] ·
+[[glossary/p#Pṛṣata|Pṛṣata]] ·
+[[glossary/p#Pṛśni|Pṛśni]] ·
+[[glossary/p#Pṛthā|Pṛthā]] ·
+[[glossary/p#Pṛthu Mahārāja|Pṛthu Mahārāja]] ·
+[[glossary/p#Pūjārī|Pūjārī]] ·
+[[glossary/p#Pūjā|Pūjā]] ·
+[[glossary/p#Pulastya (Pulaha)|Pulastya (Pulaha)]] ·
+[[glossary/p#Puṁścalī|Puṁścalī]] ·
+[[glossary/p#Puṇḍarīkākṣa|Puṇḍarīkākṣa]] ·
+[[glossary/p#Puṇya-śloka|Puṇya-śloka]] ·
+[[glossary/p#Puṇya|Puṇya]] ·
+[[glossary/p#Puraścaraṇa|Puraścaraṇa]] ·
+[[glossary/p#Puraścaryā|Puraścaryā]] ·
+[[glossary/p#Purāṇa|Purāṇa]] ·
+[[glossary/p#Purāṇas|Purāṇas]] ·
+[[glossary/p#Puraka|Puraka]] ·
+[[glossary/p#Puram|Puram]] ·
+[[glossary/p#Pura-pālaka|Pura-pālaka]] ·
+[[glossary/p#Pūrṇam|Pūrṇam]] ·
+[[glossary/p#Pūrṇa|Pūrṇa]] ·
+[[glossary/p#Purnima|Purnima]] ·
+[[glossary/p#Purocana|Purocana]] ·
+[[glossary/p#Pūrtam|Pūrtam]] ·
+[[glossary/p#Puruṣa-adhama|Puruṣa-adhama]] ·
+[[glossary/p#Puruṣa-avatāras|Puruṣa-avatāras]] ·
+[[glossary/p#Puruṣa-sūkta|Puruṣa-sūkta]] ·
+[[glossary/p#Puruṣārtha|Puruṣārtha]] ·
+[[glossary/p#Puruṣa|Puruṣa]] ·
+[[glossary/p#Puruṣottama|Puruṣottama]] ·
+[[glossary/p#Purūravā|Purūravā]] ·
+[[glossary/p#Pūru|Pūru]] ·
+[[glossary/p#Pūrva-rāga|Pūrva-rāga]] ·
+[[glossary/p#Pūrva-vidhi|Pūrva-vidhi]] ·
+[[glossary/p#Purvāṣādhā|Purvāṣādhā]] ·
+[[glossary/p#Puṣkara|Puṣkara]] ·
+[[glossary/p#Puṣpa-añjali|Puṣpa-añjali]] ·
+[[glossary/p#Puṣpadanta|Puṣpadanta]] ·
+[[glossary/p#Pūtanā|Pūtanā]] ·
+[[glossary/p#Putra|Putra]]
 
 
 
 ===== Q =====
 
-[[glossary/q#Quantum mechanical theory]] ·
-[[glossary/q#Quine, W.V.]]
+[[glossary/q#Quantum mechanical theory|Quantum mechanical theory]] ·
+[[glossary/q#Quine, W.V.|Quine, W.V.]]
 
 
 
 ===== R =====
 
-[[glossary/r#Rādhā]] ·
-[[glossary/r#Rādhā-bhāva-mūrti]] ·
-[[glossary/r#Rādhā-kuṇḍa]] ·
-[[glossary/r#Rādhārāṇī]] ·
-[[glossary/r#Rādhāṣtamī]] ·
-[[glossary/r#Rādhikā]] ·
-[[glossary/r#Rāga-bhakti]] ·
-[[glossary/r#Rāga-mārga]] ·
-[[glossary/r#Rāgānuga-bhakti]] ·
-[[glossary/r#Rāgātmika-bhakti]] ·
-[[glossary/r#Rāga]] ·
-[[glossary/r#Rāghava]] ·
-[[glossary/r#Raghunātha Bhaṭṭa Gosvāmī]] ·
-[[glossary/r#Raghunātha dāsa Gosvāmī]] ·
-[[glossary/r#Rahūgaṇa Mahārāja]] ·
-[[glossary/r#Railhead]] ·
-[[glossary/r#Raita]] ·
-[[glossary/r#Raivataka]] ·
-[[glossary/r#Rāja-pāla]] ·
-[[glossary/r#Rāja-yoga]] ·
-[[glossary/r#Rajaguṇa]] ·
-[[glossary/r#Rājarṣi]] ·
-[[glossary/r#Rājasa-ahaṅkāra]] ·
-[[glossary/r#Rājasūya-yajña]] ·
-[[glossary/r#Rajas]] ·
-[[glossary/r#Raja]] ·
-[[glossary/r#Rajo-guṇa]] ·
-[[glossary/r#Rākṣasa-gaṇa]] ·
-[[glossary/r#Rākṣasa]] ·
-[[glossary/r#Rakta]] ·
-[[glossary/r#Rāma-navamī]] ·
-[[glossary/r#Rāma-rājya]] ·
-[[glossary/r#Rāmacandra]] ·
-[[glossary/r#Rāmānanda Rāya]] ·
-[[glossary/r#Rāmānujācārya]] ·
-[[glossary/r#Rāmāyaṇa]] ·
-[[glossary/r#Rāma]] ·
-[[glossary/r#Ramā]] ·
-[[glossary/r#Ranaghat]] ·
-[[glossary/r#Raṅganātha]] ·
-[[glossary/r#Ranga-bhumi]] ·
-[[glossary/r#Rāsa dance]] ·
-[[glossary/r#Rāsa-līlā]] ·
-[[glossary/r#Rasa-yātrā]] ·
-[[glossary/r#Rasābhāsa]] ·
-[[glossary/r#Rāsādi-vilāsī]] ·
-[[glossary/r#Rasam powder]] ·
-[[glossary/r#Rasātala]] ·
-[[glossary/r#Rasa]] ·
-[[glossary/r#Ratha-yātrā]] ·
-[[glossary/r#Ratha]] ·
-[[glossary/r#Rati]] ·
-[[glossary/r#Rationalism]] ·
-[[glossary/r#Raty-ābhāsa]] ·
-[[glossary/r#Raudra-rasa]] ·
-[[glossary/r#Rāvaṇa]] ·
-[[glossary/r#Reality]] ·
-[[glossary/r#Recaka]] ·
-[[glossary/r#Reflective, creative, and critical thinking]] ·
-[[glossary/r#Reflexivity]] ·
-[[glossary/r#Reincarnation]] ·
-[[glossary/r#Relativism]] ·
-[[glossary/r#Relativity theory]] ·
-[[glossary/r#Revelation]] ·
-[[glossary/ṛ#Ṛg Veda]] ·
-[[glossary/r#Rickshaw]] ·
-[[glossary/r#Rishi]] ·
-[[glossary/ṛ#Ṛk-saṁhitā]] ·
-[[glossary/r#Rohiṇī]] ·
-[[glossary/r#Romaharṣaṇa]] ·
-[[glossary/ṛ#Ṛṣabhadeva]] ·
-[[glossary/ṛ#Ṛṣi]] ·
-[[glossary/ṛ#Ṛtvik]] ·
-[[glossary/r#Rūḍha-bhāva]] ·
-[[glossary/r#Rūḍha]] ·
-[[glossary/r#Rudras]] ·
-[[glossary/r#Rudra]] ·
-[[glossary/r#Rukmaratha]] ·
-[[glossary/r#Rukmī]] ·
-[[glossary/r#Rukmiṇī]] ·
-[[glossary/r#Rukmini-Dvarakādhisa]] ·
-[[glossary/r#Rūpa Gosvāmī]] ·
-[[glossary/r#Rūpānuga]] ·
-[[glossary/r#Rupee]] ·
-[[glossary/r#Russel, Bertrand]]
+[[glossary/r#Rādhā|Rādhā]] ·
+[[glossary/r#Rādhā-bhāva-mūrti|Rādhā-bhāva-mūrti]] ·
+[[glossary/r#Rādhā-kuṇḍa|Rādhā-kuṇḍa]] ·
+[[glossary/r#Rādhārāṇī|Rādhārāṇī]] ·
+[[glossary/r#Rādhāṣtamī|Rādhāṣtamī]] ·
+[[glossary/r#Rādhikā|Rādhikā]] ·
+[[glossary/r#Rāga-bhakti|Rāga-bhakti]] ·
+[[glossary/r#Rāga-mārga|Rāga-mārga]] ·
+[[glossary/r#Rāgānuga-bhakti|Rāgānuga-bhakti]] ·
+[[glossary/r#Rāgātmika-bhakti|Rāgātmika-bhakti]] ·
+[[glossary/r#Rāga|Rāga]] ·
+[[glossary/r#Rāghava|Rāghava]] ·
+[[glossary/r#Raghunātha Bhaṭṭa Gosvāmī|Raghunātha Bhaṭṭa Gosvāmī]] ·
+[[glossary/r#Raghunātha dāsa Gosvāmī|Raghunātha dāsa Gosvāmī]] ·
+[[glossary/r#Rahūgaṇa Mahārāja|Rahūgaṇa Mahārāja]] ·
+[[glossary/r#Railhead|Railhead]] ·
+[[glossary/r#Raita|Raita]] ·
+[[glossary/r#Raivataka|Raivataka]] ·
+[[glossary/r#Rāja-pāla|Rāja-pāla]] ·
+[[glossary/r#Rāja-yoga|Rāja-yoga]] ·
+[[glossary/r#Rajaguṇa|Rajaguṇa]] ·
+[[glossary/r#Rājarṣi|Rājarṣi]] ·
+[[glossary/r#Rājasa-ahaṅkāra|Rājasa-ahaṅkāra]] ·
+[[glossary/r#Rājasūya-yajña|Rājasūya-yajña]] ·
+[[glossary/r#Rajas|Rajas]] ·
+[[glossary/r#Raja|Raja]] ·
+[[glossary/r#Rajo-guṇa|Rajo-guṇa]] ·
+[[glossary/r#Rākṣasa-gaṇa|Rākṣasa-gaṇa]] ·
+[[glossary/r#Rākṣasa|Rākṣasa]] ·
+[[glossary/r#Rakta|Rakta]] ·
+[[glossary/r#Rāma-navamī|Rāma-navamī]] ·
+[[glossary/r#Rāma-rājya|Rāma-rājya]] ·
+[[glossary/r#Rāmacandra|Rāmacandra]] ·
+[[glossary/r#Rāmānanda Rāya|Rāmānanda Rāya]] ·
+[[glossary/r#Rāmānujācārya|Rāmānujācārya]] ·
+[[glossary/r#Rāmāyaṇa|Rāmāyaṇa]] ·
+[[glossary/r#Rāma|Rāma]] ·
+[[glossary/r#Ramā|Ramā]] ·
+[[glossary/r#Ranaghat|Ranaghat]] ·
+[[glossary/r#Raṅganātha|Raṅganātha]] ·
+[[glossary/r#Ranga-bhumi|Ranga-bhumi]] ·
+[[glossary/r#Rāsa dance|Rāsa dance]] ·
+[[glossary/r#Rāsa-līlā|Rāsa-līlā]] ·
+[[glossary/r#Rasa-yātrā|Rasa-yātrā]] ·
+[[glossary/r#Rasābhāsa|Rasābhāsa]] ·
+[[glossary/r#Rāsādi-vilāsī|Rāsādi-vilāsī]] ·
+[[glossary/r#Rasam powder|Rasam powder]] ·
+[[glossary/r#Rasātala|Rasātala]] ·
+[[glossary/r#Rasa|Rasa]] ·
+[[glossary/r#Ratha-yātrā|Ratha-yātrā]] ·
+[[glossary/r#Ratha|Ratha]] ·
+[[glossary/r#Rati|Rati]] ·
+[[glossary/r#Rationalism|Rationalism]] ·
+[[glossary/r#Raty-ābhāsa|Raty-ābhāsa]] ·
+[[glossary/r#Raudra-rasa|Raudra-rasa]] ·
+[[glossary/r#Rāvaṇa|Rāvaṇa]] ·
+[[glossary/r#Reality|Reality]] ·
+[[glossary/r#Recaka|Recaka]] ·
+[[glossary/r#Reflective, creative, and critical thinking|Reflective, creative, and critical thinking]] ·
+[[glossary/r#Reflexivity|Reflexivity]] ·
+[[glossary/r#Reincarnation|Reincarnation]] ·
+[[glossary/r#Relativism|Relativism]] ·
+[[glossary/r#Relativity theory|Relativity theory]] ·
+[[glossary/r#Revelation|Revelation]] ·
+[[glossary/ṛ#Ṛg Veda|Ṛg Veda]] ·
+[[glossary/r#Rickshaw|Rickshaw]] ·
+[[glossary/r#Rishi|Rishi]] ·
+[[glossary/ṛ#Ṛk-saṁhitā|Ṛk-saṁhitā]] ·
+[[glossary/r#Rohiṇī|Rohiṇī]] ·
+[[glossary/r#Romaharṣaṇa|Romaharṣaṇa]] ·
+[[glossary/ṛ#Ṛṣabhadeva|Ṛṣabhadeva]] ·
+[[glossary/ṛ#Ṛṣi|Ṛṣi]] ·
+[[glossary/ṛ#Ṛtvik|Ṛtvik]] ·
+[[glossary/r#Rūḍha-bhāva|Rūḍha-bhāva]] ·
+[[glossary/r#Rūḍha|Rūḍha]] ·
+[[glossary/r#Rudras|Rudras]] ·
+[[glossary/r#Rudra|Rudra]] ·
+[[glossary/r#Rukmaratha|Rukmaratha]] ·
+[[glossary/r#Rukmī|Rukmī]] ·
+[[glossary/r#Rukmiṇī|Rukmiṇī]] ·
+[[glossary/r#Rukmini-Dvarakādhisa|Rukmini-Dvarakādhisa]] ·
+[[glossary/r#Rūpa Gosvāmī|Rūpa Gosvāmī]] ·
+[[glossary/r#Rūpānuga|Rūpānuga]] ·
+[[glossary/r#Rupee|Rupee]] ·
+[[glossary/r#Russel, Bertrand|Russel, Bertrand]]
 
 
 
 ===== S =====
 
-[[glossary/ś#Śabda-brahma]] ·
-[[glossary/ś#Śabda-pramāṇa]] ·
-[[glossary/ś#Śabda-tanmātra]] ·
-[[glossary/ś#Śabda]] ·
-[[glossary/s#Sabji]] ·
-[[glossary/s#Sac-cid-ānanda-vigraha [Bs. 5.1]] ·]
-[[glossary/s#Sac-cid-ānanda]] ·
-[[glossary/ś#Śacī-devī]] ·
-[[glossary/ś#Śacīpati]] ·
-[[glossary/s#Sacred thread]] ·
-[[glossary/ṣ#Ṣaḍ-aiśvarya-pūrṇa]] ·
-[[glossary/ṣ#Ṣaḍ-bhūja]] ·
-[[glossary/ś#Śaḍ-darśana]] ·
-[[glossary/s#Sadāśiva]] ·
-[[glossary/s#Sādhaka]] ·
-[[glossary/s#Sādhana-bhakti]] ·
-[[glossary/s#Sādhana-siddha]] ·
-[[glossary/s#Sādhana]] ·
-[[glossary/s#Sādhu-nindā]] ·
-[[glossary/s#Sadhu-saṅga]] ·
-[[glossary/s#Sādhu-varya]] ·
-[[glossary/s#Sādhu]] ·
-[[glossary/s#Sādhyas]] ·
-[[glossary/s#Sagarbha-yogī]] ·
-[[glossary/s#Sagar]] ·
-[[glossary/s#Saguṇa]] ·
-[[glossary/s#Sahadeva]] ·
-[[glossary/s#Sahadeva]] ·
-[[glossary/s#Sahajiyās]] ·
-[[glossary/s#Sahasra-śīrṣā]] ·
-[[glossary/s#Sahasra-giti]] ·
-[[glossary/s#Sahasra-vadana]] ·
-[[glossary/s#Sahib "Lord"]] ·
-[[glossary/ś#Śaibyā]] ·
-[[glossary/s#Sainika]] ·
-[[glossary/s#Sairandhrī]] ·
-[[glossary/ś#Śaivism]] ·
-[[glossary/ś#Śaivite]] ·
-[[glossary/s#Sajātīyāśaya-snigdha]] ·
-[[glossary/s#Sajātīya]] ·
-[[glossary/ś#Śāka]] ·
-[[glossary/s#Sakāma-bhakta]] ·
-[[glossary/s#Sakhī]] ·
-[[glossary/s#Sakhya-prema]] ·
-[[glossary/s#Sakhya-rasa]] ·
-[[glossary/s#Sakhya-rati]] ·
-[[glossary/s#Sakhya]] ·
-[[glossary/s#Sākṣi-gopāla]] ·
-[[glossary/ś#Śakti-tattva]] ·
-[[glossary/ś#Śaktyāveśa-avatāra]] ·
-[[glossary/ś#Śaktyāveśa-jīvas]] ·
-[[glossary/ś#Śakuni]] ·
-[[glossary/ś#Śālagrāma-śilā]] ·
-[[glossary/ś#Śāla]] ·
-[[glossary/ś#Śala]] ·
-[[glossary/s#Sālokya-mukti]] ·
-[[glossary/s#Sālokya]] ·
-[[glossary/ś#Śālva]] ·
-[[glossary/ś#Śalya]] ·
-[[glossary/s#Salvation]] ·
-[[glossary/s#Sāma Veda]] ·
-[[glossary/s#Sama-darśī]] ·
-[[glossary/s#Samādhi]] ·
-[[glossary/s#Samana-vayu]] ·
-[[glossary/s#Samatā]] ·
-[[glossary/s#Sama]] ·
-[[glossary/ś#Śambhu-tattva]] ·
-[[glossary/s#Sambandha-jñāna]] ·
-[[glossary/s#Sāmba]] ·
-[[glossary/s#Sambhoga]] ·
-[[glossary/s#Sambhrama-dāsya]] ·
-[[glossary/s#Saṁhitās]] ·
-[[glossary/s#Sāmīpya-mukti]] ·
-[[glossary/s#Sāmīpya]] ·
-[[glossary/s#Sampradāya-ācāryas]] ·
-[[glossary/s#Sampradāya]] ·
-[[glossary/s#Samprekṣya nāsikāgram]] ·
-[[glossary/s#Saṁsāra]] ·
-[[glossary/s#Saṁśaya]] ·
-[[glossary/s#Saṁsṛti]] ·
-[[glossary/s#Saṁskāra]] ·
-[[glossary/s#Saṁskṛta]] ·
-[[glossary/s#Samvit-śakti]] ·
-[[glossary/s#Sanātana Gosvāmī]] ·
-[[glossary/s#Sanātana-dhāma]] ·
-[[glossary/s#Sanātana-dharma]] ·
-[[glossary/s#Sanātana-yoga]] ·
-[[glossary/s#Sanātana]] ·
-[[glossary/s#Sanctum sanctorum]] ·
-[[glossary/s#Sandeśa]] ·
-[[glossary/s#Sandhinī-śakti]] ·
-[[glossary/s#Saṅgam]] ·
-[[glossary/s#Sañjaya]] ·
-[[glossary/ś#Śaṅkarācārya]] ·
-[[glossary/ś#Śaṅkā]] ·
-[[glossary/ś#Śaṅkha]] ·
-[[glossary/s#Saṅkara]] ·
-[[glossary/s#Saṅkarṣaṇa]] ·
-[[glossary/s#Saṅkīrtana-yajña]] ·
-[[glossary/s#Saṅkhoddhāra]] ·
-[[glossary/s#Sāṅkhya-yoga]] ·
-[[glossary/s#Sāṅkhya]] ·
-[[glossary/s#Saṅkīrtana]] ·
-[[glossary/s#Saṅkrāntī]] ·
-[[glossary/ś#Śānta-bhaktas]] ·
-[[glossary/s#Sannipāti]] ·
-[[glossary/s#Sannyāsa-daṇḍa]] ·
-[[glossary/s#Sannyāsa]] ·
-[[glossary/s#Sannyāsī]] ·
-[[glossary/s#Sanskrit]] ·
-[[glossary/ś#Śānta-rasa]] ·
-[[glossary/ś#Śānta-rati]] ·
-[[glossary/ś#Śantanu]] ·
-[[glossary/ś#Śānta]] ·
-[[glossary/ś#Śāntipur]] ·
-[[glossary/s#Santan]] ·
-[[glossary/ś#Śāpa]] ·
-[[glossary/s#Sapta-dvīpa]] ·
-[[glossary/s#Sapta-suta]] ·
-[[glossary/s#Sapta-tāla]] ·
-[[glossary/ś#Śaradvān]] ·
-[[glossary/s#Sāra grass]] ·
-[[glossary/s#Saralatā]] ·
-[[glossary/s#Sarasvatī]] ·
-[[glossary/s#Sarga]] ·
-[[glossary/ś#Śārīraka-bhāṣya]] ·
-[[glossary/ś#Śarīrī]] ·
-[[glossary/s#Sārī]] ·
-[[glossary/ś#Śārkarākṣa]] ·
-[[glossary/s#Sarmiṣṭhā]] ·
-[[glossary/ś#Śārṅga]] ·
-[[glossary/s#Sārṣṭi-mukti]] ·
-[[glossary/s#Sārṣṭi]] ·
-[[glossary/s#Sārūpya-mukti]] ·
-[[glossary/s#Sārūpya]] ·
-[[glossary/s#Sarva-jña]] ·
-[[glossary/s#Sarva-kāma-deha]] ·
-[[glossary/s#Sarva-kāmada]] ·
-[[glossary/s#Sarva-kāma]] ·
-[[glossary/s#Sarva-kāraṇa-kāraṇam]] ·
-[[glossary/s#Sarva-loka]] ·
-[[glossary/s#Sārvabhauma Bhaṭṭācārya]] ·
-[[glossary/s#Sarvārambha-parityāgī]] ·
-[[glossary/s#Sarvātma-nivedana]] ·
-[[glossary/s#Sarvātmā]] ·
-[[glossary/ś#Śāstra]] ·
-[[glossary/ś#Śāstra-cakṣuḥ]] ·
-[[glossary/ś#Śāstramūlaka]] ·
-[[glossary/s#Sāṣṭānga-pranāma (Daṇḍavat)]] ·
-[[glossary/s#Sat]] ·
-[[glossary/ś#Śatānīka]] ·
-[[glossary/ś#Śatarūpā]] ·
-[[glossary/s#Satī rite]] ·
-[[glossary/s#Satī]] ·
-[[glossary/s#Sattva-guṇa]] ·
-[[glossary/s#Sattvatanu]] ·
-[[glossary/s#Sāttvika]] ·
-[[glossary/s#Sātvata-saṁhitās]] ·
-[[glossary/s#Sātvata scriptures]] ·
-[[glossary/s#Sātvata-pañcarātra]] ·
-[[glossary/s#Satya-kāma]] ·
-[[glossary/s#Satya-yuga]] ·
-[[glossary/s#Satyaṁ param]] ·
-[[glossary/s#Satyabhāmā]] ·
-[[glossary/s#Satyadeva]] ·
-[[glossary/s#Satyadhṛti]] ·
-[[glossary/s#Satyāgraha]] ·
-[[glossary/s#Satyajit]] ·
-[[glossary/s#Sātyaki]] ·
-[[glossary/s#Satyaloka]] ·
-[[glossary/s#Satyaratha]] ·
-[[glossary/s#Satyasena]] ·
-[[glossary/s#Satyavarma]] ·
-[[glossary/s#Satyavatī]] ·
-[[glossary/s#Satyavrata Manu]] ·
-[[glossary/s#Satyavrata]] ·
-[[glossary/s#Satya]] ·
-[[glossary/s#Satyeṣu]] ·
-[[glossary/s#Saubhari Muni]] ·
-[[glossary/s#Saubha]] ·
-[[glossary/ś#Śaunaka Ṛṣi]] ·
-[[glossary/s#Sauhṛdya]] ·
-[[glossary/s#Sautrāmaṇi]] ·
-[[glossary/s#Savitri]] ·
-[[glossary/s#Sāyujya-mukti]] ·
-[[glossary/s#Sāyujya]] ·
-[[glossary/s#Scepticism]] ·
-[[glossary/s#Semantics]] ·
-[[glossary/s#Semi-deism]] ·
-[[glossary/s#Sentimentalism]] ·
-[[glossary/ś#Śeṣa Nāga]] ·
-[[glossary/ś#Śeṣa-līlā]] ·
-[[glossary/s#Sevā-aparādha]] ·
-[[glossary/s#Sevā-pūjā]] ·
-[[glossary/s#Sevaka]] ·
-[[glossary/s#Sevā]] ·
-[[glossary/s#Sevya]] ·
-[[glossary/s#Shyama]] ·
-[[glossary/s#Shukla]] ·
-[[glossary/s#Siddha-deha]] ·
-[[glossary/s#Siddhaloka]] ·
-[[glossary/s#Siddha]] ·
-[[glossary/s#Siddhānta]] ·
-[[glossary/s#Siddhi-lobhī]] ·
-[[glossary/s#Siddhi-traya]] ·
-[[glossary/s#Siddhi-vraja]] ·
-[[glossary/s#Siddhis]] ·
-[[glossary/ś#Śikhariṇī]] ·
-[[glossary/s#Sikhaṇḍī]] ·
-[[glossary/ś#Śikhara]] ·
-[[glossary/ś#Śikṣā-guru]] ·
-[[glossary/ś#Śikṣāṣṭaka]] ·
-[[glossary/s#Siṁha-dvāra]] ·
-[[glossary/s#Siṁhāsana]] ·
-[[glossary/ś#Śimulī]] ·
-[[glossary/s#Sindhu]] ·
-[[glossary/ś#Śini]] ·
-[[glossary/ś#Śiśumāra-cakra]] ·
-[[glossary/ś#Śiśupāla]] ·
-[[glossary/ś#Śītā]] ·
-[[glossary/s#Sītā-Rāma]] ·
-[[glossary/s#Sītā]] ·
-[[glossary/ś#Śiva-liṅga]] ·
-[[glossary/ś#Śiva-pūjā]] ·
-[[glossary/ś#Śiva-rātrī]] ·
-[[glossary/ś#Śivatama]] ·
-[[glossary/ś#Śiva]] ·
-[[glossary/s#Sivānanda Sena]] ·
-[[glossary/s#Six Gosvāmīs]] ·
-[[glossary/s#Six systems]] ·
-[[glossary/s#Skanda Purāṇa]] ·
-[[glossary/ś#Śleṣokti]] ·
-[[glossary/ś#Śloka]] ·
-[[glossary/s#Smaraṇam]] ·
-[[glossary/s#Smārta-brāhmaṇa]] ·
-[[glossary/s#Smārta-guru]] ·
-[[glossary/s#Smārta-vidhi]] ·
-[[glossary/s#Smarta]] ·
-[[glossary/s#Smṛti]] ·
-[[glossary/s#Smṛti-śāstra]] ·
-[[glossary/s#Smṛty-ācārya]] ·
-[[glossary/s#Snāna-yātrā]] ·
-[[glossary/s#Sneha]] ·
-[[glossary/s#Snigdha]] ·
-[[glossary/s#Socrates]] ·
-[[glossary/s#Solipsism]] ·
-[[glossary/s#Soma-rasa]] ·
-[[glossary/s#Somadatta]] ·
-[[glossary/s#Somaka]] ·
-[[glossary/s#Somarāja]] ·
-[[glossary/s#Soma]] ·
-[[glossary/s#Soul]] ·
-[[glossary/s#Sparśas]] ·
-[[glossary/s#Spirit soul]] ·
-[[glossary/s#Sphoṭavāda]] ·
-[[glossary/s#Spiritual world]] ·
-[[glossary/ś#Śrāddha-pātra]] ·
-[[glossary/ś#Śrāddha]] ·
-[[glossary/ś#Śrama]] ·
-[[glossary/ś#Śrauta-panthā]] ·
-[[glossary/ś#Śrauta-vākya]] ·
-[[glossary/s#Sravaṇam kīrtanaṁ viṣṇoḥ]] ·
-[[glossary/s#Sravaṇam]] ·
-[[glossary/s#Sravaṇa]] ·
-[[glossary/ś#Śreyas]] ·
-[[glossary/ś#Śrī-bhāṣya]] ·
-[[glossary/ś#Śrī Kṛṣṇa-vijaya]] ·
-[[glossary/ś#Śrī]] ·
-[[glossary/s#Sri (sree, shree, shri)]] ·
-[[glossary/ś#Śrī Saila]] ·
-[[glossary/s#Srī-kaṇtha]] ·
-[[glossary/ś#Śrīdhara Svāmī]] ·
-[[glossary/ś#Śrīla Prabhupāda]] ·
-[[glossary/ś#Śrīla]] ·
-[[glossary/ś#Śrīmad-Bhāgavatam]] ·
-[[glossary/ś#Śrīnivāsa]] ·
-[[glossary/ś#Śrīnivāsācārya]] ·
-[[glossary/ś#Śrīvatsa]] ·
-[[glossary/s#Srīvāsa Ṭhākura]] ·
-[[glossary/ś#Śṛṅgāra]] ·
-[[glossary/s#Sṛṣṭi-śakti]] ·
-[[glossary/ś#Śrutāyudha]] ·
-[[glossary/ś#Śruti-śāstra-nindana]] ·
-[[glossary/ś#Śruti-śāstra]] ·
-[[glossary/ś#Śruti-gaṇa]] ·
-[[glossary/ś#Śruti-mantras]] ·
-[[glossary/ś#Śruti]] ·
-[[glossary/s#Srutakarmā]] ·
-[[glossary/s#Srutakīrti]] ·
-[[glossary/s#Sthāṇu-puruṣa]] ·
-[[glossary/s#Sthāna]] ·
-[[glossary/s#Sthāyi-bhāva]] ·
-[[glossary/s#Sthita-dhīr-muni]] ·
-[[glossary/s#Sthūla-śarīra]] ·
-[[glossary/s#Stotra-ratna]] ·
-[[glossary/s#Stotra]] ·
-[[glossary/s#Strī-sambhāṣaṇa]] ·
-[[glossary/s#Strī]] ·
-[[glossary/s#Stupa]] ·
-[[glossary/s#Su-snigdha]] ·
-[[glossary/s#Su-viṣaya]] ·
-[[glossary/s#Subjective]] ·
-[[glossary/s#Subala]] ·
-[[glossary/ś#Śubha-dā]] ·
-[[glossary/s#Subhadrā]] ·
-[[glossary/s#Subrahmaṇya]] ·
-[[glossary/s#Substance]] ·
-[[glossary/s#Subtle body]] ·
-[[glossary/s#Sudakṣiṇa]] ·
-[[glossary/s#Sudāmā Vipra]] ·
-[[glossary/s#Sudāmā]] ·
-[[glossary/s#Sudarśana cakra]] ·
-[[glossary/s#Sudarśana]] ·
-[[glossary/ś#Śuddha-bhakti]] ·
-[[glossary/ś#Śuddha-bhāva]] ·
-[[glossary/ś#Śuddha-sattva]] ·
-[[glossary/s#Sūddīpta]] ·
-[[glossary/s#Sudeṣṇā]] ·
-[[glossary/s#Sudharmā]] ·
-[[glossary/ś#Śūdra-mahājana]] ·
-[[glossary/ś#Śūdrāṇī]] ·
-[[glossary/ś#Śūdra]] ·
-[[glossary/s#Sughoṣa]] ·
-[[glossary/ś#Śuka]] ·
-[[glossary/s#Sukadeva Gosvāmī]] ·
-[[glossary/s#Sukham]] ·
-[[glossary/ś#Śukla-yajur Veda]] ·
-[[glossary/ś#Śukla]] ·
-[[glossary/ś#Śukrācārya]] ·
-[[glossary/ś#Śukra]] ·
-[[glossary/s#Sukṛtina]] ·
-[[glossary/s#Sukṛti]] ·
-[[glossary/s#Sulocana]] ·
-[[glossary/s#Sumeru]] ·
-[[glossary/s#Sunābha]] ·
-[[glossary/s#Sunanda]] ·
-[[glossary/s#Sunīthā]] ·
-[[glossary/s#Sunīti]] ·
-[[glossary/s#Suparṇa]] ·
-[[glossary/s#Supersoul]] ·
-[[glossary/s#Supratīka]] ·
-[[glossary/s#Supti]] ·
-[[glossary/ś#Śūrasena]] ·
-[[glossary/s#Surabhī cows]] ·
-[[glossary/s#Suras]] ·
-[[glossary/s#Suruci]] ·
-[[glossary/s#Sūryadatta]] ·
-[[glossary/s#Suryaloka]] ·
-[[glossary/s#Sūrya]] ·
-[[glossary/s#Suśarmā]] ·
-[[glossary/s#Suṣupti]] ·
-[[glossary/s#Sūta Gosvāmī]] ·
-[[glossary/s#Sutapā]] ·
-[[glossary/s#Sutasoma]] ·
-[[glossary/s#Suta]] ·
-[[glossary/s#Sūta]] ·
-[[glossary/s#Sūtra]] ·
-[[glossary/ś#Śva-paca]] ·
-[[glossary/s#Sva-sevana-śakti]] ·
-[[glossary/s#Svabhāva]] ·
-[[glossary/s#Svābhāvya]] ·
-[[glossary/s#Svadharmas]] ·
-[[glossary/s#Svādhyāya]] ·
-[[glossary/s#Svāhā]] ·
-[[glossary/s#Svakīyā-rasa]] ·
-[[glossary/s#Svāṁśa]] ·
-[[glossary/s#Svāmī-nārāyaṇa]] ·
-[[glossary/s#Svāmī]] ·
-[[glossary/s#Svāṅga-viśeṣābhāsa-rūpa]] ·
-[[glossary/s#Svāpa]] ·
-[[glossary/s#Svarga]] ·
-[[glossary/s#Svārājya-lakṣmī]] ·
-[[glossary/s#Svarāṭ]] ·
-[[glossary/s#Svargaloka]] ·
-[[glossary/s#Svarūpa Dāmodara Gosvāmī]] ·
-[[glossary/s#Svarūpa-gata]] ·
-[[glossary/s#Svarūpa-lakṣaṇa]] ·
-[[glossary/s#Svarūpa-sandhi]] ·
-[[glossary/s#Svarūpa-siddhi]] ·
-[[glossary/s#Svarūpa-upalabdhi]] ·
-[[glossary/s#Svarūpa-vismṛti]] ·
-[[glossary/s#Svarūpa]] ·
-[[glossary/s#Svar]] ·
-[[glossary/s#Svayaṁ-rūpa]] ·
-[[glossary/s#Svayaṁvara]] ·
-[[glossary/s#Svāyambhuva Manu]] ·
-[[glossary/s#Svetāśvatara Upaniṣad]] ·
-[[glossary/s#Svetadvīpa]] ·
-[[glossary/s#Sveta]] ·
-[[glossary/ś#Śyāmasundara]] ·
-[[glossary/s#Syāmānanda Gosvāmī (1535-1631)]] ·
-[[glossary/s#Syllogism]]
+[[glossary/ś#Śabda-brahma|Śabda-brahma]] ·
+[[glossary/ś#Śabda-pramāṇa|Śabda-pramāṇa]] ·
+[[glossary/ś#Śabda-tanmātra|Śabda-tanmātra]] ·
+[[glossary/ś#Śabda|Śabda]] ·
+[[glossary/s#Sabji|Sabji]] ·
+[[glossary/s#Sac-cid-ānanda-vigraha [Bs. 5.1|Sac-cid-ānanda-vigraha [Bs. 5.1]] ·]
+[[glossary/s#Sac-cid-ānanda|Sac-cid-ānanda]] ·
+[[glossary/ś#Śacī-devī|Śacī-devī]] ·
+[[glossary/ś#Śacīpati|Śacīpati]] ·
+[[glossary/s#Sacred thread|Sacred thread]] ·
+[[glossary/ṣ#Ṣaḍ-aiśvarya-pūrṇa|Ṣaḍ-aiśvarya-pūrṇa]] ·
+[[glossary/ṣ#Ṣaḍ-bhūja|Ṣaḍ-bhūja]] ·
+[[glossary/ś#Śaḍ-darśana|Śaḍ-darśana]] ·
+[[glossary/s#Sadāśiva|Sadāśiva]] ·
+[[glossary/s#Sādhaka|Sādhaka]] ·
+[[glossary/s#Sādhana-bhakti|Sādhana-bhakti]] ·
+[[glossary/s#Sādhana-siddha|Sādhana-siddha]] ·
+[[glossary/s#Sādhana|Sādhana]] ·
+[[glossary/s#Sādhu-nindā|Sādhu-nindā]] ·
+[[glossary/s#Sadhu-saṅga|Sadhu-saṅga]] ·
+[[glossary/s#Sādhu-varya|Sādhu-varya]] ·
+[[glossary/s#Sādhu|Sādhu]] ·
+[[glossary/s#Sādhyas|Sādhyas]] ·
+[[glossary/s#Sagarbha-yogī|Sagarbha-yogī]] ·
+[[glossary/s#Sagar|Sagar]] ·
+[[glossary/s#Saguṇa|Saguṇa]] ·
+[[glossary/s#Sahadeva|Sahadeva]] ·
+[[glossary/s#Sahadeva|Sahadeva]] ·
+[[glossary/s#Sahajiyās|Sahajiyās]] ·
+[[glossary/s#Sahasra-śīrṣā|Sahasra-śīrṣā]] ·
+[[glossary/s#Sahasra-giti|Sahasra-giti]] ·
+[[glossary/s#Sahasra-vadana|Sahasra-vadana]] ·
+[[glossary/s#Sahib "Lord"|Sahib "Lord"]] ·
+[[glossary/ś#Śaibyā|Śaibyā]] ·
+[[glossary/s#Sainika|Sainika]] ·
+[[glossary/s#Sairandhrī|Sairandhrī]] ·
+[[glossary/ś#Śaivism|Śaivism]] ·
+[[glossary/ś#Śaivite|Śaivite]] ·
+[[glossary/s#Sajātīyāśaya-snigdha|Sajātīyāśaya-snigdha]] ·
+[[glossary/s#Sajātīya|Sajātīya]] ·
+[[glossary/ś#Śāka|Śāka]] ·
+[[glossary/s#Sakāma-bhakta|Sakāma-bhakta]] ·
+[[glossary/s#Sakhī|Sakhī]] ·
+[[glossary/s#Sakhya-prema|Sakhya-prema]] ·
+[[glossary/s#Sakhya-rasa|Sakhya-rasa]] ·
+[[glossary/s#Sakhya-rati|Sakhya-rati]] ·
+[[glossary/s#Sakhya|Sakhya]] ·
+[[glossary/s#Sākṣi-gopāla|Sākṣi-gopāla]] ·
+[[glossary/ś#Śakti-tattva|Śakti-tattva]] ·
+[[glossary/ś#Śaktyāveśa-avatāra|Śaktyāveśa-avatāra]] ·
+[[glossary/ś#Śaktyāveśa-jīvas|Śaktyāveśa-jīvas]] ·
+[[glossary/ś#Śakuni|Śakuni]] ·
+[[glossary/ś#Śālagrāma-śilā|Śālagrāma-śilā]] ·
+[[glossary/ś#Śāla|Śāla]] ·
+[[glossary/ś#Śala|Śala]] ·
+[[glossary/s#Sālokya-mukti|Sālokya-mukti]] ·
+[[glossary/s#Sālokya|Sālokya]] ·
+[[glossary/ś#Śālva|Śālva]] ·
+[[glossary/ś#Śalya|Śalya]] ·
+[[glossary/s#Salvation|Salvation]] ·
+[[glossary/s#Sāma Veda|Sāma Veda]] ·
+[[glossary/s#Sama-darśī|Sama-darśī]] ·
+[[glossary/s#Samādhi|Samādhi]] ·
+[[glossary/s#Samana-vayu|Samana-vayu]] ·
+[[glossary/s#Samatā|Samatā]] ·
+[[glossary/s#Sama|Sama]] ·
+[[glossary/ś#Śambhu-tattva|Śambhu-tattva]] ·
+[[glossary/s#Sambandha-jñāna|Sambandha-jñāna]] ·
+[[glossary/s#Sāmba|Sāmba]] ·
+[[glossary/s#Sambhoga|Sambhoga]] ·
+[[glossary/s#Sambhrama-dāsya|Sambhrama-dāsya]] ·
+[[glossary/s#Saṁhitās|Saṁhitās]] ·
+[[glossary/s#Sāmīpya-mukti|Sāmīpya-mukti]] ·
+[[glossary/s#Sāmīpya|Sāmīpya]] ·
+[[glossary/s#Sampradāya-ācāryas|Sampradāya-ācāryas]] ·
+[[glossary/s#Sampradāya|Sampradāya]] ·
+[[glossary/s#Samprekṣya nāsikāgram|Samprekṣya nāsikāgram]] ·
+[[glossary/s#Saṁsāra|Saṁsāra]] ·
+[[glossary/s#Saṁśaya|Saṁśaya]] ·
+[[glossary/s#Saṁsṛti|Saṁsṛti]] ·
+[[glossary/s#Saṁskāra|Saṁskāra]] ·
+[[glossary/s#Saṁskṛta|Saṁskṛta]] ·
+[[glossary/s#Samvit-śakti|Samvit-śakti]] ·
+[[glossary/s#Sanātana Gosvāmī|Sanātana Gosvāmī]] ·
+[[glossary/s#Sanātana-dhāma|Sanātana-dhāma]] ·
+[[glossary/s#Sanātana-dharma|Sanātana-dharma]] ·
+[[glossary/s#Sanātana-yoga|Sanātana-yoga]] ·
+[[glossary/s#Sanātana|Sanātana]] ·
+[[glossary/s#Sanctum sanctorum|Sanctum sanctorum]] ·
+[[glossary/s#Sandeśa|Sandeśa]] ·
+[[glossary/s#Sandhinī-śakti|Sandhinī-śakti]] ·
+[[glossary/s#Saṅgam|Saṅgam]] ·
+[[glossary/s#Sañjaya|Sañjaya]] ·
+[[glossary/ś#Śaṅkarācārya|Śaṅkarācārya]] ·
+[[glossary/ś#Śaṅkā|Śaṅkā]] ·
+[[glossary/ś#Śaṅkha|Śaṅkha]] ·
+[[glossary/s#Saṅkara|Saṅkara]] ·
+[[glossary/s#Saṅkarṣaṇa|Saṅkarṣaṇa]] ·
+[[glossary/s#Saṅkīrtana-yajña|Saṅkīrtana-yajña]] ·
+[[glossary/s#Saṅkhoddhāra|Saṅkhoddhāra]] ·
+[[glossary/s#Sāṅkhya-yoga|Sāṅkhya-yoga]] ·
+[[glossary/s#Sāṅkhya|Sāṅkhya]] ·
+[[glossary/s#Saṅkīrtana|Saṅkīrtana]] ·
+[[glossary/s#Saṅkrāntī|Saṅkrāntī]] ·
+[[glossary/ś#Śānta-bhaktas|Śānta-bhaktas]] ·
+[[glossary/s#Sannipāti|Sannipāti]] ·
+[[glossary/s#Sannyāsa-daṇḍa|Sannyāsa-daṇḍa]] ·
+[[glossary/s#Sannyāsa|Sannyāsa]] ·
+[[glossary/s#Sannyāsī|Sannyāsī]] ·
+[[glossary/s#Sanskrit|Sanskrit]] ·
+[[glossary/ś#Śānta-rasa|Śānta-rasa]] ·
+[[glossary/ś#Śānta-rati|Śānta-rati]] ·
+[[glossary/ś#Śantanu|Śantanu]] ·
+[[glossary/ś#Śānta|Śānta]] ·
+[[glossary/ś#Śāntipur|Śāntipur]] ·
+[[glossary/s#Santan|Santan]] ·
+[[glossary/ś#Śāpa|Śāpa]] ·
+[[glossary/s#Sapta-dvīpa|Sapta-dvīpa]] ·
+[[glossary/s#Sapta-suta|Sapta-suta]] ·
+[[glossary/s#Sapta-tāla|Sapta-tāla]] ·
+[[glossary/ś#Śaradvān|Śaradvān]] ·
+[[glossary/s#Sāra grass|Sāra grass]] ·
+[[glossary/s#Saralatā|Saralatā]] ·
+[[glossary/s#Sarasvatī|Sarasvatī]] ·
+[[glossary/s#Sarga|Sarga]] ·
+[[glossary/ś#Śārīraka-bhāṣya|Śārīraka-bhāṣya]] ·
+[[glossary/ś#Śarīrī|Śarīrī]] ·
+[[glossary/s#Sārī|Sārī]] ·
+[[glossary/ś#Śārkarākṣa|Śārkarākṣa]] ·
+[[glossary/s#Sarmiṣṭhā|Sarmiṣṭhā]] ·
+[[glossary/ś#Śārṅga|Śārṅga]] ·
+[[glossary/s#Sārṣṭi-mukti|Sārṣṭi-mukti]] ·
+[[glossary/s#Sārṣṭi|Sārṣṭi]] ·
+[[glossary/s#Sārūpya-mukti|Sārūpya-mukti]] ·
+[[glossary/s#Sārūpya|Sārūpya]] ·
+[[glossary/s#Sarva-jña|Sarva-jña]] ·
+[[glossary/s#Sarva-kāma-deha|Sarva-kāma-deha]] ·
+[[glossary/s#Sarva-kāmada|Sarva-kāmada]] ·
+[[glossary/s#Sarva-kāma|Sarva-kāma]] ·
+[[glossary/s#Sarva-kāraṇa-kāraṇam|Sarva-kāraṇa-kāraṇam]] ·
+[[glossary/s#Sarva-loka|Sarva-loka]] ·
+[[glossary/s#Sārvabhauma Bhaṭṭācārya|Sārvabhauma Bhaṭṭācārya]] ·
+[[glossary/s#Sarvārambha-parityāgī|Sarvārambha-parityāgī]] ·
+[[glossary/s#Sarvātma-nivedana|Sarvātma-nivedana]] ·
+[[glossary/s#Sarvātmā|Sarvātmā]] ·
+[[glossary/ś#Śāstra|Śāstra]] ·
+[[glossary/ś#Śāstra-cakṣuḥ|Śāstra-cakṣuḥ]] ·
+[[glossary/ś#Śāstramūlaka|Śāstramūlaka]] ·
+[[glossary/s#Sāṣṭānga-pranāma (Daṇḍavat)|Sāṣṭānga-pranāma (Daṇḍavat)]] ·
+[[glossary/s#Sat|Sat]] ·
+[[glossary/ś#Śatānīka|Śatānīka]] ·
+[[glossary/ś#Śatarūpā|Śatarūpā]] ·
+[[glossary/s#Satī rite|Satī rite]] ·
+[[glossary/s#Satī|Satī]] ·
+[[glossary/s#Sattva-guṇa|Sattva-guṇa]] ·
+[[glossary/s#Sattvatanu|Sattvatanu]] ·
+[[glossary/s#Sāttvika|Sāttvika]] ·
+[[glossary/s#Sātvata-saṁhitās|Sātvata-saṁhitās]] ·
+[[glossary/s#Sātvata scriptures|Sātvata scriptures]] ·
+[[glossary/s#Sātvata-pañcarātra|Sātvata-pañcarātra]] ·
+[[glossary/s#Satya-kāma|Satya-kāma]] ·
+[[glossary/s#Satya-yuga|Satya-yuga]] ·
+[[glossary/s#Satyaṁ param|Satyaṁ param]] ·
+[[glossary/s#Satyabhāmā|Satyabhāmā]] ·
+[[glossary/s#Satyadeva|Satyadeva]] ·
+[[glossary/s#Satyadhṛti|Satyadhṛti]] ·
+[[glossary/s#Satyāgraha|Satyāgraha]] ·
+[[glossary/s#Satyajit|Satyajit]] ·
+[[glossary/s#Sātyaki|Sātyaki]] ·
+[[glossary/s#Satyaloka|Satyaloka]] ·
+[[glossary/s#Satyaratha|Satyaratha]] ·
+[[glossary/s#Satyasena|Satyasena]] ·
+[[glossary/s#Satyavarma|Satyavarma]] ·
+[[glossary/s#Satyavatī|Satyavatī]] ·
+[[glossary/s#Satyavrata Manu|Satyavrata Manu]] ·
+[[glossary/s#Satyavrata|Satyavrata]] ·
+[[glossary/s#Satya|Satya]] ·
+[[glossary/s#Satyeṣu|Satyeṣu]] ·
+[[glossary/s#Saubhari Muni|Saubhari Muni]] ·
+[[glossary/s#Saubha|Saubha]] ·
+[[glossary/ś#Śaunaka Ṛṣi|Śaunaka Ṛṣi]] ·
+[[glossary/s#Sauhṛdya|Sauhṛdya]] ·
+[[glossary/s#Sautrāmaṇi|Sautrāmaṇi]] ·
+[[glossary/s#Savitri|Savitri]] ·
+[[glossary/s#Sāyujya-mukti|Sāyujya-mukti]] ·
+[[glossary/s#Sāyujya|Sāyujya]] ·
+[[glossary/s#Scepticism|Scepticism]] ·
+[[glossary/s#Semantics|Semantics]] ·
+[[glossary/s#Semi-deism|Semi-deism]] ·
+[[glossary/s#Sentimentalism|Sentimentalism]] ·
+[[glossary/ś#Śeṣa Nāga|Śeṣa Nāga]] ·
+[[glossary/ś#Śeṣa-līlā|Śeṣa-līlā]] ·
+[[glossary/s#Sevā-aparādha|Sevā-aparādha]] ·
+[[glossary/s#Sevā-pūjā|Sevā-pūjā]] ·
+[[glossary/s#Sevaka|Sevaka]] ·
+[[glossary/s#Sevā|Sevā]] ·
+[[glossary/s#Sevya|Sevya]] ·
+[[glossary/s#Shyama|Shyama]] ·
+[[glossary/s#Shukla|Shukla]] ·
+[[glossary/s#Siddha-deha|Siddha-deha]] ·
+[[glossary/s#Siddhaloka|Siddhaloka]] ·
+[[glossary/s#Siddha|Siddha]] ·
+[[glossary/s#Siddhānta|Siddhānta]] ·
+[[glossary/s#Siddhi-lobhī|Siddhi-lobhī]] ·
+[[glossary/s#Siddhi-traya|Siddhi-traya]] ·
+[[glossary/s#Siddhi-vraja|Siddhi-vraja]] ·
+[[glossary/s#Siddhis|Siddhis]] ·
+[[glossary/ś#Śikhariṇī|Śikhariṇī]] ·
+[[glossary/s#Sikhaṇḍī|Sikhaṇḍī]] ·
+[[glossary/ś#Śikhara|Śikhara]] ·
+[[glossary/ś#Śikṣā-guru|Śikṣā-guru]] ·
+[[glossary/ś#Śikṣāṣṭaka|Śikṣāṣṭaka]] ·
+[[glossary/s#Siṁha-dvāra|Siṁha-dvāra]] ·
+[[glossary/s#Siṁhāsana|Siṁhāsana]] ·
+[[glossary/ś#Śimulī|Śimulī]] ·
+[[glossary/s#Sindhu|Sindhu]] ·
+[[glossary/ś#Śini|Śini]] ·
+[[glossary/ś#Śiśumāra-cakra|Śiśumāra-cakra]] ·
+[[glossary/ś#Śiśupāla|Śiśupāla]] ·
+[[glossary/ś#Śītā|Śītā]] ·
+[[glossary/s#Sītā-Rāma|Sītā-Rāma]] ·
+[[glossary/s#Sītā|Sītā]] ·
+[[glossary/ś#Śiva-liṅga|Śiva-liṅga]] ·
+[[glossary/ś#Śiva-pūjā|Śiva-pūjā]] ·
+[[glossary/ś#Śiva-rātrī|Śiva-rātrī]] ·
+[[glossary/ś#Śivatama|Śivatama]] ·
+[[glossary/ś#Śiva|Śiva]] ·
+[[glossary/s#Sivānanda Sena|Sivānanda Sena]] ·
+[[glossary/s#Six Gosvāmīs|Six Gosvāmīs]] ·
+[[glossary/s#Six systems|Six systems]] ·
+[[glossary/s#Skanda Purāṇa|Skanda Purāṇa]] ·
+[[glossary/ś#Śleṣokti|Śleṣokti]] ·
+[[glossary/ś#Śloka|Śloka]] ·
+[[glossary/s#Smaraṇam|Smaraṇam]] ·
+[[glossary/s#Smārta-brāhmaṇa|Smārta-brāhmaṇa]] ·
+[[glossary/s#Smārta-guru|Smārta-guru]] ·
+[[glossary/s#Smārta-vidhi|Smārta-vidhi]] ·
+[[glossary/s#Smarta|Smarta]] ·
+[[glossary/s#Smṛti|Smṛti]] ·
+[[glossary/s#Smṛti-śāstra|Smṛti-śāstra]] ·
+[[glossary/s#Smṛty-ācārya|Smṛty-ācārya]] ·
+[[glossary/s#Snāna-yātrā|Snāna-yātrā]] ·
+[[glossary/s#Sneha|Sneha]] ·
+[[glossary/s#Snigdha|Snigdha]] ·
+[[glossary/s#Socrates|Socrates]] ·
+[[glossary/s#Solipsism|Solipsism]] ·
+[[glossary/s#Soma-rasa|Soma-rasa]] ·
+[[glossary/s#Somadatta|Somadatta]] ·
+[[glossary/s#Somaka|Somaka]] ·
+[[glossary/s#Somarāja|Somarāja]] ·
+[[glossary/s#Soma|Soma]] ·
+[[glossary/s#Soul|Soul]] ·
+[[glossary/s#Sparśas|Sparśas]] ·
+[[glossary/s#Spirit soul|Spirit soul]] ·
+[[glossary/s#Sphoṭavāda|Sphoṭavāda]] ·
+[[glossary/s#Spiritual world|Spiritual world]] ·
+[[glossary/ś#Śrāddha-pātra|Śrāddha-pātra]] ·
+[[glossary/ś#Śrāddha|Śrāddha]] ·
+[[glossary/ś#Śrama|Śrama]] ·
+[[glossary/ś#Śrauta-panthā|Śrauta-panthā]] ·
+[[glossary/ś#Śrauta-vākya|Śrauta-vākya]] ·
+[[glossary/s#Sravaṇam kīrtanaṁ viṣṇoḥ|Sravaṇam kīrtanaṁ viṣṇoḥ]] ·
+[[glossary/s#Sravaṇam|Sravaṇam]] ·
+[[glossary/s#Sravaṇa|Sravaṇa]] ·
+[[glossary/ś#Śreyas|Śreyas]] ·
+[[glossary/ś#Śrī-bhāṣya|Śrī-bhāṣya]] ·
+[[glossary/ś#Śrī Kṛṣṇa-vijaya|Śrī Kṛṣṇa-vijaya]] ·
+[[glossary/ś#Śrī|Śrī]] ·
+[[glossary/s#Sri (sree, shree, shri)|Sri (sree, shree, shri)]] ·
+[[glossary/ś#Śrī Saila|Śrī Saila]] ·
+[[glossary/s#Srī-kaṇtha|Srī-kaṇtha]] ·
+[[glossary/ś#Śrīdhara Svāmī|Śrīdhara Svāmī]] ·
+[[glossary/ś#Śrīla Prabhupāda|Śrīla Prabhupāda]] ·
+[[glossary/ś#Śrīla|Śrīla]] ·
+[[glossary/ś#Śrīmad-Bhāgavatam|Śrīmad-Bhāgavatam]] ·
+[[glossary/ś#Śrīnivāsa|Śrīnivāsa]] ·
+[[glossary/ś#Śrīnivāsācārya|Śrīnivāsācārya]] ·
+[[glossary/ś#Śrīvatsa|Śrīvatsa]] ·
+[[glossary/s#Srīvāsa Ṭhākura|Srīvāsa Ṭhākura]] ·
+[[glossary/ś#Śṛṅgāra|Śṛṅgāra]] ·
+[[glossary/s#Sṛṣṭi-śakti|Sṛṣṭi-śakti]] ·
+[[glossary/ś#Śrutāyudha|Śrutāyudha]] ·
+[[glossary/ś#Śruti-śāstra-nindana|Śruti-śāstra-nindana]] ·
+[[glossary/ś#Śruti-śāstra|Śruti-śāstra]] ·
+[[glossary/ś#Śruti-gaṇa|Śruti-gaṇa]] ·
+[[glossary/ś#Śruti-mantras|Śruti-mantras]] ·
+[[glossary/ś#Śruti|Śruti]] ·
+[[glossary/s#Srutakarmā|Srutakarmā]] ·
+[[glossary/s#Srutakīrti|Srutakīrti]] ·
+[[glossary/s#Sthāṇu-puruṣa|Sthāṇu-puruṣa]] ·
+[[glossary/s#Sthāna|Sthāna]] ·
+[[glossary/s#Sthāyi-bhāva|Sthāyi-bhāva]] ·
+[[glossary/s#Sthita-dhīr-muni|Sthita-dhīr-muni]] ·
+[[glossary/s#Sthūla-śarīra|Sthūla-śarīra]] ·
+[[glossary/s#Stotra-ratna|Stotra-ratna]] ·
+[[glossary/s#Stotra|Stotra]] ·
+[[glossary/s#Strī-sambhāṣaṇa|Strī-sambhāṣaṇa]] ·
+[[glossary/s#Strī|Strī]] ·
+[[glossary/s#Stupa|Stupa]] ·
+[[glossary/s#Su-snigdha|Su-snigdha]] ·
+[[glossary/s#Su-viṣaya|Su-viṣaya]] ·
+[[glossary/s#Subjective|Subjective]] ·
+[[glossary/s#Subala|Subala]] ·
+[[glossary/ś#Śubha-dā|Śubha-dā]] ·
+[[glossary/s#Subhadrā|Subhadrā]] ·
+[[glossary/s#Subrahmaṇya|Subrahmaṇya]] ·
+[[glossary/s#Substance|Substance]] ·
+[[glossary/s#Subtle body|Subtle body]] ·
+[[glossary/s#Sudakṣiṇa|Sudakṣiṇa]] ·
+[[glossary/s#Sudāmā Vipra|Sudāmā Vipra]] ·
+[[glossary/s#Sudāmā|Sudāmā]] ·
+[[glossary/s#Sudarśana cakra|Sudarśana cakra]] ·
+[[glossary/s#Sudarśana|Sudarśana]] ·
+[[glossary/ś#Śuddha-bhakti|Śuddha-bhakti]] ·
+[[glossary/ś#Śuddha-bhāva|Śuddha-bhāva]] ·
+[[glossary/ś#Śuddha-sattva|Śuddha-sattva]] ·
+[[glossary/s#Sūddīpta|Sūddīpta]] ·
+[[glossary/s#Sudeṣṇā|Sudeṣṇā]] ·
+[[glossary/s#Sudharmā|Sudharmā]] ·
+[[glossary/ś#Śūdra-mahājana|Śūdra-mahājana]] ·
+[[glossary/ś#Śūdrāṇī|Śūdrāṇī]] ·
+[[glossary/ś#Śūdra|Śūdra]] ·
+[[glossary/s#Sughoṣa|Sughoṣa]] ·
+[[glossary/ś#Śuka|Śuka]] ·
+[[glossary/s#Sukadeva Gosvāmī|Sukadeva Gosvāmī]] ·
+[[glossary/s#Sukham|Sukham]] ·
+[[glossary/ś#Śukla-yajur Veda|Śukla-yajur Veda]] ·
+[[glossary/ś#Śukla|Śukla]] ·
+[[glossary/ś#Śukrācārya|Śukrācārya]] ·
+[[glossary/ś#Śukra|Śukra]] ·
+[[glossary/s#Sukṛtina|Sukṛtina]] ·
+[[glossary/s#Sukṛti|Sukṛti]] ·
+[[glossary/s#Sulocana|Sulocana]] ·
+[[glossary/s#Sumeru|Sumeru]] ·
+[[glossary/s#Sunābha|Sunābha]] ·
+[[glossary/s#Sunanda|Sunanda]] ·
+[[glossary/s#Sunīthā|Sunīthā]] ·
+[[glossary/s#Sunīti|Sunīti]] ·
+[[glossary/s#Suparṇa|Suparṇa]] ·
+[[glossary/s#Supersoul|Supersoul]] ·
+[[glossary/s#Supratīka|Supratīka]] ·
+[[glossary/s#Supti|Supti]] ·
+[[glossary/ś#Śūrasena|Śūrasena]] ·
+[[glossary/s#Surabhī cows|Surabhī cows]] ·
+[[glossary/s#Suras|Suras]] ·
+[[glossary/s#Suruci|Suruci]] ·
+[[glossary/s#Sūryadatta|Sūryadatta]] ·
+[[glossary/s#Suryaloka|Suryaloka]] ·
+[[glossary/s#Sūrya|Sūrya]] ·
+[[glossary/s#Suśarmā|Suśarmā]] ·
+[[glossary/s#Suṣupti|Suṣupti]] ·
+[[glossary/s#Sūta Gosvāmī|Sūta Gosvāmī]] ·
+[[glossary/s#Sutapā|Sutapā]] ·
+[[glossary/s#Sutasoma|Sutasoma]] ·
+[[glossary/s#Suta|Suta]] ·
+[[glossary/s#Sūta|Sūta]] ·
+[[glossary/s#Sūtra|Sūtra]] ·
+[[glossary/ś#Śva-paca|Śva-paca]] ·
+[[glossary/s#Sva-sevana-śakti|Sva-sevana-śakti]] ·
+[[glossary/s#Svabhāva|Svabhāva]] ·
+[[glossary/s#Svābhāvya|Svābhāvya]] ·
+[[glossary/s#Svadharmas|Svadharmas]] ·
+[[glossary/s#Svādhyāya|Svādhyāya]] ·
+[[glossary/s#Svāhā|Svāhā]] ·
+[[glossary/s#Svakīyā-rasa|Svakīyā-rasa]] ·
+[[glossary/s#Svāṁśa|Svāṁśa]] ·
+[[glossary/s#Svāmī-nārāyaṇa|Svāmī-nārāyaṇa]] ·
+[[glossary/s#Svāmī|Svāmī]] ·
+[[glossary/s#Svāṅga-viśeṣābhāsa-rūpa|Svāṅga-viśeṣābhāsa-rūpa]] ·
+[[glossary/s#Svāpa|Svāpa]] ·
+[[glossary/s#Svarga|Svarga]] ·
+[[glossary/s#Svārājya-lakṣmī|Svārājya-lakṣmī]] ·
+[[glossary/s#Svarāṭ|Svarāṭ]] ·
+[[glossary/s#Svargaloka|Svargaloka]] ·
+[[glossary/s#Svarūpa Dāmodara Gosvāmī|Svarūpa Dāmodara Gosvāmī]] ·
+[[glossary/s#Svarūpa-gata|Svarūpa-gata]] ·
+[[glossary/s#Svarūpa-lakṣaṇa|Svarūpa-lakṣaṇa]] ·
+[[glossary/s#Svarūpa-sandhi|Svarūpa-sandhi]] ·
+[[glossary/s#Svarūpa-siddhi|Svarūpa-siddhi]] ·
+[[glossary/s#Svarūpa-upalabdhi|Svarūpa-upalabdhi]] ·
+[[glossary/s#Svarūpa-vismṛti|Svarūpa-vismṛti]] ·
+[[glossary/s#Svarūpa|Svarūpa]] ·
+[[glossary/s#Svar|Svar]] ·
+[[glossary/s#Svayaṁ-rūpa|Svayaṁ-rūpa]] ·
+[[glossary/s#Svayaṁvara|Svayaṁvara]] ·
+[[glossary/s#Svāyambhuva Manu|Svāyambhuva Manu]] ·
+[[glossary/s#Svetāśvatara Upaniṣad|Svetāśvatara Upaniṣad]] ·
+[[glossary/s#Svetadvīpa|Svetadvīpa]] ·
+[[glossary/s#Sveta|Sveta]] ·
+[[glossary/ś#Śyāmasundara|Śyāmasundara]] ·
+[[glossary/s#Syāmānanda Gosvāmī (1535-1631)|Syāmānanda Gosvāmī (1535-1631)]] ·
+[[glossary/s#Syllogism|Syllogism]]
 
 
 
 ===== T =====
 
-[[glossary/t#Tad-ekātma-rūpa]] ·
-[[glossary/t#Tadīya]] ·
-[[glossary/t#Takṣaka]] ·
-[[glossary/t#Takuwan]] ·
-[[glossary/t#Tamāla]] ·
-[[glossary/t#Tamasaḥ]] ·
-[[glossary/t#Tamas]] ·
-[[glossary/t#Tamo-guṇa]] ·
-[[glossary/t#Tānava]] ·
-[[glossary/t#Tāṇḍava-nṛtya]] ·
-[[glossary/t#Tan-mātras]] ·
-[[glossary/t#Tantras]] ·
-[[glossary/t#Tapasvīs]] ·
-[[glossary/t#Tapasya]] ·
-[[glossary/t#Tapas]] ·
-[[glossary/t#Tapaḥ]] ·
-[[glossary/t#Tapoloka]] ·
-[[glossary/t#Tārā]] ·
-[[glossary/t#Tāruṇyāmṛta]] ·
-[[glossary/t#Taṭastha-śakti]] ·
-[[glossary/t#Tattva-darśī]] ·
-[[glossary/t#Tattvas]] ·
-[[glossary/t#Tattvavādīs]] ·
-[[glossary/t#Tattvavit]] ·
-[[glossary/t#Tattva]] ·
-[[glossary/t#Tava]] ·
-[[glossary/t#Technology]] ·
-[[glossary/t#Teleology]] ·
-[[glossary/t#Theism]] ·
-[[glossary/t#Tempo]] ·
-[[glossary/t#Theogony]] ·
-[[glossary/t#Thes]] ·
-[[glossary/ṭ#Ṭhākura Haridāsa]] ·
-[[glossary/ṭ#Ṭhākurāṇīs]] ·
-[[glossary/t#Thali]] ·
-[[glossary/t#Theodore Parker (1810-1860)]] ·
-[[glossary/ṭ#Ṭīkā]] ·
-[[glossary/t#Tilaka]] ·
-[[glossary/t#Timiṅgila]] ·
-[[glossary/t#Tīrtha (teertha)]] ·
-[[glossary/t#Tithis]] ·
-[[glossary/t#Titikṣā]] ·
-[[glossary/t#Tonga]] ·
-[[glossary/t#Toovar dal]] ·
-[[glossary/ṭ#Ṭoṭā-gopīnātha temple]] ·
-[[glossary/t#Trāsa]] ·
-[[glossary/t#Trayī]] ·
-[[glossary/t#Trayodaśī]] ·
-[[glossary/t#Threefold miseries]] ·
-[[glossary/t#Tretā-yuga]] ·
-[[glossary/t#Tribunga]] ·
-[[glossary/t#Tri-daṇḍa]] ·
-[[glossary/t#Tridaṇḍi-sannyāsī]] ·
-[[glossary/t#Trigarta]] ·
-[[glossary/t#Tri-loka]] ·
-[[glossary/t#Time]] ·
-[[glossary/t#Tripura]] ·
-[[glossary/t#Triveṇī]] ·
-[[glossary/t#Trivikrama]] ·
-[[glossary/t#Triyuga]] ·
-[[glossary/t#Triyugī]] ·
-[[glossary/t#Tṛṇāvarta]] ·
-[[glossary/t#Try-adhīśvara]] ·
-[[glossary/t#Tulasī]] ·
-[[glossary/t#Tyāga]]
+[[glossary/t#Tad-ekātma-rūpa|Tad-ekātma-rūpa]] ·
+[[glossary/t#Tadīya|Tadīya]] ·
+[[glossary/t#Takṣaka|Takṣaka]] ·
+[[glossary/t#Takuwan|Takuwan]] ·
+[[glossary/t#Tamāla|Tamāla]] ·
+[[glossary/t#Tamasaḥ|Tamasaḥ]] ·
+[[glossary/t#Tamas|Tamas]] ·
+[[glossary/t#Tamo-guṇa|Tamo-guṇa]] ·
+[[glossary/t#Tānava|Tānava]] ·
+[[glossary/t#Tāṇḍava-nṛtya|Tāṇḍava-nṛtya]] ·
+[[glossary/t#Tan-mātras|Tan-mātras]] ·
+[[glossary/t#Tantras|Tantras]] ·
+[[glossary/t#Tapasvīs|Tapasvīs]] ·
+[[glossary/t#Tapasya|Tapasya]] ·
+[[glossary/t#Tapas|Tapas]] ·
+[[glossary/t#Tapaḥ|Tapaḥ]] ·
+[[glossary/t#Tapoloka|Tapoloka]] ·
+[[glossary/t#Tārā|Tārā]] ·
+[[glossary/t#Tāruṇyāmṛta|Tāruṇyāmṛta]] ·
+[[glossary/t#Taṭastha-śakti|Taṭastha-śakti]] ·
+[[glossary/t#Tattva-darśī|Tattva-darśī]] ·
+[[glossary/t#Tattvas|Tattvas]] ·
+[[glossary/t#Tattvavādīs|Tattvavādīs]] ·
+[[glossary/t#Tattvavit|Tattvavit]] ·
+[[glossary/t#Tattva|Tattva]] ·
+[[glossary/t#Tava|Tava]] ·
+[[glossary/t#Technology|Technology]] ·
+[[glossary/t#Teleology|Teleology]] ·
+[[glossary/t#Theism|Theism]] ·
+[[glossary/t#Tempo|Tempo]] ·
+[[glossary/t#Theogony|Theogony]] ·
+[[glossary/t#Thes|Thes]] ·
+[[glossary/ṭ#Ṭhākura Haridāsa|Ṭhākura Haridāsa]] ·
+[[glossary/ṭ#Ṭhākurāṇīs|Ṭhākurāṇīs]] ·
+[[glossary/t#Thali|Thali]] ·
+[[glossary/t#Theodore Parker (1810-1860)|Theodore Parker (1810-1860)]] ·
+[[glossary/ṭ#Ṭīkā|Ṭīkā]] ·
+[[glossary/t#Tilaka|Tilaka]] ·
+[[glossary/t#Timiṅgila|Timiṅgila]] ·
+[[glossary/t#Tīrtha (teertha)|Tīrtha (teertha)]] ·
+[[glossary/t#Tithis|Tithis]] ·
+[[glossary/t#Titikṣā|Titikṣā]] ·
+[[glossary/t#Tonga|Tonga]] ·
+[[glossary/t#Toovar dal|Toovar dal]] ·
+[[glossary/ṭ#Ṭoṭā-gopīnātha temple|Ṭoṭā-gopīnātha temple]] ·
+[[glossary/t#Trāsa|Trāsa]] ·
+[[glossary/t#Trayī|Trayī]] ·
+[[glossary/t#Trayodaśī|Trayodaśī]] ·
+[[glossary/t#Threefold miseries|Threefold miseries]] ·
+[[glossary/t#Tretā-yuga|Tretā-yuga]] ·
+[[glossary/t#Tribunga|Tribunga]] ·
+[[glossary/t#Tri-daṇḍa|Tri-daṇḍa]] ·
+[[glossary/t#Tridaṇḍi-sannyāsī|Tridaṇḍi-sannyāsī]] ·
+[[glossary/t#Trigarta|Trigarta]] ·
+[[glossary/t#Tri-loka|Tri-loka]] ·
+[[glossary/t#Time|Time]] ·
+[[glossary/t#Tripura|Tripura]] ·
+[[glossary/t#Triveṇī|Triveṇī]] ·
+[[glossary/t#Trivikrama|Trivikrama]] ·
+[[glossary/t#Triyuga|Triyuga]] ·
+[[glossary/t#Triyugī|Triyugī]] ·
+[[glossary/t#Tṛṇāvarta|Tṛṇāvarta]] ·
+[[glossary/t#Try-adhīśvara|Try-adhīśvara]] ·
+[[glossary/t#Tulasī|Tulasī]] ·
+[[glossary/t#Tyāga|Tyāga]]
 
 
 
 ===== U =====
 
-[[glossary/u#Uccaiḥśravā]] ·
-[[glossary/u#Ucchṛṅkhala]] ·
-[[glossary/u#Udāna-vāyu]] ·
-[[glossary/u#Udāra]] ·
-[[glossary/u#Udbhāsvara]] ·
-[[glossary/u#Uddhava]] ·
-[[glossary/u#Uddīpta]] ·
-[[glossary/u#Udghātyaka]] ·
-[[glossary/u#Udvega]] ·
-[[glossary/u#Ugra-karma]] ·
-[[glossary/u#Ugrasena]] ·
-[[glossary/u#Ujjvala-nīlamaṇi]] ·
-[[glossary/u#Ulūka]] ·
-[[glossary/u#Ulūpī]] ·
-[[glossary/u#Umā]] ·
-[[glossary/u#United Provinces of Agra and Oudh]] ·
-[[glossary/u#Unmāda]] ·
-[[glossary/u#Upadeśāmṛta]] ·
-[[glossary/u#Upādhis]] ·
-[[glossary/u#Upādhyāya]] ·
-[[glossary/u#Upala-bhoga]] ·
-[[glossary/u#Upaniṣads]] ·
-[[glossary/u#Upaplavya]] ·
-[[glossary/u#Uparasa]] ·
-[[glossary/u#Upāsanā-kāṇḍa]] ·
-[[glossary/u#Upāsya]] ·
-[[glossary/u#Upendra]] ·
-[[glossary/u#Urugāya]] ·
-[[glossary/u#Urukrama]] ·
-[[glossary/u#Urvaśī]] ·
-[[glossary/ū#Ūti]] ·
-[[glossary/u#Utkala]] ·
-[[glossary/u#Uttama-adhikārī]] ·
-[[glossary/u#Uttamaśloka]] ·
-[[glossary/u#Uttamaujas]] ·
-[[glossary/u#Uttama]] ·
-[[glossary/u#Uttānapāda]] ·
-[[glossary/u#Uttara]] ·
-[[glossary/u#Uttarā]]
+[[glossary/u#Uccaiḥśravā|Uccaiḥśravā]] ·
+[[glossary/u#Ucchṛṅkhala|Ucchṛṅkhala]] ·
+[[glossary/u#Udāna-vāyu|Udāna-vāyu]] ·
+[[glossary/u#Udāra|Udāra]] ·
+[[glossary/u#Udbhāsvara|Udbhāsvara]] ·
+[[glossary/u#Uddhava|Uddhava]] ·
+[[glossary/u#Uddīpta|Uddīpta]] ·
+[[glossary/u#Udghātyaka|Udghātyaka]] ·
+[[glossary/u#Udvega|Udvega]] ·
+[[glossary/u#Ugra-karma|Ugra-karma]] ·
+[[glossary/u#Ugrasena|Ugrasena]] ·
+[[glossary/u#Ujjvala-nīlamaṇi|Ujjvala-nīlamaṇi]] ·
+[[glossary/u#Ulūka|Ulūka]] ·
+[[glossary/u#Ulūpī|Ulūpī]] ·
+[[glossary/u#Umā|Umā]] ·
+[[glossary/u#United Provinces of Agra and Oudh|United Provinces of Agra and Oudh]] ·
+[[glossary/u#Unmāda|Unmāda]] ·
+[[glossary/u#Upadeśāmṛta|Upadeśāmṛta]] ·
+[[glossary/u#Upādhis|Upādhis]] ·
+[[glossary/u#Upādhyāya|Upādhyāya]] ·
+[[glossary/u#Upala-bhoga|Upala-bhoga]] ·
+[[glossary/u#Upaniṣads|Upaniṣads]] ·
+[[glossary/u#Upaplavya|Upaplavya]] ·
+[[glossary/u#Uparasa|Uparasa]] ·
+[[glossary/u#Upāsanā-kāṇḍa|Upāsanā-kāṇḍa]] ·
+[[glossary/u#Upāsya|Upāsya]] ·
+[[glossary/u#Upendra|Upendra]] ·
+[[glossary/u#Urugāya|Urugāya]] ·
+[[glossary/u#Urukrama|Urukrama]] ·
+[[glossary/u#Urvaśī|Urvaśī]] ·
+[[glossary/ū#Ūti|Ūti]] ·
+[[glossary/u#Utkala|Utkala]] ·
+[[glossary/u#Uttama-adhikārī|Uttama-adhikārī]] ·
+[[glossary/u#Uttamaśloka|Uttamaśloka]] ·
+[[glossary/u#Uttamaujas|Uttamaujas]] ·
+[[glossary/u#Uttama|Uttama]] ·
+[[glossary/u#Uttānapāda|Uttānapāda]] ·
+[[glossary/u#Uttara|Uttara]] ·
+[[glossary/u#Uttarā|Uttarā]]
 
 
 
 ===== V =====
 
-[[glossary/v#Vācāla]] ·
-[[glossary/v#Vahana mandapa]] ·
-[[glossary/v#Vaibhāṣikas]] ·
-[[glossary/v#Vaidarbhī]] ·
-[[glossary/v#Vaidhi-bhakti]] ·
-[[glossary/v#Vaidūrya-maṇi]] ·
-[[glossary/v#Vāli]] ·
-[[glossary/v#Vaijayantī]] ·
-[[glossary/v#Vaikāli-bhoga]] ·
-[[glossary/v#Vaikuṇṭha lokas]] ·
-[[glossary/v#Vaikuṇṭha-jagat]] ·
-[[glossary/v#Vaikuṇṭha-nātha]] ·
-[[glossary/v#Vaikuṇṭha]] ·
-[[glossary/v#Vaiśya (Vaishyas)]] ·
-[[glossary/v#Vairāgī]] ·
-[[glossary/v#Vairāgya]] ·
-[[glossary/v#Vaiśeṣikā]] ·
-[[glossary/v#Vaiṣṇava-aparādha]] ·
-[[glossary/v#Vaiṣṇava-dharma]] ·
-[[glossary/v#Vaiṣṇava]] ·
-[[glossary/v#Vaiṣṇavism]] ·
-[[glossary/v#Vaivasvata Manu]] ·
-[[glossary/v#Vaiyāsaki]] ·
-[[glossary/v#Vajradatta]] ·
-[[glossary/v#Vajra]] ·
-[[glossary/v#Vālmīki]] ·
-[[glossary/v#Vāmadeva]] ·
-[[glossary/v#Vāmanadeva]] ·
-[[glossary/v#Vāma]] ·
-[[glossary/v#Vānaprastha]] ·
-[[glossary/v#Vana]] ·
-[[glossary/v#Vandana]] ·
-[[glossary/v#Vāṇī]] ·
-[[glossary/v#Vaṇik]] ·
-[[glossary/v#Vapu]] ·
-[[glossary/v#Varadarāja]] ·
-[[glossary/v#Vārāṇasī]] ·
-[[glossary/v#Vāraṇāvata]] ·
-[[glossary/v#Varāha Purāṇa]] ·
-[[glossary/v#Varāha]] ·
-[[glossary/v#Varṇa-saṅkara]] ·
-[[glossary/v#Varṇāśrama-dharma]] ·
-[[glossary/v#Varṇa]] ·
-[[glossary/v#Vartma-pradarśaka-guru]] ·
-[[glossary/v#Varuṇa]] ·
-[[glossary/v#Vāsanā]] ·
-[[glossary/v#Vasiṣṭha]] ·
-[[glossary/v#Vastra-haraṇa-līlā]] ·
-[[glossary/v#Vastu]] ·
-[[glossary/v#Vastu-gata]] ·
-[[glossary/v#Vātsalya-rasa]] ·
-[[glossary/v#Vātsalya-rati]] ·
-[[glossary/v#Vāsudeva-parāyaṇa]] ·
-[[glossary/v#Vasudeva]] ·
-[[glossary/v#Vāsudeva]] ·
-[[glossary/v#Vasundharā]] ·
-[[glossary/v#Vasuṣeṇa]] ·
-[[glossary/v#Vatsāsura]] ·
-[[glossary/v#Vāyu]] ·
-[[glossary/v#Veda-cakṣuḥ]] ·
-[[glossary/v#Veda-vāda-rata]] ·
-[[glossary/v#Vedāśraya-nāstikya-vāda]] ·
-[[glossary/v#Vedānta-darśana]] ·
-[[glossary/v#Vedānta-sūtra (Brahma-sūtra)]] ·
-[[glossary/v#Vedānta]] ·
-[[glossary/v#Vedāntī]] ·
-[[glossary/v#Vedas]] ·
-[[glossary/v#Veda]] ·
-[[glossary/v#Vedic culture]] ·
-[[glossary/v#Vedic]] ·
-[[glossary/v#Vena]] ·
-[[glossary/v#Veṅkateśvara]] ·
-[[glossary/v#Vidyanagara]] ·
-[[glossary/v#Vībhatsu]] ·
-[[glossary/v#Vibhāva]] ·
-[[glossary/v#Vibhīṣaṇa]] ·
-[[glossary/v#Vibhinnāṁśa]] ·
-[[glossary/v#Vibhu-ātmā]] ·
-[[glossary/v#Vibhūti]] ·
-[[glossary/v#Vicāra]] ·
-[[glossary/v#Vidyanagara]] ·
-[[glossary/v#Vidagdha-mādhava]] ·
-[[glossary/v#Vidagdha]] ·
-[[glossary/v#Vidarbha]] ·
-[[glossary/v#Vidarbha-rājasiṁha]] ·
-[[glossary/v#Viddha-bhakti]] ·
-[[glossary/v#Videharāja Nimi]] ·
-[[glossary/v#Videha]] ·
-[[glossary/v#Vidhi-bhakti]] ·
-[[glossary/v#Vidhi-mārga]] ·
-[[glossary/v#Vidūra-vigata]] ·
-[[glossary/v#Vidura]] ·
-[[glossary/v#Vidyādharas]] ·
-[[glossary/v#Vidyāpati]] ·
-[[glossary/v#Vidyā]] ·
-[[glossary/v#Vihara]] ·
-[[glossary/v#Vijara]] ·
-[[glossary/v#Vijātīya]] ·
-[[glossary/v#Vijayā-daśamī]] ·
-[[glossary/v#Vijayadhvaja Tīrtha]] ·
-[[glossary/v#Vijighatsa]] ·
-[[glossary/v#Vijita-ṣaḍ-guṇa]] ·
-[[glossary/v#Vijitāśva]] ·
-[[glossary/v#Vijñānam]] ·
-[[glossary/v#Vijñānamaya]] ·
-[[glossary/v#Vijñāna]] ·
-[[glossary/v#Vikarṇa]] ·
-[[glossary/v#Vikarma]] ·
-[[glossary/v#Vilāsa-vigrahas]] ·
-[[glossary/v#Vilāsa]] ·
-[[glossary/v#Vimānam]] ·
-[[glossary/v#Vimūḍhas]] ·
-[[glossary/v#Vīṇā]] ·
-[[glossary/v#Vinda]] ·
-[[glossary/v#Vindhyācala]] ·
-[[glossary/v#Viparyāsa]] ·
-[[glossary/v#Vipralambha]] ·
-[[glossary/v#Vipralipsā]] ·
-[[glossary/v#Vipra]] ·
-[[glossary/v#Vīra-rasa]] ·
-[[glossary/v#Vīra-vrata]] ·
-[[glossary/v#Vīrabhadra]] ·
-[[glossary/v#Vīrarāghava Ācārya]] ·
-[[glossary/v#Viraha]] ·
-[[glossary/v#Virajā River]] ·
-[[glossary/v#Virakti]] ·
-[[glossary/v#Virāṭ-puruṣa]] ·
-[[glossary/v#Virāṭ-rupa]] ·
-[[glossary/v#Virāṭa]] ·
-[[glossary/v#Vīrya]] ·
-[[glossary/v#Visrama-ghata]] ·
-[[glossary/v#Viṣāda]] ·
-[[glossary/v#Viṣaya-taraṅga]] ·
-[[glossary/v#Viṣaya]] ·
-[[glossary/v#Viṣayī]] ·
-[[glossary/v#Visrama-ghata]] ·
-[[glossary/v#Visarga]] ·
-[[glossary/v#Viśiṣṭādvaita-vāda]] ·
-[[glossary/v#Viṣṇoḥ smaraṇa]] ·
-[[glossary/v#Viṣṇu-bhaktas]] ·
-[[glossary/v#Viṣṇu-bhakti]] ·
-[[glossary/v#Viṣṇu-dharma]] ·
-[[glossary/v#Viṣṇu-mūrtī]] ·
-[[glossary/v#Viṣṇu-purana]] ·
-[[glossary/v#Viṣṇu-tattva]] ·
-[[glossary/v#Viṣṇu-yajña]] ·
-[[glossary/v#Viṣṇudūtas]] ·
-[[glossary/v#Viṣṇuloka]] ·
-[[glossary/v#Viṣṇupriyā-devī]] ·
-[[glossary/v#Viṣṇu]] ·
-[[glossary/v#Viśoka]] ·
-[[glossary/v#Viśoka]] ·
-[[glossary/v#Viśrambha]] ·
-[[glossary/v#Viśruta]] ·
-[[glossary/v#Viśuddha-sattva]] ·
-[[glossary/v#Viśva-rūpa (viraṭ-rūpa)]] ·
-[[glossary/v#Viśva-dharma]] ·
-[[glossary/v#Viśvakarmā]] ·
-[[glossary/v#Viśvakośa]] ·
-[[glossary/v#Viśvambhara]] ·
-[[glossary/v#Viśvāmitra]] ·
-[[glossary/v#Viśvanātha Cakravartī Ṭhākura]] ·
-[[glossary/v#Viśvāsa]] ·
-[[glossary/v#Visvarupa]] ·
-[[glossary/v#Viśvāvasu]] ·
-[[glossary/v#Vitarka]] ·
-[[glossary/v#Vīthī]] ·
-[[glossary/v#Vivāha-yajña]] ·
-[[glossary/v#Vivarta-vāda]] ·
-[[glossary/v#Vivarta]] ·
-[[glossary/v#Vivasvān]] ·
-[[glossary/v#Viviṁśati]] ·
-[[glossary/v#Viyoga]] ·
-[[glossary/v#Voidism]] ·
-[[glossary/v#Vrajabhūmi]] ·
-[[glossary/v#Vraja]] ·
-[[glossary/v#Vrajendra-kumāra]] ·
-[[glossary/v#Vrajendra-nandana]] ·
-[[glossary/v#Vrajendra]] ·
-[[glossary/v#Vṛddhakṣatra]] ·
-[[glossary/v#Vrīḍā]] ·
-[[glossary/v#Vṛkodara]] ·
-[[glossary/v#Vṛndāvana dāsa Ṭhākura]] ·
-[[glossary/v#Vṛndāvana-vihāra]] ·
-[[glossary/v#Vṛndāvana]] ·
-[[glossary/v#Vṛṣasena]] ·
-[[glossary/v#Vṛṣṇi]] ·
-[[glossary/v#Vṛtra]] ·
-[[glossary/v#Vyabhicārī-bhāvas]] ·
-[[glossary/v#Vyādhi]] ·
-[[glossary/v#Vyakta]] ·
-[[glossary/v#Vyāna-vāyu]] ·
-[[glossary/v#Vyāsa-pūjā]] ·
-[[glossary/v#Vyāsadeva (Vyāsa)]] ·
-[[glossary/v#Vyāsāsana]] ·
-[[glossary/v#Vyāsa]]
+[[glossary/v#Vācāla|Vācāla]] ·
+[[glossary/v#Vahana mandapa|Vahana mandapa]] ·
+[[glossary/v#Vaibhāṣikas|Vaibhāṣikas]] ·
+[[glossary/v#Vaidarbhī|Vaidarbhī]] ·
+[[glossary/v#Vaidhi-bhakti|Vaidhi-bhakti]] ·
+[[glossary/v#Vaidūrya-maṇi|Vaidūrya-maṇi]] ·
+[[glossary/v#Vāli|Vāli]] ·
+[[glossary/v#Vaijayantī|Vaijayantī]] ·
+[[glossary/v#Vaikāli-bhoga|Vaikāli-bhoga]] ·
+[[glossary/v#Vaikuṇṭha lokas|Vaikuṇṭha lokas]] ·
+[[glossary/v#Vaikuṇṭha-jagat|Vaikuṇṭha-jagat]] ·
+[[glossary/v#Vaikuṇṭha-nātha|Vaikuṇṭha-nātha]] ·
+[[glossary/v#Vaikuṇṭha|Vaikuṇṭha]] ·
+[[glossary/v#Vaiśya (Vaishyas)|Vaiśya (Vaishyas)]] ·
+[[glossary/v#Vairāgī|Vairāgī]] ·
+[[glossary/v#Vairāgya|Vairāgya]] ·
+[[glossary/v#Vaiśeṣikā|Vaiśeṣikā]] ·
+[[glossary/v#Vaiṣṇava-aparādha|Vaiṣṇava-aparādha]] ·
+[[glossary/v#Vaiṣṇava-dharma|Vaiṣṇava-dharma]] ·
+[[glossary/v#Vaiṣṇava|Vaiṣṇava]] ·
+[[glossary/v#Vaiṣṇavism|Vaiṣṇavism]] ·
+[[glossary/v#Vaivasvata Manu|Vaivasvata Manu]] ·
+[[glossary/v#Vaiyāsaki|Vaiyāsaki]] ·
+[[glossary/v#Vajradatta|Vajradatta]] ·
+[[glossary/v#Vajra|Vajra]] ·
+[[glossary/v#Vālmīki|Vālmīki]] ·
+[[glossary/v#Vāmadeva|Vāmadeva]] ·
+[[glossary/v#Vāmanadeva|Vāmanadeva]] ·
+[[glossary/v#Vāma|Vāma]] ·
+[[glossary/v#Vānaprastha|Vānaprastha]] ·
+[[glossary/v#Vana|Vana]] ·
+[[glossary/v#Vandana|Vandana]] ·
+[[glossary/v#Vāṇī|Vāṇī]] ·
+[[glossary/v#Vaṇik|Vaṇik]] ·
+[[glossary/v#Vapu|Vapu]] ·
+[[glossary/v#Varadarāja|Varadarāja]] ·
+[[glossary/v#Vārāṇasī|Vārāṇasī]] ·
+[[glossary/v#Vāraṇāvata|Vāraṇāvata]] ·
+[[glossary/v#Varāha Purāṇa|Varāha Purāṇa]] ·
+[[glossary/v#Varāha|Varāha]] ·
+[[glossary/v#Varṇa-saṅkara|Varṇa-saṅkara]] ·
+[[glossary/v#Varṇāśrama-dharma|Varṇāśrama-dharma]] ·
+[[glossary/v#Varṇa|Varṇa]] ·
+[[glossary/v#Vartma-pradarśaka-guru|Vartma-pradarśaka-guru]] ·
+[[glossary/v#Varuṇa|Varuṇa]] ·
+[[glossary/v#Vāsanā|Vāsanā]] ·
+[[glossary/v#Vasiṣṭha|Vasiṣṭha]] ·
+[[glossary/v#Vastra-haraṇa-līlā|Vastra-haraṇa-līlā]] ·
+[[glossary/v#Vastu|Vastu]] ·
+[[glossary/v#Vastu-gata|Vastu-gata]] ·
+[[glossary/v#Vātsalya-rasa|Vātsalya-rasa]] ·
+[[glossary/v#Vātsalya-rati|Vātsalya-rati]] ·
+[[glossary/v#Vāsudeva-parāyaṇa|Vāsudeva-parāyaṇa]] ·
+[[glossary/v#Vasudeva|Vasudeva]] ·
+[[glossary/v#Vāsudeva|Vāsudeva]] ·
+[[glossary/v#Vasundharā|Vasundharā]] ·
+[[glossary/v#Vasuṣeṇa|Vasuṣeṇa]] ·
+[[glossary/v#Vatsāsura|Vatsāsura]] ·
+[[glossary/v#Vāyu|Vāyu]] ·
+[[glossary/v#Veda-cakṣuḥ|Veda-cakṣuḥ]] ·
+[[glossary/v#Veda-vāda-rata|Veda-vāda-rata]] ·
+[[glossary/v#Vedāśraya-nāstikya-vāda|Vedāśraya-nāstikya-vāda]] ·
+[[glossary/v#Vedānta-darśana|Vedānta-darśana]] ·
+[[glossary/v#Vedānta-sūtra (Brahma-sūtra)|Vedānta-sūtra (Brahma-sūtra)]] ·
+[[glossary/v#Vedānta|Vedānta]] ·
+[[glossary/v#Vedāntī|Vedāntī]] ·
+[[glossary/v#Vedas|Vedas]] ·
+[[glossary/v#Veda|Veda]] ·
+[[glossary/v#Vedic culture|Vedic culture]] ·
+[[glossary/v#Vedic|Vedic]] ·
+[[glossary/v#Vena|Vena]] ·
+[[glossary/v#Veṅkateśvara|Veṅkateśvara]] ·
+[[glossary/v#Vidyanagara|Vidyanagara]] ·
+[[glossary/v#Vībhatsu|Vībhatsu]] ·
+[[glossary/v#Vibhāva|Vibhāva]] ·
+[[glossary/v#Vibhīṣaṇa|Vibhīṣaṇa]] ·
+[[glossary/v#Vibhinnāṁśa|Vibhinnāṁśa]] ·
+[[glossary/v#Vibhu-ātmā|Vibhu-ātmā]] ·
+[[glossary/v#Vibhūti|Vibhūti]] ·
+[[glossary/v#Vicāra|Vicāra]] ·
+[[glossary/v#Vidyanagara|Vidyanagara]] ·
+[[glossary/v#Vidagdha-mādhava|Vidagdha-mādhava]] ·
+[[glossary/v#Vidagdha|Vidagdha]] ·
+[[glossary/v#Vidarbha|Vidarbha]] ·
+[[glossary/v#Vidarbha-rājasiṁha|Vidarbha-rājasiṁha]] ·
+[[glossary/v#Viddha-bhakti|Viddha-bhakti]] ·
+[[glossary/v#Videharāja Nimi|Videharāja Nimi]] ·
+[[glossary/v#Videha|Videha]] ·
+[[glossary/v#Vidhi-bhakti|Vidhi-bhakti]] ·
+[[glossary/v#Vidhi-mārga|Vidhi-mārga]] ·
+[[glossary/v#Vidūra-vigata|Vidūra-vigata]] ·
+[[glossary/v#Vidura|Vidura]] ·
+[[glossary/v#Vidyādharas|Vidyādharas]] ·
+[[glossary/v#Vidyāpati|Vidyāpati]] ·
+[[glossary/v#Vidyā|Vidyā]] ·
+[[glossary/v#Vihara|Vihara]] ·
+[[glossary/v#Vijara|Vijara]] ·
+[[glossary/v#Vijātīya|Vijātīya]] ·
+[[glossary/v#Vijayā-daśamī|Vijayā-daśamī]] ·
+[[glossary/v#Vijayadhvaja Tīrtha|Vijayadhvaja Tīrtha]] ·
+[[glossary/v#Vijighatsa|Vijighatsa]] ·
+[[glossary/v#Vijita-ṣaḍ-guṇa|Vijita-ṣaḍ-guṇa]] ·
+[[glossary/v#Vijitāśva|Vijitāśva]] ·
+[[glossary/v#Vijñānam|Vijñānam]] ·
+[[glossary/v#Vijñānamaya|Vijñānamaya]] ·
+[[glossary/v#Vijñāna|Vijñāna]] ·
+[[glossary/v#Vikarṇa|Vikarṇa]] ·
+[[glossary/v#Vikarma|Vikarma]] ·
+[[glossary/v#Vilāsa-vigrahas|Vilāsa-vigrahas]] ·
+[[glossary/v#Vilāsa|Vilāsa]] ·
+[[glossary/v#Vimānam|Vimānam]] ·
+[[glossary/v#Vimūḍhas|Vimūḍhas]] ·
+[[glossary/v#Vīṇā|Vīṇā]] ·
+[[glossary/v#Vinda|Vinda]] ·
+[[glossary/v#Vindhyācala|Vindhyācala]] ·
+[[glossary/v#Viparyāsa|Viparyāsa]] ·
+[[glossary/v#Vipralambha|Vipralambha]] ·
+[[glossary/v#Vipralipsā|Vipralipsā]] ·
+[[glossary/v#Vipra|Vipra]] ·
+[[glossary/v#Vīra-rasa|Vīra-rasa]] ·
+[[glossary/v#Vīra-vrata|Vīra-vrata]] ·
+[[glossary/v#Vīrabhadra|Vīrabhadra]] ·
+[[glossary/v#Vīrarāghava Ācārya|Vīrarāghava Ācārya]] ·
+[[glossary/v#Viraha|Viraha]] ·
+[[glossary/v#Virajā River|Virajā River]] ·
+[[glossary/v#Virakti|Virakti]] ·
+[[glossary/v#Virāṭ-puruṣa|Virāṭ-puruṣa]] ·
+[[glossary/v#Virāṭ-rupa|Virāṭ-rupa]] ·
+[[glossary/v#Virāṭa|Virāṭa]] ·
+[[glossary/v#Vīrya|Vīrya]] ·
+[[glossary/v#Visrama-ghata|Visrama-ghata]] ·
+[[glossary/v#Viṣāda|Viṣāda]] ·
+[[glossary/v#Viṣaya-taraṅga|Viṣaya-taraṅga]] ·
+[[glossary/v#Viṣaya|Viṣaya]] ·
+[[glossary/v#Viṣayī|Viṣayī]] ·
+[[glossary/v#Visrama-ghata|Visrama-ghata]] ·
+[[glossary/v#Visarga|Visarga]] ·
+[[glossary/v#Viśiṣṭādvaita-vāda|Viśiṣṭādvaita-vāda]] ·
+[[glossary/v#Viṣṇoḥ smaraṇa|Viṣṇoḥ smaraṇa]] ·
+[[glossary/v#Viṣṇu-bhaktas|Viṣṇu-bhaktas]] ·
+[[glossary/v#Viṣṇu-bhakti|Viṣṇu-bhakti]] ·
+[[glossary/v#Viṣṇu-dharma|Viṣṇu-dharma]] ·
+[[glossary/v#Viṣṇu-mūrtī|Viṣṇu-mūrtī]] ·
+[[glossary/v#Viṣṇu-purana|Viṣṇu-purana]] ·
+[[glossary/v#Viṣṇu-tattva|Viṣṇu-tattva]] ·
+[[glossary/v#Viṣṇu-yajña|Viṣṇu-yajña]] ·
+[[glossary/v#Viṣṇudūtas|Viṣṇudūtas]] ·
+[[glossary/v#Viṣṇuloka|Viṣṇuloka]] ·
+[[glossary/v#Viṣṇupriyā-devī|Viṣṇupriyā-devī]] ·
+[[glossary/v#Viṣṇu|Viṣṇu]] ·
+[[glossary/v#Viśoka|Viśoka]] ·
+[[glossary/v#Viśoka|Viśoka]] ·
+[[glossary/v#Viśrambha|Viśrambha]] ·
+[[glossary/v#Viśruta|Viśruta]] ·
+[[glossary/v#Viśuddha-sattva|Viśuddha-sattva]] ·
+[[glossary/v#Viśva-rūpa (viraṭ-rūpa)|Viśva-rūpa (viraṭ-rūpa)]] ·
+[[glossary/v#Viśva-dharma|Viśva-dharma]] ·
+[[glossary/v#Viśvakarmā|Viśvakarmā]] ·
+[[glossary/v#Viśvakośa|Viśvakośa]] ·
+[[glossary/v#Viśvambhara|Viśvambhara]] ·
+[[glossary/v#Viśvāmitra|Viśvāmitra]] ·
+[[glossary/v#Viśvanātha Cakravartī Ṭhākura|Viśvanātha Cakravartī Ṭhākura]] ·
+[[glossary/v#Viśvāsa|Viśvāsa]] ·
+[[glossary/v#Visvarupa|Visvarupa]] ·
+[[glossary/v#Viśvāvasu|Viśvāvasu]] ·
+[[glossary/v#Vitarka|Vitarka]] ·
+[[glossary/v#Vīthī|Vīthī]] ·
+[[glossary/v#Vivāha-yajña|Vivāha-yajña]] ·
+[[glossary/v#Vivarta-vāda|Vivarta-vāda]] ·
+[[glossary/v#Vivarta|Vivarta]] ·
+[[glossary/v#Vivasvān|Vivasvān]] ·
+[[glossary/v#Viviṁśati|Viviṁśati]] ·
+[[glossary/v#Viyoga|Viyoga]] ·
+[[glossary/v#Voidism|Voidism]] ·
+[[glossary/v#Vrajabhūmi|Vrajabhūmi]] ·
+[[glossary/v#Vraja|Vraja]] ·
+[[glossary/v#Vrajendra-kumāra|Vrajendra-kumāra]] ·
+[[glossary/v#Vrajendra-nandana|Vrajendra-nandana]] ·
+[[glossary/v#Vrajendra|Vrajendra]] ·
+[[glossary/v#Vṛddhakṣatra|Vṛddhakṣatra]] ·
+[[glossary/v#Vrīḍā|Vrīḍā]] ·
+[[glossary/v#Vṛkodara|Vṛkodara]] ·
+[[glossary/v#Vṛndāvana dāsa Ṭhākura|Vṛndāvana dāsa Ṭhākura]] ·
+[[glossary/v#Vṛndāvana-vihāra|Vṛndāvana-vihāra]] ·
+[[glossary/v#Vṛndāvana|Vṛndāvana]] ·
+[[glossary/v#Vṛṣasena|Vṛṣasena]] ·
+[[glossary/v#Vṛṣṇi|Vṛṣṇi]] ·
+[[glossary/v#Vṛtra|Vṛtra]] ·
+[[glossary/v#Vyabhicārī-bhāvas|Vyabhicārī-bhāvas]] ·
+[[glossary/v#Vyādhi|Vyādhi]] ·
+[[glossary/v#Vyakta|Vyakta]] ·
+[[glossary/v#Vyāna-vāyu|Vyāna-vāyu]] ·
+[[glossary/v#Vyāsa-pūjā|Vyāsa-pūjā]] ·
+[[glossary/v#Vyāsadeva (Vyāsa)|Vyāsadeva (Vyāsa)]] ·
+[[glossary/v#Vyāsāsana|Vyāsāsana]] ·
+[[glossary/v#Vyāsa|Vyāsa]]
 
 
 
 ===== W =====
 
-[[glossary/w#Wittgenstein, Ludwig]]
+[[glossary/w#Wittgenstein, Ludwig|Wittgenstein, Ludwig]]
 
 
 
 ===== Y =====
 
-[[glossary/y#Yādava dynasty]] ·
-[[glossary/y#Yadavadri]] ·
-[[glossary/y#Yādava]] ·
-[[glossary/y#Yadu (Yādava) dynasty]] ·
-[[glossary/y#Yadu-kumāra]] ·
-[[glossary/y#Yadupati]] ·
-[[glossary/y#Yadus]] ·
-[[glossary/y#Yadu]] ·
-[[glossary/y#Yadvā-tadvā kavi]] ·
-[[glossary/y#Yajamānas]] ·
-[[glossary/y#Yajana]] ·
-[[glossary/y#Yajña-puruṣa]] ·
-[[glossary/y#Yajña]] ·
-[[glossary/y#Yajñeśvara]] ·
-[[glossary/y#Yakṣa]] ·
-[[glossary/y#Yamadūtas]] ·
-[[glossary/y#Yamarāja]] ·
-[[glossary/y#Yama]] ·
-[[glossary/y#Yāmunācārya]] ·
-[[glossary/y#Yamunā]] ·
-[[glossary/y#Yaśodā-nandana]] ·
-[[glossary/y#Yaśodā]] ·
-[[glossary/y#Yātrā]] ·
-[[glossary/y#Yavana]] ·
-[[glossary/y#Yavana]] ·
-[[glossary/y#Yayāti]] ·
-[[glossary/y#Yoga-mārga]] ·
-[[glossary/y#Yoga-māyā]] ·
-[[glossary/y#Yoga-nidrā]] ·
-[[glossary/y#Yoga-siddhis]] ·
-[[glossary/y#Yogarudha]] ·
-[[glossary/y#Yogarurukṣa]] ·
-[[glossary/y#Yoga]] ·
-[[glossary/y#Yogeśvara]] ·
-[[glossary/y#Yogendras]] ·
-[[glossary/y#Yogī]] ·
-[[glossary/y#Yojana]] ·
-[[glossary/y#Yuddha]] ·
-[[glossary/y#Yudhāmanyu]] ·
-[[glossary/y#Yudhiṣṭhira]] ·
-[[glossary/y#Yuga-avatāra]] ·
-[[glossary/y#Yuga-dharma]] ·
-[[glossary/y#Yugala-pirīti]] ·
-[[glossary/y#Yuga]] ·
-[[glossary/y#Yukta-vairāgya]] ·
-[[glossary/y#Yuyutsu]]
+[[glossary/y#Yādava dynasty|Yādava dynasty]] ·
+[[glossary/y#Yadavadri|Yadavadri]] ·
+[[glossary/y#Yādava|Yādava]] ·
+[[glossary/y#Yadu (Yādava) dynasty|Yadu (Yādava) dynasty]] ·
+[[glossary/y#Yadu-kumāra|Yadu-kumāra]] ·
+[[glossary/y#Yadupati|Yadupati]] ·
+[[glossary/y#Yadus|Yadus]] ·
+[[glossary/y#Yadu|Yadu]] ·
+[[glossary/y#Yadvā-tadvā kavi|Yadvā-tadvā kavi]] ·
+[[glossary/y#Yajamānas|Yajamānas]] ·
+[[glossary/y#Yajana|Yajana]] ·
+[[glossary/y#Yajña-puruṣa|Yajña-puruṣa]] ·
+[[glossary/y#Yajña|Yajña]] ·
+[[glossary/y#Yajñeśvara|Yajñeśvara]] ·
+[[glossary/y#Yakṣa|Yakṣa]] ·
+[[glossary/y#Yamadūtas|Yamadūtas]] ·
+[[glossary/y#Yamarāja|Yamarāja]] ·
+[[glossary/y#Yama|Yama]] ·
+[[glossary/y#Yāmunācārya|Yāmunācārya]] ·
+[[glossary/y#Yamunā|Yamunā]] ·
+[[glossary/y#Yaśodā-nandana|Yaśodā-nandana]] ·
+[[glossary/y#Yaśodā|Yaśodā]] ·
+[[glossary/y#Yātrā|Yātrā]] ·
+[[glossary/y#Yavana|Yavana]] ·
+[[glossary/y#Yavana|Yavana]] ·
+[[glossary/y#Yayāti|Yayāti]] ·
+[[glossary/y#Yoga-mārga|Yoga-mārga]] ·
+[[glossary/y#Yoga-māyā|Yoga-māyā]] ·
+[[glossary/y#Yoga-nidrā|Yoga-nidrā]] ·
+[[glossary/y#Yoga-siddhis|Yoga-siddhis]] ·
+[[glossary/y#Yogarudha|Yogarudha]] ·
+[[glossary/y#Yogarurukṣa|Yogarurukṣa]] ·
+[[glossary/y#Yoga|Yoga]] ·
+[[glossary/y#Yogeśvara|Yogeśvara]] ·
+[[glossary/y#Yogendras|Yogendras]] ·
+[[glossary/y#Yogī|Yogī]] ·
+[[glossary/y#Yojana|Yojana]] ·
+[[glossary/y#Yuddha|Yuddha]] ·
+[[glossary/y#Yudhāmanyu|Yudhāmanyu]] ·
+[[glossary/y#Yudhiṣṭhira|Yudhiṣṭhira]] ·
+[[glossary/y#Yuga-avatāra|Yuga-avatāra]] ·
+[[glossary/y#Yuga-dharma|Yuga-dharma]] ·
+[[glossary/y#Yugala-pirīti|Yugala-pirīti]] ·
+[[glossary/y#Yuga|Yuga]] ·
+[[glossary/y#Yukta-vairāgya|Yukta-vairāgya]] ·
+[[glossary/y#Yuyutsu|Yuyutsu]]
 
 
 
 ===== Z =====
 
-[[glossary/z#Zamindār]]
-
-
-</div>
+[[glossary/z#Zamindār|Zamindār]]
