@@ -1,5 +1,9 @@
-~~bc:W~~
-~~Title:Glossary W~~
+---json
+{
+    "name":"Glossary W",
+    "description":""
+}
+---
 
 ====== Glossary W ======
 

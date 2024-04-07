@@ -1,5 +1,9 @@
-~~bc:R~~
-~~Title:Glossary R~~
+---json
+{
+    "name":"Glossary R",
+    "description":""
+}
+---
 
 ====== Glossary R ======
 

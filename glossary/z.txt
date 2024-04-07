@@ -1,5 +1,9 @@
-~~bc:Z~~
-~~Title:Glossary Z~~
+---json
+{
+    "name":"Glossary Z",
+    "description":""
+}
+---
 
 ====== Glossary Z ======
 

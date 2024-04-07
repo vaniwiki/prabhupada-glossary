@@ -1,5 +1,9 @@
-~~bc:D~~
-~~Title:Glossary D~~
+---json
+{
+    "name":"Glossary D",
+    "description":""
+}
+---
 
 ====== Glossary D ======
 
@@ -22,7 +26,7 @@ the social system given by God for the upliftment of mankind; Varṇāśrama-dha
 the Lord's divine deluding potency, the material energy.
 
 ===== Daivī prakṛti =====
-see: [[y#Yogamāyā]]; Daivi in Sanskrit means divine, and prakṛti means nature. This term refers to the original spiritual nature, out of which matter (guṇa-māyā), personified as goddess Durgā, manifests (see [[books:bg:7:14|Bg 7.14]]). The word daivi is closely related to deva, God. Daivi-prakṛti is therefore nature that is abhinna, not separate from God. A synonym for daivi-prakṛti is para-prakṛti (superior nature, see [[books:bg:7:5|Bg 7.5]]). Śrīla Prabhupāda explained the daivi-prakṛti to be the person of Śrīmatī Rādhārāṇī: ... Just like we are trying to be under the guidance of Rādhārāṇī, daivi-prakṛti. Prakṛti means woman, and daivi means transcendental woman. (SB lecture in Los Angeles, August 19, 1972) See [[p#Prakṛti]], [[r#Rādhārāṇī]].
+see: [[y#Yogamāyā|Yogamāyā]]; Daivi in Sanskrit means divine, and prakṛti means nature. This term refers to the original spiritual nature, out of which matter (guṇa-māyā), personified as goddess Durgā, manifests (see [[books:bg:7:14|Bg 7.14]]). The word daivi is closely related to deva, God. Daivi-prakṛti is therefore nature that is abhinna, not separate from God. A synonym for daivi-prakṛti is para-prakṛti (superior nature, see [[books:bg:7:5|Bg 7.5]]). Śrīla Prabhupāda explained the daivi-prakṛti to be the person of Śrīmatī Rādhārāṇī: ... Just like we are trying to be under the guidance of Rādhārāṇī, daivi-prakṛti. Prakṛti means woman, and daivi means transcendental woman. (SB lecture in Los Angeles, August 19, 1972) See [[p#Prakṛti|Prakṛti]], [[r#Rādhārāṇī|Rādhārāṇī]].
 
 ===== Dākṣāyaṇī =====
 a name of Sati
@@ -73,10 +77,10 @@ a bogus tantric sannyāsī who keeps women.
 "poor Nārāyaṇa," an offensive term used by Māyāvādīs to equate poor men with the Supreme Lord.
 
 ===== Darśana =====
-the act of seeing and being seen by the Deity in the temple or by a spiritually advanced person. A verbal noun meaning the act of beholding or seeing. It also translates as 'audience'. When one goes to the temple of the Lord to have His audience and to behold Him, one is said to have the Lord's darśana; This Sanskrit term literally means a vision. It may mean a vision of something difficult to see (e.g. Brahmā's vision of Vaikuṇṭha), or knowledge of something difficult to know (e.g. Vedānta-darśana). See śaḍ-darśana, [[s#Six systems]].
+the act of seeing and being seen by the Deity in the temple or by a spiritually advanced person. A verbal noun meaning the act of beholding or seeing. It also translates as 'audience'. When one goes to the temple of the Lord to have His audience and to behold Him, one is said to have the Lord's darśana; This Sanskrit term literally means a vision. It may mean a vision of something difficult to see (e.g. Brahmā's vision of Vaikuṇṭha), or knowledge of something difficult to know (e.g. Vedānta-darśana). See śaḍ-darśana, [[s#Six systems|Six systems]].
 
 ===== Darwin, Charles =====
-British naturalist of the nineteenth century (1809-1882) who presented the world his version of the theory of evolution in On the Origin of Species by Means of Natural Selection; or The Preservation of Favoured Races in the Struggle for Life (1859). In fact, the theory that living forms in earlier times were not what they are now, but were simpler organisms that evolved in complexity, was proposed by Anaximander (610-546 BC), who studied fossils in a cliffside. His theory was rejected in ancient Greece, but was revived in the nineteenth century, principally by Darwin. All areas of modern Western thought continue to be influenced by Darwinism. Philosophers and scientists have grown increasingly divided over his theory. One section of scientists argues there is no certain law of evolution it happened completely by chance. Another section holds that the evolutionary process is encoded in some sort of cosmic algorithm. A recent trend in philosophy, called postmodernism, views Darwinism as simply a matter of historical interpretation: it is a metaphor for capitalism and a white male-centered power structure. There is a growing feeling that the ideas of Darwin, like those of Marx and Freud, are obsolete. See [[s#Saṁsāra]].
+British naturalist of the nineteenth century (1809-1882) who presented the world his version of the theory of evolution in On the Origin of Species by Means of Natural Selection; or The Preservation of Favoured Races in the Struggle for Life (1859). In fact, the theory that living forms in earlier times were not what they are now, but were simpler organisms that evolved in complexity, was proposed by Anaximander (610-546 BC), who studied fossils in a cliffside. His theory was rejected in ancient Greece, but was revived in the nineteenth century, principally by Darwin. All areas of modern Western thought continue to be influenced by Darwinism. Philosophers and scientists have grown increasingly divided over his theory. One section of scientists argues there is no certain law of evolution it happened completely by chance. Another section holds that the evolutionary process is encoded in some sort of cosmic algorithm. A recent trend in philosophy, called postmodernism, views Darwinism as simply a matter of historical interpretation: it is a metaphor for capitalism and a white male-centered power structure. There is a growing feeling that the ideas of Darwin, like those of Marx and Freud, are obsolete. See [[s#Saṁsāra|Saṁsāra]].
 
 ===== Dāruka =====
 the charioteer of Lord Śrī Kṛṣṇa.
@@ -109,7 +113,7 @@ the ten sense organs: ear, eye, tongue, nose, skin, hands, legs, speech, anus an
 the servitor relationship with the Lord.
 
 ===== Dāsya-rati =====
-See: [[d#Dāsya-rasa]]
+See: [[d#Dāsya-rasa|Dāsya-rasa]]
 
 ===== Dāsya =====
 the devotional process of rendering service to the Lord.
@@ -133,34 +137,34 @@ leaders of the dayitās; they come from the brāhmaṇa caste.
 servants who carry the Deity of Lord Jagannātha to His chariot.
 
 ===== Deduction =====
-A form of reason that comprehends the cause of an effect from authoritative testimony or a priori knowledge. See [[a#Abduction]], ṁroha/[[a#Avaroha]], [[h#Hypothetico-deduction]], [[i#Induction]], [[l#Logic]].
+A form of reason that comprehends the cause of an effect from authoritative testimony or a priori knowledge. See [[a#Abduction|Abduction]], ṁroha/[[a#Avaroha|Avaroha]], [[h#Hypothetico-deduction|Hypothetico-deduction]], [[i#Induction|Induction]], [[l#Logic|Logic]].
 
 ===== Deism =====
-A term first used by the Calvinists in the seventeenth century, deism is the belief in God as the first cause of the universe, who created the laws by which the universe is governed, but who is in no way immanent in His creation. God's maintenance of the world means nothing more than the permanence of natural laws. Nature follows a regular course. The sole purpose of the world is to be the habitat of mankind. The deists opposed mystical and supernatural interpretations of scripture; human reason is the true measure of scriptural understanding. Many of the Founding Fathers of the United States of America (e.g. Adams, Jefferson and Paine) were of deistic inclination. See [[a#Atheism]], [[s#Semi-deism]], [[t#Theism]].
+A term first used by the Calvinists in the seventeenth century, deism is the belief in God as the first cause of the universe, who created the laws by which the universe is governed, but who is in no way immanent in His creation. God's maintenance of the world means nothing more than the permanence of natural laws. Nature follows a regular course. The sole purpose of the world is to be the habitat of mankind. The deists opposed mystical and supernatural interpretations of scripture; human reason is the true measure of scriptural understanding. Many of the Founding Fathers of the United States of America (e.g. Adams, Jefferson and Paine) were of deistic inclination. See [[a#Atheism|Atheism]], [[s#Semi-deism|Semi-deism]], [[t#Theism|Theism]].
 
 ===== Deity of the Lord =====
 the authorized form of Kṛṣṇa worshiped in temples.
 
 ===== Deity =====
-As Lord Kṛṣṇa appears in the sound of His holy name, so also He appears within the arcā-avatāra, His incarnation as the Deity worshiped in the temple. The central focus of every ISKCON temple around the world is the worship of Kṛṣṇa's Deity form as represented in stone, metal, wood or as painted pictures. Through ceremonial services (pūjā) conducted according to Vedic tradition, the devotees fulfill the Lord's injunction in [[books:bg:9:27|Bg 9.27]]: Whatever you do, whatever you eat, whatever you offer or give away, and whatever austerities you perform do that, O son of Kuntī, as an offering to Me. This pūjā purifies the minds and senses of the devotees and connects them to Kṛṣṇa in an attitude of love. Māyāvādīs decry service to the Deity as idol worship. They argue that God is not present within the Deity, because He is everywhere. But if He is everywhere, then why is He not within the Deity as well? Moisture is also everywhere, even within the air. But when one needs a drink of water, he cannot get it from the air. He must drink the water from where water tangibly avails itself to be drunk: from a faucet, a well, or a clear stream. Similarly, although God is everywhere, it is in His Deity form that He makes Himself tangibly available for worship. See [[a#Avatāra]], [[k#Kṛṣṇa]].
+As Lord Kṛṣṇa appears in the sound of His holy name, so also He appears within the arcā-avatāra, His incarnation as the Deity worshiped in the temple. The central focus of every ISKCON temple around the world is the worship of Kṛṣṇa's Deity form as represented in stone, metal, wood or as painted pictures. Through ceremonial services (pūjā) conducted according to Vedic tradition, the devotees fulfill the Lord's injunction in [[books:bg:9:27|Bg 9.27]]: Whatever you do, whatever you eat, whatever you offer or give away, and whatever austerities you perform do that, O son of Kuntī, as an offering to Me. This pūjā purifies the minds and senses of the devotees and connects them to Kṛṣṇa in an attitude of love. Māyāvādīs decry service to the Deity as idol worship. They argue that God is not present within the Deity, because He is everywhere. But if He is everywhere, then why is He not within the Deity as well? Moisture is also everywhere, even within the air. But when one needs a drink of water, he cannot get it from the air. He must drink the water from where water tangibly avails itself to be drunk: from a faucet, a well, or a clear stream. Similarly, although God is everywhere, it is in His Deity form that He makes Himself tangibly available for worship. See [[a#Avatāra|Avatāra]], [[k#Kṛṣṇa|Kṛṣṇa]].
 
 ===== Demigods =====
-universal controllers and residents of the higher planets; The Sanskrit equivalent is deva or devata. Demigods are jīvas whom the īśvara empowers to represent Him in the management of the universe. The first of the demigods is Brahmā. Indra is the demigod of rain, Sūrya of the sunshine, Candra of the moonshine, Varuṇa of water. There are thirty-three million demigods in all. They live in the upper regions of the universe called svarga, or heaven. Less intelligent people worship the demigods through karma-kāṇḍa rituals to get material blessings in this life, and to be granted entrance into svarga in the next life. In the Bhagavad-gītā, Lord Kṛṣṇa condemns demigod worship as being avidhi-pūrvaka, against the true purpose of the Vedas. See [[t#Tri-loka]].
+universal controllers and residents of the higher planets; The Sanskrit equivalent is deva or devata. Demigods are jīvas whom the īśvara empowers to represent Him in the management of the universe. The first of the demigods is Brahmā. Indra is the demigod of rain, Sūrya of the sunshine, Candra of the moonshine, Varuṇa of water. There are thirty-three million demigods in all. They live in the upper regions of the universe called svarga, or heaven. Less intelligent people worship the demigods through karma-kāṇḍa rituals to get material blessings in this life, and to be granted entrance into svarga in the next life. In the Bhagavad-gītā, Lord Kṛṣṇa condemns demigod worship as being avidhi-pūrvaka, against the true purpose of the Vedas. See [[t#Tri-loka|Tri-loka]].
 
 ===== Demons =====
 impious beings who do not follow the instructions of the Lord.
 
 ===== De omnibus est dubitandum (Lat.) =====
-Doubt is everything. See [[s#Scepticism]].
+Doubt is everything. See [[s#Scepticism|Scepticism]].
 
 ===== Descartes, Ren =====
-French rationalist philosopher of the seventeenth century (1596-1650), called the father of modern philosophy. He broke free of Scholasticism, the Christian re-interpretation of ancient Greek and Roman philosophy that had long held sway in European schools. Descartes is an important founder of the modern scientific attitude. He viewed the material world as a mechanism wholly describable by numerical values. Modern science, more Cartesii (after the manner of Descartes), tries to describe everything in terms of mathematics. Descartes strongly believed that science can help mankind become masters and possessors of nature. Through scientific advancement we might rid ourselves of an infinity of maladies, both of body and mind, and even perhaps the enfeeblement brought on by old age, if we had sufficiently ample knowledge of their causes, and of all the remedies provided for us by nature. Convinced that his revolutionary approach to knowledge would at least free himself from an infinity of maladies, Descartes wrote at age forty-two that he would be surprised if he lived less than over a hundred years. Unfortunately, he died at age fifty-four. See [[c#Cogito ergo sum]], [[r#Rationalism]].
+French rationalist philosopher of the seventeenth century (1596-1650), called the father of modern philosophy. He broke free of Scholasticism, the Christian re-interpretation of ancient Greek and Roman philosophy that had long held sway in European schools. Descartes is an important founder of the modern scientific attitude. He viewed the material world as a mechanism wholly describable by numerical values. Modern science, more Cartesii (after the manner of Descartes), tries to describe everything in terms of mathematics. Descartes strongly believed that science can help mankind become masters and possessors of nature. Through scientific advancement we might rid ourselves of an infinity of maladies, both of body and mind, and even perhaps the enfeeblement brought on by old age, if we had sufficiently ample knowledge of their causes, and of all the remedies provided for us by nature. Convinced that his revolutionary approach to knowledge would at least free himself from an infinity of maladies, Descartes wrote at age forty-two that he would be surprised if he lived less than over a hundred years. Unfortunately, he died at age fifty-four. See [[c#Cogito ergo sum|Cogito ergo sum]], [[r#Rationalism|Rationalism]].
 
 ===== Deul =====
 In Orissan temples it corresponds to the vimana or towered sanctum. It is a cubical inner apartment where the main Deity is located, with a tower over it.
 
 ===== Deva =====
-See [[d#Demigod]].
+See [[d#Demigod|Demigod]].
 
 ===== Devakī-nandana =====
 Kṛṣṇa, the joy and darling son of Devakī.
@@ -229,7 +233,7 @@ religious scriptures that prescribe regulations of social organization and relig
 a hypocrite, especially one who accepts sannyāsa but again becomes agitated by senses.
 
 ===== Dharma-kalaṅka =====
-See: [[d#Dharma-dhvajī]].
+See: [[d#Dharma-dhvajī|Dharma-dhvajī]].
 
 ===== Dharmaśālā =====
 buildings usually found in holy places in India which provide free or cheap rooming for pilgrims and mendicants.
@@ -310,13 +314,13 @@ spiritual initiation.
 the son of Aṁśumān and father of Bhagiratha. He was born in the sun dynasty and was an ancestor of Lord Rāmacandra's.
 
 ===== Dinoia =====
-Greek term for discernment or intellect, similar to the Sanskrit buddhi. See [[i#Intellect]].
+Greek term for discernment or intellect, similar to the Sanskrit buddhi. See [[i#Intellect|Intellect]].
 
 ===== Dīpta =====
 the stage exhibited by a devotee when four of five ecstatic symptoms are manifest.
 
 ===== Discernment =====
-See [[b#Buddhi]], [[d#Dinoia]], [[i#Intellect]].
+See [[b#Buddhi|Buddhi]], [[d#Dinoia|Dinoia]], [[i#Intellect|Intellect]].
 
 ===== Diti =====
 a wife of Kaśyapa Muni, and the mother of the demons Hiraṇyākṣa and Hiraṇyakaśipu.
@@ -367,7 +371,7 @@ the King of Pāñcāla, and the father of Draupadī and Dhṛṣṭadyumna. He w
 a musical style that means 'fixed verse'.
 
 ===== Dualism =====
-From the Latin dualis, containing two. There are two types of dualism in Western thought: metaphysical and religious. Metaphysical dualism is covered under the entry for the Mind/body problem. As a religious term, it was introduced in 1700 by Thomas Hyde in his work The Ancient Persian Religions. He characterized as dualism the conflict between the two principle gods of Zoroastrianism, the good Ormazd and the evil Ahriman. Zoroastrian dualism strongly influenced Judaism, Christianity and Islam. All three adhere to a doctrine of eternal struggle between God and Satan. But dualism, in the words of philosopher G.C. Nayak, is not an attempt to solve the problem of evil within the theistic concept. (From Evil and the Retributive Hypothesis, 1993, p. 44) Hence, none of the above religions, insofar as they are dualistic, can be considered truly theistic. See [[a#Atheism]], [[d#Dvaita]], [[m#Metaphysics]], [[m#Mind/body problem]], [[p#Problem of Evil]], [[t#Theism]].
+From the Latin dualis, containing two. There are two types of dualism in Western thought: metaphysical and religious. Metaphysical dualism is covered under the entry for the Mind/body problem. As a religious term, it was introduced in 1700 by Thomas Hyde in his work The Ancient Persian Religions. He characterized as dualism the conflict between the two principle gods of Zoroastrianism, the good Ormazd and the evil Ahriman. Zoroastrian dualism strongly influenced Judaism, Christianity and Islam. All three adhere to a doctrine of eternal struggle between God and Satan. But dualism, in the words of philosopher G.C. Nayak, is not an attempt to solve the problem of evil within the theistic concept. (From Evil and the Retributive Hypothesis, 1993, p. 44) Hence, none of the above religions, insofar as they are dualistic, can be considered truly theistic. See [[a#Atheism|Atheism]], [[d#Dvaita|Dvaita]], [[m#Metaphysics|Metaphysics]], [[m#Mind/body problem|Mind/body problem]], [[p#Problem of Evil|Problem of Evil]], [[t#Theism|Theism]].
 
 ===== Duḥśala =====
 one of the one hundred sons of Dhṛtarāṣṭra. He was killed by Bhīma. (Droṇa Parva in Mahābhārata)
@@ -451,7 +455,7 @@ the twelfth day after the full or new moon, thus the day after Ekādaśī, when 
 Vyāsadeva (Vyāsa)-the literary incarnation of God, and the greatest philosopher of ancient times. The son of Parāśara, and the compiler of the original Vedic scriptures, including the eighteen Purāṇas, Vedānta-sūtra, the Mahābhārata, and the Upaniṣads. He played a very important part in guiding the Pāṇḍavas during crucial times. He gave the vision of the battle of Kurukṣetra to Sañjaya so that he could relate it to Dhṛtarāṣṭra. He is still living in this world.
 
 ===== Dvaita =====
-Duality. It is also the name of a system of Vedānta established by Madhvācārya. See [[a#Advaita]], [[d#Dualism]], [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas]], [[m#Madhva]], [[v#Vedānta]].
+Duality. It is also the name of a system of Vedānta established by Madhvācārya. See [[a#Advaita|Advaita]], [[d#Dualism|Dualism]], [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas|Four Vaiṣṇava Sampradāyas and Siddhāntas]], [[m#Madhva|Madhva]], [[v#Vedānta|Vedānta]].
 
 ===== Dvaitādvaita-vāda =====
 the Vedānta philosophy taught by Nimbarkācārya. This philosophy posits a simultaneous oneness and difference between the tiny spirit souls and the Supreme Lord. Later, Lord Caitanya gave further development to this idea as acintya-bhedābheda-vāda.
@@ -478,7 +482,7 @@ the duration of Brahmā's life, 311 trillion 411 billion years.
 unworthy sons of the twice-born.
 
 ===== Dvija-bandhu =====
-See: [[b#Brahma-bandhu]]
+See: [[b#Brahma-bandhu|Brahma-bandhu]]
 
 ===== Dvija =====
 a brāhmaṇa, or twice-born person.

@@ -1,5 +1,9 @@
-~~bc:N~~
-~~Title:Glossary N~~
+---json
+{
+    "name":"Glossary N",
+    "description":""
+}
+---
 
 ====== Glossary N ======
 
@@ -100,7 +104,7 @@ the king, who is an earthly god.
 an incarnation of the Supreme Lord appearing as two sages to teach by example the practice of austerities.
 
 ===== Nārada Muni =====
-a pure devotee of the Lord, one of the sons of Lord Brahmā, who travels throughout the universes in his eternal body, glorifying devotional service while delivering the science of bhakti. He is the spiritual master of Vyāsadeva and of many other great devotees; A great sage among the demigods, the favorite son of Brahmā, and one of the foremost authorities on viṣṇu-bhakti. In Kali-santaraṇa Upaniṣad, Brahmā taught Nārada the Hare Kṛṣṇa mahā-mantra. Nārada is famous throughout the universe for his ecstatic chanting of the holy name of Kṛṣṇa. He taught the Nārada-pañcaratra and the Nārada-bhakti-sūtra and gives a number of illuminating discourses in Śrīmad-Bhāgavatam and other Purāṇas. Among Nārada's prominent disciples are Prahlāda, Dhruva, Citraketu (Vṛtrāsura), the Haryaśvas, and Vyāsadeva, who compiled all the Vedic scriptures. See [[b#Bhakti-yoga]], [[b#Brahmā]], [[d#Demigods]], [[p#Prahlāda]], [[v#Vyāsa]].
+a pure devotee of the Lord, one of the sons of Lord Brahmā, who travels throughout the universes in his eternal body, glorifying devotional service while delivering the science of bhakti. He is the spiritual master of Vyāsadeva and of many other great devotees; A great sage among the demigods, the favorite son of Brahmā, and one of the foremost authorities on viṣṇu-bhakti. In Kali-santaraṇa Upaniṣad, Brahmā taught Nārada the Hare Kṛṣṇa mahā-mantra. Nārada is famous throughout the universe for his ecstatic chanting of the holy name of Kṛṣṇa. He taught the Nārada-pañcaratra and the Nārada-bhakti-sūtra and gives a number of illuminating discourses in Śrīmad-Bhāgavatam and other Purāṇas. Among Nārada's prominent disciples are Prahlāda, Dhruva, Citraketu (Vṛtrāsura), the Haryaśvas, and Vyāsadeva, who compiled all the Vedic scriptures. See [[b#Bhakti-yoga|Bhakti-yoga]], [[b#Brahmā|Brahmā]], [[d#Demigods|Demigods]], [[p#Prahlāda|Prahlāda]], [[v#Vyāsa|Vyāsa]].
 
 ===== Nārada Pañcarātra =====
 Nārada Muni's book on the processes of Deity worship and mantra meditation.
@@ -148,7 +152,7 @@ bereft of all intelligence.
 Śiva as the cosmic dancer.
 
 ===== Natural theology =====
-A theological movement of the late seventeenth to early nineteenth century that minimized traditional revealed theology. Natural theology was the attempt of rationalist philosophers to acquire and demonstrate God consciousness by innate or natural reason. See [[r#Rationalism]].
+A theological movement of the late seventeenth to early nineteenth century that minimized traditional revealed theology. Natural theology was the attempt of rationalist philosophers to acquire and demonstrate God consciousness by innate or natural reason. See [[r#Rationalism|Rationalism]].
 
 ===== Nava-yauvana day =====
 the day on which Lord Jagannātha, Śrīmatī Subhadrā and Lord Balarāma enter seclusion for fifteen days before Ratha-yātrā.
@@ -172,7 +176,7 @@ Muslim ruler or a big landowner
 the Muhammdan governor of Bengal during the time of Sri Caitanya Mahaprabhu's appearance.
 
 ===== Nesis (Gr.) =====
-Factual, intellectual knowledge, as opposed to mere opinion (dxa). See [[e#Epistemology]].
+Factual, intellectual knowledge, as opposed to mere opinion (dxa). See [[e#Epistemology|Epistemology]].
 
 ===== Neti neti =====
 the negative process of the jñānīs: "This is not spirit, this is not Brahman."
@@ -238,7 +242,7 @@ consciousness that nothing belongs to oneself.
 the winding up of all energies employed in creation.
 
 ===== Nirvāṇa =====
-the cessation of material activities and existence, which according to Vaiṣṇava philosophy, does not deny spiritual activities and existence; freedom from and the end of the process of materialistic life; Literally, of, or like, a candle extinguised. A Sanskrit term for deliverance from material identity or extinction of the false ego, nirvāna is often identified with Buddhism. However, it is to be found throughout the Vedic literatures, e.g. in Bhagavad-gītā 2.72, 5.24-26, and 6.15. See [[b#Buddhism]], [[f#False ego]], [[l#Liberation]], [[m#Modes of nature]].
+the cessation of material activities and existence, which according to Vaiṣṇava philosophy, does not deny spiritual activities and existence; freedom from and the end of the process of materialistic life; Literally, of, or like, a candle extinguised. A Sanskrit term for deliverance from material identity or extinction of the false ego, nirvāna is often identified with Buddhism. However, it is to be found throughout the Vedic literatures, e.g. in Bhagavad-gītā 2.72, 5.24-26, and 6.15. See [[b#Buddhism|Buddhism]], [[f#False ego|False ego]], [[l#Liberation|Liberation]], [[m#Modes of nature|Modes of nature]].
 
 ===== Nirveda =====
 indifference, a vyabhicāri-bhāva.
@@ -247,7 +251,7 @@ indifference, a vyabhicāri-bhāva.
 impersonalists who accept an Absolute but deny that He has any qualities of His own.
 
 ===== Niścaya =====
-Correct apprehension. One of the five functions of buddhi. See [[b#Buddhi]].
+Correct apprehension. One of the five functions of buddhi. See [[b#Buddhi|Buddhi]].
 
 ===== Niṣiddhācāra =====
 acting in a way forbidden in the śāstra.
@@ -310,10 +314,10 @@ the appearance day of Lord Nṛsiṁha.
 the half-man, half-lion incarnation of Lord Kṛṣṇa, who killed the demon Hiranyakasipu and saved His devotee, Prahlada Mahārāja.
 
 ===== Numinous =====
-Opposite of phenomenal. The root of the word numinous is the Latin numen, nod: a nod as a sign of command. From this comes the sense of a divine will or divine command. Thus the term numinous indicates the felt presence of the divine spirit, the transcendental, the everlasting. See [[p#Phenomenalism]].
+Opposite of phenomenal. The root of the word numinous is the Latin numen, nod: a nod as a sign of command. From this comes the sense of a divine will or divine command. Thus the term numinous indicates the felt presence of the divine spirit, the transcendental, the everlasting. See [[p#Phenomenalism|Phenomenalism]].
 
 ===== Nyāya =====
-logic; Gautama Muni-one of the seven sons born from Lord Brahma's mind. He belongs to the family of Aṅgirā Ṛṣi and is the author of Nyāya-śāstra, the science of logic, which explains that the combination of atoms is the cause of everything; One of the six systems of Vedic philosophy; taught by sage Gautama. See [[l#Logic]], [[s#Six systems]].
+logic; Gautama Muni-one of the seven sons born from Lord Brahma's mind. He belongs to the family of Aṅgirā Ṛṣi and is the author of Nyāya-śāstra, the science of logic, which explains that the combination of atoms is the cause of everything; One of the six systems of Vedic philosophy; taught by sage Gautama. See [[l#Logic|Logic]], [[s#Six systems|Six systems]].
 
 ===== Nyāyu-śāstra =====
 the Sanskrit literary works, written by the ancient Ṛṣi Gautama Muni and his followers, that teach the philosophical science of logic. Nyayu (or dialectics) was founded by Gautama and is one of the six major schools of Indian philosophy.

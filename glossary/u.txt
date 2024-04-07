@@ -1,5 +1,9 @@
-~~bc:U~~
-~~Title:Glossary U~~
+---json
+{
+    "name":"Glossary U",
+    "description":""
+}
+---
 
 ====== Glossary U ======
 
@@ -46,7 +50,7 @@ the son of Śakuni. He was killed by Sahadeva during the battle of Kurukṣetra.
 the wife of Arjuna and the mother of Irāvān.
 
 ===== Umā =====
-wife of Lord Śiva. See also: [[d#Durgā]]
+wife of Lord Śiva. See also: [[d#Durgā|Durgā]]
 
 ===== United Provinces of Agra and Oudh =====
 the present Indian state of Uttar Pradesh.
@@ -67,7 +71,7 @@ a teacher who makes a living teaching Sanskrit grammar.
 morning refreshments offered to Lord Jagannātha.
 
 ===== Upaniṣads =====
-one-hundred and eight Sanskrit treatises that embody the philosophy of the Vedas. Considered the most significant philosophical sections and crest jewels of the Vedas, the Upaniṣads are found in the Āraṇyaka and Brāhmaṇa portions of the Vedas. They are theistic and contain the realizations and teachings of great sages of antiquity; The term upaniṣad literally means that which is learned by sitting close to the teacher. The texts of the Upaniṣads teach the philosophy of the Absolute Truth (Brahman) to those seeking liberation from birth and death, and the study of the Upaniṣads is known as Vedānta, the conclusion of the Veda. The contents of the Upaniṣads are extremely difficult to fathom; they are to be understood only under the close guidance of a spiritual master (guru). Because the Upaniṣads contain many apparently contradictory statements, the great sage Vyāsa systematized the Upaniṣadic teachings in the Vedānta-sūtra. His natural commentary on the Vedānta-sūtra is the Śrīmad-Bhāgavatam. See [[s#Śrīmad-Bhāgavatam]], [[v#Vedānta-sūtra]].
+one-hundred and eight Sanskrit treatises that embody the philosophy of the Vedas. Considered the most significant philosophical sections and crest jewels of the Vedas, the Upaniṣads are found in the Āraṇyaka and Brāhmaṇa portions of the Vedas. They are theistic and contain the realizations and teachings of great sages of antiquity; The term upaniṣad literally means that which is learned by sitting close to the teacher. The texts of the Upaniṣads teach the philosophy of the Absolute Truth (Brahman) to those seeking liberation from birth and death, and the study of the Upaniṣads is known as Vedānta, the conclusion of the Veda. The contents of the Upaniṣads are extremely difficult to fathom; they are to be understood only under the close guidance of a spiritual master (guru). Because the Upaniṣads contain many apparently contradictory statements, the great sage Vyāsa systematized the Upaniṣadic teachings in the Vedānta-sūtra. His natural commentary on the Vedānta-sūtra is the Śrīmad-Bhāgavatam. See [[s#Śrīmad-Bhāgavatam|Śrīmad-Bhāgavatam]], [[v#Vedānta-sūtra|Vedānta-sūtra]].
 
 ===== Upaplavya =====
 the capital city of King Virāṭa.
@@ -76,7 +80,7 @@ the capital city of King Virāṭa.
 the first kind of rasābhāsa, occurring when one tastes one kind of mellow and something extra is imposed.
 
 ===== Upāsanā-kāṇḍa =====
-portions of the Vedas dealing with ceremonies of worship, especially demigod worship; The path of devotional service. One of the three departments of Vedic knowledge, upāsanā-kāṇḍa is taught by Nārada Muni. See [[b#Bhakti]], [[j#Jñāna-kāṇḍa]], [[k#Karma-kāṇḍa]], [[p#Para-vidyā]].
+portions of the Vedas dealing with ceremonies of worship, especially demigod worship; The path of devotional service. One of the three departments of Vedic knowledge, upāsanā-kāṇḍa is taught by Nārada Muni. See [[b#Bhakti|Bhakti]], [[j#Jñāna-kāṇḍa|Jñāna-kāṇḍa]], [[k#Karma-kāṇḍa|Karma-kāṇḍa]], [[p#Para-vidyā|Para-vidyā]].
 
 ===== Upāsya =====
 worshipable.

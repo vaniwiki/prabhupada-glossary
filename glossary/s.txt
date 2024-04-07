@@ -1,5 +1,9 @@
-~~bc:S~~
-~~Title:Glossary S~~
+---json
+{
+    "name":"Glossary S",
+    "description":""
+}
+---
 
 ====== Glossary S ======
 
@@ -13,7 +17,7 @@ the evidence of transcendental sound, especially of the Vedas.
 the material element of sound vibration.
 
 ===== Śabda =====
-transcendental sound; Sound, especially the Vedic sound, which is the self-evident proof of knowledge. As an authoritative testimony, the third of the three Vaiṣṇava pramāṇas. See [[a#Anumāna]], [[p#Pramāṇa]], [[p#Pratyakṣa]].
+transcendental sound; Sound, especially the Vedic sound, which is the self-evident proof of knowledge. As an authoritative testimony, the third of the three Vaiṣṇava pramāṇas. See [[a#Anumāna|Anumāna]], [[p#Pramāṇa|Pramāṇa]], [[p#Pratyakṣa|Pratyakṣa]].
 
 ===== Sabji =====
 vegetable or vegetable dish.
@@ -22,7 +26,7 @@ vegetable or vegetable dish.
 the Lord's transcendental form, which is eternal and full of knowledge and bliss; the eternal transcendental form of the living entity.
 
 ===== Sac-cid-ānanda =====
-the natural condition of spiritual life: eternal, full of knowledge and bliss; The three qualities of Kṛṣṇa and His spiritual world: eternality, knowledge and bliss. See [[b#Brahmajyoti]], [[k#Kṛṣṇa]], [[r#Rādhārāṇī]].
+the natural condition of spiritual life: eternal, full of knowledge and bliss; The three qualities of Kṛṣṇa and His spiritual world: eternality, knowledge and bliss. See [[b#Brahmajyoti|Brahmajyoti]], [[k#Kṛṣṇa|Kṛṣṇa]], [[r#Rādhārāṇī|Rādhārāṇī]].
 
 ===== Śacī-devī =====
 the mother of Śri Caitanya Mahāprabhu.
@@ -40,10 +44,10 @@ the Supreme Lord who is complete with six opulences.
 the form of the Lord with six arms-two arms of Rāmacandra, two arms of Kṛṣṇa and two arms of Śrī Caitanya Mahāprabhu.
 
 ===== Śaḍ-darśana =====
-Six views or systems of Vedic philosophy. See [[s#Six systems]].
+Six views or systems of Vedic philosophy. See [[s#Six systems|Six systems]].
 
 ===== Sadāśiva =====
-see: [[s#Śiva]]
+see: [[s#Śiva|Śiva]]
 
 ===== Sādhaka =====
 a practitioner of sādhana-bhakti; one who is nearing the perfection of Brahman realization; one who is a suitable candidate for liberation.
@@ -67,7 +71,7 @@ the association of saintly persons [Cc. Madhya 22.83].
 the best of gentlemen.
 
 ===== Sādhu =====
-a saint or Krishna conscious devotee, or Vaiṣṇava. A wandering holy man; A saintly person, a devotee of the Lord; one of the three authorities for a Vaiṣṇava. See [[g#Guru]], [[s#Śāstra]].
+a saint or Krishna conscious devotee, or Vaiṣṇava. A wandering holy man; A saintly person, a devotee of the Lord; one of the three authorities for a Vaiṣṇava. See [[g#Guru|Guru]], [[s#Śāstra|Śāstra]].
 
 ===== Sādhyas =====
 demigods inhabiting the heavenly planets.
@@ -139,7 +143,7 @@ love of God in friendship.
 a relationship with the Supreme Lord in devotional friendship.
 
 ===== Sakhya-rati =====
-see: [[s#Sakhya-rasa]] above.
+see: [[s#Sakhya-rasa|Sakhya-rasa]] above.
 
 ===== Sakhya =====
 the devotional process of maintaining friendship with Kṛṣṇa.
@@ -154,7 +158,7 @@ persons who are plenary expansions of the Lord's internal potency; the various e
 an empowered living entity who serves as an incarnation of the Lord; empowered by the Supreme Lord with one or more of the Lord's opulences.
 
 ===== Śaktyāveśa-jīvas =====
-see: [[s#Śaktyāveśa-avatāra]] above.
+see: [[s#Śaktyāveśa-avatāra|Śaktyāveśa-avatāra]] above.
 
 ===== Śakuni =====
 the evil brother of Gāndhārī and notorious friend of Duryodhana. He master-minded the great gambling match that sent the Pāṇḍavas into exile for 13 years. In the great Kurukṣetra war he was killed by Sahadeva.
@@ -181,7 +185,7 @@ a demon who desired Ambā for his wife. He was defeated by Bhīṣma in his atte
 the King of Madras. His sister was Mādrī who was married to Pāṇḍu. He wanted to join the side of the Pāṇḍavas during the Kurukṣetra war, but was tricked by Duryodhana into offering him his services. He was killed by Yudhiṣṭhira during the Kurukṣetra war.
 
 ===== Salvation =====
-See [[l#Life after death]].
+See [[l#Life after death|Life after death]].
 
 ===== Sāma Veda =====
 one of the four original Vedas. It consists of musical settings of the sacrificial hymns. The Sāma Veda is rich with beautiful songs played by the various demigods. One of these songs is the Bṛhat-sāma, which has an exquisite melody and is sung at midnight.
@@ -229,16 +233,16 @@ the liberation of becoming a personal associate of the Supreme Lord.
 founders of the four Vaiṣṇava schools; they include Śrī Rāmānujācārya, Madhvācārya, Viṣṇu Svāmī and Nimbārka.
 
 ===== Sampradāya =====
-a disciplic succession of spiritual masters, along with the followers in that tradition, through which spiritual knowledge is transmitted; School of thought. See [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas]].
+a disciplic succession of spiritual masters, along with the followers in that tradition, through which spiritual knowledge is transmitted; School of thought. See [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas|Four Vaiṣṇava Sampradāyas and Siddhāntas]].
 
 ===== Samprekṣya nāsikāgram =====
 keeping one's eyes half-open in the practice of yoga.
 
 ===== Saṁsāra =====
-the cycle of repeated birth and death in the material world; The baddha-jīva (conditioned soul), captivated by the modes of material nature, is moved as if on a wheel through 8,400,000 kinds of births, lifetime after lifetime. At the lower range of the cycle are births within aquatic, vegetative and animal forms. At the middle range are births within human forms. At the upper range are births within superhuman forms, such as the demigods. But as high as the soul may reach, even up to the position of Brahmā, there is no freedom from saṁsāra. Impelled by prakṛti, kāla and karma, the jīva will surely be forced into another womb, until the day that soul surrenders to the origin of the force that turns the wheel of saṁsārathe īśvara, Kṛṣṇa. The materialistic theory of evolution put forward by Anaximander and Darwin imperfectly recapitulates the Vedic description of the cycle of birth and death. It is true that we were once microbes, fish, reptiles, mammals and apes. But who are we? We are spirit souls. Materialists have no knowledge of the soul. They are unable to explain how and why dead matter assumes the forms of the gradient species. The Vedas explain that the gradient species mark the evolution and devolution of the soul's material desires. See [[e#Evolution]], [[k#Karma]], [[l#Life after death]], [[r#Reincarnation]].
+the cycle of repeated birth and death in the material world; The baddha-jīva (conditioned soul), captivated by the modes of material nature, is moved as if on a wheel through 8,400,000 kinds of births, lifetime after lifetime. At the lower range of the cycle are births within aquatic, vegetative and animal forms. At the middle range are births within human forms. At the upper range are births within superhuman forms, such as the demigods. But as high as the soul may reach, even up to the position of Brahmā, there is no freedom from saṁsāra. Impelled by prakṛti, kāla and karma, the jīva will surely be forced into another womb, until the day that soul surrenders to the origin of the force that turns the wheel of saṁsārathe īśvara, Kṛṣṇa. The materialistic theory of evolution put forward by Anaximander and Darwin imperfectly recapitulates the Vedic description of the cycle of birth and death. It is true that we were once microbes, fish, reptiles, mammals and apes. But who are we? We are spirit souls. Materialists have no knowledge of the soul. They are unable to explain how and why dead matter assumes the forms of the gradient species. The Vedas explain that the gradient species mark the evolution and devolution of the soul's material desires. See [[e#Evolution|Evolution]], [[k#Karma|Karma]], [[l#Life after death|Life after death]], [[r#Reincarnation|Reincarnation]].
 
 ===== Saṁśaya =====
-Doubt. One of the five functions of buddhi. See [[b#Buddhi]].
+Doubt. One of the five functions of buddhi. See [[b#Buddhi|Buddhi]].
 
 ===== Saṁsṛti =====
 the cycle of repeated birth and death.
@@ -259,7 +263,7 @@ one of the Six Gosvāmīs of Vṛndāvana who was authorized by Lord Caitanya Ma
 the eternal abode, the Vaikuṇṭha planets in the spiritual sky.
 
 ===== Sanātana-dharma =====
-literally, the "eternal activity of the soul", or the eternal religion of the living being-to render service to the Supreme Lord, which in this age is executed mainly by chanting the mahā-mantra. See also: [[b#Bhāgavata-dharma]].
+literally, the "eternal activity of the soul", or the eternal religion of the living being-to render service to the Supreme Lord, which in this age is executed mainly by chanting the mahā-mantra. See also: [[b#Bhāgavata-dharma|Bhāgavata-dharma]].
 
 ===== Sanātana-yoga =====
 eternal activities performed by the living entity.
@@ -283,7 +287,7 @@ meeting point of two or more rivers.
 charioteer and minister to King Dhṛtarāṣṭra. Sañjaya narrated the events of the Kurukṣetra war to Dhṛtarāṣṭra by the mercy of Vyāsa; also a former king of the Ikṣvāku dynasty.
 
 ===== Śaṅkarācārya =====
-an incarnation of Lord Śiva who appeared in South India at the end of the 7th century A.D. to re-establish the authority of the Vedic scriptures. He was a philosopher and lived about three hundred years before Rāmānuja. He did this at a time when India was under the sway of Buddhism, whose tenets deny the authority of the Vedas. He took sannyāsa at a very tender age and wrote commentaries establishing an impersonal philosophy similar to Buddhism, substituting Brahman (Spirit) for the void. He traveled all over India defeating the great scholars of the day and converting them to his doctrine of Māyāvāda, the advaita (non-dualism) interpretation of the Upaniṣads and Vedānta. He left the world at the age of 33; The incarnation of Śiva who appeared about 1400 years ago in South India to propagate Advaita Vedānta. He taught that Brahman is impersonal, there is no individuality apart from Brahman (all souls are really one soul), the cosmic manifestation does not emanate from Brahman, and the cosmic manifestation is without reality, like a hallucination. Though his philosophy is a distortion of the Vedic teachings, his mission was very important. He turned the Indian people away from Buddhism, back to the Vedas. See [[a#Advaita]], [[b#Brahmajyoti]], [[b#Brahman]], [[b#Buddhism]], [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas]], [[m#Māyāvāda philosophy]], [[s#Six systems]], [[v#Vedānta]].
+an incarnation of Lord Śiva who appeared in South India at the end of the 7th century A.D. to re-establish the authority of the Vedic scriptures. He was a philosopher and lived about three hundred years before Rāmānuja. He did this at a time when India was under the sway of Buddhism, whose tenets deny the authority of the Vedas. He took sannyāsa at a very tender age and wrote commentaries establishing an impersonal philosophy similar to Buddhism, substituting Brahman (Spirit) for the void. He traveled all over India defeating the great scholars of the day and converting them to his doctrine of Māyāvāda, the advaita (non-dualism) interpretation of the Upaniṣads and Vedānta. He left the world at the age of 33; The incarnation of Śiva who appeared about 1400 years ago in South India to propagate Advaita Vedānta. He taught that Brahman is impersonal, there is no individuality apart from Brahman (all souls are really one soul), the cosmic manifestation does not emanate from Brahman, and the cosmic manifestation is without reality, like a hallucination. Though his philosophy is a distortion of the Vedic teachings, his mission was very important. He turned the Indian people away from Buddhism, back to the Vedas. See [[a#Advaita|Advaita]], [[b#Brahmajyoti|Brahmajyoti]], [[b#Brahman|Brahman]], [[b#Buddhism|Buddhism]], [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas|Four Vaiṣṇava Sampradāyas and Siddhāntas]], [[m#Māyāvāda philosophy|Māyāvāda philosophy]], [[s#Six systems|Six systems]], [[v#Vedānta|Vedānta]].
 
 ===== Śaṅkā =====
 doubt, a vyabhicāri-bhāva.
@@ -292,7 +296,7 @@ doubt, a vyabhicāri-bhāva.
 a son of King Viraṭa. He was killed Droṇa during the Kurukṣetra war; the conchshell held by Lord Viṣṇu.
 
 ===== Saṅkara =====
-see: [[s#Śiva]]
+see: [[s#Śiva|Śiva]]
 
 ===== Saṅkarṣaṇa =====
 one of the four original expansions of Lord Kṛṣṇa in the spiritual world; also, another name of Balarāma, given by Garga Muni.
@@ -307,10 +311,10 @@ the place where the Lord killed Sankhāsura.
 the process of linking with the Supreme by intellectually tracing out the source of creation.
 
 ===== Sāṅkhya =====
-analytical discrimination between spirit and matter and the path of devotional service as described by Lord Kapila, the son of Devahūti in the Śrīmad-Bhāgavatam; analytical understanding of the body and the soul. Sāṅkhya-yoga-the process of linking with the Supreme by intellectually tracing out the source of creation; An analysis of matter and spirit taught by sage Nirīśvara Kapila. One of the six systems of Vedic philosophy. See [[a#Analysis]], [[s#Six systems]].
+analytical discrimination between spirit and matter and the path of devotional service as described by Lord Kapila, the son of Devahūti in the Śrīmad-Bhāgavatam; analytical understanding of the body and the soul. Sāṅkhya-yoga-the process of linking with the Supreme by intellectually tracing out the source of creation; An analysis of matter and spirit taught by sage Nirīśvara Kapila. One of the six systems of Vedic philosophy. See [[a#Analysis|Analysis]], [[s#Six systems|Six systems]].
 
 ===== Saṅkīrtana =====
-The congregational glorification of the Lord through chanting His holy name. The most recommended process of spiritual upliftment in the present age (Kali-yuga). See [[c#Caitanya Mahāprabhu]], [[i#ISKCON]], [[k#Kīrtana]].
+The congregational glorification of the Lord through chanting His holy name. The most recommended process of spiritual upliftment in the present age (Kali-yuga). See [[c#Caitanya Mahāprabhu|Caitanya Mahāprabhu]], [[i#ISKCON|ISKCON]], [[k#Kīrtana|Kīrtana]].
 
 ===== Saṅkrāntī =====
 the day when a Bengali month ends. Also, the passage of the sun or any other planet from one Zodiacal sign to another.
@@ -325,7 +329,7 @@ a convulsive disease caused by combination of kapha, pitta, vāyu.
 the staff carried by a sannyāsī.
 
 ===== Sannyāsa =====
-the renounced order, and fourth stage of Vedic spiritual life in the Vedic system of varṇāsrama-dharma, which is free from family relationships and in which all activities are completely dedicated to Kṛṣṇa. It is the order of ascetics who travel and constantly preach the message of Godhead for the benefit of all. The sannyāsī has no other purpose in life but to serve and please the Supreme Personality of Godhead, and he acts as the guru for the other divisions of society; The order of renunciation accepted by males in the Vedic culture. The fourth spiritual devision of life, according to the social system of four āśramas, sannyāsa is meant for ending material existence. It is usually accepted at age fifty, after a man has fulfilled his household responsibilities. The original Vedic sannyāsīs carried the tridaṇḍa, three bamboo rods wrapped together around a fourth, symbolizing that the body, minds and words are dedicated to the Supreme. The fourth stood for the soul. Māyāvādī sannyāsīs in the line of Śaṅkarācārya carry only one daṇḍa; the Buddhists carry none. All bona fide sannyāsīs wear orange or saffron robes and keep their heads shaven; all must follow standard principles: no meat-eating, sexual activity, gambling or intoxication, and all are meant to travel and preach as their only duty in life. See [[b#Brahmacārī]], [[g#Gṛhasta]], [[v#Vānaprastha]].
+the renounced order, and fourth stage of Vedic spiritual life in the Vedic system of varṇāsrama-dharma, which is free from family relationships and in which all activities are completely dedicated to Kṛṣṇa. It is the order of ascetics who travel and constantly preach the message of Godhead for the benefit of all. The sannyāsī has no other purpose in life but to serve and please the Supreme Personality of Godhead, and he acts as the guru for the other divisions of society; The order of renunciation accepted by males in the Vedic culture. The fourth spiritual devision of life, according to the social system of four āśramas, sannyāsa is meant for ending material existence. It is usually accepted at age fifty, after a man has fulfilled his household responsibilities. The original Vedic sannyāsīs carried the tridaṇḍa, three bamboo rods wrapped together around a fourth, symbolizing that the body, minds and words are dedicated to the Supreme. The fourth stood for the soul. Māyāvādī sannyāsīs in the line of Śaṅkarācārya carry only one daṇḍa; the Buddhists carry none. All bona fide sannyāsīs wear orange or saffron robes and keep their heads shaven; all must follow standard principles: no meat-eating, sexual activity, gambling or intoxication, and all are meant to travel and preach as their only duty in life. See [[b#Brahmacārī|Brahmacārī]], [[g#Gṛhasta|Gṛhasta]], [[v#Vānaprastha|Vānaprastha]].
 
 ===== Sannyāsī =====
 one in the sannyāsa (renounced) order.
@@ -337,7 +341,7 @@ the oldest language in the world. The Vedas, or India's holy scriptures, are wri
 the marginal stage of devotional service, passive love of God; the relationship with the Supreme Lord in neutrality.
 
 ===== Śānta-rati =====
-see: [[s#Śānta-rasa]] above. 
+see: [[s#Śānta-rasa|Śānta-rasa]] above. 
 
 ===== Śantanu =====
 the father of Bhīṣma by Gaṅgā. He gave Bhīṣma the benediction that he could die only when he wanted to. It was said that anything he touched with his two hands would become youthful.
@@ -445,7 +449,7 @@ the revealed scriptures, obeyed by all those who follow the Vedic teachings. Ś�
 seeing everything through the medium of the Vedic literature; Cakṣuṣa means eyes; śāstra-cakṣuṣa means seeing through the eyes of scripture, as opposed to gross sense perception or mental speculation.
 
 ===== Śāstramūlaka =====
-Mūla means root; śāstramūlaka means rooted in scripture, as opposed to laukika. See [[l#Laukika]].
+Mūla means root; śāstramūlaka means rooted in scripture, as opposed to laukika. See [[l#Laukika|Laukika]].
 
 ===== Sāṣṭānga-pranāma (Daṇḍavat) =====
 a respectful obeisance executed by prostrating eight limbs of the body, namely the thighs, feet, hands, chest, thoughts or devotion, head, voice, and closed eyes.
@@ -564,13 +568,13 @@ the liberation of merging into the Brahman effulgence.
 the liberation of merging into the spiritual effulgence of the Lord.
 
 ===== Scepticism =====
-A state of doubting that may range from a tentative doubt in the process of reaching certainty to complete, total disbelief in everything. Usually, scepticism refers to a philosophy of disbelief, of which there are many. In India, the philosophies of Cārvaka Muni, the Buddhists and the Jains are founded upon disbelief in the Vedas. Māyāvādīs claim to accept the Vedas, but they sceptically reject the Vedic philosophy of Vaiṣṇavism. As Sarvapalli Radhakrishnan, a famous Māyāvādī scholar, wrote about the teachings of ācārya Rāmānuja: Rāmānuja's beautiful stories of the other world, which he narrates with the confidence of one who had personally assisted at the origination of the world, carry no conviction. These are the words of a man confined to a miniscule spectrum of awareness by his pratyakṣa and anumāna. Yet he thinks he can pass judgement on that which is beyond his senses and mind. There are many forms of Western scepticism as well, which go back to the ancient Greeks. See [[b#Buddhism]], [[m#Materialism]], [[m#Māyāvādī philosophy]], [[s#Six systems]], [[v#Voidism]].
+A state of doubting that may range from a tentative doubt in the process of reaching certainty to complete, total disbelief in everything. Usually, scepticism refers to a philosophy of disbelief, of which there are many. In India, the philosophies of Cārvaka Muni, the Buddhists and the Jains are founded upon disbelief in the Vedas. Māyāvādīs claim to accept the Vedas, but they sceptically reject the Vedic philosophy of Vaiṣṇavism. As Sarvapalli Radhakrishnan, a famous Māyāvādī scholar, wrote about the teachings of ācārya Rāmānuja: Rāmānuja's beautiful stories of the other world, which he narrates with the confidence of one who had personally assisted at the origination of the world, carry no conviction. These are the words of a man confined to a miniscule spectrum of awareness by his pratyakṣa and anumāna. Yet he thinks he can pass judgement on that which is beyond his senses and mind. There are many forms of Western scepticism as well, which go back to the ancient Greeks. See [[b#Buddhism|Buddhism]], [[m#Materialism|Materialism]], [[m#Māyāvādī philosophy|Māyāvādī philosophy]], [[s#Six systems|Six systems]], [[v#Voidism|Voidism]].
 
 ===== Semantics =====
 From the Greek sma, sign. The study of how words (or linguistic symbols) make sense, and how words apply to the things they refer to. Semantics attempts to define the conditions under which a statement can be analyzed as true or false.
 
 ===== Semi-deism =====
-A variant of deism in which God, the first cause, is supposed to sometimes intervene in the regular course of nature through geological catastrophes and the sudden rise of species. Noted semi-deists were nineteenth century British natural theologicans William Buckland (1784-1856), Adam Sedgewick (1785-1873), W.D. Conybeare (1787-1857), and Charles Lyell (1797-1875). See [[a#Atheism]], [[d#Deism]], [[t#Theism]].
+A variant of deism in which God, the first cause, is supposed to sometimes intervene in the regular course of nature through geological catastrophes and the sudden rise of species. Noted semi-deists were nineteenth century British natural theologicans William Buckland (1784-1856), Adam Sedgewick (1785-1873), W.D. Conybeare (1787-1857), and Charles Lyell (1797-1875). See [[a#Atheism|Atheism]], [[d#Deism|Deism]], [[t#Theism|Theism]].
 
 ===== Sentimentalism =====
 A mental attitude permeated by or predisposed to emotions produced of sense perception. For example, the sceptic David Hume rejected the standard moral obligations of his time, and argued that morality could only be valid when based upon what he termed sympathy and sentiment.
@@ -612,7 +616,7 @@ the heavenly planet whose inhabitants possess all mystic powers; the planets of 
 a perfected person, or mystic; a demigod from Siddhaloka; one who has realized the Brahman effulgence; a perfect devotee.
 
 ===== Siddhānta =====
-Essential conclusion. See [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas]].
+Essential conclusion. See [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas|Four Vaiṣṇava Sampradāyas and Siddhāntas]].
 
 ===== Siddhi-lobhī =====
 one who is greedy for material perfection.
@@ -690,10 +694,10 @@ the guṇa-avatāra who is the superintendent of the mode of ignorance (tamogu�
 a great householder devotee of Lord Śrī Caitanya Mahāprabhu.
 
 ===== Six Gosvāmīs =====
-they were deputed to go to Vṛndāvana to excavate the present places of pilgrimage. The present city of Vṛndāvana and the importance of Vrajabhūmi were thus disclosed by the will of Lord Śrī Caitanya Mahāprabhu. See also: [[r#Rūpa Gosvāmī]], [[s#Sanātana Gosvāmī]], [[j#Jīva Gosvāmī]], [[g#Gopāla Bhaṭṭa Gosvāmī]], [[r#Raghunātha Dāsa Gosvāmī]] and [[r#Raghunātha Bhaṭṭa Gosvāmī]].
+they were deputed to go to Vṛndāvana to excavate the present places of pilgrimage. The present city of Vṛndāvana and the importance of Vrajabhūmi were thus disclosed by the will of Lord Śrī Caitanya Mahāprabhu. See also: [[r#Rūpa Gosvāmī|Rūpa Gosvāmī]], [[s#Sanātana Gosvāmī|Sanātana Gosvāmī]], [[j#Jīva Gosvāmī|Jīva Gosvāmī]], [[g#Gopāla Bhaṭṭa Gosvāmī|Gopāla Bhaṭṭa Gosvāmī]], [[r#Raghunātha Dāsa Gosvāmī|Raghunātha Dāsa Gosvāmī]] and [[r#Raghunātha Bhaṭṭa Gosvāmī|Raghunātha Bhaṭṭa Gosvāmī]].
 
 ===== Six systems =====
-There are six systems of philosophy associated with the Vedic scriptures. These together are known as the ṣaḍ-darśana. The ṣaḍ-darśana (six views) are: 1) Nyāya (logic), 2) Vaiśeṣika (atomic theory), 3) Sāṅkhya (analysis of matter and spirit), 4) Yoga (the discipline of self-realization), 5) Karma-mīmāṁsā (the science of fruitive work) and 6) Vedānta (the science of God realization). The ṣaḍ-darśana are termed āstika philosophies (from asti, or it is so), because they all acknowledge the Veda as authoritative, as opposed to the nāstika philosophies of the Cārvakas, Buddhists and Jains (nāsti, it is not so), who reject the Vedas. Beginning with Nyāya, each of the ṣaḍ-darśana in their turn presents a more developed and comprehensive explanation of the aspects of Vedic knowledge. Nyāya sets up the rules of philosophical debate and identifies the basic subjects under discussion: the physical world, the soul, God and liberation. Vaiśeṣika engages the method of Nyāya or logic in a deeper analysis of the predicament of material existence by showing that the visible material forms to which we are all so attached ultimately break down into invisible atoms. Sāṅkhya develops this analytical process further to help the soul become aloof to matter. Through Yoga, the soul awakens its innate spiritual vision to see itself beyond the body. Karma-mīmāṁsā directs the soul to the goals of Vedic ritualism. Vedānta ultimately focuses on the supreme spiritual goal taught in the Upaniṣads. As can be seen in Śrīmad-Bhāgavatam, the basis of these darśanas was an original, unified spiritual science (bhagavad-tattva-vijñāna) taught in very olden times by the twelve Mahājanas: Brahmā, Nārada, Śiva, Kumāras, Kapila, Manu, Prahlāda, Janaka, Bhīṣma, Bali, Śukadeva and Yamarāja. But due to the influence of māyā, scholars who followed the teachings of later sages like Gautama, Kaṇāda, Nirīśvara Kapila, Patañjali and Jaimini, became divided and contentious. The Vedic philosophy was misunderstood, and opposing schools came into being to serve sectarian ends. For instance, Karma-mīmāṁsā (which by 500 BC had become the foremost philosophy of the brāhmaṇa class) was misused by bloodthirsty priests to justify their mass slaughter of animals in Vedic sacrifices. But the unexpected rise of a novel non-Vedic religion challenged the power of Karma-mīmāṁsā. This new religion was Buddhism. By 250 BC, the influence of Karma-mīmāṁsā and other darśanas had weakened considerably. When King Aśoka instituted the Buddha's doctrine as the state philosophy of his empire, many brāhmaṇas abandoned Vedic scholarship to learn and teach nāstika concepts of ahiṁsā (nonviolence) and śūnyatā (voidism). Buddhism in its turn was eclipsed by the teachings of the Vedāntist Śaṅkarācārya, who revived the Vedic culture all over India in the seventh century after Christ. But Śaṅkarācārya's special formulation of Vedānta was itself influenced by Buddhism and is not truly representative of the original Vedānta-darśana. After Śaṅkarācārya, Vedānta was refined by the schools of great teachers (ācāryas) like Rāmānuja and Madhva. Having shed the baggage of Śaṅkarācārya's crypto-Buddhism, Vedānta philosophers brought Vedic studies back to their original form as seen in Śrīmad-Bhāgavatam. See [[a#Advaita]], [[a#Analysis]], [[d#Dvaita]], [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas]], [[m#Māyāvāda philosophy]], [[v#Veda]], [[v#Vedānta]].
+There are six systems of philosophy associated with the Vedic scriptures. These together are known as the ṣaḍ-darśana. The ṣaḍ-darśana (six views) are: 1) Nyāya (logic), 2) Vaiśeṣika (atomic theory), 3) Sāṅkhya (analysis of matter and spirit), 4) Yoga (the discipline of self-realization), 5) Karma-mīmāṁsā (the science of fruitive work) and 6) Vedānta (the science of God realization). The ṣaḍ-darśana are termed āstika philosophies (from asti, or it is so), because they all acknowledge the Veda as authoritative, as opposed to the nāstika philosophies of the Cārvakas, Buddhists and Jains (nāsti, it is not so), who reject the Vedas. Beginning with Nyāya, each of the ṣaḍ-darśana in their turn presents a more developed and comprehensive explanation of the aspects of Vedic knowledge. Nyāya sets up the rules of philosophical debate and identifies the basic subjects under discussion: the physical world, the soul, God and liberation. Vaiśeṣika engages the method of Nyāya or logic in a deeper analysis of the predicament of material existence by showing that the visible material forms to which we are all so attached ultimately break down into invisible atoms. Sāṅkhya develops this analytical process further to help the soul become aloof to matter. Through Yoga, the soul awakens its innate spiritual vision to see itself beyond the body. Karma-mīmāṁsā directs the soul to the goals of Vedic ritualism. Vedānta ultimately focuses on the supreme spiritual goal taught in the Upaniṣads. As can be seen in Śrīmad-Bhāgavatam, the basis of these darśanas was an original, unified spiritual science (bhagavad-tattva-vijñāna) taught in very olden times by the twelve Mahājanas: Brahmā, Nārada, Śiva, Kumāras, Kapila, Manu, Prahlāda, Janaka, Bhīṣma, Bali, Śukadeva and Yamarāja. But due to the influence of māyā, scholars who followed the teachings of later sages like Gautama, Kaṇāda, Nirīśvara Kapila, Patañjali and Jaimini, became divided and contentious. The Vedic philosophy was misunderstood, and opposing schools came into being to serve sectarian ends. For instance, Karma-mīmāṁsā (which by 500 BC had become the foremost philosophy of the brāhmaṇa class) was misused by bloodthirsty priests to justify their mass slaughter of animals in Vedic sacrifices. But the unexpected rise of a novel non-Vedic religion challenged the power of Karma-mīmāṁsā. This new religion was Buddhism. By 250 BC, the influence of Karma-mīmāṁsā and other darśanas had weakened considerably. When King Aśoka instituted the Buddha's doctrine as the state philosophy of his empire, many brāhmaṇas abandoned Vedic scholarship to learn and teach nāstika concepts of ahiṁsā (nonviolence) and śūnyatā (voidism). Buddhism in its turn was eclipsed by the teachings of the Vedāntist Śaṅkarācārya, who revived the Vedic culture all over India in the seventh century after Christ. But Śaṅkarācārya's special formulation of Vedānta was itself influenced by Buddhism and is not truly representative of the original Vedānta-darśana. After Śaṅkarācārya, Vedānta was refined by the schools of great teachers (ācāryas) like Rāmānuja and Madhva. Having shed the baggage of Śaṅkarācārya's crypto-Buddhism, Vedānta philosophers brought Vedic studies back to their original form as seen in Śrīmad-Bhāgavatam. See [[a#Advaita|Advaita]], [[a#Analysis|Analysis]], [[d#Dvaita|Dvaita]], [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas|Four Vaiṣṇava Sampradāyas and Siddhāntas]], [[m#Māyāvāda philosophy|Māyāvāda philosophy]], [[v#Veda|Veda]], [[v#Vedānta|Vedānta]].
 
 ===== Skanda Purāṇa =====
 one of the eighteen Purāṇas, or Vedic historical scriptures. It extensively describes Kali-yuga.
@@ -720,10 +724,10 @@ the regulations of mundane religious activity.
 the popular name for followers of the Vedas who are overly attached to elevation and salvation. They are very careful about the latter, but often not the spirit, of scriptural injunctions, confounding the mundane with the spiritual. They are very fond of the smṛti-śāstras and are thus known as smartas.
 
 ===== Smṛti =====
-remembrance, a vyabhicāri-bhāva; revealed scriptures supplementary to the śruti, or original Vedic scriptures, which are the Vedas and Upaniṣads; scriptures compiled by living entities under transcendental direction; the corollaries of the Vedas; One of the five functions of buddhi. See [[b#Buddhi]].
+remembrance, a vyabhicāri-bhāva; revealed scriptures supplementary to the śruti, or original Vedic scriptures, which are the Vedas and Upaniṣads; scriptures compiled by living entities under transcendental direction; the corollaries of the Vedas; One of the five functions of buddhi. See [[b#Buddhi|Buddhi]].
 
 ===== Smṛti-śāstra =====
-A section of the Vedic scriptures including the Mahābhārata and the Purāṇas. See [[s#Śāstra]], [[s#Śruti-śāstra]].
+A section of the Vedic scriptures including the Mahābhārata and the Purāṇas. See [[s#Śāstra|Śāstra]], [[s#Śruti-śāstra|Śruti-śāstra]].
 
 ===== Smṛty-ācārya =====
 a spiritual master expert in the supplementary Vedic literatures.
@@ -741,7 +745,7 @@ very peaceful.
 Socrates (470-399 BC) is the most influential philosopher in the recorded history of the Western world. Plato was his disciple and Aristotle his grand-disciple. Socrates lived in Athens and taught a doctrine of the soul that is similar in many ways to the Vedic conception. In a 1966 Bhagavad-gītā lecture, Śrīla Prabhupāda said Socrates was a mukta-puruṣa (a liberated soul). According to his biographer Plato, Socrates was unjustly convicted for anti-state activities by the Athenean authorities, who ordered him drink poison. He did so cheerfully, and died preaching we are not these bodies to his followers.
 
 ===== Solipsism =====
-From the Latin solus, (alone), and ipse, (self). A Western doctrine stating that the self is all that exists or can be known. There are two forms of solipsism: epistemological and metaphysical. The first form holds that since there is nothing to be known beyond the content of one's own consciousness, one's own consciousness is the underlying justification for, and cause of, the existence and nonexistence of knowledge of anything. The second form holds that there is no reality other than one's own self. All things are creations of one's consciousness at the moment one is conscious of them. In other words, there is no existence apart from my own awareness. Like Māyāvāda philosophy, solipsism arrives at a philosophical dead end. The questions that remain unanswered are: If my consciousness is the only reality, why can't I change the universe at will, simply by thought? And if only I myself truly exist, why am I dependent for my life, learning and happiness upon a world full of living entities that refuse to acknowledge this truth? See [[m#Māyāvāda philosophy]]..
+From the Latin solus, (alone), and ipse, (self). A Western doctrine stating that the self is all that exists or can be known. There are two forms of solipsism: epistemological and metaphysical. The first form holds that since there is nothing to be known beyond the content of one's own consciousness, one's own consciousness is the underlying justification for, and cause of, the existence and nonexistence of knowledge of anything. The second form holds that there is no reality other than one's own self. All things are creations of one's consciousness at the moment one is conscious of them. In other words, there is no existence apart from my own awareness. Like Māyāvāda philosophy, solipsism arrives at a philosophical dead end. The questions that remain unanswered are: If my consciousness is the only reality, why can't I change the universe at will, simply by thought? And if only I myself truly exist, why am I dependent for my life, learning and happiness upon a world full of living entities that refuse to acknowledge this truth? See [[m#Māyāvāda philosophy|Māyāvāda philosophy]]..
 
 ===== Soma-rasa =====
 a life-extending heavenly beverage available on the moon to demigods on the higher planets.
@@ -759,7 +763,7 @@ Candra, the demigod in charge of the moon.
 the presiding deity of the moon.
 
 ===== Soul =====
-the eternal living entity, who is the marginal energy, eternally part and parcel of the Supreme Lord; Known in Sanskrit as jīva, jīva-ātmā or ātmā, the soul is the eternal individual self, who is a tiny particle of Lord Kṛṣṇa's spiritual potency located in the heart of the material body. The symptom of the soul is consciousness, and the power of the soul is taṭastha-śakti, the power of choice. Thus the soul is responsible for his liberation or bondage, though he has no power to either liberate himself or enjoy matter. The result of his choice, whether auspicious or inauspicious, is arranged by the Supersoul. As the air is always different from the smells it carries, so the soul is always different from the material designations it assumes due to the influence of the modes of nature. How a yogī perceives the soul's direct relationship with the Supreme Soul is described in SB 11.14.45: He sees the individual souls united with the Supreme Soul, just as one sees the sun's rays completely united with the sun. The sun is jyotiṣi, the source of light. Similarly, Kṛṣṇa, the Supreme Soul, is the source of the light of consciousness of all living entities. Sunlight is composed of photons, which are tiny units of light. Similarly, each individual soul (jīva-ātmā) is a tiny unit of consciousness. See [[c#Consciousness]], [[e#Ecstasy]], [[m#Modes of nature]], [[s#Supersoul]].
+the eternal living entity, who is the marginal energy, eternally part and parcel of the Supreme Lord; Known in Sanskrit as jīva, jīva-ātmā or ātmā, the soul is the eternal individual self, who is a tiny particle of Lord Kṛṣṇa's spiritual potency located in the heart of the material body. The symptom of the soul is consciousness, and the power of the soul is taṭastha-śakti, the power of choice. Thus the soul is responsible for his liberation or bondage, though he has no power to either liberate himself or enjoy matter. The result of his choice, whether auspicious or inauspicious, is arranged by the Supersoul. As the air is always different from the smells it carries, so the soul is always different from the material designations it assumes due to the influence of the modes of nature. How a yogī perceives the soul's direct relationship with the Supreme Soul is described in SB 11.14.45: He sees the individual souls united with the Supreme Soul, just as one sees the sun's rays completely united with the sun. The sun is jyotiṣi, the source of light. Similarly, Kṛṣṇa, the Supreme Soul, is the source of the light of consciousness of all living entities. Sunlight is composed of photons, which are tiny units of light. Similarly, each individual soul (jīva-ātmā) is a tiny unit of consciousness. See [[c#Consciousness|Consciousness]], [[e#Ecstasy|Ecstasy]], [[m#Modes of nature|Modes of nature]], [[s#Supersoul|Supersoul]].
 
 ===== Sparśas =====
 the consonants in the Sanskrit alphabet.
@@ -768,10 +772,10 @@ the consonants in the Sanskrit alphabet.
 Jīva (jīvātmā)-the living entity, who is an eternal soul, individual but part and parcel of the Supreme Lord.
 
 ===== Sphoṭavāda =====
-Also known as śabda-tattva, sphoṭavāda is the philosophy of a metaphysical school of Sanskrit grammarians that goes back to one Sphoṭāyaṇa, whose followers include Bhartṛhari and Jayanta Bhaṭṭa. The famous karma-mīmāṁsā philosopher Madana Miśra also accepted the sphoṭavāda doctrine, though other teachers of mīmāṁsā opposed it. Accordingly, there is a continuum of vibration (ekam eva yad āmnātam), which is partless (akhaṇḍa) and unbroken (akrama), which becomes manifest in sounds (dhvani) or syllables (varṇa). The sounds and syllables are not important. They are used as aids to achieve meditation upon the underlying continuum, where the indivisible unit of meaning (sphoṭa) is realized through śabda-pūrva-yoga. When the sphoṭa is realized, liberation is achieved in the monistic absolute. Clearly, this is a form of Māyāvāda philosophy. Interestingly, Śaṅkarācārya rejected the sphoṭavāda of the grammarians. Yet he accepted the basis of the sphoṭavāda philosophy, which is the śabda-yoga of Patañjali. In his Prabodhasudhākara 13.144, Śaṅkarācārya wrote, When one's essential nature is contemplated upon for a moment or half a moment, then the subtle sound called anāhata is heard in the right ear. In 148 he explained further: If the mind is completely absorbed for a long time in that Light comprised within the subtle sound, it is surely not slated for the bondage of worldly existence again. Many modern forms of mysticism and meditation can be traced to this doctrine: Transcendental Meditation, Radha-Soami Satsang, Kirpal Singh Satsang, and so on. The subtle sound sought in these systems is the egoistic sound at the root of material existence. Beyond this, however, is the pure name (śuddha-nāma), which cannot be extracted from the ākāśa by śabda-yoga, but which must be received from the pure devotee of Kṛṣṇa. What these śabda-yogīs really seek is explained by Kṛṣṇa Himself: I am the sound in ether. ... Of vibrations I am the syllable oṁ. ... Of letters I am the letter A, and among compound words I am the dual compound. ... Of poetry I am the Gāyatrī mantra. (Bg. 7.8, 10.33, 10.35) Hence, they seek Kṛṣṇa but He is to be known only by pure devotion (bhakti-yoga). See [[m#Māyāvāda philosophy]].
+Also known as śabda-tattva, sphoṭavāda is the philosophy of a metaphysical school of Sanskrit grammarians that goes back to one Sphoṭāyaṇa, whose followers include Bhartṛhari and Jayanta Bhaṭṭa. The famous karma-mīmāṁsā philosopher Madana Miśra also accepted the sphoṭavāda doctrine, though other teachers of mīmāṁsā opposed it. Accordingly, there is a continuum of vibration (ekam eva yad āmnātam), which is partless (akhaṇḍa) and unbroken (akrama), which becomes manifest in sounds (dhvani) or syllables (varṇa). The sounds and syllables are not important. They are used as aids to achieve meditation upon the underlying continuum, where the indivisible unit of meaning (sphoṭa) is realized through śabda-pūrva-yoga. When the sphoṭa is realized, liberation is achieved in the monistic absolute. Clearly, this is a form of Māyāvāda philosophy. Interestingly, Śaṅkarācārya rejected the sphoṭavāda of the grammarians. Yet he accepted the basis of the sphoṭavāda philosophy, which is the śabda-yoga of Patañjali. In his Prabodhasudhākara 13.144, Śaṅkarācārya wrote, When one's essential nature is contemplated upon for a moment or half a moment, then the subtle sound called anāhata is heard in the right ear. In 148 he explained further: If the mind is completely absorbed for a long time in that Light comprised within the subtle sound, it is surely not slated for the bondage of worldly existence again. Many modern forms of mysticism and meditation can be traced to this doctrine: Transcendental Meditation, Radha-Soami Satsang, Kirpal Singh Satsang, and so on. The subtle sound sought in these systems is the egoistic sound at the root of material existence. Beyond this, however, is the pure name (śuddha-nāma), which cannot be extracted from the ākāśa by śabda-yoga, but which must be received from the pure devotee of Kṛṣṇa. What these śabda-yogīs really seek is explained by Kṛṣṇa Himself: I am the sound in ether. ... Of vibrations I am the syllable oṁ. ... Of letters I am the letter A, and among compound words I am the dual compound. ... Of poetry I am the Gāyatrī mantra. (Bg. 7.8, 10.33, 10.35) Hence, they seek Kṛṣṇa but He is to be known only by pure devotion (bhakti-yoga). See [[m#Māyāvāda philosophy|Māyāvāda philosophy]].
 
 ===== Spiritual world =====
-Referred to as Vaikuṇṭha, Goloka, the supreme abode (param-dhāma), and the spiritual sky (param-vyoma), it is the transcendental, eternal, three-quarters display of Lord Kṛṣṇa's personal splendor. The names, form, qualities, activities and relationships of the spiritual world are ever-fresh and ever-free of the defects of birth, death, disease, and old age. Here the Lord displays His divine pastimes (līlā) which overflood the spiritual world with the sweetest nectar, the very life and soul of the liberated devotees who dwell there. As a tree on the bank of a river is reflected upside-down in the water, so the material world is a reflection of the spiritual world. What is highest in the spiritual world is lowest here. The highest līlā is Kṛṣṇa's conjugal affairs with the gopīs. That is reflected here as sex life, the most entangling activity for the embodied soul. See [[k#Kṛṣṇa]].
+Referred to as Vaikuṇṭha, Goloka, the supreme abode (param-dhāma), and the spiritual sky (param-vyoma), it is the transcendental, eternal, three-quarters display of Lord Kṛṣṇa's personal splendor. The names, form, qualities, activities and relationships of the spiritual world are ever-fresh and ever-free of the defects of birth, death, disease, and old age. Here the Lord displays His divine pastimes (līlā) which overflood the spiritual world with the sweetest nectar, the very life and soul of the liberated devotees who dwell there. As a tree on the bank of a river is reflected upside-down in the water, so the material world is a reflection of the spiritual world. What is highest in the spiritual world is lowest here. The highest līlā is Kṛṣṇa's conjugal affairs with the gopīs. That is reflected here as sex life, the most entangling activity for the embodied soul. See [[k#Kṛṣṇa|Kṛṣṇa]].
 
 ===== Śrāddha-pātra =====
 a plate (containing remnants of prasādam) offered to the forefathers and then to the best of the brāhmaṇas.
@@ -822,13 +826,13 @@ a name for Lord Śiva meaning "he whose throat is beautifully blue."
 the author of the earliest extant Vaiṣṇava commentaries on Bhagavad-gītā and Śrīmad-Bhāgavatam. Though a resident of Benares and a sannyāsī of Śaṅkara's Māyāvāda school of philosophy, he taught pure Vaiṣṇava philosophy. He was a devotee of Lord Nṛsiṁha-deva, and his works were highly regarded by Lord Caitanya, especially his Śrīmad-Bhāgavatam gloss, Bhāvārtha-dīpikā. The Lord commented that anyone who wanted to write a commentary on Srīmad-Bhagavatam must follow the commentary of Srīdhara Svāmī.
 
 ===== Śrīla Prabhupāda =====
-(1896-1977) His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda. He is the tenth generation from Caitanya Mahāprabhu. The founder-ācārya, spiritual master of the International Society for Krishna Consciousness (ISKCON). Śrīla Prabhupāda was the widely-acclaimed author of more than seventy books on the science of pure bhakti-yoga, unalloyed Kṛṣṇa consciousness. His major works are annotated English translations of the Śrīmad-Bhāgavatam, the Śrī Caitanya-caritāmṛta, and the Bhagavad-gītā As It Is. He was the world's most distinguished teacher of Vedic religion and thought. Śrīla Prabhupāda was a fully God conscious saint who had perfect realization of the Vedic scriptures. He worked incessantly to spread Kṛṣṇa consciousness all over the world. He guided his society and saw it grow to a worldwide confederation of hundreds of ashrams, schools, temples, institutes, and farm communities. See [[b#Bhaktivedanta Swami Prabhupāda]].
+(1896-1977) His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda. He is the tenth generation from Caitanya Mahāprabhu. The founder-ācārya, spiritual master of the International Society for Krishna Consciousness (ISKCON). Śrīla Prabhupāda was the widely-acclaimed author of more than seventy books on the science of pure bhakti-yoga, unalloyed Kṛṣṇa consciousness. His major works are annotated English translations of the Śrīmad-Bhāgavatam, the Śrī Caitanya-caritāmṛta, and the Bhagavad-gītā As It Is. He was the world's most distinguished teacher of Vedic religion and thought. Śrīla Prabhupāda was a fully God conscious saint who had perfect realization of the Vedic scriptures. He worked incessantly to spread Kṛṣṇa consciousness all over the world. He guided his society and saw it grow to a worldwide confederation of hundreds of ashrams, schools, temples, institutes, and farm communities. See [[b#Bhaktivedanta Swami Prabhupāda|Bhaktivedanta Swami Prabhupāda]].
 
 ===== Śrīla =====
 a title indicating possession of exceptional spiritual qualities. The most beautiful (spiritual) person.
 
 ===== Śrīmad-Bhāgavatam =====
-the foremost of the eighteen Purāṇas, the complete science of God that establishes the supreme position of Lord Kṛṣṇa. It was glorified by Śrī Caitanya Mahāprabhu as the amalam purāṇam, "the purest Purāṇa." It was written by Śrīla Vyāsadeva as his commentary on the Vedānta-sūtra, and it deals exclusively with topics concerning the Supreme Personality of Godhead (Lord Kṛṣṇa) and His devotees. Śrīla Prabhupāda has given Bhaktivedanta purports in English and wonderfully presented it to the modern world, specifically to give a deep understanding of Lord Kṛṣṇa; Also known as the Bhāgavata Purāṇa, this is a work of eighteen thousand verses compiled by sage Vyāsa as his natural commentary on the Vedānta-sūtra. It takes up where the Bhagavad-gītā leaves off. In Bg. 4.9, Lord Kṛṣṇa says that by knowing His transcendental appearance and activities in this world, one becomes free of the cycle of repeated birth and death. Śrīmad-Bhāgavatam recounts with great relish the details of the Lord's appearance and activities, beginning with His puruṣa incarnations and their līlā of cosmic manifestation, and culminating with Kṛṣṇa's own appearance in Vṛndāvana 5000 years ago, and His most sweet rasa-līlā with the His cowherd girlfriends, the gopīs headed by Rādhārāṇī. See [[b#Bhagavad-gītā]], [[c#Caitanya-caritāmṛta]], [[v#Vedānta-sūtra]].
+the foremost of the eighteen Purāṇas, the complete science of God that establishes the supreme position of Lord Kṛṣṇa. It was glorified by Śrī Caitanya Mahāprabhu as the amalam purāṇam, "the purest Purāṇa." It was written by Śrīla Vyāsadeva as his commentary on the Vedānta-sūtra, and it deals exclusively with topics concerning the Supreme Personality of Godhead (Lord Kṛṣṇa) and His devotees. Śrīla Prabhupāda has given Bhaktivedanta purports in English and wonderfully presented it to the modern world, specifically to give a deep understanding of Lord Kṛṣṇa; Also known as the Bhāgavata Purāṇa, this is a work of eighteen thousand verses compiled by sage Vyāsa as his natural commentary on the Vedānta-sūtra. It takes up where the Bhagavad-gītā leaves off. In Bg. 4.9, Lord Kṛṣṇa says that by knowing His transcendental appearance and activities in this world, one becomes free of the cycle of repeated birth and death. Śrīmad-Bhāgavatam recounts with great relish the details of the Lord's appearance and activities, beginning with His puruṣa incarnations and their līlā of cosmic manifestation, and culminating with Kṛṣṇa's own appearance in Vṛndāvana 5000 years ago, and His most sweet rasa-līlā with the His cowherd girlfriends, the gopīs headed by Rādhārāṇī. See [[b#Bhagavad-gītā|Bhagavad-gītā]], [[c#Caitanya-caritāmṛta|Caitanya-caritāmṛta]], [[v#Vedānta-sūtra|Vedānta-sūtra]].
 
 ===== Śrīnivāsa =====
 a name of Viṣnu.
@@ -855,7 +859,7 @@ a king of Kaliṅga. He was the son of Varuṇa by Parṇāśā. He died on the 
 offense of blaspheming the Vedic literature.
 
 ===== Śruti-śāstra =====
-Literally, hearing. The core Vedic literature including the four Vedas (Ṛg, Sāma, Yajur and Atharva) and the Upaniṣads. See [[s#Śāstra]], [[s#Smṛti-śāstra]].
+Literally, hearing. The core Vedic literature including the four Vedas (Ṛg, Sāma, Yajur and Atharva) and the Upaniṣads. See [[s#Śāstra|Śāstra]], [[s#Smṛti-śāstra|Smṛti-śāstra]].
 
 ===== Śruti-gaṇa =====
 the personified Vedas.
@@ -885,7 +889,7 @@ continuous love of Godhead in devotional service.
 (sthita-steady + dhīra-undisturbed + muni-sage) one who is always fixed in Kṛṣṇa consciousness and as a result is undisturbed by material nature.
 
 ===== Sthūla-śarīra =====
-See [[g#Gross body]].
+See [[g#Gross body|Gross body]].
 
 ===== Stotra-ratna =====
 book of prayers composed by Yamunācārya.
@@ -909,7 +913,7 @@ affectionate.
 regulated sense gratification according to the Vedas.
 
 ===== Subjective =====
-In philosophy, that which is derived from the mind and not external sources, or that which exists in the mind without any external reference or possible confirmation. It also refers to the particular way an individual understands an experience. Even though others experienced the same thing, because of his subjective attitude and outlook, he forms an opinion of what happened that is different from theirs. See [[o#Objective reality]], [[r#Reality]].
+In philosophy, that which is derived from the mind and not external sources, or that which exists in the mind without any external reference or possible confirmation. It also refers to the particular way an individual understands an experience. Even though others experienced the same thing, because of his subjective attitude and outlook, he forms an opinion of what happened that is different from theirs. See [[o#Objective reality|Objective reality]], [[r#Reality|Reality]].
 
 ===== Subala =====
 the father of Śakuni and Gāndhārī. He was the King of Gāndhāra.
@@ -924,10 +928,10 @@ younger sister of Lord Śrī Kṛṣṇa, and an incarnation of Yogamāyā, the 
 Kārtikeya, the son of Lord Śiva. The god of war. Also known as Skanda.
 
 ===== Substance =====
-From the Latin substare, be under, be firm, support. Substance (vastu in Sanskrit) is the underlying support of all phenomena. It is the eternal Brahman, the cause, of which the world is the effect. The Vedic view of the substance of the world is different from the Christian view, called creatio ex nihilo. According to this theory put forward by Augustine (175-242), God created the world out of nothing. Augustine's reasoning was based on the Biblical statement that in the beginning there was only God. Creatio ex nihilo was an attempt to break out of the paradoxical question, If in the beginning there was only God, and God is eternal, why is the world ever-changing? It was assumed that a doctrine of the material world's direct emanation from God's own substance could be true only if the material world had the same nature as God. But since it does not, and since God was alone in the beginning, He must have created the world from nothing. There is a paradox upon which creatio ex nihilo stumbles: ex nihilo, nihil fit, From nothing, nothing comes. According to the Vedic view, the substance of creation is tattva, true, just as God is true. The tattva of matter (prakṛti) is eternal, but it assumes temporary forms as God wills. Like a shadow, the material creation resembles the original form of the substance. But it does not have the potency of the original. Yet it has no other source than the substance. Its source is not nothing. See [[a#Absolute]], [[b#Brahman]].
+From the Latin substare, be under, be firm, support. Substance (vastu in Sanskrit) is the underlying support of all phenomena. It is the eternal Brahman, the cause, of which the world is the effect. The Vedic view of the substance of the world is different from the Christian view, called creatio ex nihilo. According to this theory put forward by Augustine (175-242), God created the world out of nothing. Augustine's reasoning was based on the Biblical statement that in the beginning there was only God. Creatio ex nihilo was an attempt to break out of the paradoxical question, If in the beginning there was only God, and God is eternal, why is the world ever-changing? It was assumed that a doctrine of the material world's direct emanation from God's own substance could be true only if the material world had the same nature as God. But since it does not, and since God was alone in the beginning, He must have created the world from nothing. There is a paradox upon which creatio ex nihilo stumbles: ex nihilo, nihil fit, From nothing, nothing comes. According to the Vedic view, the substance of creation is tattva, true, just as God is true. The tattva of matter (prakṛti) is eternal, but it assumes temporary forms as God wills. Like a shadow, the material creation resembles the original form of the substance. But it does not have the potency of the original. Yet it has no other source than the substance. Its source is not nothing. See [[a#Absolute|Absolute]], [[b#Brahman|Brahman]].
 
 ===== Subtle body =====
-Called liṅga-śarīra in Sanskrit, and also known as the astral body, the subtle body is the result of the conditioning of consciousness by the three modes of material nature. It includes the false ego, intellect and mind and is composed of cetana, consciousness under material influence. As long as the living entity remains within the cycle of saṁsāra, the subtle body is retained. But the steady practice of bhakti-yoga dissolves the subtle body, thus freeing consciousness from matter. See [[c#Consciousness]], [[e#Ecstasy]], [[f#False ego]], [[g#Gross body]], [[i#Intellect]], [[m#Mind]], [[m#Modes of nature]], [[s#Saṁsāra]], [[s#Soul]], [[s#Supersoul]].
+Called liṅga-śarīra in Sanskrit, and also known as the astral body, the subtle body is the result of the conditioning of consciousness by the three modes of material nature. It includes the false ego, intellect and mind and is composed of cetana, consciousness under material influence. As long as the living entity remains within the cycle of saṁsāra, the subtle body is retained. But the steady practice of bhakti-yoga dissolves the subtle body, thus freeing consciousness from matter. See [[c#Consciousness|Consciousness]], [[e#Ecstasy|Ecstasy]], [[f#False ego|False ego]], [[g#Gross body|Gross body]], [[i#Intellect|Intellect]], [[m#Mind|Mind]], [[m#Modes of nature|Modes of nature]], [[s#Saṁsāra|Saṁsāra]], [[s#Soul|Soul]], [[s#Supersoul|Supersoul]].
 
 ===== Sudakṣiṇa =====
 a King of Kāmbhoja. He brought an akṣauhiṇī division of troops for Duryodhana. He was killed by Arjuna during Kurukṣetra war. (Droṇa Parva in Mahābhārata)
@@ -951,7 +955,7 @@ pure devotional service.
 pure consciousness.
 
 ===== Śuddha-sattva =====
-the spiritual platform of pure goodness; The transcendental mode of purified goodness. See [[k#Kṛṣṇa]], [[m#Modes of nature]].
+the spiritual platform of pure goodness; The transcendental mode of purified goodness. See [[k#Kṛṣṇa|Kṛṣṇa]], [[m#Modes of nature|Modes of nature]].
 
 ===== Sūddīpta =====
 the manifestation in a devotee of all eight ecstatic symptoms multiplied a thousand times and all visible at once.
@@ -1023,7 +1027,7 @@ the mother of Dhruva Mahārāja.
 another name for Garuḍa.
 
 ===== Supersoul =====
-Paramātmā-the Supersoul, the localized aspect Viṣṇu expansion of the Supreme Lord residing in the heart of each embodied living entity and pervading all of material nature; Known as Paramātmā in Sanskrit, He is the third of Lord Kṛṣṇa's three puruṣa incarnations: 1) Mahā-Viṣṇu, from whom unlimited universes emanate; 2) Garbhodakaśāyī Viṣṇu, who enters each universe and is the source of birth of Brahmā; and 3) Kṣīrodakaśāyī Viṣṇu, who expands into the heart of every living entity and every atom within the universe. The Supersoul dwells within the hearts of all living beings next to the soul. His spiritual form is four-armed and the size of a thumb. From him come the living entity's knowledge, rememberance and forgetfulness. The Supersoul is the witness and permitter of karma. What He witnesses is punished or rewarded by prakṛti (see Bg. 13.23). See [[b#Brahman]], [[i#Intellect]], [[i#Īśvara]], [[k#Karma]], [[l#Life after death]], [[k#Kṛṣṇa]], [[m#Modes of nature]], [[s#Soul]].
+Paramātmā-the Supersoul, the localized aspect Viṣṇu expansion of the Supreme Lord residing in the heart of each embodied living entity and pervading all of material nature; Known as Paramātmā in Sanskrit, He is the third of Lord Kṛṣṇa's three puruṣa incarnations: 1) Mahā-Viṣṇu, from whom unlimited universes emanate; 2) Garbhodakaśāyī Viṣṇu, who enters each universe and is the source of birth of Brahmā; and 3) Kṣīrodakaśāyī Viṣṇu, who expands into the heart of every living entity and every atom within the universe. The Supersoul dwells within the hearts of all living beings next to the soul. His spiritual form is four-armed and the size of a thumb. From him come the living entity's knowledge, rememberance and forgetfulness. The Supersoul is the witness and permitter of karma. What He witnesses is punished or rewarded by prakṛti (see Bg. 13.23). See [[b#Brahman|Brahman]], [[i#Intellect|Intellect]], [[i#Īśvara|Īśvara]], [[k#Karma|Karma]], [[l#Life after death|Life after death]], [[k#Kṛṣṇa|Kṛṣṇa]], [[m#Modes of nature|Modes of nature]], [[s#Soul|Soul]].
 
 ===== Supratīka =====
 the name of King Bhagadatta's elephant that was very formidable during the battle of Kurukṣetra. He was killed by Arjuna.
@@ -1113,10 +1117,10 @@ one fully in control of his senses and mind; title of one in the renounced, or s
 the form by which the Lord begets living entities in the material world .
 
 ===== Svāpa =====
-Sleep, dreaming. One of the five functions of buddhi. See [[b#Buddhi]].
+Sleep, dreaming. One of the five functions of buddhi. See [[b#Buddhi|Buddhi]].
 
 ===== Svarga =====
-Heaven. See [[d#Demigods]], [[l#Life after death]], [[t#Tri-loka]].
+Heaven. See [[d#Demigods|Demigods]], [[l#Life after death|Life after death]], [[t#Tri-loka|Tri-loka]].
 
 ===== Svārājya-lakṣmī =====
 the personal spiritual potency of the Lord.
@@ -1179,4 +1183,4 @@ the name of Kṛṣṇa meaning "He who has a very beautiful blackish form."
 one of the great Vaiṣṇava ācāryas who lived in Vṛndāvana after the time of Śrī Caitanya. He received the direct mercy of Rādhārāṇī in Vṛndāvana, was tutored in the bhakti-śāstras by Jīva Gosvāmī and delivered countless souls, especially in Orissa. He was initiated by Hṛdāya Caitanya dāsa and got the name Duḥkhi Kṛṣṇadāsa, but later he was called Syāmānanda by Jīva Gosvāmī, who noted his attraction for the Deity Śyāmāsundara.
 
 ===== Syllogism =====
-From the Greek syllogisms, a reckoning all together, it is a logical structure of reasonable thought (step-by-step argument). The Sanskrit equivalent is parārthānumāna, reasoning for others' understanding. See [[l#Logic]].
+From the Greek syllogisms, a reckoning all together, it is a logical structure of reasonable thought (step-by-step argument). The Sanskrit equivalent is parārthānumāna, reasoning for others' understanding. See [[l#Logic|Logic]].

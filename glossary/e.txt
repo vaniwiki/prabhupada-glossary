@@ -1,5 +1,9 @@
-~~bc:E~~
-~~Title:Glossary E~~
+---json
+{
+    "name":"Glossary E",
+    "description":""
+}
+---
 
 ====== Glossary E ======
 
@@ -7,16 +11,16 @@
 For a devotee of Kṛṣṇa, freedom from birth and death is gained by purifying consciousness and desires until the ecstasy of pure Kṛṣṇa consciousness is achieved. As the term ecstasy indicates (Gr. kstasis, standing outside [the body]), God consciousness transports the soul beyond identification with the material body. After the steady practice of the nine methods of bhakti-yoga awakens love of Kṛṣṇa in the devotee's heart, Kṛṣṇa appears before the devotee. At that time all the senses of the devotee (the eyes, nose, ears, tongue, sense of touch) become the receptacles of the auspicious qualities of Kṛṣṇa: His supreme beauty, fragrance, melody, youthfulness, tastefulness, munificence and mercy. The Lord reveals first His beauty to the eyes of the devotee. Due to the sweetness of that beauty, all the senses and the mind take on the quality of eyes. From this the devotee swoons. To console the devotee, the Lord next reveals His fragrance to the nostrils of the devotee, and by this, the devotee's senses take on the quality of the nose in order to smell. Again the devotee swoons in bliss. The Lord then reveals His sonorous voice to the devotee's ears. All the senses become like ears to hear, and for the third time the devotee faints. The Lord then mercifully gives the touch of His lotus feet, His hands and His chest to the devotee, and the devotee experiences the Lord's fresh youthfulness. To those who love the Lord in the mood of servitude, He places His lotus feet on their heads. To those in the mood of friendship, He grasps their hands with His. To those in the mood of parental affection, with His hand He wipes away their tears. Those in the conjugal mood He embraces, touching them with His hands and chest. Then the devotee's senses all take on the sense of touch and the devotee faints again. In this way, the devotee attains his rasa (spiritual relationship) with Kṛṣṇa. See [[b#Bhakti-yoga|Bhakti-yoga]], [[l#Life after death|Life after death]], [[r#Rasa|Rasa]].
 
 ===== Eddington, Arthur Stanley =====
-British astronomer and mathematician (1882-1944) who proved Einstein's theory of relativity. He was an advocate of phenomenalism. See [[p#Phenomenalism]].
+British astronomer and mathematician (1882-1944) who proved Einstein's theory of relativity. He was an advocate of phenomenalism. See [[p#Phenomenalism|Phenomenalism]].
 
 ===== Egalitarianism =====
 The view that all humans are socially, politically and in some schools, economically equal. According to the Vedic understanding, all humans and in fact all living beings are spiritually equal. But due to the rule of the three modes of nature over the universe, material equality is impossible.
 
 ===== Einstein, Albert =====
-German-born physicist (1879-1955), certainly the most famous scientist of the twentieth century. In a book entitled Sidelights on Relativity, he wrote: As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality. See [[r#Relativity theory]].
+German-born physicist (1879-1955), certainly the most famous scientist of the twentieth century. In a book entitled Sidelights on Relativity, he wrote: As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality. See [[r#Relativity theory|Relativity theory]].
 
 ===== Elements =====
-From the Latin elementa, the first principles of things. Some ancient Greek philosophers proposed four elements: water, air, fire and earth. This idea dominated European thought until the seventeenth century. To Arjuna, Lord Kṛṣṇa says there are five gross and three subtle material elements (see [[books:bg:7:4|Bg 7.4]]). The five include the four counted by the Greeks, plus ākāśa or ethereal space. The three subtle elements are mind, intelligence and false ego, which are manifestations of the three guṇas (modes), goodness, passion and ignorance respectively. To Uddhava, Lord Kṛṣṇa says, I personally approve of that knowledge by which one sees the combination of nine, eleven, five and three elements in all living entities, and ultimately one element within those twenty-eight. (SB 11.19.14) The nine are material nature, the living entity, the mahat-tattva, false ego, and the five objects of sense perception (sound, touch, form, taste and aroma). The eleven are the five karmendriya or working senses (the voice, hands, legs, genitalia and rectum) plus the five jñānendriya or knowledge-acquiring senses (the ears, touch, eyes, tongue and nostrils), along with the coordinative sense, the mind. The five are the physical elements of earth, water, fire, air and ākāśa or sky, and the three are the modes of material nature (guṇas). The one within all twenty-eight elements is the Supersoul. See [[a#Analysis]], [[g#Gross body]], [[m#Modes of nature]], [[s#Subtle body]], [[s#Supersoul]].
+From the Latin elementa, the first principles of things. Some ancient Greek philosophers proposed four elements: water, air, fire and earth. This idea dominated European thought until the seventeenth century. To Arjuna, Lord Kṛṣṇa says there are five gross and three subtle material elements (see [[books:bg:7:4|Bg 7.4]]). The five include the four counted by the Greeks, plus ākāśa or ethereal space. The three subtle elements are mind, intelligence and false ego, which are manifestations of the three guṇas (modes), goodness, passion and ignorance respectively. To Uddhava, Lord Kṛṣṇa says, I personally approve of that knowledge by which one sees the combination of nine, eleven, five and three elements in all living entities, and ultimately one element within those twenty-eight. (SB 11.19.14) The nine are material nature, the living entity, the mahat-tattva, false ego, and the five objects of sense perception (sound, touch, form, taste and aroma). The eleven are the five karmendriya or working senses (the voice, hands, legs, genitalia and rectum) plus the five jñānendriya or knowledge-acquiring senses (the ears, touch, eyes, tongue and nostrils), along with the coordinative sense, the mind. The five are the physical elements of earth, water, fire, air and ākāśa or sky, and the three are the modes of material nature (guṇas). The one within all twenty-eight elements is the Supersoul. See [[a#Analysis|Analysis]], [[g#Gross body|Gross body]], [[m#Modes of nature|Modes of nature]], [[s#Subtle body|Subtle body]], [[s#Supersoul|Supersoul]].
 
 ===== Ekacakra =====
 a village where the Pāṇḍavas stayed after the burning of the palace of lac. It was here that Bhīma killed the Rākṣasa Baka.
@@ -34,22 +38,22 @@ the son of Hiraṇyadhanus, the King of the Niṣadhas. He approached Droṇa to
 an American poet, lecturer and essayist who was the leading member of the Transcendentalists, a group of New England idealists. His view was an eclectic one, and he was much influenced by his studies of Vedic thought.
 
 ===== Epistemology =====
-This term comes from the Greek epistme (knowledge) and lgos (the study of). Epistemology is one of the four main branches of philosophy (besides ethics, logic and metaphysics). It asks questions regarding knowledge: What is knowledge? Where does it come from? How is it formulated, expressed and communicated? Is sense experience necessary for all types of knowledge? What part does reason play in knowledge? Is there knowledge derived only from reason? What is the difference between belief, knowledge, opinion, fact, reality, error, imagining, conceptualization, idea, truth, possibility and certainty? See [[e#Ethics]], [[l#Logic]], [[m#Metaphysics]], [[o#Ontology]], [[p#Philosophy]].
+This term comes from the Greek epistme (knowledge) and lgos (the study of). Epistemology is one of the four main branches of philosophy (besides ethics, logic and metaphysics). It asks questions regarding knowledge: What is knowledge? Where does it come from? How is it formulated, expressed and communicated? Is sense experience necessary for all types of knowledge? What part does reason play in knowledge? Is there knowledge derived only from reason? What is the difference between belief, knowledge, opinion, fact, reality, error, imagining, conceptualization, idea, truth, possibility and certainty? See [[e#Ethics|Ethics]], [[l#Logic|Logic]], [[m#Metaphysics|Metaphysics]], [[o#Ontology|Ontology]], [[p#Philosophy|Philosophy]].
 
 ===== Ethics =====
-This is one of the four main branches of philosophy (besides epistemology, logic and metaphysics). Ethics (also called moral philosophy) asks questions like: what sort of life is good? Which goals are worthy? Whose intentions are respectable? How are right and wrong defined? How to choose between right and wrong? See [[e#Epistemology]], [[l#Logic]], [[m#Metaphysics]], [[p#Philosophy]].
+This is one of the four main branches of philosophy (besides epistemology, logic and metaphysics). Ethics (also called moral philosophy) asks questions like: what sort of life is good? Which goals are worthy? Whose intentions are respectable? How are right and wrong defined? How to choose between right and wrong? See [[e#Epistemology|Epistemology]], [[l#Logic|Logic]], [[m#Metaphysics|Metaphysics]], [[p#Philosophy|Philosophy]].
 
 ===== Evādat =====
 offering prayers to the Supreme Person (Arabic).
 
 ===== Evolution =====
-See [[d#Darwin]], [[s#Saṁsāra]].
+See [[d#Darwin|Darwin]], [[s#Saṁsāra|Saṁsāra]].
 
 ===== Existentialism =====
-A rationalist trend of many theoretical shades. It was started in the nineteenth by the Danish Christian thinker Søren Kierkegaard (1813-1855), and the German critic of Christianity, Friedrich Nietzsche (1844-1900). But it is usually identified with the twentieth century French atheist Jean-Paul Sartre (1905-1980). In Sartre's version, existence is the essence of everything. In other words, the ultimate meaning of a thing is that it simply is. An individual is nothing other than his or her power of choice. The universe has no rational direction or scheme. It is meaningless and absurd. Therefore individuals have complete freedom of choice. See [[r#Rationalism]].
+A rationalist trend of many theoretical shades. It was started in the nineteenth by the Danish Christian thinker Søren Kierkegaard (1813-1855), and the German critic of Christianity, Friedrich Nietzsche (1844-1900). But it is usually identified with the twentieth century French atheist Jean-Paul Sartre (1905-1980). In Sartre's version, existence is the essence of everything. In other words, the ultimate meaning of a thing is that it simply is. An individual is nothing other than his or her power of choice. The universe has no rational direction or scheme. It is meaningless and absurd. Therefore individuals have complete freedom of choice. See [[r#Rationalism|Rationalism]].
 
 ===== Experientia (Lat.) =====
-Trial, knowledge resulting from observation. Root of the English term experience. The Sanskrit equivalent is pratyakṣa, sense perception; the Greek equivalent is empeira. See [[p#Pratyakṣa]].
+Trial, knowledge resulting from observation. Root of the English term experience. The Sanskrit equivalent is pratyakṣa, sense perception; the Greek equivalent is empeira. See [[p#Pratyakṣa|Pratyakṣa]].
 
 ===== Experimentum (Lat.) =====
-Trial, test, action undertaken to discover or test something. Root of the English term experiment. An experimentum fructiferum is a fruitive experiment designed to produce a particular effect or useful purpose. An experimentum luciferum is a experiment of light meant to uncover nature's occult qualities. See [[n#New Philosophy]], [[o#Occult]].
+Trial, test, action undertaken to discover or test something. Root of the English term experiment. An experimentum fructiferum is a fruitive experiment designed to produce a particular effect or useful purpose. An experimentum luciferum is a experiment of light meant to uncover nature's occult qualities. See [[n#New Philosophy|New Philosophy]], [[o#Occult|Occult]].

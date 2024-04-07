@@ -1,5 +1,9 @@
-~~bc:O~~
-~~Title:Glossary O~~
+---json
+{
+    "name":"Glossary O",
+    "description":""
+}
+---
 
 ====== Glossary O ======
 
@@ -7,7 +11,7 @@
 The external reality to which our language and perceptions refer.
 
 ===== Occult, Occult quality =====
-References to the occult were made by Aristotle in his Ethics. He considered occult any effect of nature for which a cause could not be demonstrated. Hence, the occult qualities of nature (for instance, magnetism) could not be subject to scientific inquiry. The New Philosophy viewed all natural phenomena to be occult, since it considered science before the seventeenth century hopelessly inadequate for discovering causation. Though nature's qualities were occult, it was believed that scientific inquiry of a more aggressive kind than Aristotle had conceived of could unlock her secrets. See [[n#New Philosophy]].
+References to the occult were made by Aristotle in his Ethics. He considered occult any effect of nature for which a cause could not be demonstrated. Hence, the occult qualities of nature (for instance, magnetism) could not be subject to scientific inquiry. The New Philosophy viewed all natural phenomena to be occult, since it considered science before the seventeenth century hopelessly inadequate for discovering causation. Though nature's qualities were occult, it was believed that scientific inquiry of a more aggressive kind than Aristotle had conceived of could unlock her secrets. See [[n#New Philosophy|New Philosophy]].
 
 ===== Oḍana-ṣaṣṭhī =====
 ceremony at the beginning of winter when Lord Jagannātha gets a winter shawl.
@@ -16,7 +20,7 @@ ceremony at the beginning of winter when Lord Jagannātha gets a winter shawl.
 the three transcendental syllables used by brāhmaṇas for satisfaction of the Supreme when chanting Vedic hymns or offering sacrifice. They indicate the Supreme Absolute Truth, the Personality of Godhead.
 
 ===== Ontology =====
-The study of being. It asks, what does to be, or to exist, really mean? Utilized in this study are terms and categories such as being/becoming, actuality/potentiality, real/apparent, change, time, existence/nonexistence, essence, necessity, being-as-being, self-dependency, self-sufficiency, ultimate and ground. See [[e#Epistemology]], [[p#Philosophy]].
+The study of being. It asks, what does to be, or to exist, really mean? Utilized in this study are terms and categories such as being/becoming, actuality/potentiality, real/apparent, change, time, existence/nonexistence, essence, necessity, being-as-being, self-dependency, self-sufficiency, ultimate and ground. See [[e#Epistemology|Epistemology]], [[p#Philosophy|Philosophy]].
 
 ===== Oṁkāra =====
 oṁ, the root of Vedic knowledge; known as the mahā-vākya, the supreme sound; the transcendental syllable which represents Kṛṣṇa, and which is vibrated by transcendentalists for attainment of the Supreme when undertaking sacrifices, charities and penances; The transcendental sound oṁ, which symbolically denotes the Personality of Godhead as the root of the creation, maintenance and destruction of the cosmic manifestation. 

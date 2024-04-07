@@ -1,14 +1,18 @@
-~~bc:C~~
-~~Title:Glossary C~~
+---json
+{
+    "name":"Glossary C",
+    "description":""
+}
+---
 
 ====== Glossary C ======
 
 ===== Caitanya Mahāprabhu =====
 (1486-1534);
-Lord Kṛṣṇa in the aspect of His own devotee. He appeared in Navadvīpa, West Bengal, and inaugurated the congregational chanting of the holy names of the Lord to teach pure love of God by means of saṅkīrtana. Lord Caitanya is understood by Gauḍīya Vaiṣṇavas to be Lord Kṛṣṇa Himself; The Golden Avatāra of the Supreme Personality of Godhead who descended into the material world 500 years ago at Śrīdhāma Māyāpur. Śrī Caitanya Mahāprabhu inaugurated the yuga-dharma of saṅkīrtana. Together with His associates Nityānanda, Advaita, Gadādhara and Śrīvāsa, Lord Caitanya is worshiped by the Gauḍīya Vaiṣṇavas as the Pañca-tattva (five-fold Absolute Truth). Within the Pañca-tattva, Mahāprabhu is the īśa-tattva, the Supreme Lord. Nityānanda is the prakāśa-tattva, the feature of īśvara who controls the kriyā-śakti, out of which the kāla and karma potencies expand. Advaita is the avatāra-tattva, the incarnation. Gadadhara is śakti-tattva, a feature of the original, spiritual prakṛti. Śrīvasa is jīva-tattva. See [[a#Avatāra]], [[g#Gauḍīya Vaiṣṇava]], [[i#Īśvara]], [[s#Saṅkīrtana]].
+Lord Kṛṣṇa in the aspect of His own devotee. He appeared in Navadvīpa, West Bengal, and inaugurated the congregational chanting of the holy names of the Lord to teach pure love of God by means of saṅkīrtana. Lord Caitanya is understood by Gauḍīya Vaiṣṇavas to be Lord Kṛṣṇa Himself; The Golden Avatāra of the Supreme Personality of Godhead who descended into the material world 500 years ago at Śrīdhāma Māyāpur. Śrī Caitanya Mahāprabhu inaugurated the yuga-dharma of saṅkīrtana. Together with His associates Nityānanda, Advaita, Gadādhara and Śrīvāsa, Lord Caitanya is worshiped by the Gauḍīya Vaiṣṇavas as the Pañca-tattva (five-fold Absolute Truth). Within the Pañca-tattva, Mahāprabhu is the īśa-tattva, the Supreme Lord. Nityānanda is the prakāśa-tattva, the feature of īśvara who controls the kriyā-śakti, out of which the kāla and karma potencies expand. Advaita is the avatāra-tattva, the incarnation. Gadadhara is śakti-tattva, a feature of the original, spiritual prakṛti. Śrīvasa is jīva-tattva. See [[a#Avatāra|Avatāra]], [[g#Gauḍīya Vaiṣṇava|Gauḍīya Vaiṣṇava]], [[i#Īśvara|Īśvara]], [[s#Saṅkīrtana|Saṅkīrtana]].
 
 ===== Caitanya-caritāmṛta =====
-translated as "the character of the living force in immortality," it is the title of the authorized biography of Lord Caitanya Mahāprabhu written in the late sixteenth century and compiled by Śrīla Kṛṣṇadāsa Kavirāja Gosvāmī, presenting the Lord's pastimes and teachings. Written in Bengali, with many Sanskrit verses as well, it is regarded as the most authoritative book on Lord Caitanya's life and teachings; Written by Śrīla Kṛṣṇadāsa Kavirāja Gosvāmī, this biography of Lord Caitanya Mahāprabhu is the single most important text of Gauḍīya Vaiṣṇava philosophy. Caitanya-caritāmṛta means the immortal character of the living force. It is the postgraduate study of spiritual knowledge, and so is not intended for the novice. Ideally, one begins with Bhagavad-gītā and advances through Śrīmad-Bhāgavatam to the Śrī Caitanya-caritāmṛta. Although alI these great scriptures are on the same absolute level, for the sake of comparative study Śrī Caitanya-caritāmṛta is considered to be on the highest platform. See [[b#Bhagavad-gītā]], [[c#Caitanya Mahāprabhu]], [[g#Gauḍīya Vaiṣṇava]], [[s#Śrīmad-Bhāgavatam]].
+translated as "the character of the living force in immortality," it is the title of the authorized biography of Lord Caitanya Mahāprabhu written in the late sixteenth century and compiled by Śrīla Kṛṣṇadāsa Kavirāja Gosvāmī, presenting the Lord's pastimes and teachings. Written in Bengali, with many Sanskrit verses as well, it is regarded as the most authoritative book on Lord Caitanya's life and teachings; Written by Śrīla Kṛṣṇadāsa Kavirāja Gosvāmī, this biography of Lord Caitanya Mahāprabhu is the single most important text of Gauḍīya Vaiṣṇava philosophy. Caitanya-caritāmṛta means the immortal character of the living force. It is the postgraduate study of spiritual knowledge, and so is not intended for the novice. Ideally, one begins with Bhagavad-gītā and advances through Śrīmad-Bhāgavatam to the Śrī Caitanya-caritāmṛta. Although alI these great scriptures are on the same absolute level, for the sake of comparative study Śrī Caitanya-caritāmṛta is considered to be on the highest platform. See [[b#Bhagavad-gītā|Bhagavad-gītā]], [[c#Caitanya Mahāprabhu|Caitanya Mahāprabhu]], [[g#Gauḍīya Vaiṣṇava|Gauḍīya Vaiṣṇava]], [[s#Śrīmad-Bhāgavatam|Śrīmad-Bhāgavatam]].
 
 ===== Caitanya =====
 living force.
@@ -119,7 +123,7 @@ the four Kumāras.
 Reason or motive for something happening (in Gr. aitai). Aristotle proposed four causes to explain how creation occurs: causa materialis (the material cause), causa formalis (the formal cause), causa efficiens (the efficient cause), and causa finalis (the final cause).
 
 ===== Causal Ocean =====
-the ocean in which all the universes are floating. See: [[k#Kāraṇa Ocean]].
+the ocean in which all the universes are floating. See: [[k#Kāraṇa Ocean|Kāraṇa Ocean]].
 
 ===== Cedirāja =====
 the king of Cedi; also known as Śiśupāla. Lord Kṛṣṇa killed him because of his blasphemy.
@@ -188,13 +192,13 @@ sari blouse.
 a low wooden table.
 
 ===== Chos =====
-Greek term for gap or chasm, derived from chainein, gape. In Greek philosophy, chos is the confused, formless and undifferentiated state of primal matter; the condition of the universe before reason appeared and brought the world into order. The Sanskrit equivalent is pradhāna, the unmanifest material nature. See [[m#Modes of nature]].
+Greek term for gap or chasm, derived from chainein, gape. In Greek philosophy, chos is the confused, formless and undifferentiated state of primal matter; the condition of the universe before reason appeared and brought the world into order. The Sanskrit equivalent is pradhāna, the unmanifest material nature. See [[m#Modes of nature|Modes of nature]].
 
 ===== Choultry =====
 dharmashala in the south; pilgrim accommodation.
 
 ===== Christ =====
-See [[a#Avatāra]] ([[s#Śaktyāveśa-avatāra|Śaktyāveśa]]).
+See [[a#Avatāra|Avatāra]] ([[s#Śaktyāveśa-avatāra|Śaktyāveśa]]).
 
 ===== Cid-vilāsa =====
 spiritual pleasure.
@@ -209,7 +213,7 @@ anxiety, a vyabhicāri-bhāva.
 permanent governors of the universe.
 
 ===== Circulus vitiosus (Lat.) =====
-A vicious circle, i.e. the fallacy of proving a proposition from another which depends on the first for its own proof. See [[f#Fallacy]], [[l#Logic]].
+A vicious circle, i.e. the fallacy of proving a proposition from another which depends on the first for its own proof. See [[f#Fallacy|Fallacy]], [[l#Logic|Logic]].
 
 ===== Cit =====
 alive and conscious; the indiviual living beings; unlimited knowledge.
@@ -257,16 +261,16 @@ one of the one hundred sons of Dhṛtarāṣṭra. He was killed by Bhīma. (Dro
 one of the one hundred sons of Dhṛtarāṣṭra. He was killed by Bhīma. (Droṇa Parva in Mahābhārata)
 
 ===== Cogito ergo sum (Lat.) =====
-I think, therefore I am. The famous maxim of Descartes that conveys his certitude about his own existence.See [[d#Descartes]].
+I think, therefore I am. The famous maxim of Descartes that conveys his certitude about his own existence.See [[d#Descartes|Descartes]].
 
 ===== Consciousness =====
-This term is derived from the Latin conscire, to know or be aware of. The equivalent Sanskrit term is cetana. Consciousness is the irreducible symptom of the self. It knows, it feels, and it wills. There are many theories about the relation of consciousness to matter (see [[m#Mind/body problem]]), but all of them are conceived in the conscious mind. Take away consciousness and theories are impossible. Then what is the use of speculation about dead matter as the source of consciousness? Subtle mind, intelligence and false ego are imposed upon consciousness by the three modes of nature. Similarly, due to these modes, wakefulness, dreaming and swoon occur against the background of consciousness. But though the modes cover it, consciousness remains essentially pure, eternally. In the liberated state, consciousness displays a non-material mind, intelligence, pure ego and perfect form. There are two orders of consciousness: vibhu and aṇu. The first is the level of God's consciousness, which is all-pervading. God knows everything in totality and everything in particular. His consciousness is never influenced by matter, although matter cannot exist apart from His consciousness. The aṇu (limited) order of consciousness belongs to the jīva. Because it is limited, matter can cover it, unless the jīva remains under the shelter of the Supreme Consciousness. See [[e#Ecstasy]], [[f#False ego]], [[g#Gross body]], [[i#intellect, intelligence|Intellect]], [[j#jiva (jivatma)|Jīva]], [[m#Mind]], [[m#Mind/body problem]], [[m#Modes of nature]], [[s#Soul]], [[s#Subtle body]], [[s#Supersoul]].
+This term is derived from the Latin conscire, to know or be aware of. The equivalent Sanskrit term is cetana. Consciousness is the irreducible symptom of the self. It knows, it feels, and it wills. There are many theories about the relation of consciousness to matter (see [[m#Mind/body problem|Mind/body problem]]), but all of them are conceived in the conscious mind. Take away consciousness and theories are impossible. Then what is the use of speculation about dead matter as the source of consciousness? Subtle mind, intelligence and false ego are imposed upon consciousness by the three modes of nature. Similarly, due to these modes, wakefulness, dreaming and swoon occur against the background of consciousness. But though the modes cover it, consciousness remains essentially pure, eternally. In the liberated state, consciousness displays a non-material mind, intelligence, pure ego and perfect form. There are two orders of consciousness: vibhu and aṇu. The first is the level of God's consciousness, which is all-pervading. God knows everything in totality and everything in particular. His consciousness is never influenced by matter, although matter cannot exist apart from His consciousness. The aṇu (limited) order of consciousness belongs to the jīva. Because it is limited, matter can cover it, unless the jīva remains under the shelter of the Supreme Consciousness. See [[e#Ecstasy|Ecstasy]], [[f#False ego|False ego]], [[g#Gross body|Gross body]], [[i#intellect, intelligence|Intellect]], [[j#jiva (jivatma)|Jīva]], [[m#Mind|Mind]], [[m#Mind/body problem|Mind/body problem]], [[m#Modes of nature|Modes of nature]], [[s#Soul|Soul]], [[s#Subtle body|Subtle body]], [[s#Supersoul|Supersoul]].
 
 ===== Contradiction =====
 This term is formed from the Latin contra (against) and dicere (speak); hence, a statement that speaks against itself is contradictory. In Aristotilian logic, contradictions are violations of the second of the Three Laws of Thought: 1) The Law of Identity if a thing exists, it exists. If it does not exist, it does not exist. Whatever is, is. 2) The Law of Noncontradiction something cannot be itself and not be itself at the same time. Nothing can both be and not be. 3) The Law of the Excluded Middlesomething that exists is real and true, and something that does not exist is unreal and not true. There is no middle ground between these two positions. Things must either be or not be.
 
 ===== Cratylus =====
-Athenean philosopher, a contemporary of Socrates and Plato. Cratylus taught a radical form of scepticism. He was a disciple of Heraclitus, whose most famous aphorism is You cannot step in the same river twice. Cratylus amended that aphorism, making it You cannot step into the same river once. He believed there is no point even to speak, because as we speak we and the world change, rendering all that we say into useless babble about nothing real. See [[s#Scepticism]].
+Athenean philosopher, a contemporary of Socrates and Plato. Cratylus taught a radical form of scepticism. He was a disciple of Heraclitus, whose most famous aphorism is You cannot step in the same river twice. Cratylus amended that aphorism, making it You cannot step into the same river once. He believed there is no point even to speak, because as we speak we and the world change, rendering all that we say into useless babble about nothing real. See [[s#Scepticism|Scepticism]].
 
 ===== Crore =====
 ten million; one hundred lakhs.
