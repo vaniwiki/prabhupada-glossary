@@ -9,4 +9,16 @@
 
 ====== Glossary ======
 
-{{simplenavi>glossary}} 
+<iterator>
+    <data>select where path like '%:glossary:%' and path not like '%:start%' order by name asc</data>
+
+    <grid>
+        <fragment>
+            <card clickable>
+            === $title ===
+
+            ${description | head(500,'...')} [[$path| ]]
+            </card>
+        </fragment>
+    </grid>
+</iterator>
