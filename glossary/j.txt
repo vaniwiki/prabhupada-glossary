@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary J",
-    "description":""
+    "description":"Jagad-īśa; Jagad-guru; Jagad-rūpa (Virāṭ-rūpa, Viśva-rūpa); Jagāi and Mādhāi; Jagamohana; Jagannātha Purī; Jagannātha; Jagannatha Misra; Jāgara; Jagat; Jajmani; Jana-nivāsa; Jaiminī; Jains; Jāmbavatī; Janaka Mahārāja; Janaloka; Janamejaya; Janārdana; Janas; Jaṅgama-nārāyaṇa; Janmāṣṭamī; Japa; Jarāsandha; Jarā; Jaṭāsura; Jaṭāyu; Jāta-karma; Jaya and Vijaya; Jayadeva Gosvāmī; Jayadratha; Jāyanteyas; Jayatsena; Jaya; Jāyā; Jaya; Jhulana yatra; Ji; Jīmūta; Jīrṇa-sarpa; Jitendriya; Jīva (jīvātmā); Jīva Gosvāmī; Jīva Jago; Jīva-bhūta; Jīva-hiṁsā; Jīva-māyā; Jīva-tattva; Jīvan-mukta; Jñāna-śakti; Jñāna-kāṇḍa; Jñāna-mārga; Jñāna-yoga; Jñāna; Jñānī; Jnānagamya; Jñāna-kāṇḍa; Jñānendriya; Jvalitā; Jyotir-linga; Jyotiḥ-śāstra."
 }
 ---
 

@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary F",
-    "description":""
+    "description":"Fallacy; False ego; Feminism; Feyerabend, Paul Karl; Four Vaiṣṇava Sampradāyas and Siddhāntas."
 }
 ---
 

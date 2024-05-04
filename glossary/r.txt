@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary R",
-    "description":""
+    "description":"Rādhā; Rādhā-bhāva-mūrti; Rādhā-kuṇḍa; Rādhārāṇī; Rādhāṣtamī; Rādhikā; Rāga-bhakti; Rāga-mārga; Rāgānuga-bhakti; Rāgātmika-bhakti; Rāga; Rāghava; Raghunātha Bhaṭṭa Gosvāmī; Raghunātha dāsa Gosvāmī; Rahūgaṇa Mahārāja; Railhead; Raita; Raivataka; Rāja-pāla; Rāja-yoga; Rajaguṇa; Rājarṣi; Rājasa-ahaṅkāra; Rājasūya-yajña; Rajas; Raja; Rajo-guṇa; Rākṣasa-gaṇa; Rākṣasa; Rakta; Rāma-navamī; Rāma-rājya; Rāmacandra; Rāmānanda Rāya; Rāmānujācārya; Rāmāyaṇa; Rāma; Ramā; Ranaghat; Raṅganātha; Ranga-bhumi; Rāsa dance; Rāsa-līlā; Rasa-yātrā; Rasābhāsa; Rāsādi-vilāsī; Rasam powder; Rasātala; Rasa; Ratha-yātrā; Ratha; Rati; Rationalism; Raty-ābhāsa; Raudra-rasa; Rāvaṇa; Reality; Recaka; Reflective, creative, and critical thinking; Reflexivity; Reincarnation; Relativism; Relativity theory; Revelation; Ṛg Veda; Rickshaw; Rishi; Ṛk-saṁhitā; Rohiṇī; Romaharṣaṇa; Ṛṣabhadeva; Ṛṣi; Ṛtvik; Rūḍha-bhāva; Rūḍha; Rudras; Rudra; Rukmaratha; Rukmī; Rukmiṇī; Rukmini-Dvarakādhisa; Rūpa Gosvāmī; Rūpānuga; Rupee; Russel, Bertrand."
 }
 ---
 

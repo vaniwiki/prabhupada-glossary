@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary O",
-    "description":""
+    "description":"Objective reality; Occult, Occult quality; Oḍana-ṣaṣṭhī; Om tat sat; Ontology; Oṁkāra."
 }
 ---
 

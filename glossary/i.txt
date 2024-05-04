@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary I",
-    "description":""
+    "description":"Idea; Idealism; Ideology; Idhmavāhat; Ignorance; Ikṣvāku; Ikṣvāku; Ilāvṛta-varṣa; Impersonal monism; Indra-nīla; Indraloka; Indraprastha; Indra; Indriya-saṁyama; Induction; Infinite; Intellect, intelligence; Ipse dixit; Irāvān; Īśa; Īśa-tattva; Īśānukathā; ISKCON; Īśopaniṣad; Iṣṭā; Īśvara; Itihāsa."
 }
 ---
 

@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary N",
-    "description":""
+    "description":"Nābhi; Nadīyā-nāgarī; Nadi; Nāgapatnī; Nagara; Nāgas; Nāga; Naimiṣāraṇya; Naishada; Naiṣkarma; Naiṣṭhika-brahmacārī; Nakṣatra; Nakula; Nakula; Nāma-aparādha; Nāma-saṅkīrtana; Nāmābhāsa; Nāmācārya; Namaste; Nāmmālvāra; Namo nārāyaṇāya; Nan; Nanda Mahārāja; Nanda-mahotsava; Nanda-nandana; Nandana-kānana; Nandavana; Nanda; Nāndī-śloka; Nandi; Nara-deva; Nara-Nārāyaṇa Ṛṣi; Nārada Muni; Nārada Pañcarātra; Narādhama; Narakāsura; Narakeśvara; Nārakī; Narakuṇḍa; Narasiṁha, Lord; Nārāyaṇa-parāyaṇa; Nārāyaṇa-para; Nārāyaṇa; Nara; Narottama dāsa Ṭhākura; Naṣṭa-buddhi; Naṣṭa-prajña; Natarāja; Natural theology; Nava-yauvana day; Nava-yauvana; Navadvīpa; Navagraha; Navamī; Nawab; Nawab Hussein Shah; Nesis (Gr.); Neti neti; Netrotsava festival; Newman, John Henry (1801-1890); New Philosophy; Newton, Sir Isaac; Nidrā; Nigarbha-yogī; Nija-dharma; Nīlā; Nilambar Cakravartī; Nilambara Cakravartī; Nimi; Nimai; Nindakas; Nirantara; Nirgrantha-muni; Nirguṇa-brahma; Nirguṇa; Nirjala; Nirmama; Nirodha; Nirvāṇa; Nirveda; Nirviśeṣa-vādīs; Niścaya; Niṣiddhācāra; Niṣkāma; Niṣkiñcana; Nistraiguṇya; Nitya-baddha; Nitya-līlā; Nitya-muktas; Nitya-mukta; Nitya-siddha; Nityānanda Prabhu; Nivātakavacas; Nivṛtti-mārga; Niyamāgraha; Niyama; Nṛ-yajña; Nṛga; Nrita-mandapa; Nṛsiṁha Purāṇa; Nṛsiṁha-caturdaśī festival; Nṛsiṁha-deva; Numinous; Nyāya; Nyāyu-śāstra."
 }
 ---
 

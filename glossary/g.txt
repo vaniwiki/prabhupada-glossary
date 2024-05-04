@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary G",
-    "description":""
+    "description":"Gadādhara-prāṇanātha; Gadādhara; Gadāira Gaurāṅga; Gada; Gadā; Gajendra; Gamcha; Gāṇḍīva; Gandhamādana; Gāndhāra; Gāndhārī; Gandharvas; Gaṇeśa; Gaṅgā; Gauda-desa; Gāñjā; Garbha-gṛha; Garbhādhāna-saṁskāra; Garbhodaka Ocean; Garbhodakaśāyī Viṣṇu; Garga Muni; Garh; Gari; Garuda; Garuḍa Purāṇa; Garva; Gauḍa-deśa; Gauḍa-maṇḍala-bhūmi; Gauḍas; Gauḍīya Maṭha; Gauḍīya Vaiṣṇava sampradāya; Gauḍiya Vaiṣṇava; Gaudiya Vaisnava Sampradaya; Gaura-Hari; Gaura mantra; Gaura Pūrṇimā; Gaura-gopāla mantra; Gauracandra; Gaurāṅga-nāgarīs; Gaurakṛṣṇa; Gaurakiśora dāsa Bābājī; Gaurasundara; Gaurava-dāsya; Gaurava-sakhya; Gaura; Gautama Muni; Gāyatrī; Gayā; Ghana; Ghara-bhāta; Ghaṭa-paṭiyā; Ghaṭotkaca; Ghat; Ghee; Ghṛta; Giriśa; Giridhārī (Govardhana)-silā; Girivraja; Giri; Glāni; Godāsa; Godhead; Godown; Goldsmith, Oliver (1730-1774); Goloka Vṛndāvana (Kṛṣṇaloka); Good and evil; Goodness; Goonda (guṇḍa); Gopāla Bhaṭṭa Gosvāmī; Gopāla; Gopī-candana; Gopīśvara; Gopīs; Gopijana-vallabha; Gopuram (gopura); Gosāñi; Goṣṭhy-ānandī; Gosvāmī-viddhi; Gosvāmī; Govardhana-śilā; Govardhana-dhārī; Govardhana; Govinda dāsa Ṭhākura; Govinda; Grāmya-karma; Grāmya-kathā; Grāmya-kavi; Granthika; Gṛha-vrata; Gṛham andhakūpam; Gṛhamedhi; Gṛha; Gṛhastha; Gross body; Gujarat; Guṇa-avatāras; Guṇa; Guṇa-māyā; Guṇas; Guṇātīta; Guṇḍicā-mārjana; Gurdwara; Guru-avajñā; Guru-dakṣiṇā; Guru-kṛpā; Guru-kula; Guru-pūjā; Guru; Guru-bhai."
 }
 ---
 

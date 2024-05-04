@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary L",
-    "description":""
+    "description":"Laghima-siddhi; Laghu-bhāgavatāmṛta; Lakh; Lakṣmaṇa; Lakṣmaṇa; Lakṣmī-Nārāyaṇa; Lakṣmī-vijayotsava festival; Lakṣmī; Laksman Sen; Laṅkā; Laos (Galangal); Lāphrā-vyañjana; Lassi; Laukika; Lgos; Liberation; Life after death; Līlā-avatāras; Līlā-śakti; Līlā; Liṅgam; Liṅga-śarīra; Liṅga; Lobha; Locana dāsa Ṭhākura; Logic; Logical positivism; Loka-pāla; Loka-pratāraka; Lokāyatikas; Loka; Lomaśa; Lorry."
 }
 ---
 

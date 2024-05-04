@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary T",
-    "description":""
+    "description":"Tad-ekātma-rūpa; Tadīya; Takṣaka; Takuwan; Tamāla; Tamasaḥ; Tamas; Tamo-guṇa; Tānava; Tāṇḍava-nṛtya; Tan-mātras; Tantras; Tapasvīs; Tapasya; Tapas; Tapaḥ; Tapoloka; Tārā; Tāruṇyāmṛta; Taṭastha-śakti; Tattva-darśī; Tattvas; Tattvavādīs; Tattvavit; Tattva; Tava; Technology; Teleology; Theism; Tempo; Theogony; Thes; Ṭhākura Haridāsa; Ṭhākurāṇīs; Thali; Theodore Parker (1810-1860); Ṭīkā; Tilaka; Timiṅgila; Tīrtha (teertha); Tithis; Titikṣā; Tonga; Toovar dal; Ṭoṭā-gopīnātha temple; Trāsa; Trayī; Trayodaśī; Threefold miseries; Tretā-yuga; Tribunga; Tri-daṇḍa; Tridaṇḍi-sannyāsī; Trigarta; Tri-loka; Time; Tripura; Triveṇī; Trivikrama; Triyuga; Triyugī; Tṛṇāvarta; Try-adhīśvara; Tulasī; Tyāga."
 }
 ---
 

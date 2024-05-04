@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary H",
-    "description":""
+    "description":"Hādīka; Haihayas; Hamlyn, David W.; Hanumān; Hara; Harā; Hare Kṛṣṇa mantra; Hari-bhakti-vilāsa; Hari-cakra; Hari-kathā; Hari-kīrtana; Hari-nāma-saṅkīrtana; Hari-vaṁśa; Haribol; Hariścandra; Haridāsa Ṭhākura; Haridvāra (Hardwar); Harināma-yajña; Hari; Harṣa; Haryakṣa; Hastināpura; Hāsya-rasa; Haṭha-yoga; Hathi; Hawking, Stephen; Hayaśīrṣā; Hayagriva; Heavenly planets; Hell; Henotheism; Herā-pañcamī festival; Hiḍimba; Hiḍimbī; Himavān; Hindu; Hinduism; Hing; Hiraṇmaya-mahat-tattva; Hiraṇyadhanus; Hiraṇyakaśipu; Hiraṇyākṣa; Hiraṇyavarman; Hlādinī śakti; Holī; Hotravāhana; Hoysala; Hṛṣīkeśa; Hṛta-jñāna; Humanism; Hume, David; Hypothetico-deduction."
 }
 ---
 

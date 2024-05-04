@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary C",
-    "description":""
+    "description":"Caitanya Mahāprabhu; Caitanya-caritāmṛta; Caitanya; Caitya-guru; Cakita; Cakora; Cakra (Sudarśana); Cakravākī; Cakravyūha; Cakra; Cāmara; Camasa Ṛṣi; Campaka-puṣpa; Camphor; Cāṇakya Paṇḍita; Caṇḍakauśika; Caṇḍāla; Candana-yātrā; Candana; Candraśekhara Ācārya; Candragupta; Candraloka; Candra; Cāpalya; Capātī; Cāraṇaloka; Caraṇāmṛta; Carlyle, Thomas (1795-1881); Cārvāka Muni; Cārvāka; Catur-hotra; Cātur-varṇyam; Catur-vyūha; Caturdaśī; Cāturmāsya; Catuḥ-ślokī; Catuḥsana; Causa (Lat.); Causal Ocean; Cedirāja; Cekitāna; Cetana; Chadar; Chaitya; Chakra; Chalo, Chalo; Chamara; Chandas; Chāndogya Upaniṣad; Chandra; Channāvatāra; Channa; Channing, William Ellery (1780-1842); Chappals; Chaukidar (chowkidar); Chauvinism; Choti (coti); Choko; Cholas; Choli; Chonki; Chos; Choultry; Christ; Cid-vilāsa; Cintāmaṇi; Cintā; Cira-loka-pālas; Circulus vitiosus (Lat.); Cit; Cit-śakti; Cit-kaṇās; Citrabāhu; Citrabāna; Citracāpa; Citragupta; Citrāṅgada; Citrāṅgadā; Citrāṅga; Citraka; Citraketu; Citrasena; Citrasena; Citravarma; Cogito ergo sum (Lat.); Consciousness; Contradiction; Cratylus; Crore; Cyavana."
 }
 ---
 

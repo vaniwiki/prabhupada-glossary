@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary E",
-    "description":""
+    "description":"Ecstasy; Eddington, Arthur Stanley; Egalitarianism; Einstein, Albert; Elements; Ekacakra; Ekādaśī; Ekadaṇḍa; Ekalavya; Emerson, Ralph Waldo (1803-1882); Epistemology; Ethics; Evādat; Evolution; Existentialism; Experientia (Lat.); Experimentum (Lat.)."
 }
 ---
 

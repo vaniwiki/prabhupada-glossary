@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary Y",
-    "description":""
+    "description":"Yādava dynasty; Yadavadri; Yādava; Yadu dynasty; Yadu-kumāra; Yadupati; Yadus; Yadu; Yadvā-tadvā kavi; Yajamānas; Yajana; Yajña-puruṣa; Yajña; Yajñeśvara; Yakṣa; Yamadūtas; Yamarāja; Yama; Yāmunācārya; Yamunā; Yaśodā-nandana; Yaśodā; Yātrā; Yavana; Yavana; Yayāti; Yoga-mārga; Yoga-māyā; Yoga-nidrā; Yoga-siddhis; Yogarudha; Yogarurukṣa; Yoga; Yogeśvara; Yogendras; Yogī; Yojana; Yuddha; Yudhāmanyu; Yudhiṣṭhira; Yuga-avatāra; Yuga-dharma; Yugala-pirīti; Yuga; Yukta-vairāgya; Yuyutsu."
 }
 ---
 

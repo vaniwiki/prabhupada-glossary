@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Glossary U",
-    "description":""
+    "description":"Uccaiḥśravā; Ucchṛṅkhala; Udāna-vāyu; Udāra; Udbhāsvara; Uddhava; Uddīpta; Udghātyaka; Udvega; Ugra-karma; Ugrasena; Ujjvala-nīlamaṇi; Ulūka; Ulūpī; Umā; United Provinces of Agra and Oudh; Unmāda; Upadeśāmṛta; Upādhis; Upādhyāya; Upala-bhoga; Upaniṣads; Upaplavya; Uparasa; Upāsanā-kāṇḍa; Upāsya; Upendra; Urugāya; Urukrama; Urvaśī; Ūti; Utkala; Uttama-adhikārī; Uttamaśloka; Uttamaujas; Uttama; Uttānapāda; Uttara; Uttarā."
 }
 ---
 
