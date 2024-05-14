@@ -8,7 +8,7 @@
 ====== Glossary Y ======
 
 ===== Yādava dynasty =====
-see: [[y#Yadu dynasty|Yadu dynasty]] below.
+see: [[y#Yadu dynasty?preview=false|Yadu dynasty]] below.
 
 
 ===== Yadavadri =====
@@ -136,7 +136,7 @@ the beginning stage of yoga.
 
 
 ===== Yoga =====
-a spiritual discipline meant for linking one's consciousness with the Supreme Lord, Kṛṣṇa; Literally, connection; the discipline of self-realization. One of the six systems of Vedic philosophy, taught by Patañjali. According to Bhagavad-gītā, the most sublime form of yoga is bhakti-yoga (the yoga of pure devotion). Through the process of bhakti-yoga, the consciousness of the individual soul connects with its source, Kṛṣṇa. This is called Kṛṣṇa consciousness. By Kṛṣṇa consciousness, the soul rids itself of the bondage of the three modes of material nature and returns back home, Back to Godhead. See [[b#Bhakti-yoga|Bhakti-yoga]], [[s#Six systems|Six systems]].
+a spiritual discipline meant for linking one's consciousness with the Supreme Lord, Kṛṣṇa; Literally, connection; the discipline of self-realization. One of the six systems of Vedic philosophy, taught by Patañjali. According to Bhagavad-gītā, the most sublime form of yoga is bhakti-yoga (the yoga of pure devotion). Through the process of bhakti-yoga, the consciousness of the individual soul connects with its source, Kṛṣṇa. This is called Kṛṣṇa consciousness. By Kṛṣṇa consciousness, the soul rids itself of the bondage of the three modes of material nature and returns back home, Back to Godhead. See [[b#Bhakti-yoga?preview=false|Bhakti-yoga]], [[s#Six systems?preview=false|Six systems]].
 
 
 ===== Yogeśvara =====
@@ -180,7 +180,7 @@ the conjugal love between Rādhā and Kṛṣṇa.
 
 
 ===== Yuga =====
-one of the four ages of the universe, which differ in length and which rotate like calendar months. See also: [[s#Satya-yuga|Satya-yuga]], [[t#Treta-yuga|Treta-yuga]], [[d#Dvāpara-yuga|Dvāpara-yuga]] and [[k#Kali-yuga|Kali-yuga]].
+one of the four ages of the universe, which differ in length and which rotate like calendar months. See also: [[s#Satya-yuga?preview=false|Satya-yuga]], [[t#Treta-yuga?preview=false|Treta-yuga]], [[d#Dvāpara-yuga?preview=false|Dvāpara-yuga]] and [[k#Kali-yuga?preview=false|Kali-yuga]].
 
 
 ===== Yukta-vairāgya =====

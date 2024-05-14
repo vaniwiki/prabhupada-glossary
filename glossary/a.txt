@@ -11,10 +11,10 @@
 Śrīla Prabhupāda---(1896-1977) His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda. He is the tenth generation from Caitanya Mahāprabhu. The founder-ācārya, spiritual master of the International Society for Krishna Consciousness (ISKCON). Śrīla Prabhupāda is the widely-acclaimed author of more than seventy books on the science of pure bhakti-yoga, unalloyed Kṛṣṇa consciousness. His major works are annotated English translations of the Śrīmad-Bhāgavatam, the Śrī  Caitanya-caritāmṛta, and the Bhagavad-gītā As It Is. He is the world's most distinguished teacher of Vedic religion and thought. Śrīla Prabhupāda is a fully God conscious saint with perfect realization of the Vedic scriptures. He worked incessantly to spread Kṛṣṇa consciousness all over the world. He guided his society and saw it grow to a worldwide confederation of hundreds of ashrams, schools, temples, institutes, and farm communities.
 
 ===== Abduction =====
-Also called retroduction. It is the acceptance of a philosophical premise on the basis of its power to account for causation with logic and evidence. Abduction is the rational justification of a deduction. Deduction per se is the acceptance of a premise on authority. The term abduction was put forward by C.S. Peirce (1839-1914). Śrīla Prabhupāda termed a similar method of Vedic thought philosophical speculation. See [[d#Deduction|Deduction]], [[i#Induction|Induction]], [[l#Logic|Logic]].
+Also called retroduction. It is the acceptance of a philosophical premise on the basis of its power to account for causation with logic and evidence. Abduction is the rational justification of a deduction. Deduction per se is the acceptance of a premise on authority. The term abduction was put forward by C.S. Peirce (1839-1914). Śrīla Prabhupāda termed a similar method of Vedic thought philosophical speculation. See [[d#Deduction?preview=false?preview=false|Deduction]], [[i#Induction?preview=false?preview=false|Induction]], [[l#Logic?preview=false?preview=false|Logic]].
 
 ===== Absolute =====
-The root comes from the Latin absolutus, the perfect or the completed (derived from the verbum absolvere, to detach, to free, to acquit). The term was introduced into Western philosophy in the fifteenth century by Nicholas of Cusa (1401-1464). The absolute is the ultimate, underlying and all-inclusive reality that depends upon nothing else for its existence. All other things depend upon it. The absolute is substance as it is, rather than as we perceive it. See [[b#Brahman|Brahman]], [[r#Reality|Reality]], [[r#Relativism|Relativism]], [[s#Substance|Substance]].
+The root comes from the Latin absolutus, the perfect or the completed (derived from the verbum absolvere, to detach, to free, to acquit). The term was introduced into Western philosophy in the fifteenth century by Nicholas of Cusa (1401-1464). The absolute is the ultimate, underlying and all-inclusive reality that depends upon nothing else for its existence. All other things depend upon it. The absolute is substance as it is, rather than as we perceive it. See [[b#Brahman?preview=false?preview=false|Brahman]], [[r#Reality?preview=false?preview=false|Reality]], [[r#Relativism?preview=false?preview=false|Relativism]], [[s#Substance?preview=false?preview=false|Substance]].
 
 ===== Ābhāsa =====
 a shadow.
@@ -158,7 +158,7 @@ an incarnation of Lord Mahā-Viṣṇu, who appeared as one of the four principa
 A follower of the teaching.
 
 ===== Advaita =====
-Oneness (from a, not and dvaita, duality). The system of Vedānta philosophy put forward by Śaṅkarācārya is known as Advaita Vedānta. It argues for a monistic, impersonal absolute truth. See [[d#Dvaita|Dvaita]], [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas|Four Vaiṣṇava Sampradāyas and Siddhāntas]], [[s#Śaṅkarācārya|Śaṅkarācārya]], [[v#Vedānta|Vedānta]]; nondual; without differentiation.
+Oneness (from a, not and dvaita, duality). The system of Vedānta philosophy put forward by Śaṅkarācārya is known as Advaita Vedānta. It argues for a monistic, impersonal absolute truth. See [[d#Dvaita?preview=false?preview=false|Dvaita]], [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas?preview=false?preview=false|Four Vaiṣṇava Sampradāyas and Siddhāntas]], [[s#Śaṅkarācārya?preview=false?preview=false|Śaṅkarācārya]], [[v#Vedānta?preview=false?preview=false|Vedānta]]; nondual; without differentiation.
 
 ===== Āgamas =====
 authorized Vedic literatures; also, specifically the Pañcarātras.
@@ -344,7 +344,7 @@ killer of the soul; one who neglects spiritual life.
 since time immemorial.
 
 ===== Analysis =====
-A term similar in meaning to the Sanskrit sāṅkhya. It comes from the Greek an (up) plus lyein (to loosen, to untie), meaning to resolve into its elements. Analysis is the procedure of separating a problem into its component parts in order to 1) study the parts separately, 2) study their interrelationships, or 3) study how they relate to the whole. See [[e#Elements|Elements]], [[s#Sāṅkhya|Sāṅkhya]].
+A term similar in meaning to the Sanskrit sāṅkhya. It comes from the Greek an (up) plus lyein (to loosen, to untie), meaning to resolve into its elements. Analysis is the procedure of separating a problem into its component parts in order to 1) study the parts separately, 2) study their interrelationships, or 3) study how they relate to the whole. See [[e#Elements?preview=false?preview=false|Elements]], [[s#Sāṅkhya?preview=false?preview=false|Sāṅkhya]].
 
 ===== Anamra =====
 one who offers obeisances to no one.
@@ -425,7 +425,7 @@ outer space.
 the expansion of the Supreme Lord situated in everyone's heart as Supersoul, the indwelling controller.
 
 ===== Anthropomorphism =====
-From the Greek nthropos (man) and morph (form, shape, figure), it is an induction of the Supreme Being's form, emotions, interests, etc. drawn from human experience: God in the image of man, instead of man in the image of God. See [[i#Induction|Induction]], [[m#Mechanomorphism|Mechanomorphism]].
+From the Greek nthropos (man) and morph (form, shape, figure), it is an induction of the Supreme Being's form, emotions, interests, etc. drawn from human experience: God in the image of man, instead of man in the image of God. See [[i#Induction?preview=false?preview=false|Induction]], [[m#Mechanomorphism?preview=false?preview=false|Mechanomorphism]].
 
 ===== Antya-līlā =====
 the last eighteen years of Lord Caitanya's pastimes.
@@ -443,7 +443,7 @@ bodily symptoms manifested by a devotee in ecstatic love for Kṛṣṇa.
 imitating.
 
 ===== Anumāna =====
-Reason, thought, philosophical speculation. The second of the three Vaiṣṇava pramāṇas. See [[p#Pramāṇa|Pramāṇa]], [[p#Pratyakṣa|Pratyakṣa]], [[r#Rationalism|Rationalism]], [[r#reflective_creative_and_critical_thinking|Reflective thinking]], [[s#Śabda|Śabda]].
+Reason, thought, philosophical speculation. The second of the three Vaiṣṇava pramāṇas. See [[p#Pramāṇa?preview=false?preview=false|Pramāṇa]], [[p#Pratyakṣa?preview=false?preview=false|Pratyakṣa]], [[r#Rationalism?preview=false?preview=false|Rationalism]], [[r#reflective_creative_and_critical_thinking?preview=false?preview=false|Reflective thinking]], [[s#Śabda?preview=false?preview=false|Śabda]].
 
 ===== Anurāga =====
 subattachment in ecstatic love of God.
@@ -467,7 +467,7 @@ one of the internal bodily airs which is controlled by the aṣṭāṅga-yoga s
 the inferior material energy of the Lord.
 
 ===== Apara-vidyā =====
-Vedic knowledge of mind and matter that includes logic, grammar, astrology, medicine, social organization, martial arts, music, dance and so on (as distinct from para-vidyā, the science of God). The karma-kāṇḍa and jñāna-kāṇḍa scriptures make up the apara-vidyā of the Vedas. See [[a#Avidyā|Avidyā]], [[j#Jñāna-kāṇḍa|Jñāna-kāṇḍa]], [[k#Karma-kāṇḍa|Karma-kāṇḍa]], [[p#Para-vidyā|Para-vidyā]]; material knowledge
+Vedic knowledge of mind and matter that includes logic, grammar, astrology, medicine, social organization, martial arts, music, dance and so on (as distinct from para-vidyā, the science of God). The karma-kāṇḍa and jñāna-kāṇḍa scriptures make up the apara-vidyā of the Vedas. See [[a#Avidyā?preview=false?preview=false|Avidyā]], [[j#Jñāna-kāṇḍa?preview=false?preview=false|Jñāna-kāṇḍa]], [[k#Karma-kāṇḍa?preview=false?preview=false|Karma-kāṇḍa]], [[p#Para-vidyā?preview=false?preview=false|Para-vidyā]]; material knowledge
 
 ===== Aparādha =====
 an offense.
@@ -515,7 +515,7 @@ a ceremony in which one greets and worships the Lord in the Deity form of the Su
 a name of the Lord meaning one whose eyes are as beautiful as lotus petals.
 
 ===== Arcā-mūrti =====
-See: [[a#Arcā-vigraha|Arcā-vigraha]] below.
+See: [[a#Arcā-vigraha?preview=false?preview=false|Arcā-vigraha]] below.
 
 ===== Arcā-vigraha =====
 an authorized form of God manifested through material elements, as in a painting or statue of Kṛṣṇa worshiped in a temple or home. Actually present in this form, the Lord accepts worship from His devotees.
@@ -524,7 +524,7 @@ an authorized form of God manifested through material elements, as in a painting
 the procedures followed for worshiping the arcā-vigraha, the Deity in the temple; engaging all the senses in the service of the Lord.
 
 ===== Arcana naturae (Lat.) =====
-The secrets of nature. See [[n#New Philosophy|New Philosophy]].
+The secrets of nature. See [[n#New Philosophy?preview=false?preview=false|New Philosophy]].
 
 ===== Arci =====
 the wife of King Pṛthu.
@@ -710,7 +710,7 @@ material.
 the descending process of receiving revealed knowledge; inductive and deductive process of knowledge.
 
 ===== Avatāra =====
-literally means "one who descends." A partially or fully empowered incarnation of the Lord who descends from the spiritual sky to the material universe with a particular mission described in scriptures; When Kṛṣṇa descends from the world of spirit into the world of matter, His appearance here is called avatāra. The Sanskrit term avatāra (one who descends) is often rendered into English as incarnation. It is wrong, however, to think that Kṛṣṇa incarnates in a body made of physical elements. The Seventh and Eighth Chapters of Bhagavad-gītā distinguish at length between the material nature (apara-prakṛti), visible as the temporary substances of earth, water, fire, air and ethereal space, and God's own spiritual nature (para-prakṛti), which is invisible (avyakta), eternal (sanātana) and infallible (akṣara). When the Lord descends, by His mercy the invisible becomes visible. As He Himself states in [[books:bg:4:6|Bg 4.6]], I descend by My own nature, appearing in My form of spiritual energy (prakṛtiṁ svām adhiṣṭhāya sambhavāmy ātma-māyayā). In [[books:bg:4:9|Bg 4.9]] He declares, janma karma ca me divyam, My appearance and activities are divine. God has many avatāras. But of all of them, that form described in [[books:bg:11:50|Bg 11.50]] as the most beautiful (saumya-vapu) is His own original form (svakaṁ rūpam). This is the eternal form of Śrī Kṛṣṇa, the all-charming lotus-eyed youth whose body is the shape of spiritual ecstasy. SB 1.3.28 confirms that Kṛṣṇa is the original form of Viṣṇu: ete cāṁśa-kalāḥ puṁsaḥ kṛṣṇas tu bhagavān svayam indrāri-vyākulaṁ lokaṁ mṛḍayanti yuge yuge, which means, All of the incarnations of Viṣṇu listed in the scriptures are expansions of the Lord. Lord Śrī Kṛṣṇa is the original Personality of Godhead. All avatāras appear in the world whenever there is a disturbance created by the atheists. The Lord incarnates to protect the theists.
+literally means "one who descends." A partially or fully empowered incarnation of the Lord who descends from the spiritual sky to the material universe with a particular mission described in scriptures; When Kṛṣṇa descends from the world of spirit into the world of matter, His appearance here is called avatāra. The Sanskrit term avatāra (one who descends) is often rendered into English as incarnation. It is wrong, however, to think that Kṛṣṇa incarnates in a body made of physical elements. The Seventh and Eighth Chapters of Bhagavad-gītā distinguish at length between the material nature (apara-prakṛti), visible as the temporary substances of earth, water, fire, air and ethereal space, and God's own spiritual nature (para-prakṛti), which is invisible (avyakta), eternal (sanātana) and infallible (akṣara). When the Lord descends, by His mercy the invisible becomes visible. As He Himself states in [[books:bg:4:6?preview=false?preview=false|Bg 4.6]], I descend by My own nature, appearing in My form of spiritual energy (prakṛtiṁ svām adhiṣṭhāya sambhavāmy ātma-māyayā). In [[books:bg:4:9?preview=false?preview=false|Bg 4.9]] He declares, janma karma ca me divyam, My appearance and activities are divine. God has many avatāras. But of all of them, that form described in [[books:bg:11:50?preview=false?preview=false|Bg 11.50]] as the most beautiful (saumya-vapu) is His own original form (svakaṁ rūpam). This is the eternal form of Śrī Kṛṣṇa, the all-charming lotus-eyed youth whose body is the shape of spiritual ecstasy. SB 1.3.28 confirms that Kṛṣṇa is the original form of Viṣṇu: ete cāṁśa-kalāḥ puṁsaḥ kṛṣṇas tu bhagavān svayam indrāri-vyākulaṁ lokaṁ mṛḍayanti yuge yuge, which means, All of the incarnations of Viṣṇu listed in the scriptures are expansions of the Lord. Lord Śrī Kṛṣṇa is the original Personality of Godhead. All avatāras appear in the world whenever there is a disturbance created by the atheists. The Lord incarnates to protect the theists.
 
 The Śrīmad-Bhāgavatam also provides us with the authorized list of scheduled incarnations of Godhead, of whom the Daśāvatāra (ten avatāras) are particularly celebrated. The ten are:
 
@@ -725,7 +725,7 @@ The Śrīmad-Bhāgavatam also provides us with the authorized list of scheduled 
   - Buddha (the sage who cheated the atheists)
   - Kalki (who will depopulate the world of all degraded, sinful men at the end of the present age of Kali)
 
-There are two broad categories of avatāras. Some, like Śrī Kṛṣṇa, Śrī Rāma and Śrī Nṛsiṁha, are Viṣṇu-tattva, i.e. direct forms of God Himself, the source of all power. Others are individual souls (jīva-tattva) who are empowered by the Lord in one or more of the following seven ways: with knowledge, devotion, creative ability, personal service to God, rulership over the material world, power to support planets, or power to destroy rogues and miscreants. This second category of avatāra is called śaktyāveśa. Included herein are Buddha, Christ and Muhammed. The Māyāvādīs think that form necessarily means limitation. God is omnipresent, unlimited and therefore formless, they argue. When He reveals His avatāra form within this world, that form, being limited in presence to a particular place and time, cannot be the real God. It is only an indication of God. But the fact is that it is not God's form that is limited. It is only the Māyāvādīs' conception of form that is limited, because that conception is grossly physical. God's form is of the nature of supreme consciousness. Being spiritual, it is called sūkṣma, most subtle. There is no contradiction between the omnipresence of something subtle and its having form. The most subtle material phenomena we can perceive is sound. Sound may be formless (as noise) or it may have form (as music). Because sound is subtle, its having form does not affect its ability to pervade a huge building. Similarly, God's having form does not affect His ability to pervade the entire universe. Since God's form is finer than the finest material subtlety, it is completely inappropriate for Māyāvādīs to compare His form to gross hunks of matter. Because they believe God's form is grossly physical, Māyāvādīs often argue that any and all embodied creatures may be termed avatāras. Any number of living gods are being proclaimed within India and other parts of the world today. Some of these gods are mystics, some are charismatics, some are politicians, and some are sexual athletes. But none of them are authorized by the Vedic scriptures. They represent only the mistaken Māyāvādī idea that the one formless unlimited Truth appears in endless gross, physical human incarnations, and that you and me and I and he are therefore all together God. And since each god has a different idea of what dharma is, the final truth, according to Māyāvāda philosophy, is that the paths of all gods lead to the same goal. This idea is as unenlightened as it is impractical. When ordinary people proclaim themselves to be God, and that whatever they are doing is Vedic dharma, that is called dharmasya glāniḥ, a disturbance to eternal religious principles. Therefore Kṛṣṇa came again, 500 years ago, as the Golden Avatāra, Caitanya Mahāprabhu. He established the yuga-dharma, the correct form of sanātana-dharma for our time (saṅkīrtana). Lord Caitanya's appearance was predicted in SB 11.5.32: In this Age of Kali, people who are endowed with sufficient intelligence will worship the Lord, who is accompanied by His associates, by congregational chanting of the holy names of God. See [[c#Caitanya Mahāprabhu|Caitanya Mahāprabhu]], [[k#Kṛṣṇa|Kṛṣṇa]].
+There are two broad categories of avatāras. Some, like Śrī Kṛṣṇa, Śrī Rāma and Śrī Nṛsiṁha, are Viṣṇu-tattva, i.e. direct forms of God Himself, the source of all power. Others are individual souls (jīva-tattva) who are empowered by the Lord in one or more of the following seven ways: with knowledge, devotion, creative ability, personal service to God, rulership over the material world, power to support planets, or power to destroy rogues and miscreants. This second category of avatāra is called śaktyāveśa. Included herein are Buddha, Christ and Muhammed. The Māyāvādīs think that form necessarily means limitation. God is omnipresent, unlimited and therefore formless, they argue. When He reveals His avatāra form within this world, that form, being limited in presence to a particular place and time, cannot be the real God. It is only an indication of God. But the fact is that it is not God's form that is limited. It is only the Māyāvādīs' conception of form that is limited, because that conception is grossly physical. God's form is of the nature of supreme consciousness. Being spiritual, it is called sūkṣma, most subtle. There is no contradiction between the omnipresence of something subtle and its having form. The most subtle material phenomena we can perceive is sound. Sound may be formless (as noise) or it may have form (as music). Because sound is subtle, its having form does not affect its ability to pervade a huge building. Similarly, God's having form does not affect His ability to pervade the entire universe. Since God's form is finer than the finest material subtlety, it is completely inappropriate for Māyāvādīs to compare His form to gross hunks of matter. Because they believe God's form is grossly physical, Māyāvādīs often argue that any and all embodied creatures may be termed avatāras. Any number of living gods are being proclaimed within India and other parts of the world today. Some of these gods are mystics, some are charismatics, some are politicians, and some are sexual athletes. But none of them are authorized by the Vedic scriptures. They represent only the mistaken Māyāvādī idea that the one formless unlimited Truth appears in endless gross, physical human incarnations, and that you and me and I and he are therefore all together God. And since each god has a different idea of what dharma is, the final truth, according to Māyāvāda philosophy, is that the paths of all gods lead to the same goal. This idea is as unenlightened as it is impractical. When ordinary people proclaim themselves to be God, and that whatever they are doing is Vedic dharma, that is called dharmasya glāniḥ, a disturbance to eternal religious principles. Therefore Kṛṣṇa came again, 500 years ago, as the Golden Avatāra, Caitanya Mahāprabhu. He established the yuga-dharma, the correct form of sanātana-dharma for our time (saṅkīrtana). Lord Caitanya's appearance was predicted in SB 11.5.32: In this Age of Kali, people who are endowed with sufficient intelligence will worship the Lord, who is accompanied by His associates, by congregational chanting of the holy names of God. See [[c#Caitanya Mahāprabhu?preview=false?preview=false|Caitanya Mahāprabhu]], [[k#Kṛṣṇa?preview=false?preview=false|Kṛṣṇa]].
 
 ===== Āvega =====
 intense emotion, a vyabhicāri-bhāva.
@@ -734,7 +734,7 @@ intense emotion, a vyabhicāri-bhāva.
 a living being empowered as an incarnation of the Lord's qualities.
 
 ===== Āveśa =====
-See: [[s#Śaktyāveśa-avatāra|Śaktyāveśa-avatāra]].
+See: [[s#Śaktyāveśa-avatāra?preview=false?preview=false|Śaktyāveśa-avatāra]].
 
 ===== Avidhi-pūrvaka =====
 without properly following rules and regulations.
@@ -743,19 +743,19 @@ without properly following rules and regulations.
 material energy, or nescience.
 
 ===== Avidyā =====
-nescience, ignorance; the illusory energy of the Supreme Lord; Ignorance or non-Vedic knowledge, as opposed to apara-vidyā and para-vidyā. See [[a#Apara-vidyā|Apara-vidyā]], [[p#Para-vidyā|Para-vidyā]].
+nescience, ignorance; the illusory energy of the Supreme Lord; Ignorance or non-Vedic knowledge, as opposed to apara-vidyā and para-vidyā. See [[a#Apara-vidyā?preview=false?preview=false|Apara-vidyā]], [[p#Para-vidyā?preview=false?preview=false|Para-vidyā]].
 
 ===== Avyakta =====
 unmanifested; the material creation when it is not yet manifested from the mahat-tattva.
 
 ===== Ayer, A.J. =====
-British philosopher (1910-1989), a twentieth century advocate of Hume's scepticism towards religion, and one of the founders of logical positivism. In his younger years he was a phenomenalist, but later he drew back from that position. See [[l#Logical positivism|Logical positivism]].
+British philosopher (1910-1989), a twentieth century advocate of Hume's scepticism towards religion, and one of the founders of logical positivism. In his younger years he was a phenomenalist, but later he drew back from that position. See [[l#Logical positivism?preview=false?preview=false|Logical positivism]].
 
 ===== Ayodya =====
 a city in North India, capital of the kings of the Ikṣvāku (solar) dynasty. Today, it is till the chief Holy City of Lord Rama's devotees.
 
 ===== Ayoga =====
-See: [[v#Viyoga|Viyoga]].
+See: [[v#Viyoga?preview=false?preview=false|Viyoga]].
 
 ===== Ayukta =====
 the ecstatic condition of not having yet met one's lover.

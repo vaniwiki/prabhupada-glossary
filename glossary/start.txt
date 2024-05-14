@@ -17,7 +17,7 @@
             <card clickable>
             === $title ===
 
-            ${description | head(500,'...')} [[$path| ]]
+            ${description | head(500,'...')} [[$path?preview=false| ]]
             </card>
         </fragment>
     </grid>

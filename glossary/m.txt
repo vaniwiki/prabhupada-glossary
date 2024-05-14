@@ -26,7 +26,7 @@ Cupid, the demigod who incites lusty desires in the living beings.
 madness, a vyabhicāri-bhāva; also, intoxication.
 
 ===== Mādhāi =====
-see: [[j#Jagāi and Mādhāi|Jagāi and Mādhāi]]
+see: [[j#Jagāi and Mādhāi?preview=false|Jagāi and Mādhāi]]
 
 ===== Mādhava =====
 a name for the Supreme Personality of Godhead meaning "He who appeared in the Madhu dynasty." It is also a name for the Yadu dynasty; also a name of Kṛṣṇa comparing Him to the sweetness of springtime or the sweetness of honey.
@@ -38,7 +38,7 @@ a saintly mendicant who takes a little food from each householder's place like a
 name of Kṛṣṇa in Dvārakā.
 
 ===== Madhura-rasa =====
-see: [[m#Mādhurya-rasa|Mādhurya-rasa]] below.
+see: [[m#Mādhurya-rasa?preview=false|Mādhurya-rasa]] below.
 
 ===== Mādhurya-bhaktas =====
 devotees engaged only in conjugal love.
@@ -50,7 +50,7 @@ Lord Kṛṣṇa's pastimes of conjugal love with His eternal associates.
 the spiritual relationship in conjugal love which the Supreme Lord and His devotee reciprocate as lovers.
 
 ===== Mādhurya-rati =====
-see: [[m#Mādhurya-rasa|Mādhurya-rasa]] above.
+see: [[m#Mādhurya-rasa?preview=false|Mādhurya-rasa]] above.
 
 ===== Madhusūdana =====
 a name of Kṛṣṇa, "killer of the Madhu demon."
@@ -59,7 +59,7 @@ a name of Kṛṣṇa, "killer of the Madhu demon."
 a great thirteenth-century Vaiṣṇava spiritual master, who preached the theistic philosophy of pure dualism. The founder of the dvaita school of Vedānta philosophy. He wrote a number of works which refuted the impersonal philosophy of Śaṅkarācārya. He appeared in the 13th century in Udipī, in South India. He took sannyāsa at the age of twelve, traveled all over India and had the personal darśana of Śrīla Vyāsadeva in the Himalayan abode of Badarikāśrama and presented his commentary on Bhagavad-gītā before that venerable sage. He also received a śālagrama-śīla called Aṣṭamūrti from Vyāsa. He was very powerful both physically and intellectualy, and was considered to be an incarnation of Vāyu, the wind god.
 
 ===== Madhva =====
-Also known as Ānandatīrtha and Pūrṇaprajña, ācārya Ma-dhva re-established the Brahmā Sampradāya in the thirteenth century AD. He is considered to be the avatāra of Vāyu and Hanumān. A prolific writer and undefeatable in debate, he established Dvaita Vedānta in direct opposition to Śaṅkarācārya's Advaita Vedānta. Śrīla Jīva Go-svāmī acknowledged Madhva's works as an inspiration for his own writings on acintya-bheda-abheda philosophy. See [[a#Advaita|Advaita]], [[d#Dvaita|Dvaita]], [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas|Four Vaiṣṇava Sampradāyas and Siddhāntas]], [[s#Śaṅkarācārya|Śaṅkarācārya]], [[v#Vedānta|Vedānta]].
+Also known as Ānandatīrtha and Pūrṇaprajña, ācārya Ma-dhva re-established the Brahmā Sampradāya in the thirteenth century AD. He is considered to be the avatāra of Vāyu and Hanumān. A prolific writer and undefeatable in debate, he established Dvaita Vedānta in direct opposition to Śaṅkarācārya's Advaita Vedānta. Śrīla Jīva Go-svāmī acknowledged Madhva's works as an inspiration for his own writings on acintya-bheda-abheda philosophy. See [[a#Advaita?preview=false|Advaita]], [[d#Dvaita?preview=false|Dvaita]], [[f#Four Vaiṣṇava Sampradāyas and Siddhāntas?preview=false|Four Vaiṣṇava Sampradāyas and Siddhāntas]], [[s#Śaṅkarācārya?preview=false|Śaṅkarācārya]], [[v#Vedānta?preview=false|Vedānta]].
 
 ===== Madhya-līlā =====
 the pastimes Lord Caitanya performed during the middle part of His manifest presence, while He was traveling throughout India; the portion of the Caitanya-caritāmṛta recounting those pastimes.
@@ -91,10 +91,10 @@ a pure devotee of the Supreme Lord in the highest stage of devotional life; Utta
 the highest stage of love of God.
 
 ===== Mahābhārata =====
-An important and famous itihāsa (historical) scripture belonging to the smṛti section of the Vedic scriptures. The Mahābhārata narrates the history of the great Kuru dynasty of kṣatriyas (warriors) that was annihilated by the Kurukṣetra war. Contained within the Mahā-bhārata is the Bhagavad-gītā. See [[b#Bhagavad-gītā|Bhagavad-gītā]].
+An important and famous itihāsa (historical) scripture belonging to the smṛti section of the Vedic scriptures. The Mahābhārata narrates the history of the great Kuru dynasty of kṣatriyas (warriors) that was annihilated by the Kurukṣetra war. Contained within the Mahā-bhārata is the Bhagavad-gītā. See [[b#Bhagavad-gītā?preview=false|Bhagavad-gītā]].
 
 ===== Mahā-bhūtas =====
-The five material elements: earth, water, fire, air and ether. See [[e#Elements|Elements]].
+The five material elements: earth, water, fire, air and ether. See [[e#Elements?preview=false|Elements]].
 
 ===== Mahā-dvādaśī =====
 the day after Ekādaśī, celebrated instead of Ekādaśi because of astronomical overlapping. Lord Kṛṣṇa calls it Ekādaśī if a fast is observed on that day.
@@ -124,7 +124,7 @@ sanctified food that consists of remnants from the plate offered directly to K�
 Literally, very great, this word is often used in the Vedic scriptures to signify the immeasurability of material nature.
 
 ===== Mahat-tattva =====
-The first stage of creation, in which the ingredients of subsequent creations are displayed within material nature. The ingredients appear when the three modes of material nature are activated by the glance of Mahā-Viṣṇu. See [[m#Modes of nature|Modes of nature]], [[p#Prakṛti|Prakṛti]], [[v#Viṣṇu|Viṣṇu]].
+The first stage of creation, in which the ingredients of subsequent creations are displayed within material nature. The ingredients appear when the three modes of material nature are activated by the glance of Mahā-Viṣṇu. See [[m#Modes of nature?preview=false|Modes of nature]], [[p#Prakṛti?preview=false|Prakṛti]], [[v#Viṣṇu?preview=false|Viṣṇu]].
 
 ===== Mahapuri =====
 one of the pilgrimage cities in India where residence brings salvation. The seven maha-puris are Mathura, Ayodhya, Hardwar, Varanasi, Kanchi, Ujjain, and Dwarka.
@@ -148,7 +148,7 @@ Lord Caitanya, the most magnanimous incarnation.
 transcendental sound vibration.
 
 ===== Maha-Viṣṇu =====
-the expansion of the Supreme Lord Viṣṇu reclining on Ādi-Sesa, from whom all material universes emanate; See [[s#Supersoul|Supersoul]], [[v#Viṣṇu|Viṣṇu]].
+the expansion of the Supreme Lord Viṣṇu reclining on Ādi-Sesa, from whom all material universes emanate; See [[s#Supersoul?preview=false|Supersoul]], [[v#Viṣṇu?preview=false|Viṣṇu]].
 
 ===== Mahābhārata-tatparya-nīrṇaya =====
 Madhvācārya's commentary on the Mahābhārata.
@@ -211,7 +211,7 @@ this mountain was the son of Himavan during the Satya-yuga, when mountains had w
 the great sage who spoke Śrīmād-Bhagāvātām to Vidura, who gave advice to the Pāṇḍavas during their exile in the forest. He cursed Duryodhana that Bhīma would fulfill his vow.
 
 ===== Makara-dhvaja =====
-"The sex-god is called Makara-dhvaja." SB 3.28.32. See also: [[c#Cupid|Cupid]].
+"The sex-god is called Makara-dhvaja." SB 3.28.32. See also: [[c#Cupid?preview=false|Cupid]].
 
 ===== Mālā =====
 chanting with beads.
@@ -328,7 +328,7 @@ the planet of the Maruts, associates of King Indra.
 the demigod associates of King Indra, the gods of the air. They number forty-nine and are sons of Diti.
 
 ===== Marxism =====
-The rationalist political and economic doctrine of the nineteenth century German social revolutionary Karl Marx (1818-1883). Marx is considered to be a materialist, but his materialism is special. He believed the material (especially economic) facts of a society determine its mental aspects: social laws, religion, culture and other patterns of thought. In short, Marx believed the material determines the mental. But materialism is actually the belief that the material is the mental. Marx was much influenced by the idealist Hegel, whose philosophy of history predicted the progressive development of human consciousness towards knowledge of the absolute. Marx translated that notion of progress into economic terms. But the historical end he foresaw for humanity perpetual communisms idealistic, not materialistic. According to materialism, nothing is perpetual except primordial matter. Phenomena are ever-changing. Hence, no social system can be permanent. Theorist of economy that he was, Marx was not able to provide for his wife and children. He and his family were supported by his fellow revolutionary Friedrich Engels, a rich man's son. See [[h#Humanism|Humanism]], [[i#Idealism|Idealism]], [[m#Materialism|Materialism]], [[r#Rationalism|Rationalism]].
+The rationalist political and economic doctrine of the nineteenth century German social revolutionary Karl Marx (1818-1883). Marx is considered to be a materialist, but his materialism is special. He believed the material (especially economic) facts of a society determine its mental aspects: social laws, religion, culture and other patterns of thought. In short, Marx believed the material determines the mental. But materialism is actually the belief that the material is the mental. Marx was much influenced by the idealist Hegel, whose philosophy of history predicted the progressive development of human consciousness towards knowledge of the absolute. Marx translated that notion of progress into economic terms. But the historical end he foresaw for humanity perpetual communisms idealistic, not materialistic. According to materialism, nothing is perpetual except primordial matter. Phenomena are ever-changing. Hence, no social system can be permanent. Theorist of economy that he was, Marx was not able to provide for his wife and children. He and his family were supported by his fellow revolutionary Friedrich Engels, a rich man's son. See [[h#Humanism?preview=false|Humanism]], [[i#Idealism?preview=false|Idealism]], [[m#Materialism?preview=false|Materialism]], [[r#Rationalism?preview=false|Rationalism]].
 
 ===== Maryādā-laṅghana =====
 a violation of the regulative principles.
@@ -346,7 +346,7 @@ the charioteer of Indra. He took Arjuna to the heavenly planets. (Vana Parva in 
 mother.
 
 ===== Materialism =====
-A very broad category of philosophy containing many shades of theory. The main points are that everything in existence is only matter in motion. According to some materialists, mind exists, but only as an effect of matter in motion. Other materialists say mind has no existence at all. All agree there is no God, there is no first cause or prime mover and that life is not eternal. All phenomena change, eventually pass out of existence, returning back again to a primordial eternal material ground in an eternal retransformation of matter. Marxists claim to be materialists, but the doctrine taught by Karl Marx has idealistic tendencies. See [[i#Idealism|Idealism]], [[m#Marxism|Marxism]], [[m#Mind/body problem|Mind/body problem]], [[s#Scepticism|Scepticism]].
+A very broad category of philosophy containing many shades of theory. The main points are that everything in existence is only matter in motion. According to some materialists, mind exists, but only as an effect of matter in motion. Other materialists say mind has no existence at all. All agree there is no God, there is no first cause or prime mover and that life is not eternal. All phenomena change, eventually pass out of existence, returning back again to a primordial eternal material ground in an eternal retransformation of matter. Marxists claim to be materialists, but the doctrine taught by Karl Marx has idealistic tendencies. See [[i#Idealism?preview=false|Idealism]], [[m#Marxism?preview=false|Marxism]], [[m#Mind/body problem?preview=false|Mind/body problem]], [[s#Scepticism?preview=false|Scepticism]].
 
 ===== Maṭha =====
 a temple of the Lord with an attached residence or āśrama for brahmacārīs (celibate students) and sannyāsīs (renunciants) to live; monastery.
@@ -407,10 +407,10 @@ Māyāvāda in Sanskrit means doctrine of illusion. In India, the philosophies o
 The main difference between the two is that Śaṅkarācārya's Māyāvāda asserts that beyond māyā is an eternal impersonal monistic reality, Brahman, the nature of which is the self. Buddhism, however, aims at extinction (nirodha) as the final goal. Of the two, Śaṅkarācārya's Māyāvāda is more dangerous, as it apparently derives its authority from the Vedas. Much word-jugglery is employed to defend the Vedic origins of Śaṅkarācārya's Māyāvāda. But ultimately Māyāvādīs dispense with Vedic authority by concluding that the Supreme cannot be known through śabda, that the name of Kṛṣṇa is a material vibration, that the form of Kṛṣṇa is illusion, and so on. The Śaṅkarites agree with the Buddhists that nāma-rūpa (name and form) must always be māyā. Therefore Vaiṣṇavas reject both kinds of Māyāvāda as atheism. Buddhists generally do not deny that they are atheists, whereas the Śaṅkarite Māyāvādīs claim to be theists. But actually they are monists and pantheists. Their claim to theism is refuted by their belief that the Supreme Self is overcome by māyā and becomes the bound soul. Śaṅkarācārya's Māyāvāda is similar in significant ways to the Western doctrine of solipsism. Like solipsism, it arrives at a philosophical dead end. The questions that remain unanswered are: If my consciousness is the only reality, why can't I change the universe at will, simply by thought? And if my own self is the only reality, why am I dependent for my life, learning and happiness upon a world full of living entities that refuse to acknowledge this reality? See [[.b#Brahmajyoti]], [[.b#Brahman]], [[.b#Buddhism]], [[.f#Four Vaiṣṇava Sampradāyas and Siddhāntas]], [[,m#Monism]], [[.p#Pantheism]], [[.s#Śaṅkarācārya]], [[.s#Scepticism]], [[.s#Solipsism]], [[.s#Six systems]].
 
 ===== Māyā =====
-illusion; an energy of Krṣna's which deludes the living entity into forgetfulness of the Supreme Lord. That which is not, unreality, deception, forgetfulness, material illusion. Under illusion a man thinks he can be happy in this temporary material world. The nature of the material world is that the more a man tries to exploit the material situation, the more he is bound by māyā's complexities; This is a Sanskrit term of many meanings. It may mean energy; yoga-māyā is the spiritual energy sustaining the transcendental manifestation of the spiritual Vaikuṇṭha world, while the reflection, mahā-māyā, is the energy of the material world. The Lord's twofold māyā bewilders the jīva, hence māyā also means bewilderment or illusion. Transcendental bewilderment is in love, by which the devotee sees God as his master, friend, dependent or amorous beloved. The material bewilderment of the living entity begins with his attraction to the glare of the brahma-jyotir. That attraction leads to his entanglement in the modes of material nature. According to Bhaktisiddhānta Sarasvatī Ṭhākura, māyā also means that which can be measured. This is the feature of Lord Kṛṣṇa's prakṛti that captures the minds of scientific materialists. The Vaiṣṇava and Māyāvāda explanations of māyā are not the same. See [[m#Māyāvāda philosophy|Māyāvāda philosophy]], [[m#Modes of nature|Modes of nature]], [[s#Spiritual world|Spiritual world]].
+illusion; an energy of Krṣna's which deludes the living entity into forgetfulness of the Supreme Lord. That which is not, unreality, deception, forgetfulness, material illusion. Under illusion a man thinks he can be happy in this temporary material world. The nature of the material world is that the more a man tries to exploit the material situation, the more he is bound by māyā's complexities; This is a Sanskrit term of many meanings. It may mean energy; yoga-māyā is the spiritual energy sustaining the transcendental manifestation of the spiritual Vaikuṇṭha world, while the reflection, mahā-māyā, is the energy of the material world. The Lord's twofold māyā bewilders the jīva, hence māyā also means bewilderment or illusion. Transcendental bewilderment is in love, by which the devotee sees God as his master, friend, dependent or amorous beloved. The material bewilderment of the living entity begins with his attraction to the glare of the brahma-jyotir. That attraction leads to his entanglement in the modes of material nature. According to Bhaktisiddhānta Sarasvatī Ṭhākura, māyā also means that which can be measured. This is the feature of Lord Kṛṣṇa's prakṛti that captures the minds of scientific materialists. The Vaiṣṇava and Māyāvāda explanations of māyā are not the same. See [[m#Māyāvāda philosophy?preview=false|Māyāvāda philosophy]], [[m#Modes of nature?preview=false|Modes of nature]], [[s#Spiritual world?preview=false|Spiritual world]].
 
 ===== Mechanomorphism =====
-In Contemporary Scientific Mythology (1957), Stephen Toulmin wrote: We are inclined to suppose that myths must necessarily be anthropomorphic, and that personification is the unique road to myth. But this assumption is baseless; the myths of the twentieth century, as we shall see, are not so much anthropomorphic as mechanomorphic. In mechanomorphism, God or the total universe is conceived in terms of mythical machines. See [[a#Anthropomorphism|Anthropomorphism]].
+In Contemporary Scientific Mythology (1957), Stephen Toulmin wrote: We are inclined to suppose that myths must necessarily be anthropomorphic, and that personification is the unique road to myth. But this assumption is baseless; the myths of the twentieth century, as we shall see, are not so much anthropomorphic as mechanomorphic. In mechanomorphism, God or the total universe is conceived in terms of mythical machines. See [[a#Anthropomorphism?preview=false|Anthropomorphism]].
 
 ===== Mela =====
 fair, festival.
@@ -440,7 +440,7 @@ see: above
 Some prominent theories of the mind are the following: 1) it is an eternal transmigrating soul; 2) it is a product of the action of the soul upon the body; 3) it is a non-material substance totally unlike the body; 4) it is a succession of mental events; 5) it is a by-product of the body; 6) it is a function of the form of the body, as vision is to the form of the eye; 7) it is function of the organism as a whole; 8) it is the behavior patterns of the body; 9) it is identical to the brain; 10) it is matter in motion. None of these theories exactly correspond to the Vedic version, and some are completely materialistic. The Vedas state that the seed of the mind is the desire of the soul. If desire is pure, the mind that develops out of it is spiritual. If desire is impure, then what develops is subtle matter in the mode of goodness. The development of the mind of the living entity is governed by the Supersoul (Aniruddha). According to Lord Kṛṣṇa, the functions of the mind are saṅkalpa-vikalpa (acceptance and rejection; see SB 11.2.38). See [[.c#Consciousness]], [[.f#False ego]], [[.i#Intellect]], [[.m#Mind/body problem]], [[.m#Modes of nature]], [[.s#Soul]], [[.s#Subtle body]], [[.s#Supersoul]].
 
 ===== Mind/body problem =====
-Throughout history, philosophers of the East and West have offered speculations about the exact nature of the relationship between the mind and the body. They can be grouped under the following headings: 1) Dualism: mind/body as two substances, mental and material. 2) Logical Behaviorism: mind as the logic of the body's behavior. 3) Idealism: mind/body as one substance, mind. 4) Materialism: mind/body as one substance, matter. 5) Functionalism: mind as the functions of input, processing, output, analogous to the functions of a computer. 6) Double aspect theory: mind/body as aspects of a substance that is neither mental nor physical. That substance is supposed by different philosophers to be the totality of everything, or a neutral monistic stuff, or the fundamental concept person, of which mind and matter are aspects. 7) Phenomenology: mind/body as a problem of experience, rather than a problem of theory. The mind/body duality is really a problem of the materialistic soul's intention toward matter, from which all dualities arise. The mind and body of the bound soul are material. The mind and body of the liberated soul are spiritual. See [[.c#Consciousness]], [[.d#Dualism]], [[.f#False ego]], [[.g#Gross body]], [[.i#Idealism]], [[.i#Intellect, intelligence|Intellect]], [[.l#Logic]], [[.m#Materialism]], [[.m#Mind]], [[.m#Modes of nature]], [[.p#Phenomenology]], [[.s#Soul]], [[.s#Subtle body]], [[.s#Supersoul]].
+Throughout history, philosophers of the East and West have offered speculations about the exact nature of the relationship between the mind and the body. They can be grouped under the following headings: 1) Dualism: mind/body as two substances, mental and material. 2) Logical Behaviorism: mind as the logic of the body's behavior. 3) Idealism: mind/body as one substance, mind. 4) Materialism: mind/body as one substance, matter. 5) Functionalism: mind as the functions of input, processing, output, analogous to the functions of a computer. 6) Double aspect theory: mind/body as aspects of a substance that is neither mental nor physical. That substance is supposed by different philosophers to be the totality of everything, or a neutral monistic stuff, or the fundamental concept person, of which mind and matter are aspects. 7) Phenomenology: mind/body as a problem of experience, rather than a problem of theory. The mind/body duality is really a problem of the materialistic soul's intention toward matter, from which all dualities arise. The mind and body of the bound soul are material. The mind and body of the liberated soul are spiritual. See [[.c#Consciousness]], [[.d#Dualism]], [[.f#False ego]], [[.g#Gross body]], [[.i#Idealism]], [[.i#Intellect, intelligence?preview=false|Intellect]], [[.l#Logic]], [[.m#Materialism]], [[.m#Mind]], [[.m#Modes of nature]], [[.p#Phenomenology]], [[.s#Soul]], [[.s#Subtle body]], [[.s#Supersoul]].
 
 ===== Mirabai =====
 poetess, author of popular devotional songs.
@@ -476,16 +476,16 @@ bewilderment, a vyabhicāri-bhāva; illusion.
 the incarnation of the Supreme Lord as a most beautiful woman. She distributed the nectar produced from the churning of the ocean of milk. She was also pursued by Lord Śiva.
 
 ===== Monism =====
-From the Greek mnos, single. It is generally taken to mean the doctrine of oneness argued by Māyāvādī philosophers, that reality is without variety and matter is an illusion. Vaiṣṇavas explain monism differently: all things in the universe occur out of the activity of one fundamental essence or substance, the Supreme Lord. See [[a#Atheism|Atheism]], [[m#Māyāvāda philosophy|Māyāvāda philosophy]], [[t#Theism|Theism]].
+From the Greek mnos, single. It is generally taken to mean the doctrine of oneness argued by Māyāvādī philosophers, that reality is without variety and matter is an illusion. Vaiṣṇavas explain monism differently: all things in the universe occur out of the activity of one fundamental essence or substance, the Supreme Lord. See [[a#Atheism?preview=false|Atheism]], [[m#Māyāvāda philosophy?preview=false|Māyāvāda philosophy]], [[t#Theism?preview=false|Theism]].
 
 ===== Mokṣa-kāmī =====
 one who desires liberation.
 
 ===== Mokṣākāṅkṣī =====
-see: [[m#Mokṣa-kāmī|Mokṣa-kāmī]] above.
+see: [[m#Mokṣa-kāmī?preview=false|Mokṣa-kāmī]] above.
 
 ===== Mokṣa =====
-liberation from material bondage; See [[l#Liberation|Liberation]].
+liberation from material bondage; See [[l#Liberation?preview=false|Liberation]].
 
 ===== Mokṣonmukhī =====
 pious activities that enable the living entity to merge into the existence of the Supreme.
@@ -494,7 +494,7 @@ pious activities that enable the living entity to merge into the existence of th
 a monument, statue or temple carved out of a single stone.
 
 ===== Monotheism =====
-The doctrine that there is only one God (from Gr. mnos, only, alone, plus thes, God). See [[a#Atheism|Atheism]], [[t#Theism|Theism]].
+The doctrine that there is only one God (from Gr. mnos, only, alone, plus thes, God). See [[a#Atheism?preview=false|Atheism]], [[t#Theism?preview=false|Theism]].
 
 ===== Monsoon =====
 rainy season from June to October.
@@ -515,7 +515,7 @@ death personified, a vyabhicāri-bhāva.
 a fool or rascal; asslike person.
 
 ===== Muhammed =====
-See [[a#Avatāra|Avatāra]] (Śaktyāveśa).
+See [[a#Avatāra?preview=false|Avatāra]] (Śaktyāveśa).
 
 ===== Muhūrta =====
 a period of forty-eight minutes.
@@ -563,7 +563,7 @@ Kṛṣṇa, the enemy of the demon Mura.
 form of the Lord or His devotee.
 
 ===== Mysticism =====
-From the Greek mystes, one initiated into the mysteries or secrets of higher knowledge. Andrew Weeks, a scholar of this subject, points out the difficulty of coming to clear terms with what mysticism actually is: The concept of mysticism is controversial and ambiguous in its core. There is no agreement among scholars on the question of who ought to be classified as a mystic. (from German Mysticism, 1993, p. 3) St. John of the Cross, a Christian mystic, wrote: In order to arrive at that which thou knowest not, Thou must go by a way that thou knowest not. In order to arrive at that which thou possesseth not, Thou must go by a way that thou possesseth not. As Śrīla Prabhupāda once said, Mystical means misty. See [[b#Brahmajyoti|Brahmajyoti]], [[e#Ecstasy|Ecstasy]], [[s#Sphoṭavāda|Sphoṭavāda]].
+From the Greek mystes, one initiated into the mysteries or secrets of higher knowledge. Andrew Weeks, a scholar of this subject, points out the difficulty of coming to clear terms with what mysticism actually is: The concept of mysticism is controversial and ambiguous in its core. There is no agreement among scholars on the question of who ought to be classified as a mystic. (from German Mysticism, 1993, p. 3) St. John of the Cross, a Christian mystic, wrote: In order to arrive at that which thou knowest not, Thou must go by a way that thou knowest not. In order to arrive at that which thou possesseth not, Thou must go by a way that thou possesseth not. As Śrīla Prabhupāda once said, Mystical means misty. See [[b#Brahmajyoti?preview=false|Brahmajyoti]], [[e#Ecstasy?preview=false|Ecstasy]], [[s#Sphoṭavāda?preview=false|Sphoṭavāda]].
 
 ===== Mystic yoga =====
 yoga performed for the purpose of developing subtle material powers.
